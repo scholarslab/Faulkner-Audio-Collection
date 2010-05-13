@@ -1,14 +1,9 @@
 <h1>TEI Files</h1>
 
-<%- counter = 0 %>
-<%- file_prefix = RAILS_ROOT + "/db/tei/" %>
-
 <ul>
 <% @files.each do |file| %>
-	<%- counter += 1 %>
 	
-		<%- file_name = file.gsub(/['#{file_prefix}']/, '') %>
-	
-	<li><%= link_to "#{file_name}", :controller => "transcripts" ,:action=> "show", :file => "#{file_name}" %></a></li>
+	<%- fname = File.basename(file) %>
+	<li><%= link_to "#{fname.gsub(".xml", '').titleize}", :controller => "transcripts" ,:action=> "show", :file => "#{fname}" %></a></li>
 <% end %>
 </ul>
