@@ -5,7 +5,8 @@ class Transcript < ActiveRecord::Base
   def self.find(*args) 
     # get the file
     fname = File.basename(args.to_s)
-      
+    
+    #return the 
     return output_name = RAILS_ROOT + "/public/tei/_" + fname.gsub('.xml', '.html.erb')
     
   end

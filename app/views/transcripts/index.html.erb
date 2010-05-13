@@ -1,9 +1,4 @@
 <h1>TEI Files</h1>
 
-<ul>
-<% @files.each do |file| %>
-	
-	<%- fname = File.basename(file) %>
-	<li><%= link_to "#{fname.gsub(".xml", '').titleize}", :controller => "transcripts" ,:action=> "show", :file => "#{fname}" %></a></li>
-<% end %>
-</ul>
+<%= render :partial => 'navigation' %>
+
