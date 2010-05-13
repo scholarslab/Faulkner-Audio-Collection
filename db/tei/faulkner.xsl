@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xd" version="1.0">
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xd tei" version="1.0">
     
-   <!--     <xsl:output method="html" encoding="UTF-8" indent="no" media-type="text/html" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"/> -->
+  <xsl:output method="text" />
     
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -13,24 +14,65 @@
     </xd:doc>
     <xsl:template match="/">
         
-        <div id="side_nav">
+        <xsl:apply-templates select="TEI.2/text/body"/>
+        
+    </xsl:template>
+    
+    <xsl:template match="div1">
+        
+        <xsl:call-template name="toc" />
+        
+        <div id="header">
+            <xsl:for-each select="head">
+                <h3><xsl:value-of select="."/></h3>
+            </xsl:for-each>
+        </div>
+        
+		<div id="body">
+        	<xsl:apply-templates select="div2"/>
+        </div>
+    </xsl:template>
+
+	<xsl:template match="div2">
+		<a name="{@id}"></a>
+	    <xsl:apply-templates select="u" />
+	</xsl:template>
+	
+	<xsl:template match="u">
+	    <!-- don't use this for realz -->
+	    <xsl:variable name="speakers" select="/TEI.2/teiHeader/profileDesc/particDesc" />
+	    <xsl:variable name="who" select="@who" />
+	    
+	    <p><strong><xsl:value-of select="//*[@id = $who]" />:</strong> <xsl:apply-templates /></p>
+		<hr/>
+	</xsl:template>
+
+    <xsl:template name="toc">
+		<div id="side_nav">
             <ul>
                 <xsl:for-each select="//div2">
                     <li><a href="#{@id}"><xsl:value-of select="head" /></a></li>
                 </xsl:for-each>
             </ul>
         </div>
-        
-        <xsl:for-each select="//div2">
-            <div class="section">
-                 <a name="{@id}"></a>
-                 <p>
-                     <xsl:value-of select="u"/>
-                 </p>
-            </div>
-        </xsl:for-each>
-     
-        
     </xsl:template>
     
+    <xsl:template match="unclear">
+        <span class="unclear tooltip" title="Text was unclear">[<xsl:apply-templates/>]</span>
+    </xsl:template>
+    
+    <xsl:template match="gap">
+        <span class="gap tooltip" title="There was a gap in the tape">[gap in tape]</span>
+    </xsl:template>
+    
+    <xsl:template match="event">
+        <span class="event tooltip" title="There was some {@desc} happening">[<xsl:value-of select="@desc" />]</span>
+    </xsl:template>
+    
+    <xsl:template match="hi">
+        <xsl:if test="@rend='italic'">
+            <em><xsl:apply-templates /></em>
+        </xsl:if>
+        
+    </xsl:template>
 </xsl:stylesheet>
