@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio11_2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio11_2</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio11_2</idno>
+				<idno type="analog tape">T-123d</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<persName id="RD">Robert Davis</persName>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<persName id="AH">Atcheson Hench</persName>
+				</person>
+				<person>
+					<persName id="ES">Edward Stephenson</persName>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-07">7 May 1957</date>
+					<locale>University Radio Show</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 7 May 1957</head>
+				<head>OCCASION: University Radio Show</head>
+				<head>TAPE: T-123d</head><head>LENGTH: 5:34</head>
+				
+				<div2 type="dialog" id="wfaudio11_2.1" start="00:01:03.95" end="00:01:43.68">
+					<head>Regional Dialects A</head>
+					<u who="WF">I've had no trouble yet when I have been in New England. I would
+						have to listen to it and get into the habit of—of remembering to use their
+						own terms, their own diction, but there was no difficulty about
+						understanding what they meant.</u>
+					<u who="ES">Some of—some of us were talking about Thomas Wolfe this morning, and
+						we were under the impression—though I don't know that anyone has studied it
+						closely—that he's very good at handling New England dialect and New York
+						dialect as well as his native southern, so perhaps you could.</u>
+					<u who="B">Well, you have dealt with English speech in—in some of your short
+						stories and French speech in <hi rend="italic">A Fable</hi>, it seems to
+						me.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.2" start="00:01:45.33" end="00:02:25.41">
+					<head>Whupped v Whipped</head>
+					<u who="ES">I don't mean to be nitpicking. I'm really asking these questions for
+						my own information. But another time you have Wash say "whupped" for the—for
+						"whipped." Wouldn't the colonel have said "whupped" too? And if so, why did
+						you give Wash the spelling—?</u>
+					<u who="WF">Probably not. The colonel wouldn't have said "whupped." He—by—by
+						nature, he might've—have said "whupped," but he had associated with gentle
+						folk and other plantation owners long enough to have said "whipped" without
+						knowing he was changing his speech. But Wash would still have said
+						"whupped," just like the Negro would say "whupped."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.3" start="00:02:25.74" end="00:02:44.01">
+					<head>Gout</head>
+					<u who="AH">Mr. Faulkner, what is a "gout"? A "gout" of mud, 
+							<unclear>or a </unclear> <inaudible/>?</u>
+					<u who="WF">Or—or a gob</u>
+					<u who="AH">I see. A blob or something of that sort.</u>
+					<u who="WF"><unclear>That's right.  A blob</unclear>, yes.</u>
+					<u who="AH">Is that used a great deal in Mississippi? It must be, of course.</u>
+					<u who="WF">I've—I've heard that in England.</u>
+					<u who="AH">Have you?</u>
+					<u who="WF">Mmhmm.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.4" start="00:02:44.01" end="00:03:21.03">
+					<head>Shegog's Dialect</head>
+					<u who="RD">I wondered, Mr. Faulkner, when the Reverend Shegog talks about the
+						"whelming flood," just what that meant.</u>
+					<u who="WF">The overwhelming.</u>
+					<u who="RD">"Overwhelming flood."</u>
+					<u who="B">I think that's one of the most interesting passages from the point of
+						view of what happens to speech under the stress of strong emotion. At the
+						beginning of his sermon he speaks very properly and with elegant
+						enunciation <unclear>and diction</unclear>.</u>
+					<u who="AH">Then when he warms up.</u>
+					<u who="B">And at the end, there's an immense difference, I think.</u>
+					<u who="RD">I think "recollection" becomes "ricklickshun." Is that right Mr.
+						Faulkner?</u>
+					<u who="WF">Yes.</u>
+					<u who="RD">And "brethren and sisteren" becomes "breddren en sistuhn."</u>
+					<u who="WF">That's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.5" start="00:03:21.01" end="00:03:39.46">
+					<head>Ghy' for Gwine</head>
+					<u who="ES">Here's one good pronunciation I'd like to commend Mr. Faulkner for.
+						The old colored woman says, "Stop right whar you is. You ain't never crossed
+						dese steps whilst the Cunnel's here and you ain't ghy' do hit now." And it's
+						spelled G-H-Y-apostrophe. And I've heard that very often. Of course, it's a
+						reduced form of "gwine."</u> 
+					<u who="WF">That's right</u>
+					<u who="ES">"You ain't ghyn do it now."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.6" start="00:03:39.57" end="00:04:08.18">
+					<head>Close</head>
+					<u who="AH">We've enjoyed being with you for the past fifteen minutes for this
+						chat. There is much more on the subject that we could say, but our time has
+						run out on us again. Joining us around the table today were Mr. Ed
+						Stephenson, Mr. Joseph Blotner, and Mr. Robert Davis, and our special guest
+						for the program was Mr. William Faulkner. This is Atcheson Hench thanking
+						you for joining our discussion and inviting you to listen again next week
+						at this time for another chat on some interesting aspect of the language we
+						speak.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.7" start="00:04:12.36" end="00:04:35.93">
+					<head>Scriptural Influence 1</head>
+					<u who="AH"><unclear>Well,</unclear> the operation's over.</u>
+					<u who="ES"><unclear>It's a wonder</unclear> we didn't get in another one I'd
+						like to ask you about.</u>
+					<u who="AH">I had a good one I—<event desc="laughter"/> <inaudible/> 
+						<unclear>a real one.</unclear></u>
+					<u who="B">We're off the air, fellows.</u>
+					<u who="AH">The Bible one.  I meant to ask you, has Bible language had much to do with them. And
+						it's down here at the bottom, and I didn't see it.</u>
+					<u who="ES">That would have been a good question. Shame on you.</u>
+					<u who="B">Well how about it? Why don't you ask it?</u>
+					<u who="WF">We'll save that for next week then.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.8" start="00:04:35.84" end="00:05:02.80">
+					<head>Sho and Sholly</head>
+					<u who="ES">You have Wash say, "Sho, Kernel." Now what would
+							the colonel have said? <unclear>"Shore."</unclear> He wouldn't
+						have said <unclear>"sure"</unclear>.</u>
+					<u who="WF">No, he would have said "shur." There would be a little "r."</u>
+					<u who="ES">Yeah, a little "r" on the end of it.</u>
+					<u who="WF">And with Wash there wouldn't be one.</u>
+					<u who="ES">Well I thought that was your point. "Sho" is without the
+						<inaudible/> and the Colonel would have said "shore."</u>
+					<u who="B">One of the most interesting words I found, I think, is "sholly." When—I
+						notice peace officers very often seem to say that in the books.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.9" start="00:05:03.71" end="00:05:22.30">
+					<head>Scriptural Influence 2</head>
+					<u who="AH">What is the answer to that question? Does the Bible English have
+						much influence on <inaudible/> I suppose that it did.</u>
+					<u who="WF">Yes. It's the only—only reading a lot of them do. And it's the only
+						speech delivered by one—<event desc="introductory announcer"/> individual.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_2.10" start="00:05:22.30" end="00:05:34.31">
+					<head>Close</head>
+					<u who="AH"><event desc="introductory music"/> He's going to play it over for us. You don't have time, I'm
+						sure.</u>
+					<u who="B">No, I don't know that we'd be interested in hearing it—would you?</u>
+						<u who="AH">No, you don't care for it.</u>	
+					<u who="ES">I want to hear.</u>
+					<u who="AH">Mr. Faulkner, I— 
+						<event
+							desc="end of recording"/></u>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

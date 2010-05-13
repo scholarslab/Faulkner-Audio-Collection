@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio13">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio13</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio13</idno>
+				<idno type="analog tape">T-127</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<p id="AKD">A. K. Davis</p>
+				</person>
+				<person>
+					<persName id="Bs">Boggs</persName>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<persName id="FS">Floyd Stovall</persName>
+				</person>
+				<person>
+					<persName id="RT">Robert Turner</persName>
+				</person>
+				<person>
+					<persName id="NH">Nancy Hale</persName>
+				</person>
+				<person>
+					<persName id="ES">Edgar Shannon</persName>
+				</person>
+				<person>
+					<persName id="AB">Anna Barringer</persName>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+				<person>
+					<persName id="FB">Fredson Bowers</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-13">13 May 1957</date>
+					<locale>English Department Faculty and Wives</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 13 May 1957</head>
+				<head>OCCASION: English Department Faculty and Wives</head>
+				<head>TAPE: T-127</head><head>LENGTH: 60:20</head>
+				<div2 type="dialog" id="wfaudio13.1" start="00:00:01.63" end="00:00:14.88">
+					<head>Opening</head>
+					<u who="AKD">We all know why we're here, and we're very lucky to be here with Mr. Faulkner,
+						and that's all I'll say, and ask you to begin. Any questions you want to ask
+						Mr. Faulkner?</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.2" start="00:00:19.24" end="00:01:36.41">
+					<head>A Southern Renaissance</head>
+					<u who="Bs">Mr. Faulkner, there's been a lot
+						of talk about the—some kind of Southern Renascence, an outburst of
+						creativity in the South. I wonder—from your own experience—you have any
+						ideas on why it should come at this time, or is there one?</u>
+					<u who="WF">No, I don't because I'm—I'm not
+						very literary and don't keep up with things like that. Somebody said
+						that—that southerners don't read books, they write books. Maybe that's all
+						it is, but I—I can't say unless it may be that until the last war,
+						southerners never got away from home. Their only chance to—to adventure was
+						in the imagination. Their only chance for—for change, for a—an experience
+						that was romantic and—and interesting was to invent it and put it down on
+						paper. I'm not too certain that I believe that very much myself, but that's
+						the sort of thing <inaudible/>.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.3" start="00:01:49.48" end="00:03:29.88">
+					<head>Scott and the South</head>
+					<u who="AKD">It's been both stated and denied
+						that Sir Walter Scott has greatly influenced southern people, especially
+						during the—not the recent unpleasantness but the less recent unpleasantness,
+						the mid-nineteenth century war, the War Between the States. I notice you
+						name one of your characters Quentin, as a rather romantic-minded individual.
+						<unclear>Do you </unclear> suggest by that name that he is the type of southerner who
+						was influenced by the kind of things that Walter Scott—</u>
+					<u who="WF">Not necessarily. I think that—that Scott was read more in the South
+						for the reason that at a time the southerner had very little of his money to
+						devote to the buying of books, and there was a kinship perhaps between
+						the—the life of—of—of—of Scott's Highland and the—the life the—the
+						southerner led after Reconstruction. They too were—were in the aftermath of
+						a—of a land which had been conquered and devastated by people—people speaking
+						its own language, which hasn't happened too many times. And so every
+						southern household, when they bought books, they—they bought Scott. I reckon
+						it was because you got more words for your money, maybe, could have had
+						something to do with that. <event desc="audience laughter"/> But every
+						household that all—that at all pretended to be literate had Scott.</u>
+					<u who="Q">That's true.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.4" start="00:03:36.42" end="00:06:21.84">
+					<head>Expatriates in France</head>
+					<u who="FS">While we are on that literary
+						angle, which we dreamed up a little bit on the literary side, do you feel
+						that the—the subject Mr. Boggs raised about the literary renaissance, or
+						whatever you want to call it, the flourishing of literature in the South,
+						has been in any notable way indebted to the fact that a number of young
+						people, writers, were resident in Paris, came under French influence perhaps
+						in the Twenties?</u>
+					<u who="WF">I don't know. It seems to me
+						that—that very few southerners were a part of that group of expatriates of
+						the Twenties in Paris. Most of the ones I knew were—were northerners. I
+						don't remember a single southerner that had any part in it. I would say that
+						the reasons for the renaissance in southern writing was in the—the cards, in
+						the making, long before that. I think this may have had a little to do with
+						it: since the Civil War, there has been a—a great deal of—misunderstanding
+						is not quite the right word, the northerner, the outlander, had a—a queer
+						and erroneous idea of—of what southern people were. It may be that that was
+						an instinctive desire in southerners to—to tell the—the outlander just what
+						we were, just what we might have had that—that we felt was—was worth
+						accepting four years of war, in which we knew we had no chance to win it, to
+						say this is what we had that we thought was worth that, or this is what we
+						actually are. I don't know. That—that's probably valid. I—I imagine there
+						are so many things that went into it that probably nobody could say, "This is
+						where the resurgence of writing in the South came from." I myself am inclined
+						to think it was because of the—the—the barrenness of the southerner's life,
+						that he had to resort to his own imagination to—to create his own
+						Carcassone.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.5" start="00:06:21.65" end="00:07:44.77">
+					<head>Northern Readership</head>
+					<u who="Q">In that connection—</u>
+					<u who="WF">
+						<inaudible/>
+					</u>
+				
+					<u who="Q">—would you mind commenting on this
+						question? You—you said a minute ago, facetiously, that southerners don't
+						read books, they write them. It has long been known, of course, to literary
+						historians that southern writers both before and after the Civil War counted
+						pretty largely on northern readers. And Hayne, for example, was a notable
+						example. Lanier is another example. Do you suppose that has been in the
+						consciousness of the average southern writer and could possibly have
+						influenced his work in any way?</u>
+					<u who="WF">Yes, it has. It's in his
+						consciousness that the man that will publish his book is a northerner, and
+						he—he is never unaware of that, that the publisher and—and, to an extent,
+						his readers are northerners. I think that most southerners know that his—his
+						home folks ain't going to like what he writes anyway, that he's not really
+						writing to them, and that—and that they simply do not read books. They are
+						good people, but they just do not read books.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.6" start="00:07:51.70" end="00:09:04.14">
+					<head>Idealizing the South</head>
+					<u who="Q">The clash, <unclear>sir</unclear>, between
+						the explanations of the South, does that help square the fact that the
+						explanations offered are not always greeted with warmth in the  South
+							itself?</u>
+					<u who="WF">Can I have your specific question again? I—I got two or three
+						different ideas there.</u>
+					<u who="Q">What I meant was that if—if part of the renascence in southern
+						writers is due to an urge to explain the southern—the South to explain
+						itself, is it not also true that once one gets out of the moonlight and
+						magnolias school, that various of the non-writing southerners do not like
+						what the writing southerners do or the picture they present?</u>
+					<u who="WF">Yes, that's quite true. The—the
+						non-writing southerner, the non-reading southerner, he wants the sort of
+						brochure that the Chamber of Commerce gets out. <event desc="audience laughter"/> There are things in his country that he's not
+						too proud of himself, but—but to him it's bad manners to—to show that in
+						public.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.7" start="00:09:06.32" end="00:10:52.17">
+					<head>Regional Responses</head>
+					<u who="AKD">Does any locality like to read
+						the books that are written about that locality, do you think? Is it
+						characteristic that a locality is—is generally offended when it finds itself
+						in a novel or a story?</u>
+					<u who="WF">The—an element of the locality, but didn't the people of his own
+						country have a—a sort of a—a fierce pride in people like Thoreau and
+						Emerson? Or was that just the—the educated intellectual New Englander that
+						felt that?</u>
+					<u who="AKD">I don't know—</u>
+					<u who="WF">Well, I always thought that—that everybody, they might not have
+						approved so much of all that—that Emerson or Thoreau said, but they had
+						a—a—a fierce, almost provincial pride in—</u>
+					<u who="AKD">They did, but neither Emerson nor Thoreau were writing about the
+						people of New England, in the way we're talking about, in the way you write
+						about the people of the South, or Eudora Welty, or whoever. They were
+						writing about ideas and nature, but as far as I know they didn't write
+						about—they didn't give pictures of the locality, <unclear>that is—is to
+							say </unclear>, this is what things are like in New England. I—I think I'm
+						right, aren't I?</u>
+					<u who="B">You'd have to go to Hawthorne, wouldn't you, to find—</u>
+					<u who="AKD">You'd have to go to Hawthorne to find if the—the—</u>
+					<u who="WF">Would that have held true of Hawthorne?</u>
+					<u who="AKD">I don't know, sir. I don't know whether that—whether Hawthorne
+						would have been perceived <inaudible/>.</u>
+					<u who="Q"><inaudible/> Anyway, <unclear>as far as that's concerned,</unclear> as far as
+						I know, he was just as popular at home as he was anywhere else.
+						</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.8" start="00:10:52.18" end="00:11:41.74">
+					<head>Region and Writing</head>
+					<u who="WF">Well, that gets back to
+						something else. Can a man write about ideas except in—in the provincial
+						terms of his background?</u>
+					<u who="AKD">Well, they certainly must affect him.</u>
+					<u who="WF">Could Emerson have—have written Emerson—would it have been the same
+						Emerson if he'd been a Mississippian, say, or a Texan or a Californian?</u>
+					<u who="AKD">Well, I think not, but still when you are writing about self-reliance
+						in general, it could apply all over the world.</u>
+					<u who="WF">But would a Californian in a
+						climate that don't change, where you don't need <event desc="audience laughter"/> even a warm house to live in—what would he
+						care about self-reliance? <event desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.9" start="00:11:44.64" end="00:12:57.27">
+					<head>Environment and Art</head>
+					<u who="FS">That reminds—that—that brings up
+						this question, Mr. Faulkner, in my mind, that I often—Carlyle says Walt
+						Whitman—he says, "Walt Whitman thinks that because he lives in a big
+						country, he's a big man." What do you suppose—I—I gather that he thought that
+						Whitman thought that the climate and the general landscape, background
+						of—the geographical features of a place had some influence on the—on the
+						person who grows up in that, whether he be a writer or not. Do you suppose
+						there's anything in that? In the South, for example, what—how does that turn
+						out in the South?</u>
+					<u who="WF">Well, I would say that—that
+						Carlyle's and Whitman's definition of a big man were completely different.
+						Carlyle's an islander—a small country. His idea of a big man is a—is a
+						big individual man. I should think that Whitman's idea of a big man is one
+						that is lucky enough to belong to a race of giants, that he's one too. I
+						wonder if Whitman believed that he was a bigger man than anybody else in
+						America.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.10" start="00:13:01.81" end="00:14:06.94">
+					<head>Topography as Influence</head>
+					<u who="FS">What I was getting at was
+						whether the peculiarities of Southern climate and topography might possibly
+						have any influence on the nature of the writing?</u>
+					<u who="WF">It would have to, just like the language the man knows to write in
+						would have some influence on him. But I don't think that the—that the
+						topography—one topography will produce a writer where another topography
+						won't. But of course—</u>
+					<u who="FS">You don't think there's any relationship then between the lack of
+						roads in Yoknapatawpha County and the difficulties of your sentence
+						structure?</u>
+					<u who="WF">No, sir, <event desc="audience laughter"/> because—because the lack of—the lack of roads
+						in Yoknapatawpha County ain't near as complex as—as Madison Avenue or 42nd
+						Street. Though, of course, that depends upon who is looking at each one.
+						Yoknapatawpha County ain't near as complex as the Empire State Building.
+							<event desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.11" start="00:14:08.99" end="00:16:34.96">
+					<head>Time in Long Sentences</head>
+					<u who="AKD">Mr. Faulkner, I spoke to you
+						about your long sentences and asked you if one reason for them were not that
+						you were trying to give the past and the present and the future, more or
+						less all at the same time, to throw light on the present action by referring
+						to the past and to the future. And I understand why throwing light on the
+						past would throw light on a present action. And I think I understand why
+						reference to the future would do it. But I am not sure that I do understand,
+						and I would like to ask you why you—you feel it is necessary to bring in the
+						future while you are telling the present. Why—why the—why is that
+						significant? It's not going to happen yet. So why—why bring in something
+						that has not yet happened while you are recounting something that is
+						happening?</u>
+					<u who="WF">Well, a man's future is
+						inherent in that man. I—in the sense that—that life, A.D. 1957, is—is not
+						the end of life, that there'll be a—a 2057. That we assume that. There may
+						not be, but we assume that. And in man, in man's behavior today is 1950—2057. 
+						If we just had a machine that could project ahead and could capture
+						that, that machine could—could isolate and—and freeze a—a picture, an image,
+						of what man will be doing in 2057, just as—as the machine might capture and
+						fix the light rays showing what he was doing in—in B.C. 28. That is, that's
+						the mystical belief that—that there is no such thing as "was." That—that
+						time "is," and if there's no such thing as "was," then there is no such
+						thing as "will be." That time is a—is a—not a fixed condition, that time
+						is, in a way—in a way, the sum of the combined intelligences of all men who
+						breathe at that moment.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.12" start="00:16:38.41" end="00:18:07.68">
+					<head>A Writer's Omniscience</head>
+					<u who="AKD">So you—so you arrogate to
+						yourself the power of knowing the future of your characters and use that in
+						your depicting of them and what happens to them.</u>
+					<u who="WF">No—</u>
+					<u who="AKD">You—you are, in a sense, in 2057, and you're writing about somebody
+						in 1957, and you also know what happened in 1857.</u>
+					<u who="WF">Well, I—I can assume the
+						fact that—that in the people which I create is the—the genesis, the—the seed
+						of 2057. I don't know it, and I don't think I need to know it. But the
+						people behave according to the—the—the pattern by which man has been able to
+						endure this long. Then, if he holds to that pattern, he will continue to
+						endure, assuming that there's not some—some tremendous cataclysmic explosion
+						which will wreck everything. That the—the verities which are true now will
+						be true in 2057, and man will—will go through the same struggle to—to live
+						up to them, to behave as he—he wants to behave, whether he can or not,
+						whether he fails or not. That his problems really won't be any different.
+						The important problems won't be any different in 2057 than they are now.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.13" start="00:18:07.39" end="00:19:29.38">
+					<head>Telescoping Time</head>
+					<u who="AKD">I—I was thinking of something a
+						little more specific than—than that. You—you are talking about a man brushing
+						his hair, and you refer to the fact that twenty years ago he was a child
+						playing in the dust, and at the same time you know he's going to commit a
+						murder up here. And you bring in the murder, and you bring in the playing in
+						the dust, and you bring in the combing of his hair, all together, we will
+						say, as I see it, in—in one passage, in one—one sentence.</u>
+					<u who="WF">Oh, I see what you mean. Well, of course the writer arrogates to
+						himself that right, to know the future of his own people. He don't know the
+						future of the human race, but he does know the future of—of—of that
+						individual, that character, or he never could get his book done. That is, he
+						has got to know where the thing's going, in a way, before he starts because
+						then he won't know when to stop it.</u>
+					<u who="AKD">And you think this future murder throws light on the way this
+						fellow—</u>
+					<u who="WF">Yes, yes.</u>
+					<u who="AKD">—combs his hair, and the playing in the dust—</u>
+					<u who="WF">Yes, yes.</u>
+					<u who="AKD">—also throws light on the way he combs his hair, and you can describe
+						the combing of the hair the better because—</u>
+					<u who="WF">I think so.</u>
+					<u who="AKD">—you have this in mind and that in mind.</u>
+					<u who="WF">I think if—if we could know
+						the future of ourselves and one another we would never be as baffled and
+						confused by—by people, by our contact with people, as we are. It wouldn't be
+						as much fun, of course, but—</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.14" start="00:19:32.53" end="00:19:51.78">
+					<head>Prompting Audience</head>
+					<u who="AKD">Didn't you have a question you
+						wanted to ask in connection with Dostoevsky, the Russians in general?</u>
+					<u who="Q"><inaudible/> let me figure a way
+						to—to phrase it and get it clear in my mind <inaudible/>
+						<unclear>in so long. I don't know</unclear><inaudible/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.15" start="00:19:54.14" end="00:21:27.28">
+					<head>Civil War vs WW I</head>
+					<u who="RT">Well, what—what do you think is
+						the—was the difference in quality of the impact on the—to the southern
+						people after the Civil War and the—as a mental experience and though—and say
+						World War I—the people that were involved in World War I?</u>
+					<u who="WF">I would say possibly it
+						was—was sharper, a harder experience, because for—for
+						years the southerner had lived a—a safe and isolated life in which nothing
+						actually had happened to him, except the—the simple things of—of crop
+						failures and—and trouble with—with his own particular plantation economy. The Civil War was—was a great deal of a
+						shock to him because suddenly it thrust him into the world. He had to become
+						a member, not of a class or of a—a provincial segment, but a member of the
+						whole human race. When he got into the second World War he had gotten used to
+						having to be a member of the human race, whether he wanted to or not, and so
+						that wasn't as much shock. Also, if anybody did, he won that war. That is,
+						he was on the side that was succesful. In the Civil War, the southerner was
+						on the side that lost.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.16" start="00:21:32.73" end="00:25:01.58">
+					<head>Children, Idiots, Truth</head>
+					<u who="Q">I suppose my question in
+						reference to Dostoevsky boils down to this. Why do you consider Benjy a good
+						tool in the—the telling of this story, one of the—the instruments in telling
+						the story? The same question, why do you often use children who are quite
+						young and not much of a—the one in—Vardaman. Is it
+						possibly because the idiot and the child are free of any preconceived ideas 
+						about the truth? They have no convention. They haven't had any religion
+							<unclear>to fog them</unclear> or anything like that. They're sort of
+						open-minded and free. And are they better judges of the truth? Can they see
+						the truth better than the more sophisticated and more intelligent
+							human beings?</u>
+					<u who="WF">Only in this sense: say there
+						was a mirror which would obliterate everything from the image it reflected
+						except—except the verities. To me, that is the child. As you say, it has less
+						trash that it—it has had to—to assimilate and live with in order to—to cope
+						with the adult world. It—it sees with a—not a clearer eye, that's not the
+						word I want—but it—it is incapable of seeing the things which are—which are
+						not true, which don't match the verities, which the adult has been trained
+						and had to learn, so that he no longer knows that—that he—what he sees is—is
+						obfuscated. The child don't even know that it doesn't see something that the
+						adult sees. And what the child sees is closer to the verities, the important
+						things. I think that's—the most interesting thing to write about is the
+						child as it learns to cope with the adult world which it didn't create, that
+						it's got to learn to—to live with in order to—to endure, to get along, to
+						have enough to eat, and how it makes those adjustments, how it gradually
+						comes to believe that—that—that lies are truths. It—it don't know that it is
+						coming to believe that. It just has to learn that or die. And when it's
+						still a child, it doesn't know yet. It hasn't had to believe that lies are
+						truth. To the child the lie is still a lie, and the truth is truth. Benjy,
+						the idiot—he was a sublimated idiot, probably, but he had some of that
+						quality. He had the child's quality to—to see and recognize only the truth,
+						but he had a man's long years of—of simple experience, whether he could
+						assimilate that experience or not. He had a longer time to see that more
+						human beings were capable of believing that—that lies were true, than the
+						child of three or four or five or six.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.17" start="00:25:03.71" end="00:26:37.14">
+					<head>Nature of Children</head>
+					<u who="ES">Mr. Faulkner, I think it's a
+						very interesting point you raise, and—and—but how do you reconcile that view
+						of the—of the child, which I think is the correct one and agreeable to me,
+						with the other aspects of the child, as children are very often the most
+						savage to each other, hurt each other, have—have less sensitivity toward
+						each other than—than adults do. Whereas they sometimes seem to perceive the
+						truth, seem to cut through so much of the—the sham that adults build up, still
+						we have to educate children to be—on the whole, to be considerate.</u>
+					<u who="WF">Well, that savagery, that
+							ruthless<unclear>ness</unclear>, that's one of the verities. It's not a
+						virtue, but it—it's a verity. To me, there's—there's a distinction between
+						verity and virtue. Some of the verities, when they are practiced, the
+						practice of them becomes virtue. The child is—is incapable of being
+							<unclear>clubbed</unclear> up by your shibboleth, "you musn't do this
+						because it's wrong." The child says, "I will do this because I want to," and
+						he tries to do it. That in—that—that—that's a truth in—in the world, too,
+						that—that man can be inhuman to man. It's a verity. It's—it's a—a vice when
+						practiced, but it's one of the verities. Just like—like honor and
+						honesty.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.18" start="00:26:43.75" end="00:29:31.27">
+					<head>Charles in The Town</head>
+					<u who="FS">You have various children. You
+						spoke of Benjy. There is—and also of <hi rend="italic">The Sound and the
+							Fury</hi> and Vardaman. I was thinking—been thinking recently about this
+						boy who participates in the telling of the story in <hi rend="italic">The
+							Town</hi>. I don't know—I'm not sure that I know how you would explain
+						the function of Charles Mallison in—in this last novel, whether he
+						has—whether he is—his part of the story is supposed to have any particular
+						value because he is a child or—and—and whether—and then Ratliff—there are three
+						people, you see. There is yourself, and I—I'm—I haven't been able to see at
+						the moment, and I've only read it one time, quite as well as I do in <hi rend="italic">The Sound and the Fury </hi>the 
+						distinct values which come
+						from the three points of view. I don't know whether I am making myself clear
+						or not. You can comment on that problem.</u>
+					<u who="WF">That's—was simply a—a—well, I
+						don't like the word "trick," but it was used deliberately to look at—at
+						the—the object from three points of view. Just as when you—you examine a—a
+						monument you will walk around it. You are not satisfied to look at it from
+						just one side. Also, it—to look at it from—from three different
+						mentalities. That was—one was the mirror which obliterated all except truth
+						because the mirror didn't know the other factors existed. Another was to
+						look at it from the point of view of—of someone who had made of himself a
+						more or less artificial man through his desire to practice what he had been
+						told was a virtue, apart from his belief in virtues, what he had been told,
+						trained by his respect for education in the old classical sense. The other
+						was from the point of view of a man who—who practiced virtue from simple
+						instinct, from—from—well, more than that, because—for a practical reason,
+						because it was better. There was less confusion if all people didn't tell
+						lies to one another and didn't pretend. That seemed to me to give a more
+						complete picture of the specific incidents as they occurred if they could
+						be <unclear>expressed</unclear> three times.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.19" start="00:29:31.33" end="00:29:48.04">
+					<head>Charles Growing Up</head>
+					<u who="FS">And yet you didn't mean that
+						Charles Mallison was quite as much of a child or an innocent as some of
+						these other children?</u>
+					<u who="WF">Well, he changed. He grew up
+						in that book. And, of course, his point of view changed.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.20" start="00:29:48.05" end="00:32:00.58">
+					<head>Gavin in The Town</head>
+					<u who="FS">One other question about that
+						book. Someone has said recently—and I don't present this as my view, it is
+						something that—that I would like you to comment on if you will—that Gavin
+						Stevens in <hi rend="italic">The Town</hi> is a less mature, a less
+						responsible, somehow or other a less likable person than he appears in some
+						other places, as in the stories of <hi rend="italic">Knight's
+						Gambit</hi>.</u>
+					<u who="WF">Well, he had got out of his
+						depth—depth. He had got into—to the real world. While he was—could be—a county
+						attorney, an amateur Sherlock Holmes, then he was at home, but—but he got
+						out of that. He got into a—a real world in which people anguished and
+						suffered, not simply did things which they shouldn't do. And he wasn't as
+						prepared to cope with people who were following their own bent, not for
+						profit but simply because they had to. That is, he knew a good deal less
+						about people than he knew about the law and about the weighing of evidence
+						and—and drawing the right conclusions from what he—he saw with his legal
+						mind. When he—when he had to deal with people, he was an amateur. He was—at
+						times he had a good deal less judgment than his nephew did. Which is—is not
+						against education, as probably the passion he had for getting degrees, for
+						trying this and trying that and going all the way to Europe to get more
+						degrees, to study more, was—was in his own nature. It was the same character
+						that made him shy away from marriage. He was probably afraid to be married.
+						He might get too involved with the human race if he married one of them.
+							<event desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.21" start="00:32:00.59" end="00:32:55.12">
+					<head>Gavin in Intruder</head>
+					<u who="Q">Did you mean Gavin Stevens to be
+						like that in <hi rend="italic">Intruder in the Dust</hi>?</u>
+					<u who="WF">No'm. These people I—I invent, and after that I just run along and
+						put down what they say and do. I don't know always what they are going to
+						develop into myself.</u>
+					<u who="Q">I mean, is Gavin at the same stage of development in <hi rend="italic">Intruder 
+						in the Dust</hi>? Is he younger in <hi rend="italic">The Town</hi>?</u>
+					<u who="WF"><hi rend="italic">Intruder in
+						the Dust</hi> happened after <hi rend="italic">The Town</hi>. <hi rend="italic">Intruder 
+							in the Dust</hi> happened about 1935 or '40, and
+							<hi rend="italic">The Town</hi> began in—in 1909 and went to 1927.
+						Probably Stevens learned something from <hi rend="italic">The Town</hi> to
+						carry into <hi rend="italic">Intruder in the Dust</hi>.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.22" start="00:32:56.50" end="00:33:43.18">
+					<head>Gavin and Quentin</head>
+					<u who="B">Mr. Faulkner, the fight that
+						Gavin has with de Spain in <hi rend="italic">The Town</hi> reminded me in
+						some ways of the fight that Quentin had when he was in Cambridge. They both
+						seemed a little bit like Don Quixote—</u>
+					<u who="WF">Yes.</u>
+					<u who="B">—fighting for the honor of a lady. Is there any such similarity
+						there, in character, between the two men at that time?</u>
+					<u who="WF">No, that's—that's a constant, sad
+						and—and funny picture too. It is the knight that goes out to defend somebody
+						who don't want to be defended and don't need it. But it's a very fine
+						quality in—in human nature. I hope it will always endure. It is comical and a
+						little sad, and Quentin and Stevens were that much alike.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.23" start="00:33:44.98" end="00:35:04.32">
+					<head>Intruder's Origin</head>
+					<u who="Q">Mr. Faulkner, what did you start
+						with in <hi rend="italic">Intruder in the Dust</hi>? Was it the idea of a
+						single character or <inaudible/>?</u>
+					<u who="WF">Well, it began with the
+						notion—there was a tremendous flux of detective stories going about at that
+						time, and my children were always buying them and bringing them home. I'd
+						stumble over them everywhere I went. And I thought of an idea for one would
+						be a man in jail, just about to be hung, that would have to be his own
+						detective. He couldn't get anybody to help him. Then the next thought was,
+						the man for that would be a Negro. Then the character of—of Lucas—Lucas
+						Beauchamp came along. And the book came out of that. It was the notion of a
+						man in jail who couldn't hire a detective, couldn't hire one of these tough
+						guys that slapped women around <event desc="audience laughter"/> and took a
+						drink every time he couldn't think of what to say next. <event desc="audience laughter"/> But 
+						once I thought of Beauchamp, then he took
+						charge of the story, and the story was a good deal different from the idea
+						that—of the detective story that I had started with.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.24" start="00:35:04.33" end="00:36:16.34">
+					<head>Joyce and Influence</head>
+					<u who="Q">Sir, speaking of technique and
+						the way characters are handled, somebody's accused you of going to school to
+						Joyce. Would you mind commenting on his and perhaps any other individual
+						influences on you?</u>
+					<u who="WF">I don't believe that any—any
+						writer has time to go to school to any one man. He learn—learns from
+						everything he reads. He steals from any source that's available. He has no
+						morals whatever. But he—I don't think he ever sets out to say, "Now I'm
+						going to write like Joyce" or write like anybody else, that he's too busy
+						writing about people. He remembers everything he reads without having to
+						memorize. He is—he is voracious and amoral. He stores away everything,
+						telephone directories, up and down. Congressional record, I used to read
+						that. And the time comes when he needs something, and sure enough, there it
+						is. He don't remember where he got it and don't care, because he is perfectly
+						willing for anyone after him to take anything from his work, at least I am.
+						I'm quite sure that everything I ever read has influenced me.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.25" start="00:36:17.85" end="00:36:54.10">
+					<head>Conrad's Influence</head>
+					<u who="AKD">Sir, do you look at your own
+						work and look at the—and look at the novels of Joseph Conrad, which I've heard
+						you express a liking for—do you see any sort of similarities in method?</u>
+					<u who="WF">No, I don't. I've said this before. That's —</u>
+					<u who="AKD">I'm sorry I didn't know <inaudible/></u>
+					<u who="WF">— one good thing about writing. When you
+						write a book you don't ever have to read it again, because you're busy on
+						another one. And I think the writer never goes back to see where he got what
+						from. I'm sure he could find plenty of sources, but he—he don't do it because
+						he's busy with another one then.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.26" start="00:36:54.10" end="00:38:25.13">
+					<head>Conrad's Technique</head>
+					<u who="AKD">We—we discussed Joseph Conrad in
+						the course that I teach. We frequently come up against you, and vice versa,
+						and—and I was—I was curious to know whether you—you saw any similarities?</u>
+					<u who="WF">I imagine if I went back over the work I could find similarities. I
+						can find similarities between Conrad and Hardy. And I'm sure I can find
+						Conrad in my stuff and find almost anybody else you could name.</u>
+					<u who="AKD">I was thinking of the particular thing of Conrad's effort to surround
+						an event by throwing light on it from past—past and future, as well as
+						present. He—he—he seems to—seems to stop at a particular event and—and throw
+						light from this character and that character, and from—from the front and
+						the rear and the side, in a way that I don't remember other novelists doing
+						before his time.</u>
+					<u who="WF">I'm inclined to think that all
+						writers do that, only most of them, except Conrad and me, may be a little
+						more clever about it. Probably Conrad was because he deliberately taught
+						himself a foreign language to write in. And mine may be because I
+						never—never went to school enough to save myself the shortcuts of learning
+						English. That we both are a little more obvious than the others for that
+						reason.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.27" start="00:38:42.02" end="00:40:04.08">
+					<head>Frontiers in Writing</head>
+					<u who="Q">Sir, some months ago you
+						expressed a fear in the loss of frontiers in American writing. Do you see
+						any new frontiers opening up?</u>
+					<u who="WF">Well, not exactly a frontier.
+						I think now that we are faced with more of a—of a threat. It could hardly be
+						a frontier to be conquered. It's—it's a force to be resisted, the force that
+						is the pressure to make everybody belong to a mass or a group, which, in my
+						opinion, would be the death of the writing and the painting and the music
+						and everything else, that man has got to resist that. It's difficult to
+						resist because, to a certain extent, he has got to compromise now, simply in
+						order to get along. It's the—you've got to—to be on the alert
+						constantly to know just exactly where to draw the line, which is—is too bad
+						for the artist who should have all his time free to—to fight simpler dragons
+						than that.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.28" start="00:40:05.90" end="00:41:48.85">
+					<head>Past and Present</head>
+					<u who="FB">Do you find <unclear>as</unclear> your own work
+						comes nearer to the future, that you yourself alter in any respect in
+							relation to it?</u>
+					<u who="WF">No, that would belong to the same belief that it—I have never quite
+						done it yet, that it fails in all respects.  That it hasn't—hasn't shown the
+						future.  It hasn't been a good enough picture of the past. It's not a—a
+						good enough picture of—of now, "is," to please me.</u>
+					<u who="FB">I was thinking of—of—as—as the setting and the time element in this
+						series comes nearer to the present day, whether as you get nearer to the
+						modern scene, you feel any difference. Rather than <unclear>going</unclear>
+						back to 1909.</u>
+					<u who="WF">I can't say because I haven't quite got up to 1957 yet. It's—that's
+						an interesting thought, and I'll be curious to know if I do begin to run
+						into trouble then. So far I haven't got up to that yet.</u>
+					<u who="ES">Well then, <unclear>on that score,</unclear> do you feel that though
+						you write <inaudible/> <unclear>personally</unclear> <inaudible/> <unclear>that 
+							maybe it would be better</unclear> <inaudible/> though you write about a past 
+						time, you are inevitably influenced by the
+						circumstances of the immediate time and reflect some of the concerns of that
+						time?</u>
+					<u who="WF">Oh yes, yes.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.29" start="00:41:47.39" end="00:43:22.56">
+					<head>Wolfe and the Past</head>
+					<u who="AB">I know you admire Wolfe
+						tremendously, but don't you feel that as Wolfe caught up to the present that
+						he lost something that he had when he had a little more time between him and
+						the—and the event to digest?</u>
+					<u who="WF">Now that comes back to a—a
+						more or less idle remark I made years ago. I have no particular great
+						admiration for Wolfe. This is what happened in that. It was at a group years
+						ago. Somebody asked what I thought about my contemporaries. I said, "We're
+						not done writing yet, I couldn't say." And he said, "Well, haven't you got
+						any opinion at all about them?" I said, "About who?" He named Wolfe, Dos
+						Passos, Erskine Caldwell, Hemingway and me. I said, "Well, I will—I would
+						rate us this way," which I did, and that's what that came from, and for
+						about twenty years now I've been trying to explain that. <event desc="audience laughter"/></u>
+
+					<u who="AB"><unclear>Well, I didn't hear it.</unclear> But actually, don't you think
+						that—that Wolfe was <unclear>obvious,</unclear> and I wondered if you felt
+						at all the same way, that when he had a little time between him and his
+						childhood to digest what had happened <unclear>it felt like it sort of
+							seemed cooked</unclear> and came out different. It was much better than
+						when he was writing about something that happened about a year and a half
+						before.</u>
+					<u who="WF">I don't know because I haven't
+						read much of Wolfe. I have just glanced—glanced into it. I think I've read
+						one of his short stories, but none of the books have I ever finished. I have
+						opened them and read a little here and a little there, but I never have
+						finished one, so I—I just don't know.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.30" start="00:43:23.98" end="00:45:02.53">
+					<head>Facts v Truth</head>
+					<u who="FS">Do you think that
+						<unclear>question goes a little</unclear>—I'm—I'm interested in—in this
+						question, which I come across in Henry James, for example, that an
+						author has a—a given—has something to
+							write—you get an idea such as you mentioned a while ago in
+						connection to <hi rend="italic">Intruder in the Dust</hi>. Which—and I—I ask
+						you for yourself because I think it will have a bearing on the question in
+						general—which is better for you, to have a great mass of facts and details,
+						which are facts, and belong to a human situation, and all you got to do is
+						work them up and give them order, or would you rather just have the
+						essential things, the germ of the idea, so that you can build in all the
+						other things with the imagination?</u>
+					<u who="WF">I would rather have as few facts as possible because I—in my
+						opinion, the writer is writing about truth, and—and I think truth and facts
+						have almost no relation to one another. They ain't very closely connected.
+						And I would rather have as few facts as possible, and let observation and
+						experience and imagination <unclear>do the rest of it</unclear>.</u>
+					<u who="FS">And wouldn't that then be, in a way, an answer to Miss
+							Barringer's question, that if you are remote from a
+						time, it has less hold on you, that it constricts your imagination less than
+						that which is just a year or two ago.</u>
+					<u who="WF">I don't know, if you as immune to facts as I am, it don't
+						matter. <event desc="audience laughter"/></u>
+					
+				</div2>
+				<div2 type="dialog" id="wfaudio13.31" start="00:45:02:52" end="00:47:23.10">
+					<head>Ranking Writers</head>
+					<u who="B">Mr. Faulkner, in view of the
+						fact that those people asked you for ratings when the—when the horse race
+						had gotten maybe to the first quarter mark, and we're now perhaps halfway
+						around the course, would you feel inclined to make any revision in the order
+						that you saw at that time?</u>
+					<u who="WF">No, because I made my estimate
+						on the—the gallantry of the failure, not on the—on the—on the success or
+						the—or the validity of—of the work. It's on the gallantry of the effort which
+						failed. In my opinion, my work has all failed. It—it ain't quite good
+						enough, which is the only reason to write another one, because writing really
+						ain't any fun. I mean the mechanics of putting the stuff down on paper is no
+						fun. I can think of too many other things I'd rather do. And I—I don't see
+						any reason to change that, no. After we have all written out, and if there's
+						time to—to look back at it, then I could—could make a private estimate of
+						the work. But right now, I think it's too soon. Of course, Wolfe is—is
+						finished because he's dead, but the others are not. Caldwell seems to have
+						written himself out years ago, which has nothing to do with the value
+						of—of—of the first books, and I think that—that the first books, <hi rend="italic">God's Little Acre</hi> and the short stories, that's
+						enough for any man. He should be content with that, but—but knowing writers,
+						I know he's not, just as I'm not content with mine. I meant only that
+						Hemingway had sense enough to find a method which he could control and
+						didn't need or—or didn't have to, wasn't driven by his private demon to
+						waste himself in trying to do—do more than that. So, he has done
+						consistently probably the most solid work of all of us. But it wasn't
+						the—the—the splendid, magnificent bust that Wolfe made in trying to put the
+						whole history of the human heart on the head of a pin, you might say.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.32" start="00:47:27.10" end="00:48:07.77">
+					<head>A Historical Novel</head>
+					<u who="AKD">You've almost answered this, but
+						I'll ask you anyway. Do you think you'll ever write an historical novel
+						set—dealing with the last century? Would it interest you to do so?</u>
+					<u who="WF">No, because I don't have much
+						patience with facts, and any writer is—is a congenital liar to begin with,
+						or he wouldn't take up writing, and so I couldn't tell the truth even about
+						history. <event desc="audience laughter"/> That's why I'll never write a
+						biography. I couldn't tell the truth about Faulkner, I'm sure about it <inaudible/>
+						<event desc="audience laughter"/>. Any writer tries to improve on what he
+						sees. In his opinion, the Lord ain't near as good as he is at creating people.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.33" start="00:48:07.78" end="00:48:59.35">
+					<head>Hemingway's Recent Work</head>
+					<u who="Q">Mr. Faulkner, you said that
+						Hemingway developed a method he could control. What do you think—what is
+						your personal opinion of <hi rend="italic">Across the River and into the
+							Trees</hi>?</u>
+					<u who="WF">I would say it was—that he considered it a—a bad book. Just like he
+						considers <hi rend="italic">To Have and Have Not</hi> a bad book, probably.
+						But then the man that—that wrote some of the stories in <hi rend="italic">Men Without Women</hi> 
+						and some of the early books—he can afford to
+						write a bad book, whenever he wants to, I think. Miss Hale will agree with
+						that, won't you?</u>
+					<u who="NH">Oh, yes.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.34" start="00:49:06.96" end="00:49:53.32">
+					<head>Contemporary Books</head>
+					<u who="Q">Do you still read any of the
+						books that come out today, <unclear>like the books by Herman Wouk and writers like him</unclear>?</u>
+					<u who="WF">No, I don't. I think that most
+						writers, as they get old, read less and less. The books that I read now are the
+						ones I read and liked when I was twenty-one years old. I haven't read a new
+						book, unless it was specifically put in my hand, in, oh, fifteen years.
+						There have been exceptions, of course, that I have read for some particular
+						reason, like that—that someone asked me to look at it, or I picked it up by
+						chance and read a page and found I liked it, <inaudible/> but I don't keep up with
+						modern books anymore. When I was young I read everything, but not
+						anymore.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.35" start="00:49:54.35" end="00:50:53.90">
+					<head>Favorite Writers</head>
+					<u who="AKD">What were the books that you
+						read at twenty-one that you—you set store by? Can you mention a few of
+						them?</u>
+					<u who="WF">All of Balzac, <hi rend="italic">Don Quixote</hi>, <hi rend="italic">Madame Bovary</hi>,
+						<hi rend="italic">Salammbo</hi>, <hi rend="italic">The Temptation of Saint Anthony,</hi> Turgenev—I wonder what
+						became of him. He's not even writing any more. Is he dead? Does anybody
+						know?</u>
+					<u who="AKD">He must be dead—</u>
+					<u who="WF">Dostoevsky, Tolstoy, most of
+						Dickens, the Old Testament, Shakespeare—I don't read as much poetry as I did
+						once.  Some of Conrad. I—I reckon there's maybe fifty books that—that every
+						five years I will read through again, some for the story, some for a
+						character. One of my favorite people is Mrs. Gamp.  I get her out every winter
+						and read about her again.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.36" start="00:50:53.91" end="00:51:30.35">
+					<head>Reading Conrad</head>
+					<u who="AKD">Which one of Conrad do—do you
+						read?</u>
+					<u who="WF">
+						<hi rend="italic">The Nigger of the Narcissus.</hi>
+					</u>
+					<u who="AKD">Do you read <hi rend="italic">Nostromo</hi>?</u>
+					<u who="WF">Haven't read that in years.</u>
+					<u who="AKD"><hi rend="italic">Victory</hi>?</u>
+					<u who="WF">Not in years. "Falk."  "The End of the Tether." What's the one about
+						the young man that was given command of the—</u>
+					<u who="B"><hi rend="italic">Lord Jim</hi>.</u>
+					<u who="WF">—barque in—?</u>
+					<u who="AKD">Deserted?</u>
+					<u who="WF">—Bangkok?  "Youth."</u>
+					<u who="AKD">"Youth," yes.</u>
+					<u who="WF">"Youth."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.37" start="00:51:35.11" end="00:53:03.17">
+					<head>Stories v Novels</head>
+					<u who="FS">Mr. Faulkner, there's a question
+						that you may have—it may have been asked of you. I haven't been to all of the
+						meetings and if you have answered it already, you can just
+						ignore it. But a question that always comes up in the classroom in teaching
+						an author who writes both short stories and novels, as to what—what, if 
+						any, is the essential distinction in the—in the mind of the author, say, when he
+						writes the story, whether it is to be a short story—is it merely a matter of
+						the—of the quantity of materials, or is it a matter of the purpose which he
+						wishes to produce, the effect, or is it simply a combination of various
+						things?</u>
+					<u who="WF">It's a question of the
+						writer's confidence. I think that—that what every writer wanted to be is a
+						poet. He failed, and so the next is the short story. He failed, and so all
+						that remains is to—is to write the novel. The poet can take the—the
+						instance, the—the <unclear>single</unclear> instant of man's anguish, into
+						four lines or fourteen lines. The short story writer can't do that, but he
+						can do it in a thousand words. The novelist can't do either, and it takes
+						him a hundred thousand words to do.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.38" start="00:53:12.80" end="00:54:45.54">
+					<head>Distilling the Truth</head>
+					<u who="RT">Sir, you—you seemed from that to
+						place a premium on conciseness, yet your most brilliant successes seem to
+						have been in the other direction.</u>
+					<u who="WF">Conciseness is the wrong word.
+						It's a—it's a—a distillation. Down to the—to the—the—to perfection. You've
+						got to use the clumsy language to communicate. It's a distillation of—of
+						the anguish to its essence, which the poet can do. The short story
+						writer is not that good. He has got to take a little more space, a little
+						more of the clumsy, mean tools of communication. The novelist has got to
+						take still more. But any story can be told in one sentence. If it can't be
+						told in one sentence, you'd better throw it away and think of one that can
+						be. Of course, the ramifications devolve from that—out of that, but the
+						story itself, the moment of anguish or triumph, can be distilled into one
+						sentence, and the poet does it in—in the—the most moving and most memorable
+						way. He has touched it with—with a—a magic as though that anguish, or that
+						triumph, had never occurred before.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.39" start="00:54:56.29" end="00:55:35.99">
+					<head>Requests from Young Writers</head>
+					<u who="ES">You were saying that you
+						sometimes read something that you wouldn't ordinarily because somebody asked
+						you to or puts it in your hands. Are you besieged with aspiring writers who
+						wish an opinion on a manuscript or something of that sort?</u>
+					<u who="WF">Yes.  Nobody can escape that,
+						of course. But I think any writer that—that brings you a manuscript to read,
+						you can save time by not reading that one, because the ones that write the
+						good ones haven't got time to bring it to you and say, "Read this." They don't
+						care whether you read it or not or whether you like it or not. They're the
+						good ones.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.40" start="00:55:46.04" end="00:56:22.35">
+					<head>Prompting Audience</head>
+					<u who="AKD">I'm not quite sure how
+						long this meeting is supposed to last. We've had an hour. Could you bear a
+						few more questions, if there are questions?</u>
+					<u who="WF">Yes, sir. Yes, sir.  Yes, indeed.</u>
+					<u who="AKD">Any of you? The rest of you? Questions you'd like to ask Mr. Faulkner?</u>
+					<u who="Q">Some of the books—</u>
+					<u who="Q">You've done—you've done well <inaudible/> to hush up these people. They're
+						so full of information.</u>
+					<u who="WF">They don't need anything from
+						me. <event desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.41" start="00:56:22.36" end="00:56:48.69">
+					<head>Long v Short Books</head>
+					<u who="AKD">I—I will say this, sir. You speak
+						of <hi rend="italic">Don Quixote</hi> as well as your—as one of your—one of
+						the great books, one of the books that you most admire. It's a right long
+						book, isn't it?</u>
+					<u who="WF">I hadn't noticed it. <event desc="audience laughter"/> Just like <hi rend="italic">The Nigger of the
+							Narcissus</hi> is very short. I probably hadn't noticed that much
+						either.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.42" start="00:56:51.94" end="00:57:59.12">
+					<head>Favorite Poetry</head>
+					<u who="Q">Well, you have mentioned some of
+						the—the novels that you like most. Is there any particular poetry that you
+						think came closest to saying the truth in a few words?</u>
+					<u who="WF">Almost all of it. Burns,
+						Keats, Wordsworth, now and then Whitman, Ben Johnson, Marlowe—almost all of
+						it.  Laforgue.  Goethe.  Almost all of it. That's why people still read it, why
+						the names are still known.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.43" start="00:57:59.13" end="01:00:06.86">
+					<head>Poet v Novelist</head>
+					<u who="FS">Which do you suppose is—is the
+						most difficult, the most unattainable, for an ambitious youngster who wants
+						to write but doesn't know yet whether he is a poet or a novelist or what? I
+						gather—I may be wrong—from what you say that—that in general you think
+						that—that poetry is—is perhaps the most difficult thing to achieve 
+						real intentions.</u>
+					<u who="WF">Well, few are good ones. I—I
+						don't think that difficulty is the word. It's—it's a combination of—of—of
+						a demon and—and—and a fire that you have. Difficult or ease has nothing to
+						do with it. I—I—I wish I did know exactly what it is that it takes to make a
+						poet. I think that any writer is—is better off if he looks on himself as a
+						poet. He's a failed poet. I agree with you. But to look on himself primarily
+						as a poet. That he has—has found man's history in its—its mutations, in
+						the—the—the instances in which it—it becomes apparent, his anguish, his
+						triumph, his—his failures, the whole passion of—of breathing, is so strong and
+						so urgent that it—it must be recorded. And if he is very fortunate, he
+						can—can do it as the poets did it, and if he's a little less fortunate, he
+						can do it as the short story writers do it, as Chekhov did it. If he is
+						least fortunate, he's got to go back to the clumsy method of—of Mark Twain
+						and Dreiser.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio13.44" start="01:00:11.48" end="01:00:19.65">
+					<head>Close</head>
+					<u who="AKD">Well, if there are no
+						further questions, we're very much obliged to you indeed, Mr. Faulkner.</u>
+					<u who="Q">Yes we are.</u>
+					<u who="WF">Well, thank you. <event desc="end of recording"/></u>
+				</div2>
+				</div1>
+		</body>
+	</text>
+</TEI.2>

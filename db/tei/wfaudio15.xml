@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio15">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio15</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio15</idno>
+                <idno type="analog tape">T-131ends</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-16">16 May 1957</date>
+                    <locale>Law School Wives</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1"><head>FILENAME: wfaudio15</head><head>DATE: 16 May 1957</head>
+                <head>OCCASION: Law School Wives</head>
+                <head>TAPE: T-131ends</head><head>LENGTH: 17:14</head>
+                
+                <div2 type="dialog" id="wfaudio15.1" start="00:00:01.86" end="00:01:40.23">
+                    <head>Virginia v Mississippi</head>
+                    <u who="WF"><inaudible/> make the statements which—which we will
+                        follow, which the rest of the South must follow. I was a—a little ashamed for all
+                    of us when your government issued those invitations and then had to retract some
+                    of them, the sort of thing that you'd expect Mississippi to do but Mississippi
+                    don't expect Virginia to. <event desc="audience laughter"/>
+                        <inaudible/> experiences here that—that I will—after I
+                    had left Virginia and have thought about it, I will realize more and more
+                    how—how pleasant it was, the contact with the people, the young people
+                    that have come into my office with their carefully rehearsed literary questions,
+                        <event desc="audience laughter"/> and once we get past
+                        them  we just talk, and that's interesting. They—they
+                    tell me what they want to do and what they think about the condition, what we
+                    should do about it. Almost every day one comes in, and once we get past the
+                    stiffness of that first question which—which they have rehearsed
+                    because they're seeing me, then you get down to—to a
+                        human being, as someone said the <inaudible/>. That's—that's better. I went out to Albemarle
+                    School one morning, and it—it took a little thawing but after a while,
+                    it became quite well. By the end of it, there was a young man trying to sell me
+                    some cattle. Another man wanted to swap horses with me. <event desc="audience laughter"/>
+                    </u></div2>
+                <div2 type="dialog" id="wfaudio15.2" start="00:01:43.55" end="00:02:50.16">
+                    <head>Use of the Bible</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Well, I don't mean this to be a carefully rehearsed literary question,
+                    but I did notice in the paper where you mentioned that the Old Testament was
+                    among your old literary friends, or one of the ones that you like to browse in
+                    and re-read—</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">And I realize it is a classic, but I was wondering why the New Testament
+                    did not have as much to offer? Is it because it is so narrative or some of it isn't 
+                    useful?</u>
+                <u who="WF">To me, the New Testament is full of ideas, and I don't know much about
+                    ideas. The Old Testament is full of people, perfectly ordinary, normal heroes
+                    and blackguards just like everybody else nowadays, and I—I like to
+                    read the Old Testament because it's full of people, not ideas. It's people all
+                    trying to get something for nothing or <inaudible/>
+                    <event desc="audience laughter"/> or to be braver than they are. Just ordinary,
+                    everyday folks, people—that's why I like to read that. That's apart
+                    from the fine poetry of the—of the prose.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.3" start="00:02:52.65" end="00:04:51.56">
+                    <head>Snopesism and America</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">I do have a carefully rehearsed one, but I'm really interested in your
+                    <inaudible/> to build a picture of this vastly materialistic American society which
+                    can't tolerate a—a writer or <unclear>human beings, even.</unclear>
+                    And yet you seem to indicate that there was some hope to get—for
+                    Americans to get beyond this purely materialistic
+                        stage, and yet in your writing, it—it seems
+                    that the Snopeses have triumphed, and I wondered if you'd care to comment on
+                    that.</u>
+                <u who="WF">I don't believe I said that our culture can't tolerate it. What I meant
+                    to say there was, that so far, our culture is not aware, that there is a force
+                    <inaudible/>  We deal in terms of the <unclear>human
+                        spirit,</unclear> that the day will come when it will have to become aware
+                    of it. So far, it doesn't need to, and it's not that it 
+                        objects. It simply isn't aware yet that that's a force that exists.
+                    About the Snopes, the—no fiction writer is interested primarily in
+                    messages or warnings, but indirectly and by coincidence, he does suggest
+                    messages and warnings. The—the—the story of the
+                    Snopes is not: This is what the South is coming to. It's—it's simply:
+                    This is what can happen if we don't watch these people. That it's all
+                    imaginary. They are underlined for emphasis. They are exaggerated for emphasis.
+                    But this is what can happen if we don't watch it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.4" start="00:04:53.85" end="00:06:55.87">
+                    <head>Deeper Meanings</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">As a student who always had to struggle through literature courses trying
+                    to dig out the meanings of things which seemed obvious to other people, I'd be
+                    curious to know if, as a writer,  you sort of do have these messages in mind,
+                    greater ideas which the English teachers and so forth always produce so readily,
+                    and some of the <unclear>students</unclear>
+                    <event desc="audience laughter"/> can't find them anywhere.</u>
+                <u who="WF">No'm, not really. The writer is writing about people. He has got to use
+                    the tools he has, which is his own experience, his own observation, and out of
+                    that, in the course of—of twenty-one, twenty-two years it takes to
+                    mature, then whatever years after that, come the opinions. He doesn't have to
+                    stop and say, "Now, this is what I believe." It's there. He don't know he's
+                    got it. Then when he writes, suddenly something—somebody says
+                    something, he says, "Well, yes, that's so. That's what I believe, too." He
+                    didn't put that in the character's mouth. The character said, "This is what I
+                    think." The writer says, "Yes, I agree with you." That he is too busy dealing
+                    with people to have time to deliver messages to anyone. The messages happen
+                    just by chance. That he is interested in—in creating flesh and blood
+                    people to do the—the tragic or the comic things which people do
+                    for—for pleasure. That is, I think that one should read for pleasure,
+                    that one doesn't necessarily have to read for pleasure, but I myself read for
+                    pleasure, not for ideas.  That if it's—I've got to hunt around in a book
+                    to—looking for an idea, then I'd rather do something else. I'd rather
+                    do something that's more fun than that. It won't be reading.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.5" start="00:06:56.91" end="00:08:21.25">
+                    <head>Regional v Universal</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, although you primarily write about the South and southern
+                    people, are you striving for universality, <unclear>that people who live in another 
+                    locality can use it</unclear>?</u>
+                <u who="WF">That's it. It's to use a—a locale which the writer is most
+                    familiar with. It saves him doing research. That is, if he don't know anything
+                    about California or Canada or Australia, if he don't do a little research first,
+                    he'll write something, and somebody will say, "Hold up here. That ain't so. This
+                    is the way it is in Australia." Where if he writes about what he knows, nobody
+                    is going to bother him that way because he knows what he is putting down. People
+                    are the same, but it's the—the differences in their background, the milieu
+                    they function in, which is different, not their behavior. But then, of course,
+                    the milieu, the background, the environment will—will change
+                    the—the terms of the behavior, not the act itself, and so the writer
+                    simply uses the—the background he knows just as the carpenter uses the
+                    tools that he has at his hand. Rather than to go somewhere to borrow a hammer or
+                    a saw, he will use the one he's got, so he won't have to fetch one.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.6" start="00:08:24.27" end="00:10:17.15">
+                    <head>Writing v Living</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, I believe Somerset Maugham said at one time that he felt it
+                    was rather a sad thing in his own life and assumed it to be in the life of any
+                    writer in that he felt that he had to divorce himself from life itself, to a
+                    certain extent, in that he was continually observing and thinking in terms of
+                    writing down what he saw. And I think that possibly he felt a little deprived in
+                    that he had this demon which caused him to want to do this, and that he could
+                    not live himself more as ordinary people do and—well, in that he was
+                    more concerned with recording life as he saw it and living <unclear>it</unclear>
+                    was more like a vicarious sense. Do you feel that that is
+                    true of most writers or did you find <unclear>something else true</unclear>?</u>
+                <u who="WF">Well, it is not true of—of me, and I imagine it's not true
+                    of—of many other writers. It would be true of—would be true
+                    of—of many other writers. I think that—that Maugham,
+                    of an older—older culture, had more time to be that
+                    objective about his own sub—subjectivity, if you can accept that
+                    paradoxical statement. I think that—that maybe Henry James, for
+                    instance, had the same approach toward his work that Maugham did, but Henry
+                    James had not got far enough to—to realize that that was depriving him
+                    of something that he didn't want to be deprived of. That is, Henry James
+                    probably was quite happy to live detached from life to write Henry
+                        James.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.7" start="00:10:20.90" end="00:11:38.19">
+                    <head>McCarthyism v Freedom</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I hesitate to ask such a broad question, sir, but what effect do you
+                    think McCarthyism has had on freedom of thought and expression in American
+                    universities?</u>
+                <u who="WF">I would say that—that McCarthyism, that whole thing, has had a
+                    good effect on American universities in that it has—has shown, not
+                    the—the educated man, but has shown a lot of—of uneducated
+                    people what that sort of thing can cause, that uneducated people have a greater
+                    belief in the—that—that <unclear>the</unclear> thought—the freedom of thought must be inviolable, that they never thought
+                    about it before, and so, in that sense, McCarthy served a purpose. It's too bad
+                    that that should be one of the curses of democracy, too, that that purpose
+                    can't—must be paid for with the three or four years of McCarthy. In a
+                    way, democracy has the capacity to use, somehow, almost everything.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.8" start="00:11:53.25" end="00:13:33.69">
+                    <head>Writing v Revising</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, this—this is a question about your way of
+                    writing. I was wondering whether you—you constantly <unclear>go about</unclear> the writing, or whether it just comes out all at
+                    once. Because to read a book of yours, it seems to come all at once, but I just wondered, you hear of so many writers
+                    who are working over their novels and rewriting parts until they're
+                    finished.</u>
+                <u who="WF">That depends, and I don't think that any writer could have a hard and
+                    fast rule about it. In my own case, I'm lazy. That is, I don't like to sit down
+                    and—and put a hundred thousand words on paper. I hate to face the fact
+                    that I've got to do it. I will put that off as long as possible, and so in the
+                    meantime, as much of the revising as possible happens up here. Then when the
+                    demon won't let me alone any longer I sit down to write, and I try
+                    to—to do it so I won't have to revise it, won't have to do it again.
+                    Sometimes it works. Sometimes I'll have to re-write and re-write and re-write
+                    and re-write.  Sometimes it—it never comes out to suit me. I'll
+                    throw it away. But occasionally I'm lucky, and the first time's enough.  But no
+                    writer can know beforehand whether he'll have to do it once or a dozen times,
+                    but he has got to please himself, and he will—he will curse it. He
+                    will curse his fate that he ever got into such a racket, but he will keep on
+                    until it's the best he can do with it. 
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.9" start="00:13:35.97" end="00:15:42.14">
+                    <head>Subsidizing Writers</head>
+                    <u who="WF">There was a young lady
+                    back there that—</u>
+                <u who="Q">I was just wondering if you thought that some sort of form of government
+                    subsidy <inaudible/> some of the European writers <inaudible/>?</u>
+                <u who="WF">I don't think I heard that too well. If you will <unclear>tell me again, ma'am</unclear>?</u>
+                <u who="Q">Do you think that artists in this country would benefit from some form of
+                    government subsidization <unclear>that is like</unclear> like the author
+                    programs Italy has or— ?</u>
+                <u who="WF">I don't think that an artist should be subsidized too much by anyone. I
+                    think that—that he has got to be free, and even a little hardship may
+                    be good for him. That—I'm assuming that most artists are like me,
+                    and—and they are lazy, and if they had too much money, they would do
+                    that much less work. <event desc="audience laughter"/> That if they ain't got
+                    much money, just enough to buy a little tobacco and occasionally a drink
+                    and—and something to eat, that they might work a little more. If it
+                    was too easy for them, they would put off the work. That—now, that's
+                    different from the opera because opera, theater, requires so much more money
+                    than the cost of a ream of paper and—and three or four pencils, so
+                    theater has got to be subsidized, and—and if—if private capital is ever
+                    obliterated then there will have to be subsidy to print the books, but
+                    the—the artist himself shouldn't be subsidized too much. He would be a
+                    little better off if he had to hold another job and—and wrote in his
+                    spare time because that would keep his—his work on the
+                    plane of the amateur, which it should be. That when he begins to think of
+                    himself as a professional writer, he is sunk. He's got to do it because it's
+                    fun. It's got to be a hobby.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio15.10" start="00:15:44.64" end="00:16:45.03">
+                    <head>Arthur Miller's Case</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, I'm <unclear>going to</unclear> put you on the spot with this. You say that a
+                    writer must write truth, and he must—therefore he must search for truth. If Arthur
+                    Miller is found guilty of contempt on the grounds that, as he claims,
+                    moral—his own moral character, which kept him from revealing the names
+                    of other writers in his <unclear>cell that he once visited</unclear>, would you
+                    publicly come out in favor of his position?</u>
+                <u who="WF">Sure. Yes, if—if there—there's something you believe
+                    is—is wrong to do, then don't do it, no matter who else disagrees with
+                    you. That would have nothing to do with—what whether he writes from
+                    now on, whether he's in contempt of—of court or not. Whether he is
+                    sent to jail or not would have nothing to do with what he writes. Yes, if you
+                    believe that something is wrong to do, don't do it.</u></div2>
+                <div2 type="dialog" id="wfaudio15.11" start="00:16:51.04" end="00:17:08.85">
+                    <head>Close</head>
+                    <u who="M">Are there any other questions? Well, Mr. Faulkner, we want you to
+                    know how glad we are that your demon let you come over here tonight and be with
+                    us, and we'll all remember this as a highlight of this year and probably a long
+                    time to come.</u>
+                <u who="WF">Thank you, ma'am. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

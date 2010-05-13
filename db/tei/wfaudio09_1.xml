@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]><TEI.2 id="wfaudio09_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio09_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio09_1</idno>
+                <idno type="analog tape">T-116</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="G">Frederick Gwynn</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-04-27">27 April 1957</date>
+                    <locale>Blotner's Novel and Gwynn's American Fiction Classes</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 27 April 1957</head>
+                <head>OCCASION: Blotner's Novel and Gwynn's American Fiction Classes</head>
+                <head>TAPE: T-116</head><head>LENGTH: 31:58</head>
+                
+                <div2 type="dialog" id="wfaudio09_1.1" start="00:00:00.00" end="00:00:32.05">
+                    <head>Opening</head>
+                    <u who="G">Mr. Faulkner's once again ready for anything. <event desc="audience laughter"/></u>
+                <u who="WF">And I hope you will take Mr. Gwynn at his word of anything. No matter
+                    how silly it might sound to you, ask it. I've talked to several young gentlemen,
+                    and they tell me that there's a feeling that the question has got to be one that
+                    the answerer will approve of. I think that's not—not a very good idea,
+                    so ask anything that—that you like.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.2" start="00:00:31.93" end="00:01:30.42">
+                    <head>Christmas and Christ</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, sometimes I've heard it said that Joe Christmas in <hi rend="italic">Light in August</hi> is 
+                    supposed to be a Christ figure.
+                    Now, there's some allusion to that or perhaps some evidence for it. He died at 33
+                        <unclear>at</unclear> his lynching. There's a few things like that. Did you
+                    intend for him to be a Christ figure?</u>
+                <u who="WF">No, not deliberately. That was coincidental. The writer has
+                    a—a storeroom of—of recollections, of traditions, of
+                    experience, of observation, that he uses in his trade, just as the carpenter has
+                    a storeroom of planks that he uses when he wants to build a fence or a house,
+                    and that's coincidental. I am writing about people, not about symbols, but when
+                    it seems to me the symbol is a—a good trick to use, then I will use
+                    the symbol.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.3" start="00:01:35.23" end="00:01:48.51">
+                    <head>Exchange with Audience</head>
+                    <u who="Q">Can you put that microphone a little closer to you or something?</u>
+                <u who="G">That is not a public address system.</u>
+                <u who="Q">Oh, it isn't?</u>
+                    <u who="G"><unclear>It's a</unclear> tape recorder.</u>
+                <u who="WF">Well, I'll—I'll try to speak louder then.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.4" start="00:01:54.47" end="00:02:56.43">
+                    <head>Writing Habits</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">This is a silly question, but I—I'm curious about your daily habits of
+                    writing. Do you make yourself write so often every day or do you 
+                        <unclear>wait for the mood?</unclear> or—?</u>
+                <u who="WF">No, I am a very disorderly person. I don't know anything about discipline,
+                    and that system works with some writers, but it never has worked with me. I put
+                    off writing as long as I can because I don't like the—the mechanics
+                    of—of getting the words down on paper. I put it off as long as
+                    possible, and then when I can't put it off any longer, I seem to have generated
+                    enough back pressure to where it goes for 10 or 12 hours some
+                    day—sometimes. Then I will go to bed and sleep, and I will eat. Then I
+                    will write again for ten or twelve hours the next day, until the steam runs out,
+                    and then I will do nothing as long as I can put it off. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.5" start="00:03:04.51" end="00:04:46.40">
+                    <head>Writer's Sources</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">In your book, <hi rend="italic">Light in August</hi> would you say that
+                    the incidents that occurred there <inaudible/> were taken from life
+                    that you actually happen to know about or were they more or less your
+                    imagination? Could you—could you give me some idea if it's
+                    half-imagination and half-truth or—</u>
+                <u who="WF">The writer has three sources: imagination, observation, and experience,
+                    and he probably can't say himself just how much of which he has used when. I do
+                    think that he feels that he can improve just a little on—on the world
+                    as God made it and on people as God made them because he has got to do his job
+                    in, well, five hours where God can take sixty years to complete a—a—a
+                    human being. I think that the writer himself don't know how much he saw, how
+                    much he imagined, how much he remembered, how much he read, but he certainly has
+                    no compunctions about taking what he needs from any source. He will steal from
+                    another writer without hesitation. <event desc="audience laughter"/> He will use
+                    his own observation, his own experience without hesitation, no matter how 
+                    unhappy or how shameful it might have been. Because he is trying to—to
+                    create flesh and blood people that will have three dimensions, that
+                    will—can stand up and cast a shadow behind them.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.6" start="00:04:54.95" end="00:05:42.47">
+                    <head>Plot v Character</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, do you believe that all fiction has to be plotted at the
+                    beginning, a body and an ending <unclear>in</unclear> your mind, or go
+                    ahead and work it out?</u>
+                <u who="WF">Some people have to have a plot, a framework, to begin on. I never did
+                    because I think of—of mine as—as people, the characters, and
+                    once they have come alive and have three dimensions, then they take charge of
+                    the story. All I do is to run along at top speed behind them and try to put it
+                    all down that they do and say. I've never—never used a plot,
+                    and—and in my own case, I would waste my time if I tried to think of a
+                    plot. I probably couldn't think of a plot.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.7" start="00:05:47.09" end="00:06:24.41">
+                    <head>Opinion of Tennyson</head>
+                    <u who="Q">Mr. Faulkner, is your opinion of Tennyson in <hi rend="italic">Light in
+                        August</hi>, as expressed by Hightower's remark that reading Tennyson is
+                    "like listening in a cathedral to a eunuch chanting in a language which he does
+                    not even need to not understand," is that your opinion of Tennyson?</u>
+                <u who="WF">No, sir, that was Hightower's opinion, and I'm not responsible for his
+                    opinion. <event desc="audience laughter"/> I have a—a different
+                    opinion of Tennyson myself, that when I was—was younger, I read
+                    Tennyson with a great deal of pleasure. I can't read him at all now.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.8" start="00:06:32.11" end="00:07:24.44">
+                    <head>When Bon Knows</head>
+                    <u who="G">In <hi rend="italic">Absalom, Absalom!</hi>, which you said you didn't
+                    remember very well last time, do you happen to remember when Charles Bon
+                    realizes that Sutpen is his father? Is it before or after he leaves New Orleans
+                    to go to the university?</u>
+                <u who="WF">I should think that—that his mother dinned that into him as
+                    soon as he was big enough to remember, and that he came deliberately to hunt out
+                    his father, not for—for justice for himself, but for revenge for his
+                    abandoned mother. He must have known that.  That must have been in
+                    his—the background of his childhood, that this—this
+                    abandoned woman never let him forget that.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.9" start="00:07:24.45" end="00:08:56.60">
+                    <head>Bon and Oedipus</head>
+                    <u who="G">Does the New Orleans lawyer have personal gain in mind in helping Bon and
+                    his mother?</u>
+                <u who="WF">Possibly, yes. Yes, when he located Sutpen, knew that Sutpen was a
+                    wealthy man in his time, yes, he thought there would be gain, but Bon didn't
+                    want gain, he wanted revenge, for his mother.<lb/>
+                    Yes, sir.</u>
+                <u who="Q">Then isn't that <unclear>a fairly close</unclear> parallel to the whole
+                    Oedipus situation?</u>
+                <u who="WF">No, I can't say. It may be the—the writer is so busy writing
+                    his own characters that he hasn't got time to find where they follow classical
+                    patterns. It may be that since problems of the human heart are constant, they
+                    don't change, that the—the dramatic shape of—of man's
+                    conflict with himself and his fellows or—and his environment do follow
+                    a pattern. Maybe they're—that—that the story of Oedipus was not the story
+                    of Oedipus at all. It was the story of any man in that situation, that the
+                    patterns—there're too few stories that one can tell. There're only two
+                    or three stories actually, and any writer has got to repeat what was written
+                    before him.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.10" start="00:09:07.38" end="00:09:48.94">
+                    <head>Knowing His Characters</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, you say that your characters create the situation. Do you
+                    know your characters very, very well before you start your stories or do you
+                    depend upon them, knowing them more thoroughly as you go along writing?</u>
+                <u who="WF">I think I know them very well because of the laziness I mentioned. I put
+                    off writing it as long as possible, but it's still going on, churning around up
+                    here, and when they become—when I—I know them completely,
+                    that's when the urge is irresistible. I've got to get to work then. So I imagine
+                    that I know the character pretty well, though they do surprise me, too, in what
+                    they do.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.11" start="00:09:50.48" end="00:10:58.39">
+                    <head>Snopes Trilogy</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">When you write a—a series of books or two or three concerning the same
+                    characters, like <hi rend="italic">The Hamlet</hi> and then a number of years
+                    later write <hi rend="italic">The Town</hi>, when you finish <hi rend="italic">The 
+                        Hamlet</hi>, do you say yourself, "Well, I'm through with these people,
+                    there they are"?  And you leave them with no intention of going on later and
+                    picking them up again, and then they become active in your mind again, and
+                    you've got to do something else with them, or did you have an idea of writing a
+                    trilogy when you started <hi rend="italic">The Hamlet</hi>?</u>
+                <u who="WF">That was a complete, intact idea. When I thought of Flem Snopes, I saw
+                    like a flash of lightening the whole story, from Frenchmen's Bend on through
+                    Jefferson to his death. When I began to write it, I saw that it couldn't
+                    be—I thought at first it could be done in one volume. I found out it
+                    couldn't, and when I'd written about a hundred thousand words, I knew I had to
+                    quit. Nobody would read more than that, so it would <event desc="audience laughter"/> have to be another volume.  But the story
+                    was—was intact as soon as I thought of Flem Snopes.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.12" start="00:11:07.82" end="00:11:58.10">
+                    <head>Absalom and Race</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">How far do you think the relationship between Charles Bon and Sutpen
+                    parallels what you consider the generally racial situation in the South?</u>
+                <u who="WF">It was a—a manifestation of a general racial system in the
+                    South, which was condensed and concentrated as the writer has got to do with any
+                    incident or any character he takes, for the reason that he hasn't got sixty
+                    years. He has got to do his job in—between the covers of a book, but
+                    that is—epitomized a—a constant, general condition in the
+                    South, yes.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.13" start="00:12:02.27" end="00:13:51.55">
+                    <head>Changing Southern Prejudice</head>
+                    <u who="WF">Yes,  sir.</u>
+                <u who="Q">Sir, do you think the South can handle the problem of
+                        <unclear>de</unclear>segregation and integration <unclear>better</unclear>
+                    if they are left alone or do you think that Calvinism or
+                        <unclear>narrow-mindedness</unclear> that you expressed in a lot of your
+                    books is present <unclear>and if so—do you think that they 
+                        will—won't get rid of it</unclear>?</u>
+                <u who="WF">I think that the Southerner, the—the provincial backwoods
+                    Southerner, will have to be let alone because he is—he is ignorant, he
+                    is proud, and he is—is limited to where he will let nobody tell him
+                    what he must do. It's a—a childish sort of recalcitrance, that
+                    anyone—when he is told that he must do something, he will do the
+                    opposite just to show them. It becomes a principle with him. He knows that he
+                    is—is wrong, that he has a condition which must be changed, and he has
+                    been trying to change it by his own methods. He's too slow about it. He
+                    should've known that this Supreme Court decision would be made. There was
+                    a—a lawyer in my town that told people fifteen years ago that sooner
+                    or later the Supreme Court would have to say that, but nobody believed him. They
+                    were—in their—their slow way, they were doing things to improve the
+                    Negro's condition. When the Supreme Court decision came out saying they must do
+                    it now, people that—that were working in their slow way toward it,
+                    took the other side. They say that the government shall not tell us what we will
+                    do, can do, must do, in our own country, with our own people, with our own
+                    culture and system.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.14" start="00:13:59.25" end="00:15:12.17">
+                    <head>The Ku Klux Klan</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">There are so many parallels of violence in your writings which suggest
+                    the actions of the Ku Klux Klan.  I am curious to know why you have never
+                    mentioned it directly that I know of.</u>
+                <u who="WF">The—the spirit that moves a man to put on a sheet
+                    and—and burn sticks in your yard is—is—is pretty prevalent in
+                    Mississippi, but not all Mississippians wear the sheet and burn the sticks. That
+                    they scorn and—and hate the—and look with contempt on the
+                    people that do, but the same spirit, the same impulse, is—is in them
+                    too, but they are going to—to use a different method from wearing a
+                    nightshirt and burning sticks. The—the Ku Klux Klan is—is
+                    the—the dull dreary minority. There's nothing dramatic enough in the
+                    Ku Klux Klan for me to have needed to use that in a story, though I can't say
+                    that some day I won't need to use it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.15" start="00:15:15.63" end="00:15:49.89">
+                    <head>Absalom's Erotics</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, I was disturbed by a remark you made in <hi rend="italic">Absalom,
+                        Absalom!</hi> You said that Charles Bon made his half-sister the vessel of
+                    love for his half-brother. I didn't quite understand that.</u>
+                <u who="WF">I will have to read that book again. I don't remember that myself.
+                        <event desc="audience laughter"/> I— I will have to—if
+                    Mr. Gwynn would look up that passage for me, if—if you remember it, then I'll read
+                    it, and the next time we have a meeting, ask that again, and I'll—maybe I can have an
+                    answer for you.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.16" start="00:16:02.19" end="00:17:24.16">
+                    <head>Writing for Effect</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">I wonder if when you write you have a particular, definite effect in mind
+                    that you want to achieve, or do you want the reader to bring their own
+                    experience into <unclear>focus</unclear> <inaudible/> interaction which will produce immediate
+                    reactions <inaudible/>?</u>
+                <u who="WF">Yes, but that is—is also coincidental. I think the writer
+                    is—has thought of something from observation, imagination or
+                    experience, of man in conflict with himself, with his problems, which is so
+                    moving that to him it is worth showing to other people, and he tries to show it
+                    to other people in the most effective way. If it seems to him it's best
+                    to—to ask the reader to do a little work, too, then he does it that
+                    way. If it's best to be explicit, he does it that way. But it's no deliberate
+                    desire to—to make reading— the reading difficult to anyone
+                    at all. He is simply trying to show something which moved him so much, he
+                    thought it was important enough to put down on paper, so that other people could
+                    see that this was true, this was moving, this was funny or it was tragic, or this
+                    is man in conflict with his eternal problems.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.17" start="00:17:28.97" end="00:18:30.15">
+                    <head>Sound and Fury's Chronology</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Was the fact that <hi rend="italic">The Sound and the Fury</hi> was
+                    written so confusingly the fact that it's a story told by an idiot <inaudible/>? Why—why
+                    is it introduced backwards and forwards at different times?</u>
+                <u who="WF">It seemed to be the most moving way to tell that story was to show what
+                    that—that idiot child saw. I wrote that. I thought that would be all
+                    of it, and then I realized that wasn't enough, so I had to write more. Then
+                    I—I let another brother tell it, and that wasn't enough, so I let the
+                    third brother, the second brother tell it, and that still wasn't enough, and
+                    then I let Faulkner try it for a while, and that still wasn't enough. That book
+                    is still not finished, that I never did tell something which seemed so true, and
+                    so moving, and so tragic, and so passionately beautiful to me that I wanted to
+                    show it to people, and I didn't do it. It was a failure.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.18" start="00:18:31.88" end="00:20:39.83">
+                    <head>Sound and Fury's Stylistics</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, in <hi rend="italic">The Sound and the Fury</hi>, can you
+                    tell me exactly why some of that is written in italics? What does that
+                    denote?</u>
+                <u who="WF">I had to use some method to indicate to the reader that this idiot had
+                    no sense of time, that what happened to him ten years ago was just yesterday.
+                    The—the way I wanted to do it was to use different colored inks, but
+                    that would have cost so much the publisher couldn't undertake it.</u>
+                <u who="Q">Doesn't that go on with Quentin, too?</u>
+                <u who="WF">Yes, because he was about half-way between madness and sanity. It wasn't
+                    as much as—as in Benjy's part, because Quentin was only half way
+                    between Benjy and Jason. Jason didn't need italics because he was quite
+                    sane.</u>
+                    <u who="Q">And another thing I—I noticed, you don't advise that people have to have a
+                    subject, a predicate, and a verb, and all those things. <event desc="audience laughter"/></u>
+                <u who="WF">Well, I—I think that's really not a fair question. <event desc="audience laughter"/> I was—I was trying to—to tell
+                    this story as it seemed to me that idiot child saw it. And that idiot child, to
+                    me, didn't know what a question, what an interrogation was. He didn't know too
+                    much about grammar. He spoke only through his senses.</u>
+                <u who="Q">I'm referring mostly to Quentin, and he certainly—he attended
+                    Harvard. He should have known.</u>
+                <u who="WF">Well, Quentin was—was an educated half-madman, <event desc="audience laughter"/> and so he dispensed with grammar. Because it was
+                    all clear to his half-mad brain, and it seemed to him, it would be clear to
+                    anybody else's brain, that what he saw was quite logical, quite clear.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.19" start="00:20:43.10" end="00:21:41.40">
+                    <head>The Town's Italics</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, in <hi rend="italic">The Town</hi> do italics indicate time
+                    annotation? Were the italics in <hi rend="italic">The Town</hi> used as they
+                    were in <hi rend="italic">The Sound and the Fury</hi>?</u>
+                <u who="WF">I don't remember that book either. That was a year ago. I
+                    think that the italics there were mostly for emphasis, though there could've
+                    been times when I used italics to indicate that something definitely distant in
+                    the past had been brought into the present. I don't remember, but then
+                    that's—has become more or less a universal trick, I think, to use
+                    italics for that reason, to bring into the present something out of the distant
+                        past.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.20" start="00:21:45.82" end="00:23:32.41">
+                    <head>Love in Light in August</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">This is another naïve question. In trying to get at a meaning
+                    that ties all the characters together in <hi rend="italic">Light in August</hi>,
+                    it seems that all of them, in one way or another, have been deprived of love in
+                    one form or another, and are trying to find something. Did it have some sort of
+                    meaning like that to you?</u>
+                <u who="WF">That's—that's possible. Of course, I didn't think of that at
+                    the time. I was simply writing about people, but that's—that's
+                    possible. That's—that's valid. But that too was coincidental with the
+                    writer.</u>
+                <u who="Q">Well, they were all put into difficult circumstances, more or less, cut
+                    off, sort of.</u>
+                <u who="WF">Well, yes, but then so many people are. So many people are seeking
+                    something, and—and—and quite often it is love. It don't have to be love
+                    between a man and woman. It's—to be—be one with some
+                    universal force, power that goes through life, through the world. It could take
+                    the form of—the object of it could be a man or woman because that is
+                    a—a—a part of man's or woman's instinctive nature, to—to have
+                    an object, an immediate object, to project that seeking for love on.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.21" start="00:23:32.99" end="00:24:37.06">
+                    <head>Theories of Evolution</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Are you—in your—in your statement just made, it seems
+                    that you are more a partisan of the Lamarckian theory of evolution than you are
+                    of the Darwinian theory. However, as you know, <unclear>clearly</unclear>, the
+                    mechanical version of the step-by-step process is not related to
+                        <unclear>any</unclear> universal force whereas as you, just now, did, and I
+                    wondered if you had obtained that idea by early reading of Butler, Samuel
+                    Butler, who took Lamarckian theory—</u>
+                <u who="WF">I can't say. I—I think that there are some beliefs that maybe
+                    one inherits, that he don't have to get from—through an intellectual
+                    process like reading. Probably I—that was simply a part of me, that
+                    there must be some universal electricity that holds this ramshackle earth
+                        together.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.22" start="00:24:39.95" end="00:25:01.50">
+                    <head>His Favorite Work</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Which one of your works do you prefer and <unclear>what</unclear> <inaudible/>?</u>
+                <u who="WF">The one that—that failed the best, which was <hi rend="italic">The Sound and the Fury</hi>. None of them are quite good enough to suit me
+                    yet. That's why I keep on writing another one. I like <hi rend="italic">The
+                        Sound and the Fury</hi> because that gave me the most anguish, the most
+                        trouble.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.23" start="00:25:04.57" end="00:25:55.37">
+                    <head>His First Reader</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Mr. Faulkner, I think a—a student's natural reaction after writing a paper,
+                    or something at least to hand in at school, is to hand it to his roommate or
+                    somebody close to him and have him read it and give an opinion on it. Do you do
+                    this after you've written a story or a novel? Is there anybody in your family or
+                    close friends that you give it to and just say, "What do you think of this?"</u>
+                <u who="WF">No, because I have more confidence in my own judgment than anybody
+                    else's, and I know that it don't suit me yet, so I have never thought of showing
+                    it to anybody else because I don't really care what they think. It hasn't suited
+                    me yet. Probably if I do do something that does suit me, I will worry and harass
+                    everybody to death to look at it. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.24" start="00:25:57.68" end="00:26:11.15">
+                    <head>Reasons for Writing</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Would you say that you work primarily to express yourself <unclear>or more</unclear> <inaudible/> to
+                    communicate to others?</u>
+                <u who="WF">I would say I write primarily because it's fun.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.25" start="00:26:15.19" end="00:28:25.63">
+                    <head>Writing Sanctuary</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">In the book <hi rend="italic">Sanctuary</hi>, could you tell us how you
+                    feel about the story, or what brought you to write it, to bring it
+                        out—?</u>
+                <u who="WF">I have told this before. If any of you were at the class and heard it,
+                    please forgive us. I had written several books. I didn't need money then because
+                    I was single and footloose, and there were things I could do for money. I was a
+                    bootlegger. I was a commercial aeroplane pilot. Then I got married, and I needed
+                    money, and I had—had got the curse of writing then, so I thought I
+                    would make a little money writing a book, and I thought of the most horrific
+                    story I could imagine and wrote it, sent it to the publisher and he wrote back,
+                    "Good God, if we print this, we'll both be in jail." <event desc="audience laughter"/> So I wrote two more books and forgot about it.
+                    Then one day I got the galley proofs of <hi rend="italic">Sanctuary</hi>, and I
+                    looked at it, and I didn't need money then probably, though I like to think that
+                    I had gotten my breath and could see that the whole thing was basely conceived
+                    for a base purpose, and I wrote the publisher, "Let's throw it away." He said, "We
+                    can't do that because I have spent money to have plates made." And I said, "Well,
+                    I'll have to rewrite it because I can't let it be printed this way." And he said,
+                    "All right, if you will pay your half of the new plates, I'll pay half, and you can
+                    rewrite it." So I got a job and earned the two hundred and seventy dollars to pay
+                    my half of the new plates and rewrote the book, and this time, I did the best I
+                    could with it. I'm—I'm not ashamed of the book as it is. I'm ashamed
+                    of the—the primary base notion to write something to make money, which
+                    I shouldn't have done, that I—I betrayed something somewhere when
+                    I—when I did that, but I did the best I could with the material as it
+                    was, and so I'm not ashamed of the book now. It's not one that I would do again,
+                    but I'm not ashamed of it.</u></div2>
+                <div2 type="dialog" id="wfaudio09_1.26" start="00:28:30.64" end="00:29:15.96">
+                    <head>Sanctuary and Requiem</head>
+                    <u who="G">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="G">When you revived Temple Drake and Gowan Stevens in <hi rend="italic">Requiem 
+                    for a Nun</hi>, I take it that was a later process. It
+                    wasn't like <hi rend="italic">The Hamlet</hi> and <hi rend="italic">The
+                        Town</hi> and <hi rend="italic">The Mansion</hi>, where you conceived of the
+                    whole thing at once?</u>
+                <u who="WF">Yes, that's right. It was—I began to think, What would be the
+                    future of that girl?  And then I—I thought of, What could a marriage
+                    come to which was founded on the vanity of a—of a weak man. What would
+                    be the outcome of that? And suddenly that seemed to me dramatic
+                    and—and worthwhile, but that was—you're quite right. I
+                    hadn't thought of that when I wrote <hi rend="italic">Sanctuary</hi>.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.27" start="00:29:20.47" end="00:30:07.41">
+                    <head>The Writer's Development</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, from your remarks, I would say that you have a belief that
+                    in developing the characters in the story that the writer also develops, maybe.
+                    Did I gather—is that correct?</u>
+                <u who="WF">I'm sure he does, that the writer is learning all the time he writes,
+                    and—and he learns from his own people. Once he has conceived them
+                    truthfully and has stuck to—to the verities of—of human
+                    conduct, human behavior, human aspirations, then he learns. Yes, they teach him.
+                    They surprise him.  They teach him things that he didn't know. They do things.
+                    And suddenly he says to himself, "Why, yes, that is true, that is so."
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.28" start="00:30:12.22" end="00:30:59.75">
+                    <head>Light in August</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Referring to an earlier question, did you say that <hi rend="italic">Light in August</hi> 
+                    argues <inaudible/> for the acceptance of an inevitably tragic view of life?</u>
+                <u who="WF">I wouldn't think so, that the only person in that book that accepted a
+                    tragic view of life was Christmas, because he didn't know what he was and so he
+                    deliberately repudiated man. He didn't belong to man any longer. He deliberately
+                    repudiated man. The others seemed to me to have had a—a very fine
+                    belief in—in life, in the basic possibility for happiness and
+                    goodness—Byron Bunch and Lena Grove, to have gone to all that
+                        trouble.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.29" start="00:31:01.86" end="00:31:30.15">
+                    <head>Populating Yoknapatawpha</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">This genealogy with all these people that were connected with each other,
+                    the McCaslins and everybody—was that made up before the books were
+                    written or as each one was written?</u>
+                <u who="WF">No, that came along as these people appeared. I would think
+                    of—of one character to write a story about, and suddenly he would drag
+                    in a lot of people I never saw or heard of before, <event desc="audience laughter"/> and so the—the genealogy developed
+                        itself.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio09_1.30" start="00:31:32.26" end="00:31:56.89">
+                    <head>Naming Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, some of your names in your books are very suggestive, very
+                    highly suggestive. I wonder if it's that or just pure coincidence or did you intend
+                    to make names like Gail Hightower, Joanna Burden as
+                    being symbolic of their own personal character?</u>
+                <u who="WF">Well, that is out of the tradition of the—the
+                    pre— <event desc="end of recording"/></u> </div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

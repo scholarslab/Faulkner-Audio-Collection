@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio30_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio30_1 and wfaudio30_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio30_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-12">12 May 1958</date>
+                    <locale>Representatives from Other Colleges</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 12 May 1958</head>
+                <head>OCCASION: Representatives from Other Colleges</head>
+                <head>This clip was created by splicing the end of T-145a and the beginning of T-145b together.</head>
+                
+                <div2 type="dialog" id="wfaudio30_1_2.1" start="00:00:00.00" end="00:02:09.55">
+                    <head>Spliced clip</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">I'm curious as to when—why <inaudible/> I wonder how the modern
+                        writer justifies using violence in his work. <unclear>I've been struck by it and
+                            sometimes upset by it.</unclear></u>
+                    <u who="WF">I think that is one of the tools. That's a particular saw, hammer that the
+                        particular carpenter feels he can do most with, that he might not like the
+                        violence either. It's simply because he does not have a better tool to show man
+                        in his tragic or comic moments inside the predicament. That is, the dramatic
+                        story is, man is faced—the frail, fragile creature of flesh and bone,
+                        mostly water, in a ramshackle universe stuck together with electricity, faced
+                        with problems which are usually bigger than he is. The story is, does he face
+                        it? Does it lick him? Or does he beat it? Or if it licks him, does he get beaten
+                        to his knees still, as Hemingway says, "Looking good." That, I think,
+                        is—is what anyone writes about. It's man that is striving to be braver
+                        than he might be, more honest than he might be, to be compassionate.</u>
+                    <u who="Q">And it's so important in twentieth century, more than in other centuries <inaudible/>
+                        <unclear>to write about this</unclear>?</u>
+                    <u who="WF">Well, no, it's always been important. I think that's what makes man
+                        endure and what will cause him to endure, that he is capable of wanting to be
+                        brave and to be honest and to be compassionate, and he will last. He's outlasted
+                        his dinosaurs. He'll outlast his atom bomb. My belief is that the last sound on
+                        earth, when this earth is a red rock freezing, will be two folks building an
+                        airship and fussing about where they're going next. <event desc="audience laughter"/> Man is all right. You can't beat him. No,
+                        there'll be three. The other one will be writing a book about it. <event desc="audience laughter"/>
+                    </u>                
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

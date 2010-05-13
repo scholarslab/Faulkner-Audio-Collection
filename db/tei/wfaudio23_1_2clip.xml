@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio23_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio23_1 and wfaudio23_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio23_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="AKD">A. K. Davis</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-04-24">24 April 1958</date>
+                    <locale>Undergraduate Writing Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 24 April 1958</head><head>OCCASION: Undergraduate Writing Class</head>
+                <head>This clip was created by splicing the end of T-142a and the beginning of T-142b together.</head>
+                
+                <div2 type="dialog" id="wfaudio23_1_2.1" start="00:00:00.44" end="00:02:00.44">
+                    <head>Spliced clip</head>
+                        <u who="B">Sir, this sounds an awful lot like
+                            a novel called <hi rend="italic">The Sound and the Fury</hi>
+                            <unclear>with</unclear> Quentin Compson wanting to love people and the same sort
+                            of relationship with his sister.</u>
+                        <u who="WF">I don't quite agree with you. I don't believe that—that
+                            Quentin and Holden were very much alike except in being a little too sensitive
+                            and coming from a somewhat similar background of—of people that
+                            were—were over-intelligent but incapable of—of any strength
+                            of—of mutual affection and tenderness, which, as I got it,
+                            was—was Holden's home.</u>
+                        <u who="AKD">Mr. Faulkner, Holden wasn't grown up, and Quentin was grown up. He was
+                            holding onto something. <inaudible/> He was a case of arrested
+                            development, and Holden was a case of <inaudible/>. Isn't that true?</u>
+                        <u who="WF">Yes, sir, there was that difference.</u>
+                        <u who="AKD">I don't know whether I read Quentin right or not, but he was holding onto
+                            an ideal, wasn't he, sir?</u>
+                        <u who="WF">Yes, sir.</u>
+                        <u who="AKD">That—that simply could not be lived up to in his terms.</u>
+                        <u who="WF">Yes, that's right. That couldn't have been lived up to in any time
+                            maybe. But Holden Caulfield was simply looking for something which should be
+                            everybody's right, not only a privilege, but everybody's right, to find mankind
+                            and—and love mankind and be accepted into mankind, and he couldn't,
+                            because mankind, as I tried to say in my paper, in Holden's terms, wasn't there anymore.</u>
+                </div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

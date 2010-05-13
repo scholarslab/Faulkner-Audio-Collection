@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+
+<TEI.2 id="wfaudio01_1">		
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio01_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio01_1</idno>
+				<idno type="analog tape">T-120_Gwynn</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<persName id="G">Frederick Gwynn</persName>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-02-15">15 February 1957</date>
+					<locale>Gwynn's American Fiction Class</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 15 February 1957</head>
+				<head>OCCASION: Gwynn's American Fiction Class</head>
+				<head>TAPE: T-120_Gwynn</head><head>LENGTH: 51:03</head>
+				
+				<div2 type="dialog" id="wfaudio01_1.1" start="00:00:02.90" end="00:01:28.64">
+					<head>Introduction</head>
+					<u who="G"> I'd like for us to introduce this group to Mr.
+							Faulkner. People generally in the back, as I see it, are
+						dedicated souls who've given up a great deal, maybe even breakfast, <event desc="audience laughter"/> to come
+						in here and who are official auditors of this class today, and scattered
+						toward the front are the real card-carrying, dues-paying members of a class
+						in American fiction, who have a few questions and a few comments, possibly,
+						on work we've been doing in the course, which has taken us from the—when was
+						it—the first day that Ikkemotubbe came back from New Orleans, right up
+						through the McCaslin and Compson sagas, to the Easter when Dilsey said she'd
+						seed the first and the last. And as for introducing Mr. Faulkner to this
+						group, it is something that needs not to be done, but I think it might make
+						this moment even more historical in our minds if I remind you that there is
+						no writer in the world today whose prestige is higher than this gentleman
+						from Mississippi. Mr. Faulkner, we will be at ease, and questions may or may
+						not come in the next few minutes. <event desc="audience laughter"/>
+					</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.2" start="00:01:29.65" end="00:02:45.91">
+					<head>That Evening Sun</head>
+					<u who="G">I know I've got one somewhere, so if I may, I'd like to ask what you
+						felt was the relationship between <hi rend="italic">The Sound and the
+							Fury</hi> and the short story, "That Evening Sun." Did one come before
+						the other in some significant way?</u>
+					<u who="WF">The—"That Evening Sun" must have come after <hi rend="italic">The
+							Sound and the Fury</hi>. The first time I thought of—of those children,
+						Caddy and Jason and Quentin, was when I did <hi rend="italic">The Sound and
+							the Fury</hi>, so the other story must've come after it, though it's
+						hard to—for me to unravel these people, to say when one came to life. It's
+						very difficult. I myself can't distinguish one book from another sometimes.
+						I think not of books but of characters, and I can't remember which book has
+						which characters in it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.3" start="00:02:48.45" end="00:04:11.04">
+					<head>Finishing Sound and Fury</head>
+					<u who="G">Do you remember any kind of feeling of satisfaction when you finally
+						finished <hi rend="italic">The Sound and the Fury</hi>? I think most readers
+						feel a—a great equilibrium at the end there. Do you recall any such feeling
+						yourself?</u>
+					<u who="WF">No, I don't. That's the—the one that I love the best for the reason
+						that it was the most splendid failure. I think that—that they all failed.
+						Probably the reason the man writes another book is that he tried to—to tell
+						some very important and very moving truth and failed. He's not satisfied, so
+						he tries again. He writes another book, trying to tell some—the same
+						moving truth, since there's only one truth, and they fail.  And this one I
+						worked hardest at.  It's—it's like the—the idiot child
+						that the parents love the best. This one was the—the most splendid failure,
+						but I—I wish I hadn't done it because if I could do it now, I think I could
+						do it better. Of course, I couldn't, <event desc="audience laughter"/> but I
+						would like to try it again if I had never written it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.4" start="00:04:14.57" end="00:05:23.02">
+					<head>Character vs Plot</head>
+					<u who="Q">Mr. Faulkner—</u>
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">This is a question about writing in general. I think maybe you just
+						answered it, but they say until Hawthorne came along that there were two
+						ways to construct a story: either start with the characters and then a plot,
+						or start with a plot and make up your characters, and they say that
+						Hawthorne started with the idea and invented both. And I wonder, I know
+						there's no one formula to producing a story, but I just wonder where you
+						start most often and what you feel is most important, what pattern you
+							<unclear>have worked out</unclear> to use?</u>
+					<u who="WF">Three methods you just stated, all will work but—but
+						none—neither or none are more important than the others, and no one can say
+						just what method the story demands. Apparently there's something inside the
+						man or the woman that must be—be told, must be written. It could be an
+						anecdote. It could be a character. It could be an idea, but I don't think
+						you could say which system to—or which pattern to assume in order to—to
+						create a story or a book.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.5" start="00:05:23.03" end="00:05:42.09">
+					<head>Caddy in the Tree</head>
+					<u who="Q">You have no favorite pattern? It just depends on the individual—?</u>
+					<u who="WF">That's right, that's right. It could be an anecdote. <hi
+							rend="italic">The Sound and the Fury</hi> came out of an anecdote, a
+						picture of a—a little girl, the muddy seat of her drawers when she climbed
+						the tree to look in a parlor window, and that's—the book came from that.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.6" start="00:05:49.16" end="00:07:12.76">
+					<head>Telling Caddy's Story</head>
+					<u who="Q">Mr. Faulkner</u>
+					<u who="WF">Sir.</u>
+					<u who="Q">In <hi rend="italic">The Sound and the Fury</hi>, the
+						first three sections of that book are narrated by one of the—of the four Compson
+						children, and in view of the fact that Caddy figures so prominently, is
+						there any particular reason why you didn't have a section with—giving her
+						views or impressions of what went on?</u>
+					<u who="WF">That's a good question. That—the explanation of that whole book is
+						in that. It began with the—the picture of the—the little girl's muddy
+						drawers, climbing that tree to look in the parlor window with her brothers
+						that didn't have the courage to climb the tree waiting to see what she saw.
+						and I tried first to tell it with one brother, and that wasn't enough. That
+						was Section One. I tried with another brother, and that wasn't enough. That
+						was Section Two. I tried the third brother, because Caddy was still to me
+						too beautiful and too moving to—to reduce her to telling what was going on,
+						that it would be more—more passionate to see her through somebody else's
+						eyes, I thought.  And that failed, and I tried myself, the fourth section, to
+						tell what happened, and I still failed. <event desc="audience laughter"/>
+						So—</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.7" start="00:07:12.77" end="00:07:38.92">
+					<head>Writing Sound and Fury</head>
+					<u who="Q">Mr. Faulkner, when you wrote this, did you have it thought out
+						beforehand, the whole sequences, or did they sort of evolve as you wrote
+						it?</u>
+					<u who="WF">It evolved as I wrote it. It began with the picture, as I said,
+						of—of the little girl climbing the tree to tell her brothers what was going
+						on in the room where the grandmother's funeral was taking place, and the
+						rest grew from that.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.8" start="00:07:39.91" end="00:08:12.48">
+					<head>Caddy and the Nazis</head>
+					<u who="G">Speaking of Caddy, is there any way of getting her back from the
+						clutches of the Nazis, <event desc="audience laughter"/> where she ends up
+						in—in the appendix?</u>
+					<u who="WF">I think that that would be a betrayal of Caddy, that it's best to
+						leave her where she is. If she were resurrected, there'd be something a
+						little shabby, a little anti-climatic about it, about this. Her tragedy, to
+						me, is—is the best I could do with it. Unless, as I said, I could start over
+						and write the book again, which I can't do.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.9" start="00:08:15.90" end="00:10:46.67">
+					<head>Truth vs Fact</head>
+					<u who="Q">Mr. Faulkner, since we still seem to be discussing <hi rend="italic"
+							>The Sound and the Fury</hi>, I have a question. In Parts Three and
+						Four of <hi rend="italic">The Sound and the Fury</hi>, the presentation of
+						character is usually clear and convincing. The reader can never forget the
+						viciousness of Jason or the amiable simplicity of Luster or the selfishness
+						of Caroline. The reader comes to know these people through watching them
+						act. At the same time, I shall say for the sake of discussion that the
+						action in these two parts occasionally seems contrived. For example, why
+						does not Candice solve the problem of getting money to her daughter by
+						depositing it in Quentin's name or by sending gifts to Quentin, gifts that
+						Jason could not use. Yet the vivid character development and ideas in this
+						novel depends upon the action as we have it. Does not this show one of the
+						dilemmas of art? That is, the difficulty of showing, at the same time,
+						realistic character and action, and since the one must be somewhat
+						sacrificed to the other, is not the expression of an idea or the
+						presentation of the character more important artistically than the writing
+						of realistic actions?</u>
+					<u who="WF">I would say that the—the creation of a character is the most
+						important of all. Is—that is what the—the writer's trying to do, that he—he
+						would use style when—when he thinks style is the tool best. He will use
+						misrepresentation when that's what he thinks will serve best. He will use
+						some—some outrageous—what—what am I trying to
+						think now? He—he will have—he's writing, talking about
+						one primary truth which has nothing to do with fact, so he will outrage
+						fact. He will outrage simplicity. If he can find no better way to—to tell,
+						to show some passionate and moving facet of the human heart, which moved him
+						so much that he couldn't let be what he had to write. Does that answer your
+						question? </u>
+					<u who="Q">Yes, sir.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.10" start="00:10:51.09" end="00:11:53.02">
+					<head>Quentin and Shadows</head>
+					<u who="Q">Mr. Faulkner—</u>
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">I am interested in the—in the symbolism in <hi rend="italic">The Sound and
+							the Fury</hi>, and I wasn't able to figure out
+						exactly the significance of the shadow symbol with Quentin. It's referred to
+						over and over again. He steps into the shadow, his shadow is before him, his
+						shadow is over him, after him, <unclear>behind</unclear>.  More importantly, what is the
+						significance of this shadow?</u>
+					<u who="WF">That wasn't a deliberate symbolism. I would say that that—that 
+						shadow that stayed on his mind so much was a—a foreknowledge of his own
+						death, that he was—death is here, shall I step into it, or—or shall I step
+						away from it a little longer? I won't escape it, but shall I accept it now,
+						or shall I put it off until next Friday or—I think that was—if it had any
+						reason that must have been it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.11" start="00:11:54.49" end="00:12:49.66">
+					<head>Using Symbols</head>
+					<u who="Q">Mr. Faulkner, on the subject of symbolism, two or three years ago
+						Carl Sandburg was asked to interpret one of his works <inaudible/>. He <inaudible/> that
+						he didn't read the stuff, he just wrote it, all of which in view of the fact
+						that too many people, particularly professors, go to this
+						extreme on symbolism. Do you think most authors are conscious at the time
+						they're doing symbols or using symbols, that—are they conscious of
+						everything they <unclear>bring</unclear> into it, or is this just something
+						a good artist automatically does without realizing it?</u>
+					<u who="WF">I don't think that he's conscious of it, unless as we said a moment
+						ago, symbolism is some tool that he is using for lack of a better one.  But,
+						no, he's—he's not conscious of it. The symbolism lots of times is read into
+						it. Of course, he put it there, but he didn't know it was there until
+						somebody told him about it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.12" start="00:12:55.73" end="00:13:16.92">
+					<head>The Bear as Symbol</head>
+					<u who="G">Certainly something like "The Bear," you must've felt that the
+						bear himself was—stood for something more than just a big bear, as—</u>
+					<u who="WF">Well, but he was such an obvious symbol. He represented the
+						vanishing wilderness. He was an obvious symbol.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.13" start="00:13:16.95" end="00:13:53.06">
+					<head>The Snake as Symbol</head>
+					<u who="Q">Sir, what sort of symbol was the snake? We discussed that in both
+						"The Bear" and in "Red Leaves."</u>
+					<u who="WF">Oh, the snake is—is—is the old grandfather, the old fallen angel,
+						the unregenerate immortal. The—the—the good and shining angel ain't very
+						interesting, you know. <event desc="audience laughter"/> It's the <unclear>dark</unclear>
+						proud one that's interesting.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.14" start="00:14:01.52" end="00:14:52.00">
+					<head>First Novel to Read</head>
+					<u who="Q">Sir, what would you advise a person to read first of yours?</u>
+					<u who="WF">Well, that's not a fair question to ask me because I would—I would
+						like anyone to try the one that I love the best, which is a poor one to
+						start on. If you are asking me to give an objective answer, I would say
+						maybe—maybe <hi rend="italic">The Unvanquished.</hi></u>
+					<u who="Q">Why would you select that one?</u>
+					<u who="WF">Because it's easy to read. <event desc="audience laughter"/>
+						Compared to the others, I mean.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.15" start="00:14:53.04" end="00:14:59.99">
+					<head>His Favorite Book</head>
+					<u who="Q">Would it be fair to ask you what is your favorite of your books?</u>
+					<u who="WF"><hi rend="italic">The Sound and the Fury</hi>, yes.</u>
+					<u who="Q">Thank you.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.16" start="00:15:02.52" end="00:16:45.12">
+					<head>Quentin and His Father</head>
+					<u who="B">Mr. Faulkner, I'd like to ask you about Quentin
+							<unclear>and</unclear> his father. I think many readers get the
+						impression that Quentin is the way he is to a large extent because of his
+						father's lack of values or the fact that he doesn't seem to pass down to
+						his son many values that will sustain him. Do you think that Quentin winds
+						up the way he does primarily because of that, or are we meant to see, would
+						you say, that the action comes primarily from what he is, just abetted by
+						what he gets from his father?</u>
+					<u who="WF">The action as portrayed by Quentin was transmitted to him through
+						his father. There was a—a basic failure before that. The grandfather had
+						been a failed brigadier twice in the Civil War. It was the—the basic failure
+						Quentin inherited through his father, or beyond his father. It was
+						a—it's—something had happened somewhere between the first Compson and—and
+						Quentin. The first Compson was a—a bold ruthless man who came into
+						Mississippi as a free forester to—to grasp where and when
+						he could and wanted to, and established what should have been a princely
+						line, and that princely line decayed.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.17" start="00:16:51.75" end="00:17:27.74">
+					<head>Re-reading His Books</head>
+					<u who="Q">Sir, how do you feel about your books after they've gone to press? Do
+						you reread them or do you feel that they're cast—cast in
+							stone?</u>
+					<u who="WF">I didn't hear you.</u>
+					<u who="Q">I said, how do you feel about your books after they've gone to press?
+						Do you reread them and puzzle over them or do you <inaudible/>?</u>
+					<u who="WF">No, I don't because by that time I know the book was not as good as
+						it should've been, and so I'm usually busy at another one. <event
+							desc="audience laughter"/></u>
+					<u who="Q">As a general rule, you never re-read?</u>
+					<u who="WF">No, that's—that one book the writer don't have to read any more.
+							<event desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.18" start="00:17:34.43" end="00:19:28.21">
+					<head>Getting Published</head>
+					<u who="Q">Sir, what are some of the problems that a person who is trying to
+						publish his first novel would run into? In other words, how may he to his—to his 
+						best advantage to get his first work in publication?</u>
+					<u who="WF">It's difficult to say. I think that if the writer is too interested
+						in getting that book printed to where that takes up that much of his time,
+						that he's not really a first-rate writer.  Probably the first-rate writer is
+						angry and mad, but—but only when he brings himself to think about that first
+						book. He's—he's working on the second one by that time. He's still trying to
+						tell that truth, which by—by then he knows he failed in the first one, so
+						he's—he's not interested in—in that book anymore. He wants it printed, of
+						course. The mechanics of it is simply to send it to a publisher and then
+						forget about it and work on the next one, and when it comes back, send it to
+						another publisher. <event desc="audience laughter"/> Forget about it until
+						you know that there's something basically wrong in that book, something
+						unprintable about it, and then put it away and write another one, and maybe
+						after you have written another one, you will have learned more about the
+						trade.  You can see what might've been mechanically wrong in the first one.
+				 You can go back to that. I've done that once, but I don't think that you
+						should worry too much about getting the stuff printed. The main thing is to
+						write it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.19" start="00:19:30.10" end="00:22:44.68">
+					<head>Wolfe and Failure</head>
+					<u who="Q">Sir, you are reported as having said that you rate writers according
+						to what they have attempted rather than what they have achieved. It seems
+						that Wolfe and Hemingway and yourself are primarily concerned with the
+						conflicts that plague and disturb a man's soul. In—in what particular way would
+						you say that Wolfe's attempt was greater than that of you or Hemingway?</u>
+					<u who="WF">In that—that he—he ventured more and tried harder to—to inscribe the
+						whole history of man's heart on the head of a pin, say. That's—that's not
+						clear. That's not exactly it. What I'm trying to say is that—that what any
+						writer wants to be is not better than—than the—his—his friend Hemingway or
+						his friend Dos Passos. He wants to be better than Cervantes or Dostoevsky,
+						and so I rate my coevals as to how near they were to Cervantes or Dostoevsky
+						in—only in relation to one another. That none of them, none of us, were quite
+						as good as Cervantes or Dostoevsky, that we all fail, that there's
+						no—there're no degrees of failure in—in art. It either is or it ain't.  And
+						Wolfe, in my opinion, risked more. He tried harder to—to use the short span
+						of—of one life to inscribe the history of the human heart on the head of the
+						pin. That Hemingway found a method that he could do marvelously well and
+						stayed in it. Wolfe didn't.</u>
+					<u who="Q">By that method, do you mean his—his style of writing short works in a
+						very pure, limited language?</u>
+					<u who="WF">Yes, that's right. That was—was perfect but minor.  But there're no
+						degrees of—of failure. No, the best is—is the best, and the best is—is to—to put
+						inside the covers of a book the—the complete turmoil and experience and 
+						insight of the human heart, which is what Cervantes did, what Dostoevsky
+						did, but—but Hemingway and us, the five that I mentioned, we—we attempted
+						that but none of us did it.  None of us failed worse—more than another, but
+						the best failure was the one that tried the hardest, that was the bravest,
+						that used the most courage, and that, in my opinion, was Wolfe.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.20" start="00:22:44.70" end="00:24:06.28">
+					<head>Hemingway's Old Man</head>
+					<u who="Q">Sir, do you rate Hemingway any higher since the publication of his
+						last book, <hi rend="italic">The Old Man and the Sea</hi>?</u>
+					<u who="WF">Not in—by the—the formula I use. I think that the last book was—was
+						his best, and now if we're talking of—of Hemingway, yes, that was his best,
+						that—that he has steadily improved, and the last, in my opinion, was the
+						best, and the next one should be still better, but it doesn't <unclear>look</unclear> 
+						<inaudible/>, but what he has done is enough for a man to—to die in peace with,
+						but it's not enough for a man to say, "I have done what I wanted to do," because
+						nobody can do quite that. Probably Dostoevsky and Cervantes felt
+							that way. Marlowe felt that way, probably. That if you ever do
+						write that perfect one, then you—you break the pencil and throw it away, and
+						there's nothing else to do except cut your throat. <event
+							desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.21" start="00:24:06.66" end="00:24:31.68">
+					<head>His Favorite Authors</head>
+					<u who="Q">Sir, when you are reading for your own pleasure, which
+							authors do you consistently return to?</u>
+					<u who="WF">The ones I came to love when I was eighteen, nineteen, twenty years
+						old. <hi rend="italic">Moby-Dick</hi>, the Old Testament, Shakespeare, a lot
+						of Conrad, Dickens. I read <hi rend="italic">Don Quixote</hi> every
+						year.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.22" start="00:24:40.88" end="00:25:52.22">
+					<head>Yoknapatawpha as Saga</head>
+					<u who="Q">Mr. Faulkner, you speak of writing the—the one great book, but in your
+						own works, you—you keep returning to this fictitious county you've made. You
+						don't consider that a pageant, the—the whole work. <unclear>It was</unclear>
+						from the Indians through the early settlers—?</u>
+					<u who="WF">No, it was not my intention to—to write a—a—a pageant of a—of a
+						county. I simply was using the quickest tool to hand. I was using what I
+						knew best, which was the locale where I was born and had lived most of my
+						life. That was just like the carpenter building the fence, he uses the—the—the 
+						nearest hammer.  It—only I didn't realize myself that I was creating a—a—a
+						pageantry of a particular part of the earth. That just simplified things to
+						me.</u>
+					<u who="Q">Well, of course <inaudible/> could be more than just the <unclear>development</unclear> of
+						a particular part of the earth—<inaudible/></u>
+					<u who="WF">Yes, it could be, sure. That's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.23" start="00:25:57.40" end="00:27:08.57">
+					<head>A Fable</head>
+					<u who="B">Mr. Faulkner, when for a time you left that area to go to France
+						in <hi rend="italic">A Fable</hi>, it must've appeared perhaps that it 
+						was a different aspect to this fundamental truth.</u>
+					<u who="WF">Yes.</u>
+					<u who="B">That you were—</u>
+					<u who="WF">But—but the same truth. It was still an attempt to tell that
+						fundamental, single, moving truth that was—was so moving and so disturbing
+						to me that I had to do something about it, and the only thing I knew to do
+						about it was to try to put it down on paper, and I was just using the
+						nearest and most available and simplest tool by leaving my apocryphal county
+						for another milieu. I wasn't trying to write a war story
+						nor trying to write another <hi rend="italic">War and Peace</hi> nor to—to
+						write <hi rend="italic">A Fable</hi> even. I was simply using the quickest,
+						the simplest tool to try to tell the same fundamental truth, which had 
+						worried me for fifty years.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.24" start="00:27:09.26" end="00:28:44.18">
+					<head>The Bear, Part Four</head>
+					<u who="G">In "The Bear," Mr. Faulkner, many readers come across Part Four and—and 
+						find it written in quite a different style than the other parts and the
+						conclusion—well, it gets far ahead in years beyond Part Five. Was there any
+						conscious plan in that?</u>
+					<u who="WF">Only this. "The Bear" was a part of a novel. That novel was—happened
+						to be composed of—of more or less complete stories, but—but it was
+						held together by—by one family, the—the Negro and—and the white phase of the
+						same family, the same people. "The Bear"—</u>
+					<u who="G"><unclear>I mean</unclear> <hi rend="italic">Go Down, Moses.</hi></u>
+					<u who="WF">Yeah, "The Bear" was just a—just a part of that—of a novel.</u>
+					<u who="G">So that it was all right for Ike to think ahead or <inaudible/> to run up
+						to his thirty-fifth year—</u>
+					<u who="WF">Yes, that's right, because the rest of the book was a part of his
+						past, too. To have taken that story out, to print it alone, I have always
+						removed that part, which I have done in one anthology.</u>
+					<u who="G">Yes, some of the textbooks do that.</u>
+					<u who="WF">As a—as a short story, a long short story, it has no part in it, but
+						to me "The Bear" is part of the novel, just a chapter in the novel.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.25" start="00:28:52.79" end="00:30:05.30">
+					<head>Becoming a Writer</head>
+					<u who="Q">Mr. Faulkner—</u>
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">There's a world of difference between wanting to express yourself and
+						actually applying the elbow grease <unclear>to</unclear> a first painful
+						attempt, and I wonder what made you bridge this gulf, or what—do your
+						remember what—when you first discovered your own compulsion to write?</u>
+					<u who="WF">I think when I was about twenty, twenty-one, twenty-two.</u>
+					<u who="Q">I was wondering if there was an incident or—or if you always wanted
+						to write?</u>
+					<u who="WF">I don't think so. I think that—that all the time this quality I
+						speak of as—as the truth had been worrying me, trying to get out, and—and
+						nobody likes to work, at least I don't like to work, and I—I reckon I put it
+						off as long as I could, but it wouldn't be quiet and let me alone. I had to
+						try to do something about it, which was to put it down.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.26" start="00:30:07.20" end="00:31:08.90">
+					<head>A Green Bough</head>
+					<u who="Q">In what period of development did you write that book of poems, <hi
+							rend="italic">A Green Bough</hi>?</u>
+					<u who="WF">That was written at the time when—when you write poetry, which is
+						seventeen, eighteen, nineteen <event desc="audience laughter"/> When you—you
+						write poetry just for the pleasure of—of writing poetry, and you don't think
+						of printing it until later. It may be— I've often thought that—that I wrote
+						the novels because I found I couldn't write the poetry, that maybe I wanted
+						to be a poet. Maybe I think of myself as a poet, and I failed at that. I
+						couldn't write poetry, so I did the next best thing.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.27" start="00:31:15.98" end="00:32:24.09">
+					<head>Mankind Will Prevail?</head>
+					<u who="Q">Mr. Faulkner, in your speech at Stockholm you expressed great faith
+						in mankind, that you thought man not only was here to prevail because he had
+						the capacity for compassion and sacrifice and endurance. Do you think that's the
+						impression the average reader would get after reading <hi rend="italic">The
+							Sound and the Fury</hi>?</u>
+					<u who="WF">I can't answer that because I don't know what the—what the average
+						reader gets from—from reading the book. I—I agree that what I tried to say,
+						I failed to say, and I never have had time to read reviews, so I don't know
+						what impression people might get from the book. But—but, in my opinion, yes,
+						that's what I was talking about in all of the books, but 
+						I failed to say it. I agree with you, I did fail. But that's what I was
+						trying to say, that man will prevail, will endure because he is capable of
+						compassion and honor and pride and endurance.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.28" start="00:32:33.73" end="00:32:59.23">
+					<head>Using Violence</head>
+					<u who="Q">Sir, why do you use violence so often in trying to arrive at this
+						truth?</u>
+					<u who="WF">I'm sorry. I couldn't hear.</u>
+					<u who="Q">Why do you use violence so often in your novels in trying to depict
+						this truth?</u>
+					<u who="WF">Well, that's the—the carpenter that—that thinks that the ax is a
+						better tool to use than a hammer. He could be wrong, but he's using what
+						seemed to him the best tool to <unclear>properly</unclear> build what he wants to build.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.29" start="00:33:06.78" end="00:34:03.04">
+					<head>Good and Bad Characters</head>
+					<u who="Q">Sir, Hawthorne seemed to have found trouble in creating good
+						characters, whereas his more or less bad characters stand out as—as
+							works of art. Do you think that is a problem with
+						all writers, that it's harder to create a—a good character than a—than an evil
+						one?</u>
+					<u who="WF">It's possible that that's inherent in human nature, not so much in
+						the—in the character of writers but in—in human nature itself.  That it's
+						easier to conceive of—of evil than of good, or to make—that evil is easier to
+						make believable, credible than good.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.30" start="00:34:04.99" end="00:35:19.36">
+					<head>Who Will Prevail?</head>
+					<u who="Q">Mr. Faulkner, when you say man will prevail, do you mean individual
+						man has prevailed or group man <unclear>has prevailed</unclear>?</u>
+					<u who="WF">Man as a—a part of—of life.</u>
+					<u who="Q">Well, but in Quentin, for instance, <unclear>he</unclear> seems to
+						have the cards stacked against him and his 
+						<unclear>prevailing</unclear>—it seems to be inherently impossible, and I
+						wondered—</u>
+					<u who="WF">True, and his mother wasn't much good and he had an idiot brother,
+						and yet in that whole family, there was Dilsey that held the whole thing
+						together and would continue to hold the whole thing together for no reward,
+						that the—the will of man to prevail will even take the—the—the nether channel
+						of—of the black man, black race, before it will relinquish, succumb, or be
+						defeated.</u>
+					<u who="G">As she says, "I've known God to use curioser tools than that."</u>
+					<u who="WF">Yes.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.31" start="00:35:20.03" end="00:36:47.24">
+					<head>Does Man Progress?</head>
+					<u who="Q">Well, sir, if you—if you seem to have <unclear>this belief 
+							in</unclear> in that <inaudible/> you say the ultimate goodness of man, that
+						he will come through in spite of all. How—how do you explain sort of the mass
+						brutality, the things we practice on each other, the horrible things that
+						take place in the <unclear>lines</unclear> of religion or our
+						politics?</u>
+					<u who="WF">I didn't say in the ultimate goodness of man, I said only that man
+						will prevail and will—and—and in order to prevail he has got to improve. As
+						to whether he will stay on the earth long enough to attain ultimate
+						goodness, nobody knows. But he—he does improve, since the only alternative
+						to progress is death. And we can see that little children don't have to work. 
+						A—a merchant can't sell you poisoned food. They are minor improvements, but
+						they are improvements. Nobody is hanged for stealing bread any more. People
+						are not put in jail for debt. It's some improvement. It's not a great deal,
+						I grant you, as matched against atomic bombs and things like that. But
+						it's some improvement. Man improves.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.32" start="00:36:47.25" end="00:37:11.06">
+					<head>The Ferment of History</head>
+					<u who="Q">You don't feel that mass manipulation by fanatics along ideological
+						or political lines will negate all this?</u>
+					<u who="WF">No, I don't. That, to me, is part of the ferment of—of—man's
+						immortality, that these people, the—the nuts, are necessary too. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.33" start="00:37:13.67" end="00:37:43.17">
+					<head>Threats to Progress</head>
+					<u who="Q">Do you think that man will prevail against destroying himself or
+						<inaudible/> <unclear>force of nature</unclear>?</u>
+					<u who="WF">I think he will—he will prevail against his own self-destruction,
+						yes.</u>
+					<u who="Q">What about the forces of nature too—as part of your scheme too—?</u>
+					<u who="WF">Well, unless the earth gets sick and tired of him like an old dog,
+						and just scratches him off like the old dog does fleas, which—<unclear>is not likely to happen</unclear>. <event
+							desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.34" start="00:37:44:09" end="00:38:06.37">
+					<head>Head or Heart</head>
+					<u who="Q">Mr. Faulkner, what do you think is man's most important tool? Is it
+						the mind or the heart as far as <unclear>the human</unclear> goes? Do we
+						feel this or do we think <unclear>think our way through it</unclear>?</u>
+					<u who="WF">I don't have much confidence in the mind. I think that here is where
+						it should be, that the mind lets you down sooner or later, but this
+						doesn't.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.35" start="00:38:07.75" end="00:39:10.90">
+					<head>Sympathy for Caddy</head>
+					<u who="Q">Mr. Faulkner, I've been very much interested in what it seems to me
+						you did—maybe you didn't—in <hi rend="italic">The Sound and the Fury</hi>,
+						in the character of Caddy. To me she is a very sympathetic character and
+						perhaps the most sympathetic white woman in the book, and yet we get
+						pictures of her only through someone else's comments, and most of these
+						comments are quite hostile and—and wouldn't lead you to
+						admire her on the surface, and yet—and yet I do. Did you mean for us to have
+						this feeling about Caddy, and if so, how did you go about reducing it by 
+						these negative pictures that we get of her?</u>
+					<u who="WF">To me she was the—the beautiful one.  She was—she was my heart's
+						darling. That's what I wrote the book about—</u>
+					<u who="Q">Well that's what I —</u>
+					<u who="WF">And I used the—the tools which seemed to me the—the proper tools to
+						try to tell—try to draw the picture of Caddy.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.36" start="00:39:19.65" end="00:42:14.43">
+					<head>Poker Game in "Was"</head>
+					<u who="G">Mr. Faulkner, we've got a poker player over here, Mr. Jordan, who's
+						holding back on a question that I'm dying to hear the answer to.</u>
+					<u who="WF">Let's have it.</u>
+					<u who="Q">Well, I was wondering in the short story "Was," why Mr. Hubert does
+						not call Uncle Buddy. It seems to me that must be the point of the story,
+						and yet no one can—could understand why he did not call him.</u>
+					<u who="WF">I'll have to look at that—that page again. I don't remember exactly
+						the—</u>
+					<u who="G">He looks up and see that Tomey's Turl is dealing the cards.</u>
+					<u who="WF">Oh, Tomey's Turl wants to be free, and so Tomey's Turl has dealt the
+						right card to the right one, and Mr. Hubert knows that.  As soon as he sees
+						that Tomey's Turl was the one that dealt the cards, he knows that he's
+						beat.</u>
+					<u who="Q">But Tomey's Turl—Tomey's Turl stood to win either way, didn't he? I mean, he was
+						the—</u>
+					<u who="WF">No, he was—I don't remember the story too well, but I don't think
+						so. That—that Tomey's Turl had a stake in that game, too.  As I—I remember it,
+						Hubert Beauchamp would have taken his brother—no, what are the names? I
+						can't even remember the names.</u>
+					<u who="G"><unclear>The names were</unclear> Buck and Buddy.</u>
+					<u who="WF">Yes, Buck would have taken Buddy out of the clutches of Miss—what's
+						her name?</u>
+					<u who="G">Sophonsiba.</u>
+					<u who="WF">Sophonsiba, if he had won.  And if that had happened then he would
+						have taken Tomey's Turl back with him away from Tomey's Turl's girl.  So
+						if—if—if Buck lost, then Miss Sophonsiba would take Tomey's Turl's girl home
+						with—with—with her.  So Tomey's Turl was playing for his sweetheart. Yes,
+						that's what the story was, I think.</u>
+					<u who="G">Well, since Mr. Jordan knows that no self-respecting southern poker
+						play is gonna miss a chance to call—<event desc="audience laughter"/></u>
+					<u who="WF"><unclear>Well, I'm glad that came up.</unclear> I remember that—yes, I'm sure that it's, that
+						Tomey's Turl had a stake, too, and when Buck saw that Tomey's Turl had dealt
+						that last card, he knew that he was finished.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.37" start="00:42:14.50" end="00:42:47.77">
+					<head>The Bear, Part Five</head>
+					<u who="Q">I have another question about "The Bear." In the final scene of "The
+						Bear," Boon is sitting under the tree with the squirrels, doing something
+						with his shotgun, and it's not clear to me whether he is taking his
+						shot—destroying his shotgun or trying to put it back together.</u>
+					<u who="WF">It had jammed. He was trying to get a jammed shell out to make it
+						fire, and he didn't want anybody else to shoot the squirrels. He was under
+						the tree where the squirrels couldn't get out of it, and he didn't want
+						anybody else to shoot the squirrels until he could get his gun fixed.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.38" start="00:42:50.45" end="00:44:13:42">
+					<head>Structure of Wild Palms</head>
+					<u who="Q">Mr. Faulkner, did you conceive of "The Wild Palms" and "The Old Man"
+						as a single story. I had—had an enormous amount of trouble trying to link
+						the two stories together.</u>
+					<u who="WF">That was <hi rend="italic">tour de force</hi>. I wrote the—the book just as you read it,
+						chapter by chapter. The story I was telling was of the—of Charlotte and—and
+						Harry Wilbur. I simply used the other story as a—as counterpoint, just as
+						the musician would, to emphasize what I was telling about Harry and
+						Charlotte.</u>
+					<u who="Q">Well, "The Wild Palms" is so very interesting. I think the other is a
+						bit of a struggle. I just <unclear>wondered</unclear>—</u>
+					<u who="WF">Well, you—you may be right. <event desc="audience laughter"/>
+						They—as I say, they all failed, and maybe it was a mistake to—to dovetail
+						two of them together that way, but to me it seemed that—that it was necessary
+						to—to counterpoint the story of Harry and Charlotte, which I did with—with
+						the complete antithesis—the man that had a woman he didn't want and was
+						going to infinite trouble, even as far as going to jail, to get rid of
+						her.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.39" start="00:44:20:18" end="00:45:23.07">
+					<head>Red Leaves</head>
+					<u who="G">May I ask a couple of questions about the early Indian stories, about
+						"Red Leaves"? Did Doom, in your mind, did he wreck the steamboat and maybe
+						kill this man David Callicoat, whose name he took? Did he have some notion
+						of getting that steamboat eventually, which he finally had transported
+						twelve miles inland?</u>
+					<u who="WF">No, the steamboat simply got too far up the river and stayed too
+						long, and when the water fell in the late summer, it couldn't get out again,
+						and so the owners of it just took the valuable machinery out and left the
+						hull there, and Doom decided that would make a nice addition to his house,
+						and so he had his people drag it out of the river across to the
+						plantation.</u>
+					<u who="G">Did you ever hear of anyone's really ever doing that <inaudible/> ?</u>
+					<u who="WF"><unclear>No</unclear>.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.40" start="00:45:23:18" end="00:46:10.01">
+					<head>Historical Chickasaws</head>
+					<u who="G">Were these Chickasaws ever known to be cannibals? There's some
+						mention of how human flesh may have tasted between two of them once.</u>
+					<u who="WF">No, there's—there's no record, but then it's—who's to say whether at
+						some time one of them might not have tried what it tasted like? Quite often
+						young boys will try things that they are—are horrified to remember later just to
+						see what it was like, what the sensation was like. Maybe as children they
+						may have found a dead man and cooked some of him to see what he tasted like.
+						But they were not cannibals as far as I know.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.41" start="00:46:10.02" end="00:46:41.00">
+					<head>Vestiges of Chickasaws</head>
+					<u who="B"><unclear>Do they exist just in memory now—</unclear>?</u>
+					<u who="WF">There are a few. There's a reservation, a remnant of—of Choctaws.
+						The others, the Indians in my part of Mississippi have vanished into the two
+						races, either the white race or the Negro race. You see traces of the
+						features in the Negroes and a few of the old names in—in among white
+						families, old white families.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.42" start="00:46:40.72" end="00:47:02.12">
+					<head>Frontier Yoknapatawpha</head>
+					<u who="Q">Is it <unclear>a question, Mr. Faulkner, of if</unclear> there were
+						Indians at one time in this area?</u>
+					<u who="WF">Oh, yes. Yes, all the—the land records go back to—to the Indian
+						patents, and our country's not very old. Our land records are only a hundred
+						and fifty years old. That was frontier then.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.43" start="00:47:03.04" end="00:48:25.70">
+					<head>Narcissa in Two Novels</head>
+					<u who="Q">Sir, I'm curious about the occasional changes in personality that
+						some of your characters undergo between novels. For instance, Narcissa
+						Benbow is fairly sympathetic in <hi rend="italic">Sartoris</hi>, but by
+							<unclear>the time you write</unclear>
+						<hi rend="italic">Sanctuary</hi> she's vicious. How do you account for
+						this?</u>
+					<u who="WF">There again I am using the—the most available tool to tell what I'm
+						trying to tell, and my idea is that—that no person is wholly good or wholly
+						bad, that all people, in my belief, try to be better than they are and
+						probably will be.  And that if—when I need for a tool, a particular quality
+						in an individual, I think that quality is there. It can be taken out,
+						and—and for the moment it leaves the individual in an—an unhappy light.  But in
+						my opinion it hasn't destroyed nor really harmed that individual.</u>
+					<u who="Q">In other words, sir, she hadn't developed between novels. You're
+						merely taking a different look at her <unclear>as</unclear> the same
+						person.</u>
+					<u who="WF">That's right.  That's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.44" start="00:48:27.55" end="00:49:06.65">
+					<head>Picturing the South</head>
+					<u who="Q">Sir, to what extent are you—were you trying to picture the South or
+						southern civilization as a whole, rather than just Mississippi, or were
+						you?</u>
+					<u who="WF">Not at all. I was trying to talk about people, using the only tool I
+						knew, which was the country that I knew. No, I wasn't trying to—to—wasn't
+						writing sociology at all. <event desc="audience laughter"/> I was just
+						trying to write about people, which to me are the important <inaudible/>. Just the
+						human heart. It's not—not ideas. I don't know anything about ideas, don't
+						have much confidence in them.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.45" start="00:49:21.02" end="00:50:28.00">
+					<head>Sam Fathers' Death</head>
+					<u who="G">In "The Bear," Mr. Faulkner, once again, 
+						the—the end of Part Three, Sam Fathers has died. Does he die in his own
+						little cabin or does he ask Boon Hogganbeck and Ike to take him out and
+						expose him on the four-cornered platform?</u>
+					<u who="WF">He knew that he was finished. He was tired of—of his life, and he—if
+						he had been strong, he could have done the deed himself. He couldn't. He
+						asked Boon to, and I think Book murdered him, because Sam told him to. It
+						was the Greek gesture, which Sam himself was too weak to do. He was done,
+						finished. He told Boon to do it.</u>
+					<u who="G">And Ike knows this, and he tells the others to let Boon alone?</u>
+					<u who="WF">Ike knows this. Yes, that's right. That's right.  That's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio01_1.46" start="00:50:34.15" end="00:51:00.58">
+					<head>Close</head>
+					<u who="G">Is there another pressing question to bring forth at this time? Well,
+						thank you very much, Mr. Faulkner on this occasion. We know it's the first
+						of a number, and we look forward to the repetition.</u>
+					<u who="WF">Good. Well, thank you all for being kind enough to listen and to
+						come here hungry. <event desc="audience laughter"/> <event desc="end of recording"/></u>
+				</div2>
+					</div1>
+		</body>
+	</text>
+</TEI.2>

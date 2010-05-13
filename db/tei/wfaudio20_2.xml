@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio20_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio20_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio20_2</idno>
+                <idno type="analog tape">T-140ends</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="DR">Dean F. D. G. Ribble</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-02-20">20 February 1958</date>
+                    <locale>The Raven, Jefferson and Omicron Delta Kappa Societies</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 20 February 1958</head><head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
+                <head>TAPE: T-140ends</head><head>LENGTH: 30:24</head>
+                <div2 type="dialog" id="wfaudio20_2.1" start="00:00:03.84" end="00:01:20.20">
+                    <head>New Forms of Labor A</head>
+                    <u who="Q"><inaudible/> and the possible eventual destruction of the
+                    remaining—of the agrarian—agrarian society will have any
+                    effect upon this problem?</u>
+                    <u who="WF">It will in that, I think—the agrarian culture was the only culture the
+                    white man went to much trouble to—to train the Negro in. As that
+                    vanishes, the Negro becomes more and more of a problem. When that's completely
+                    gone, he will be still more and more of a problem, and for that reason
+                    the white man will have to do something to—to substitute that agrarian
+                    economy, which took care of the Negro. I—I mean by—by "took
+                    care," which assimilated the Negro. The Negro had a—a definite place
+                    in that economy. Now the only contact the Negro has with the white man's culture
+                    is the time-payment icebox and—and the automobile that he'll own some
+                    day, if he don't tear it up before he finishes paying for it, <event desc="audience laughter"/> but there's no other contact with the white man's
+                    culture that the Negro has since he was—since he left the agrarian
+                    economy of slavery.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.2" start="00:01:20.17" end="00:02:51.19">
+                    <head>Leisure v Laboring Classes</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I'd like to probe your question, your statement, that no nation can exist
+                    with second-class citizens. I'm not aware of any civilization either ancient or
+                    modern that has not, in some form, had a second-class citizenry. For example,
+                    the Hellenic civilization probably reached its flower because the leisure
+                    of—of one class was made possible by the labors of ones who were not
+                    only second-class citizens, but worse. I'm not defending second-class
+                    citizenship, but it seems that some civilizations exist not only in spite of it
+                    but, in fact, because of the second-class citizenship. So I would like to know
+                    if there is historical precedent for your statements.</u>
+                <u who="Q">This: I don't know any of those civilizations that have not had a
+                    second-class citizenship, but I don't know of any of them in which that
+                    second-class citizenship was an arbitrary condition compelled on the
+                    second-class citizen by the others. He found his own second-class level. He was
+                    not compelled to it by the color of his skin. If that second-class citizen could
+                    rise from—from his second-class citizenship, he was—he was
+                    allowed to. There was nothing to stop him. In our economy it's pretty hard for
+                    the Negro to get very far. That's the only difference.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.3" start="00:02:51.08" end="00:03:33.52">
+                    <head>Egyptian Slavery</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">In Egypt many thousands and tens of thousands and hundreds of thousands
+                    of workers that were held in slavery, and they could not get out of it. <inaudible/>
+                    those people <inaudible/>.</u>
+                <u who="WF">True, but some of them broke out. You know, Moses led a big gang of them
+                    out himself. <event desc="audience laughter and talking"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.4" start="00:03:25.83" end="00:05:27.17">
+                    <head>Negroes Voting</head>
+                    <u who="WF">Yes, sir. <event desc="audience talking"/></u>
+                <u who="Q"><unclear>I think as you were talking, you're taking as the best
+                    man being</unclear> <inaudible/> <unclear>and since</unclear> <inaudible/> <unclear>activities, 
+                        eventually taking—and taking</unclear> interest in what
+                        we're doing a while voting, you want the best way of educating people who
+                    are thinking about the <unclear>unity, not only themselves</unclear>. Don't you think
+                    that there should be a great attempt to encourage the Negro <unclear>to vote
+                        as</unclear> much as possible in the South and to think of what he's doing,
+                    rather than going to <unclear>practically</unclear> every means to discourage
+                    him as at present?</u>
+                    <u who="WF">Well, sir, in—in principle, yes, but I think that to give a man a vote when
+                    he has no conception of what he's voting for or against is not going to improve
+                    him nor his condition much. I still think that the education should come first,
+                    but then I agree that a lot of white folks that vote haven't got any business
+                    voting, too, <event desc="audience laughter"/> but just because they do vote,
+                    it's not going to help things to give a lot of Negroes that haven't got any
+                    business voting the right to vote. I think that—that if we've got to
+                    start educating somebody somewhere, then let's start with—with what is
+                        amenable to it, and the Negro—in his present condition he wants to advance
+                    himself. He would be more amenable to education than the white man would because
+                    the white man has got spoiled by it. The white man says, "My laws make me go to
+                    school, and if it—I've got to have a good school that suits me. I've
+                    got to have a good football team, or I ain't going there. I've got to have
+                    cheerleaders or I may not like it." The Negro, I think, anxious to better his
+                    condition—and I hope that some of his leaders tell him it can be done
+                    only by education—might be more amenable to education, to realize the
+                    responsibility that he has when he has the right to vote.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.5" start="00:05:28.61" end="00:06:18.60">
+                    <head>Northern Integration</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Sir, do you think that the integration policies in the North have been
+                    successful, and if not, why? <event desc="audience talking"/></u>
+                <u who="WF">Well, probably no integration policies have been successful, but then
+                    most of the agrarian policies have not been too successful, yet somehow
+                    agriculture advances, somehow the—the—the human condition in
+                    which Negroes and whites have to live has advanced slowly. It has gone backward
+                    since that Supreme Court decision, but since '65, it had advanced gradually and
+                    steadily, and I think that it will continue to advance gradually—gradually
+                    and steadily.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.6" start="00:06:20.57" end="00:07:53.82">
+                    <head>Northern Racial Attitudes</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, before you made the statement that the northerners were afraid of
+                    the Negro. What are your reasons for that?</u>
+                <u who="WF">That conclusion<unclear>'s</unclear> drawn from—from the experience I've
+                    had with the northerners. They—they—they love the Negro in
+                    theory, but they don't want much to do with him. I've noticed that the
+                    southerner, he—he don't love the Negro in quantities, but he will
+                    defend some particular Negro. It may be the
+                      nigger just owes him money—but anyway, <event desc="audience laughter"/> whatever the reason is, he will defend him. And
+                    that's what I meant. I simply generalized from what I've heard northerners say.
+                    They—they—they express so many, to me, bizarre reasons for
+                    the Negro's desire to—to advance himself. They seem to think
+                    that—that he's—wants to take revenge on long oppression from
+                    the white race. That may be true in—in certain cases, but I think in
+                    general the Negro don't especially want revenge on the white man,
+                    that—that his attitude toward the white man is something like the
+                    white man's toward him. He likes a few of them, but he don't think much of all
+                    of them. <event desc="audience laughter"/> But his low opinion of all of them is
+                    not worth going to a great deal of trouble to get revenge.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.7" start="00:07:56.56" end="00:08:33.77">
+                    <head>Solving the Problem</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q"><unclear>Sir, I don't mean</unclear> to suggest that I'm a 
+                        northerner, but <event desc="audience laughter"/> we often say that the <unclear>northerner
+                        ought to</unclear> come down and see how things are going on, and we often
+                    say that they don't understand our problems, yet we in the South have an
+                    opportunity to do something progressive, and I don't think that any of our
+                    leaders have ever come up with a good working plan yet. What do you think about
+                    that?</u>
+                <u who="WF">I agree with you. <event desc="audience laughter"/> That's what I'm
+                    talking about tonight. I agree with you. But then, I don't know of any
+                    of—of the northerners that have come up with a good practical working
+                    plan yet.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.8" start="00:08:35.42" end="00:09:30.16">
+                    <head>The Silent Majority</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, as I understand it, you believe that much of the leadership problem
+                    that we've got today is caused by an active noisy minority in each state, and if
+                    so, if I've understood you correctly, I wonder what your reasons are for
+                    believing, for thinking, or for wondering why the hapless majority refrains or
+                    keeps from using their numerical superiority to overcome this leadership
+                    problem.</u>
+                <u who="WF">Well, one reason is they don't want to be mixed up in something
+                    unpleasant. Another reason is that—that people that compose that noisy
+                    majority—minority—in Mississippi, anyway, if you say
+                    something or do something they don't like, they may set your house on fire.
+                        <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.9" start="00:09:30.17" end="00:11:31.26">
+                    <head>Virginia's Responsibility</head>
+                    <u who="WF">Yes, sir. <event desc="audience laughter"/></u>
+                <u who="Q">Sir, if Virginia's plea for moderation was ignored once before with
+                    particularly disastrous consequences to her, as you mentioned before, do you
+                    think there's much hope for Virginia particularly caring to take the lead in the
+                    South on this question?</u>
+                <u who="WF">It seems to me she should. It seems to me that—that Virginia
+                    should feel something of the same responsibility toward the other states of the
+                    South—that the Virginia younger sons moved into with the surplus
+                    slaves two hundred years ago—that the father might feel toward his
+                    sons. It's a—I would say maybe the strongest tie would be some tie,
+                    an—an attenuation, but still intact, of blood, of culture, of thought,
+                    of having shared in—in the same disasters. I think
+                    it's—there's a definite tie. I think that—that Virginia,
+                    that what we'll, if you'll allow me, the soul of Virginia feels the same tie
+                    toward Mississippi and Alabama and Georgia as the soul of Mississippi and
+                    Alabama feel and of—of—of respect toward the—the
+                    mother stock in Virginia. I think that that's—that's an—an
+                    actual condition.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.10" start="00:11:31.27" end="00:14:14.10">
+                    <head>The Ku Klux Klan</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in the Deep South, Mississippi and Alabama, the people seem to be
+                    controlled, more or less, by the Ku Klux Klan. You mentioned the houseburnings
+                    and stuff like that. And do you think any examples that we set or any reasons we
+                    give, are going to break through those—those members of the Ku Klux Klan who are
+                    backed, in a lot of cases, by the law enforcement agencies, who
+                    are—are pretty ignorant, a lot of them? Do you think that we can do
+                    anything to break through their attitude?</u>
+                <u who="WF">I think so. That's the point I make. If—if there was a
+                    definite quality of—of leadership in common sense, apart from emotion
+                    and any dragging out of old battle flags, that the South, the wilderness, the
+                    frontier part of the South, could hear and know about, they would have
+                    some—some reason to feel that if we can throw off these—these noisy people, too, that there are people in other parts of the South that
+                    feel as we do. The—the liberal in Mississippi, he's hemmed in more or
+                    less by the sort of people that burn crosses and—and whip Negroes and
+                    compose lynching parties, and he's afraid to say anything. Well, he knows that
+                    if he says too much, something unpleasant may happen to him. Then no matter what
+                    he says it may not do any good. But if he found out that there were people in
+                    other states that felt the same way as he does, just as the people
+                    that—that form Citizens Councils and the KKK, they find out that there
+                    are people in other states that—that feel the same way, so it builds
+                    them up. I think that's what we need. The people that—that will look
+                    on this as something that is—is going to change, whether we like it or
+                    not. It may be that—that all of us curse the day when the first slave
+                    was sold into this country, but that's too late now. And to live in—in
+                    this country, anywhere in the world today, and to—to—to be against giving
+                    a man what equality—cultural, educational, economic—that
+                    he's capable and responsible for, is like living in Alaska and being against
+                    snow.  You've got snow. It's—it's foolish to be against it.
+                    You've got it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.11" start="00:14:16.66" end="00:15:44.67">
+                    <head>KKK Membership</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, this is just a simple question. I wondered if you could tell us if
+                    there's any particular class or economic group in the South which the Klan draws
+                    its members from, or whether they come from all walks of life in the South.</u>
+                <u who="WF">By and large, they come from the—the poor unsuccessful white
+                    man. He has—has worked hard by his lights, and, of course, he has
+                    worked hard.  He never gets very far ahead, and he knows that he never will. He
+                    sees the Negro with the same sort of land he's got, with poorer tools and not as
+                    much credit as he's got, make a better job of it, to—to raise his
+                    family, and they seem to be happier than he does. And he—he doesn't
+                    like that. He's envious. He hates the Negro because the Negro is beating him at
+                    his own poor game, which is—is to make a living on forty acres of poor
+                    land. His only superiority over that Negro is—is not economic any
+                    longer. It's because he's white, and that Negro's not white, and so he's going
+                    to do everything he can to keep that Negro black, because it makes him feel
+                    good. That's the only thing, the only edge he has.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.12" start="00:15:44.68" end="00:17:23.51">
+                    <head>Pace of Change</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, in the light of what you've just said, you also said that
+                    the Negro won't wait any longer, and that he will demand rights, and that
+                    there's not time to educate the white man, but don't you really think that
+                    it's—it is a matter of time and a long time before the Mississippian
+                    or the south Alabamian will actually accept any sort of integration <unclear>in the South</unclear>?</u>
+                <u who="WF">Yes, I agree with you. I think it will be at least fifty years.
+                    I—I meant that—that the Negro is now in motion toward more
+                    equality, and he's got a lot of white folks and government bureaus and courts
+                    behind him. I didn't mean that he's going to—going to either blow the
+                    country up or change it tomorrow. I meant that—that now he has got
+                    pressure, outside forces, helping him move forward, and that is what I think
+                    we've got to—got to cope with. Either use it, direct it, or let it run
+                    over us. But it will be fifty years before, at least, before the integration as
+                    the NAACP talks about it, if that ever does come.  But he will—it will
+                    be less time than that before he gets more equality than he's got. I think it'll
+                    be less time than that before he can vote in Mississippi, or before
+                    his—he—he has to pay the same interest on his borrowed money
+                    the white man does, that a white man can't cheat him, can't charge things on a
+                    farm commissary book and refuse to let the Negro add up the figures, as he can
+                    do now in Mississippi.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.13" start="00:17:26.22" end="00:18:11.41">
+                    <head>Integration and Progress</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, a lot of southerners argue that complete integration would greatly
+                    lower our standards of education, but don't you believe that within a few years
+                    after complete integration, if it worked even moderately well, there would be an
+                    overall improvement in our standards of education?</u>
+                <u who="WF">I don't know. It seems to me to improve standards of education we've got
+                    to get some folks out of the schools, not get more in it that don't belong
+                    there. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.14" start="00:18:11.42" end="00:19:32.28">
+                    <head>Experience with KKK</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="B">Sir, being a liberal in Mississippi, as it seems to me you are, you have
+                    probably had experiences with this vociferous group that seems to know only
+                    violence to accomplish its means. It seems to me that—that you might
+                    have had some experience with this group, and my question is, have you, and if
+                    you have, could you relate what they were?</u>
+                <u who="WF">Well, quite often, as individuals they are—are not too
+                    dangerous. They're just noisy. When enough of them get together, they can
+                    usually be handled as those North Carolina Indians got rid of theirs. <event desc="audience laughter"/> That a little firmness will do a lot with them.
+                    Of course, that don't keep them from coming around at night and setting fire to
+                    the barn. That's just an occupational hazard you've got to live with. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.15" start="00:19:32.29" end="00:20:55.75">
+                    <head>Advice to VIrginia</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Since you say Virginia must take the first step, how would you propose
+                    this, especially since the administration has closed the door as far as
+                    education is concerned?</u>
+                <u who="WF">Well, that would be something which Virginians must decide. What I hope
+                    is that Virginia will say, "Something has got to be done about this, and you
+                    people in Mississippi and Alabama and Georgia, let's decide what to do, either
+                    to control it or let it run over us."</u>
+                <u who="Q">We did have a vote here, though, sir, and <unclear>whether it
+                        was</unclear> overlooked—the Gray Plan—just a start in
+                    the right direction. <inaudible/></u>
+                <u who="WF">Well, the only answer to that is to vote again, and vote again, <event desc="audience laughter"/> and vote again. If you tell people something
+                    often enough and long enough, whether they believe you or not, they may follow
+                    you just to get you to hush. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.16" start="00:20:55.73" end="00:21:42.01">
+                    <head>Improving Negro Standards</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, it seems to me that the main contention here tonight is that the
+                    economic and educational status of the Negro has propagated in him mores which
+                    are detrimental to our society. If this is so, why not, while segregated, raise
+                    his economic standards and raise his educational standards?</u>
+                <u who="WF">Good, I agree with you. That's what I'd like to do. </u>
+                    <u who="Q">Furthermore—</u>
+                    <u who="WF">I would like to give
+                    him such good schools that he wouldn't want to go to the white schools. I would
+                    like to give him so much equality in his own race and responsibility for it and
+                    make him have to spend so much time being responsible for his own equality, 
+                    he wouldn't have time to bother with the white man's. Yes, I agree with you.
+                    That's what I would do.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.17" start="00:21:43.11" end="00:22:17.14">
+                    <head>Negroes as Citizens</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, would you advocate letting the Negro pay his own taxes, too?</u>
+                <u who="WF">Well, don't he?</u>
+                <u who="Q"><inaudible/> we know.</u>
+                <u who="WF">Well, he—some of him does. He gets drafted into the Army just
+                    like he was a white man. He risks the same death as a white man does. And
+                    probably, if he had the vote, he'd vote for the same scalawag and scoundrel the
+                    white folks elect, but he would at least have the—<event desc="audience laughter"/> have the right to have voted for him.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.18" start="00:22:18.42" end="00:23:44.96">
+                    <head>Integration and Crime</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Sir, assuming that we in Virginia take the initiative to lead in this
+                    integration movement for the South, what guarantee, if any, do we have that
+                    incidents similar to those that just happened in New York in the last couple of
+                    weeks won't happen again down here? If we don't have any guarantee, what steps
+                    would you suggest that we take to stall off any such incidents? Particularly,
+                    <inaudible/> the knifing and robberies and so forth.</u>
+                <u who="WF">I would say that we train the Negro first into the responsibility of
+                    having the privilege of going to the white school before we dump him into it,
+                    that he should be—be selected by rigorous examination before he was
+                    permitted into the white schools. In the meantime, white teachers should be sent
+                    to the Negro schools to train the Negro teachers how to teach the Negro
+                        <unclear>students</unclear> to be equal, responsible for the right to go to
+                    the white schools. I think if that's—I'm sure what we all want not to
+                    happen is a thing like Little Rock or Clinton, to have troops with bayonets
+                    compel Negroes into white Virginia or Mississippi schools. That's exactly, as I
+                    see it, what we're trying to prevent, which is—if we don't do
+                    something, we will have.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.19" start="00:23:44.97" end="00:25:17.73">
+                    <head>Negro Leadership</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, the Negro professional men of the South—its
+                    doctors, <unclear>in particular,</unclear> and the lawyers—themselves
+                    act as a blockade against the younger, the better-educated Negroes. In important
+                    matters, in <unclear>the</unclear> medical societies, they won't let them pass
+                    the board examinations, so what are we going to do about that? <unclear>You
+                        have</unclear> these old guard Negroes who won't let the new,
+                    better-educated—the more liberal Negroes in as leaders.</u>
+                <u who="WF">They will have to be bypassed, just like the—the old-guard
+                    white people that want to—to stop progress will have to be bypassed.
+                    We don't have time, any more, to—to wait around for the old mossbacks
+                    to die off. <event desc="audience laughter"/> That might solve it if we had more
+                    time, but we don't. Something's got to be done pretty soon, and they would have
+                    to be bypassed. And I'm quite sure there's a lot of that, that they prefer the
+                    status quo, they don't want to change and upset things, that probably
+                    they—they don't want a lot of—of smart young Negro doctors
+                    and lawyers getting in their hair. It makes them behave a good deal like white
+                    folks. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio20_2.20" start="00:25:20.84" end="00:27:04.40">
+                    <head>Nation v Region</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, as a foreigner, I have regarded the southerners and the
+                    northerners, all Americans, as members of the American
+                    nation, but here and elsewhere, I have observed that there is a difference
+                    between the southerner and the northerner.  <unclear>And</unclear> I see a problem here which
+                    seems to me greater or more dangerous than the problem of segregation against
+                    the Negroes. Would you please comment?</u>
+                <u who="WF">I think I understand what you mean, but I don't believe any problem can
+                    face this country that we won't drop everything and confederate on, unless it
+                    may be the abolishment of automobiles. <event desc="audience laughter"/> But we
+                    are not going to confederate on the problem of segregation. That's the only
+                    issue that—that we—we balk at.  But anything else is
+                    ephemeral, and the—and the American don't take that seriously any more
+                    than he takes most of the—of the stuff he talks seriously, that a
+                    great deal of his talk that sounds serious and meaningful to the foreigner, it
+                    don't to the American because he—it never occurs to him that anybody's
+                    going to really believe that, but—<event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio20_2.21" start="00:27:04.41" end="00:27:20.04">
+                    <head>Audience Prompt</head>
+                    <u who="DR"><inaudible/> one or two more, Mr. Faulkner?</u>
+                    <u who="WF">Whatever—whatever you ever like.</u>
+                <u who="DR">Let's give them about two or three more and then <inaudible/>. If we have
+                    about two more questions, and then I think we've held Mr. Faulkner long
+                    enough.</u></div2>
+                <div2 type="dialog" id="wfaudio20_2.22" start="00:27:19.96" end="00:28:15.99">
+                    <head>Opinion of the World</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I think this last comment is of some interest, and I was wondering if you
+                    felt that the problem which we face in Virginia and in the South has any strong
+                    international consequences insofar as the future of the Western civilization.
+                    That is, what do our neighbors across the oceans think of us in Virginia, let's
+                    say, as this young man has just pointed out, when they observe our actions in
+                    regard to Negroes?</u>
+                <u who="WF">I imagine that they have a very—pretty—a very poor
+                    opinion of us, but I think that their opinion of us is not near as important
+                    right now as what—what, we—Virginians and Mississippians and
+                    Alabamians—have got to think about ourselves. Let's look after our own
+                    opinion about our behavior, and then let's worry about what somebody else thinks
+                    about it.</u></div2>
+                <div2 type="dialog" id="wfaudio20_2.23" start="00:28:17.96" end="00:29:29.50">
+                    <head>Assimilation</head>
+                    <u who="Q">As slow and as inefficient as it may be, do you feel that the best
+                    problem or the best solution to race integration would be race assimilation?</u>
+                <u who="WF">No, sir, I don't think that that would—would solve many
+                    problems. The same amount of—of bickering would go on, and they would
+                    find another subject for it. I think that the only thing that will solve that
+                    problem is—is not integration but equality, for the Negro to know that
+                    he has just as much and just as valid rights in this country as anybody else
+                    has. That his money is just as secure. His children have a right to just as good
+                    an education as anybody else does. His vote counts as much as anybody else's.
+                    That he don't have to pay any more for the Cadillac that he dreams of owning
+                    some day than the white man has to pay for it.</u></div2>
+                <div2 type="dialog" id="wfaudio20_2.24" start="00:29:33.70" end="00:29:58.22">
+                    <head>Close</head>
+                    <u who="DR">I know I'm speaking for each one of us when I say we're all most
+                    grateful to Mr. Faulkner for a very interesting and a very stimulating evening.
+                    That concludes this evening. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

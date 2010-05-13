@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio24_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio24_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio24_1</idno>
+                <idno type="analog tape">T-142c</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="IC">Irby Cauthen</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <persName id="G">Frederick Gwynn</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-04-28">28 April 1958</date>
+                    <locale>First-Year English Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 28 April 1958</head><head>OCCASION: First-Year English Class</head>
+                <head>TAPE: T-142c</head><head>LENGTH: 31:56</head>
+                <div2 type="dialog" id="wfaudio24_1.1" start="00:00:03.07" end="00:00:08.32">
+                    <head>Fragment</head>
+                    <u who="WF"><inaudible/> That's the significance of it.</u>
+                    <u who="Q">Yes, sir.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudio24_1.2" start="00:00:14.45" end="00:00:19.83">
+                    <head>Audience Prompt</head>
+                    <u who="IC">Perhaps some of the others of you have a question now
+                    about <hi rend="italic">The Unvanquished</hi> or <hi rend="italic">Sartoris</hi>?</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.3" start="00:00:21.79" end="00:02:19.56">
+                    <head>Sprig of Verbena</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, I'd like to know what you consider the significance of the sprig of
+                    verbena from—<unclear>on young Bayard's pillow in</unclear> <hi rend="italic">The Unvanquished</hi>
+                    at the end of the book.</u>
+                <u who="WF">That, too—that young man was the—it signified his
+                    stepmother, who was also a young woman, who believed in the qualities which his
+                    background, his tradition had taught him to believe a man should have to be
+                    brave, to never brook an injury nor an insult. He had associated verbena with
+                    her because she had said that was part of his awareness of her, that that was
+                    the only flower she liked because that was one that smelled stronger than
+                    courage and horses. She had assumed that after his father'd been killed, he
+                    would take the pistols and go and—and kill his father's killer. He decided that
+                    there'd been enough killing, but he couldn't run, so he went unarmed and faced
+                    the man who had killed his father, and so he won the moral victory, which took
+                    courage, too, and though his stepmother couldn't condone the fact that he had
+                    not drawn blood for blood, an eye for an eye, she did realize that that took courage,
+                    too, maybe more than to have gone armed.  And that was her way of
+                    saying, "This is not my—my way of solving this, but what you did was
+                    brave, too, and this is the way I'll say goodbye," so she left a sprig of
+                    verbena where he could find it. That was—took the place of the note
+                    she might have written him. She wasn't the sort to have written a
+                        note.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.4" start="00:02:24.50" end="00:03:25.23">
+                    <head>Ringo's Intelligence</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Why did you draw up this young Negro boy Ringo to be the smarter of the
+                    two?</u>
+                <u who="WF">That was because—that's something that I think I have seen in
+                    his race. That is, not all of his race are that smart and—and that
+                    clever, but the ones that are smart and clever have never had a chance to
+                    because of the condition in which the white man wants to hold the Negro. This
+                    one, he had freedom. He had the same background, environment that the white
+                    boy had, and so he had a chance for what genius, what talent he had,
+                    to—to flower without being challenged. That won't happen
+                    with—with any Negro, just like it won't happen with any white boy, but
+                    occasionally there would be the Negro, I think, with talent and capacity to be
+                    clever if he had the chance to.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.5" start="00:03:34.45" end="00:05:17.45">
+                    <head>Confederate Reminiscences</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Were there—I am sure there must have been a number of
+                    Confederate veterans around when you were growing up as a boy. Did you talk to
+                    them, hear their reminiscences and—?</u>
+                    <u who="WF">Yes. I remember a—a lot of them. I was five, six, seven years old around
+                    1904, 5, 6 and 7, old enough to—to understand, to listen. They didn't
+                    talk so much about that war. I had got that from the—from the maiden,
+                    spinster aunts which had never surrendered. <event desc="audience laughter"/>
+                    But I can remember the—the old men, and they would get out the old,
+                    shabby, grey uniforms and get out the old battle flag on Decoration, Memorial
+                    Day. Yes, I remember any number of them. But it was the—the aunts, the
+                    women, that had never given up. <event desc="audience laughter"/> I—my
+                    aunt, she liked to go to picture shows. They had <hi rend="italic">Gone with the
+                        Wind</hi> in the theatre at home, and she went to see it, and as soon as
+                    Sherman came on the screen, she got up and left. <event desc="audience laughter"/> 
+                        She had paid good money to go there, but she wasn't going to sit and look at
+                    Sherman. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio24_1.6" start="00:05:22.44" end="00:06:42.77">
+                    <head>"No bloody moon"</head>
+                    <u who="G">Mr. Faulkner, at—toward the end of <hi rend="italic">The
+                        Unvanquished</hi>, Aunt Jenny tells Bayard about a blockade runner she knew
+                    who used to have the toast "No bloody moon." Was that so that he could get
+                    through the—</u>
+                <u who="WF">Yes, yes.  That's right.</u>
+                <u who="Q">—ships undetected. And she passes it on to Bayard as kind of a
+                    good luck thing, no doubt?</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">Well, why does he say it to George Wyatt the next day? I wonder. He meets
+                    him downtown and is supposed to avenge his father. Is he just being
+                    humorous?</u>
+                <u who="WF">No, by that time, in his concept, that had begun—had become
+                    a—a gesture of—of well-wishing. It's almost like "Here's
+                    hoping" or—or "May you have an ace in the hole," that
+                    sort of thing. It had no connection any more with moonlight, just a way
+                    of—of saying, "May you—may you win this gambit." "May there
+                    be nothing—may the gods be good to you."
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.7" start="00:06:50.07" end="00:07:38.50">
+                    <head>Ab Snopes and Grumby</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="B">Mr. Faulkner, how deep was Ab Snopes into Grumby's business, and what
+                    jobs do you think he did for Grumby?</u>
+                <u who="WF">Probably not very deep. He was a hanger-on. He was sort of a jackal.
+                    Grumby in a way was a—was a lion. He was a—a shabby, sorry
+                    lion, but Ab Snopes was never anything but a jackal, and I imagine that Grumby
+                    would have had little patience with—with Ab Snopes. Ab Snopes hung
+                    around the outskirts of the kill to get what scraps might be left. But nobody
+                    would have depended on Ab Snopes because Ab probably wouldn't have stuck,
+                    wouldn't have held together, when the pinch came.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.8" start="00:07:51.18" end="00:08:58.44">
+                    <head>Byron Snopes</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">What is the <unclear>significance</unclear> of the Snopes in this book and his relationship to the
+                    Benbow girl, in <hi rend="italic">Sartoris</hi>?  <unclear>Do you remember?</unclear></u>
+                <u who="WF">Snopes was clerk in the bank at that time. He saw that girl on the
+                    street, and he began to write her letters—letters, probably anonymous
+                    letters, containing indecent proposals.</u>
+                <u who="Q">Was there any special significance that that was 
+                    supposed to illustrate <inaudible/>?</u>
+                <u who="WF">Well, only to illustrate that—that there was not any sort of
+                    shoddiness and sorriness and baseness that some Snopes wasn't capable 
+                    of. <event desc="audience laughter"/> Not all of them would be capable of all baseness,
+                    but any baseness you could think of, there would always be a—one
+                    Snopes's footprint there. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.9" start="00:09:01.13" end="00:13:01.33">
+                    <head>Symbol of the Train</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I'd like to know exactly what the train signified, since the white boy
+                    had—had seen the train and <unclear>the colored one hadn't</unclear>. It meant the old train out may have been
+                    ruined by the Yankees. Was that supposed to be some significant thing ruined by
+                    the white people themselves?</u>
+                <u who="WF">No, only that the white boy had told the nigger boy about trains, and
+                    the nigger boy had never seen one, and he wanted to see one, too. It was just
+                    unlucky that the time the Negro boy got to see the train it—it
+                    couldn't have been running fast and fine and free. It was involved in war and
+                    destruction at that time, that the Negro boy didn't get to see the splendid,
+                    gallant train which white boy had seen in peacetime. I think there was no
+                    significance to the fact that the Negro boy had to see a—a ruined
+                    train, but only that he was unlucky in that he couldn't see that at a better
+                    time, but the fact that—that he—that's his own cleverness to
+                    cope with—with his condition, his environment, that even
+                    a train that might not have been as fine and beautiful as the one the white boy
+                    saw, but he had seen a train, too, and the Negro boy could probably
+                    have imagined what that train would look like if it hadn't been in war. The
+                    white boy might not have been able to.</u>
+                <u who="Q">Well, I was wondering if you had meant any significance concerning
+                    freedom, any—any tangible thing?</u>
+                <u who="WF">No, that's the sort of symbolism which—which the reader must
+                    bring to—to any—anything he reads. I mean must. He can't
+                    help it. Because you—you read, just as you write, out of your own
+                    experience of observation, imagination and actual seeing and hearing. You bring
+                    that to what you read, and so the symbolism probably must be inherent in the
+                    work, though the writer does not necessarily need to have said, "Now, I'm going
+                    to put a little symbolism right here," because you write from the same thing you
+                    read from, is the general fund of—of our record. I mean
+                    by "our" all—all Americans, all the English-speaking people,
+                        or we'll say all Christian people, read and write from
+                    the same warehouse of—of experience, in the terms of culture.  So a 
+                    reader, an erudite reader, can find more symbolism than an illiterate reader can
+                    simply because the erudite bloke has read more. He has more to cast back to and
+                    say, "Oh, yes, that's what this is." The—the—the illiterate
+                    one would say, "Yes, this is true," but he sees no connection
+                    with—with anything that somebody wrote 500 years ago or that
+                    someone—some psychiatrist or psychologist has—has formulated
+                    to explain behavior, which the erudite man knows. But the symbolism I'm sure are 
+                    the—the—the symbols of the symbolism are inherent in the
+                    work, if they came from the same culture as the reader and the writer.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.10" start="00:13:05.94" end="00:14:38.18">
+                    <head>Young Bayard's Flight</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, in—in <hi rend="italic">Sartoris</hi>, it appears that when Bayard,
+                    young Bayard, in the wreck after his grandfather is killed, that he commits a
+                    kind of cowardly act by running away. Why didn't he go back and be more or less
+                        brave, as the—to have—to show his courage like the Sartoris family
+                    always has, instead of running away?</u>
+                <u who="WF">I expect that that one of the twins really wasn't brave and knew it. His
+                    dead brother was the—the braver, I mean capable of—of the
+                    sort of rash recklessness which—which passes for physical courage. That the one
+                    that survived not only had—had suffered the—the psychotic
+                    injury of having lost a twin, but also he would have to say to himself, "The
+                    best one of us died. The brave one died." And he no longer wanted to live,
+                    actually. He came—came back home, but he probably had no good reason
+                    to—to live, or maybe he was—would have to salve himself by
+                    saying, "Well, whether I'm brave or not, it doesn't matter, and I don't care."
+                    It may—</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.11" start="00:14:35.11" end="00:17:09.99">
+                    <head>Dialogue</head>
+                    <u who="Q">Sir, I'm curious about <unclear>your handling</unclear> of the dialogue in
+                    your writing. Your—your style is somewhat distinctive, and yet when
+                    you <unclear>weld them</unclear> together in the dialogue, there doesn't appear
+                    to be any separation <inaudible/> one <unclear>seems</unclear> to flow out of the
+                    other. When you try to recreate the words that this character says, to what
+                    extent do you enter your own idiosyncrasies into his speech, or to what extent
+                    do you go to keep him pure and write the way he actually says?</u>
+                <u who="WF">Now, that is a question that probably no writer can answer for the
+                    reason that the writer himself never knows just how much from which of the three
+                    sources he has drawn to create his character. That is, the—the three
+                    sources are observation, experience, and imagination. Of course, he's got to
+                    write some of himself into—to whatever he writes, whether he wants to
+                    or not. In a—a certain sense, anything anyone writes is biographical in that it
+                    must come out of his own personal, private experience or imagination or
+                    observation. I think that he lets his people speak in the—the terms,
+                    in their own individual terms. He does not deliberately try to make them express
+                    his own ideas unless he and they agree. You might say that—that any
+                    writer is saying the writer is not responsible for any of the ideas these people
+                    express. They are—the characters are not his own. He tries not to let
+                    his own thoughts color what his characters see and do. It—I expect
+                    it's impossible to keep them completely pure, or they would lack
+                    the—the breath of life, emotion, which makes you want to read what
+                    they say and what they do. But the writer is certainly trying to—to
+                    submerge, relinquish himself completely into that character at the moment when
+                    he is transcribing what that character said and did.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.12" start="00:17:12.68" end="00:18:46.07">
+                    <head>Historical Research</head>
+                    <u who="Q">Mr. Faulkner, could I ask a question of interest to many historians also
+                    interested in literature? You spoke of the three-fold fund: experience,
+                    observation, and imagination. When you write about—as you did in <hi rend="italic">The Unvanquished</hi>—the period of the
+                    Reconstruction, do you find that works of historians about Reconstruction in
+                    Mississippi are useful or do they just clutter the issue and deaden the
+                    imagination? But to build up your knowledge of that period, do you—did
+                    you find that you went naturally to historical works on the period, or was that
+                    at all useful, that sort of thing?</u>
+                <u who="WF">As far as I know, I have never done one page of research in my life.
+                        <event desc="audience laughter"/> Also, I doubt if I've ever forgotten
+                    anything I ever read, too. The research I did was—was coincidental to
+                    the fact I was doing something which was fun, that is reading. I've never gone
+                    to these things to—for information. It was because I was—was
+                    reading about people in motion, alive, in the conflict of the heart with itself
+                    or with its fellows or with its environment. That what research I read, I read
+                    exactly as I do fiction because it's—it's people, man, in motion, and
+                    the writer, as I say, never forgets that. He stores it away. He has no morals.
+                    And when he needs it, he reaches around, and he drags it out, <event desc="audience laughter"/> 
+                    and if it don't quite fit what he wants to say, 
+                    he'll probably change it just a little.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.13" start="00:18:50.30" end="00:21:27.10">
+                    <head>Ringo and Bayard</head>
+                    <u who="WF"> I believe you had another question, sir.</u>
+                <u who="Q">Yes, sir. I was thinking of one. In <hi rend="italic">The
+                    Unvanquished</hi> up until the time—I imagine—I think the two boys were
+                    about twelve years old. You played up the fact that the white boy was one
+                    little step ahead of the colored boy at that time by having seen something that
+                    the other hadn't. Then afterwards, the colored boy took command of the situation
+                    when they started their reselling of the mules, and I was wondering if you
+                    thought that the colored person was coming into the <unclear>front</unclear>, or
+                    into more power or initiative, in that day and age?</u>
+                <u who="WF">Well, I can't say. I think that—that anyone, regardless
+                    of—of color—No, let me—let me start over again. I
+                    would say that the color had nothing to do with how much any individual, any
+                    human being can take advantage of—of his advantages. In this case,
+                    that—that—the Negro boy was faster on his feet than the
+                    white boy. That is because maybe the Negro boy had brought something from
+                    Africa, when he had to be pretty quick on his feet in the rain forest to stay
+                    alive. The white boy had a tradition of an aristocracy in which God had
+                    protected him. He could afford to be a little slow, though if they were put in <inaudible/> 
+                    <event desc="gap in tape"/> <unclear>for a 
+                        second</unclear>, I don't think anyone could say that the Negro boy would've been faster
+                    then than the white boy. Once the white boy realized that the old, secure
+                    condition was gone, then he had to be pretty quick on his feet, too. Though my
+                    thought is that—that everybody can't handle freedom if he had it, but
+                    that anyone should have the chance, the freedom to see just how good he can be
+                    and whether he's white or black. That he won't fail because he is black. That he
+                    will fail because it was in—inherent in him not to cope with freedom.
+                    He, whether he was white or black, had no business with
+                        freedom.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.14" start="00:21:30.56" end="00:23:37.00">
+                    <head>Between the Wars</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in <hi rend="italic">Sartoris</hi>, you sort of skipped over one
+                    generation of the Sartoris family between the old Bayard and the young Bayard.
+                    Is there any reason for that?</u>
+                <u who="WF">Dramatically, yes. Dramatically, there was no—well, the twins'
+                    father didn't have a story. He came at a—a period in history
+                    which—which, in this country, people thought of and think of now as a
+                    peaceful one. That it was an optimistic one. Nothing was happening. There would
+                    be little brush-fire wars that nobody paid much attention to. The country was
+                    growing. The time of—of travail and struggle where the hero came into
+                    his own had passed. From '70 on to 1912, '14, nothing happened to Americans to
+                    speak of, and this John Sartoris, the father, lived in that time when there was
+                    nothing that brought the issue to him to be—be brave and strong or
+                    dramatic—well, call it dramatic, not brave, but dramatic. Nothing
+                    happened to him. But he had to be there for the simple continuity of the
+                    family.</u>
+                <u who="G">And yet if you thought of a story some time about that—that
+                    father, something that he could have done, you would have a right
+                    to—to give it to him, wouldn't you?</u>
+                <u who="WF">Sure, he's already on record, and he's—he's in—in my
+                    stable, too. I can run him any time I find— <event desc="audience laughter"/></u>
+                <u who="B">Sir?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="B">Sir, did any of the three manuscripts you burned relate to that
+                    period?</u>
+                <u who="WF">No, no. None of them did.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.15" start="00:23:37.01" end="00:24:57.33">
+                    <head>Unity of Unvanquished</head>
+                    <u who="IC">Mr. Faulkner, <hi rend="italic">The Unvanquished</hi> was published
+                    originally as a series of short stories, I believe, and then revised for a novel
+                    form. When you were writing those short stories, did you have the idea in mind
+                    that these would make a novel eventually, or did they just appear after they
+                    appeared in short story form to fit together so naturally that it was necessary
+                    to make a novel out of them?</u>
+                <u who="WF">I saw them as a long series. I had never thought of it in—in
+                    terms of a novel, exactly. I realized that they would be too episodic to be what
+                    I considered a novel, so I thought of them as a series of stories. That when I
+                    got into the first one, I could see two more, but by the time I'd finished the
+                    first one, I saw that it was going further than that. And then when I'd finished
+                    the fourth one, I had postulated too many questions that I had to answer for my
+                    own satisfaction. So the others had to be—the other three or two,
+                    whichever it was, had to be written then.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.16" start="00:24:57.34" end="00:25:54.21">
+                    <head>Unvanquished and Movies</head>
+                    <u who="Q">Has Hollywood ever expressed any interest in these stories?</u>
+                <u who="WF">Yes, they—they bought the book. <event desc="audience laughter"/> 
+                    That is a funny story, too. <event desc="audience laughter"/> A producer named David 
+                    Selznick bought <hi rend="italic">Gone with the Wind</hi>. M-G-M wanted to make it, and
+                    he—he wouldn't let M-G-M make it. He wanted to use Gable, who was
+                    under contract to M-G-M in it, and they—they wouldn't let him have
+                    Gable, and he wouldn't let them have <hi rend="italic">Gone with the Wind</hi>.
+                    So they bought my book and told him that—that if he didn't let them
+                    make <hi rend="italic">Gone with the Wind</hi>, they were going to make 
+                    a <hi rend="italic">Gone with the Wind</hi> of their own. They had no intention of
+                    making a moving picture out of my book. <event desc="audience laughter"/> And so
+                    Selznick let them make the picture. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_1.17" start="00:26:02.28" end="00:28:16.03">
+                    <head>Use of Odors</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I'm interested in—in both <hi rend="italic">Sartoris</hi> and
+                    in <hi rend="italic">The Unvanquished</hi> that were—the lines that
+                    were always talking about smell. There was lines about the smell of the mules,
+                    and about the smell of the verbena, and people playing tennis were 
+                    smelly <event desc="laughter"/>, and—and things like that. I wondered why you did that all the
+                    way through both books.</u>
+                <u who="WF">I can't say unless maybe smell is—is one of my sharper senses.
+                    Maybe it's sharper than sight. There's no reason.  There's certainly no
+                    deliberate intent. That's a part of the environment which the writer is trying
+                    to describe.  That to me is—is as noticeable as the ear which hears
+                    the—the turns of speech, which could be simply because that's a
+                    sharper sense with me than maybe sight or hearing.</u>
+                <u who="Q">Might it also be that it's just—just important in setting the
+                    picture, and—and you didn't have to talk about the weather. You could just say the—that the 
+                    smell and the smell <unclear>would convey light and heat
+                        and</unclear> things like that?</u>
+                <u who="WF">Yes, naturally, because the writer is trying to—to describe
+                    the—the particular instance, the scene, so well that anyone will
+                    understand it, will see it, and feel it, too, and the writer whose sense of
+                    smell is pretty sharp will use smell. Someone who had constant catarrh and
+                    couldn't smell at all wouldn't do it, but he wouldn't think of smell because he
+                    hadn't—never heard of smell, you might say. That he uses—the writer
+                    uses all his senses to create a scene in which the reader will say, "Yes, that's
+                    so. I understand. I can see that. I have seen that, too," or if the sense of
+                    smell is strong, "Yes, I've smelled that, too." That's not really a—a
+                    trick at all. It's—the end is the same as though it were a trick. It's
+                    simply the writer is using all his—all the pressure, all the gasoline and
+                    gas he's got to create a—a scene which the reader will understand and feel,
+                    too.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.18" start="00:28:21.02" end="00:28:38.32">
+                    <head>Writing Poetry</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you still write poetry at all?</u>
+                <u who="WF">No, sir, I had sense enough to learn young <event desc="audience laughter"/> 
+                    that I would be a bad poet and stopped. To me,
+                    there're no degrees of poetry. It's either good poetry or it's trash, and I
+                    couldn't write good poetry, so I quit.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.19" start="00:28:38.33" end="00:29:14.06">
+                    <head>Work in Progress</head>
+                    <u who="Q">Sir, are you currently writing a novel?</u>
+                <u who="WF">No writer ever really quits. He might think that he's taking a vacation
+                    from it, but he's—he's not. It's—it's stewing and going on up here all the
+                    time, and—and when he runs out of something to do and gets bored,
+                    he'll sit down and go to work on it. As I get old, I—it's easier and
+                    easier for me not to write, but in time I'll get bored, and I'll go back to work
+                    again or the demon will begin to <unclear>spur it out</unclear>.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.20" start="00:29:14.07" end="00:30:35.92">
+                    <head>Adapting to Progress</head>
+                    <u who="Q">Sir, especially in <hi rend="italic">The Unvanquished</hi> and also in
+                    your other novels there seems to be a general loosening of tradition or a sort
+                    of rapid progress coming forth. What characters, in general, what types of
+                    people in your novels, do you think respond best to the progress?</u>
+                <u who="WF">They respond in different ways. The Snopes have responded to it and have
+                    coped with it pretty well. I would say the one that is least troubled by change
+                    was the sewing-machine agent Ratliff, that he had accepted a—a change
+                    in culture, a change in environment, and he has suffered no anguish, no grief
+                    from it. In—for that reason, he's in favor of change, because it's
+                    motion, and it's the world as he knows it, and he's—he's never one to
+                    say, "I—I wish I had been born a hundred years ago," or "I'm sorry I was born now
+                    and couldn't have put it off a hundred years." Ratliff will take what's now and
+                    do the best he can with it because he is—possesses what you might call
+                    a—a moral, spiritual eupepsia, that his digestion is good, all right,
+                    nothing alarms him.</u></div2>
+                <div2 type="dialog" id="wfaudio24_1.21" start="00:30:35.93" end="00:31:48.94">
+                    <head>Ratliff [part 1]</head>
+                    <u who="Q">When you speak of a man in motion, do you think that that person who
+                    moves along with it is apt to be the most successful or—?</u>
+                <u who="WF">Well, he—he might have more peace. He may not be more
+                    successful. By a man in motion, I meant simply that motion is life,
+                    that—that man, if he's alive, he is in motion, and whether you like
+                    where he's going or not, your only alternative is stasis or death, and the
+                    choice which Ratliff had no trouble making is, "Either—either I will take this or
+                    nothing, and I would prefer this to nothing, that I'd prefer breathing to not
+                    breathing." But success—it would depend on what anyone means by
+                    success. Maybe Ratliff never used that term to himself at all, but probably he
+                    was, in own lights, quite successful. That is, he wanted— <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

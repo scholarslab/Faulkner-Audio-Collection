@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio16_1read">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of reading from audio recording wfaudio16_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio16_1read</idno>
+				<idno type="analog tape">T-132</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-20">20 May 1957</date>
+					<locale>English II Class</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 20 May 1957</head>
+				<head>OCCASION: Freshman English Class</head>
+				<head>TAPE: T-132</head><head>LENGTH: 6:07</head>
+				<head>FAULKNER READING FROM  "Old Man"</head>
+				
+				<div2 type="reading" id="wfaudio16_1" start="00:01:18.52" end="00:07:26.01">
+					<head>Reading</head>
+					<u who="WF">
+					<writing type="fiction">That was all, the convict told them. They left the
+						sawmill fast, he had no time to buy food until they reached the next—next
+						landing. There he spent the whole sixteen dollars he had earned and they
+						went on. The River was lower now, there was no doubt of it, and sixteen
+						dollars' worth looked like a lot of food and he thought maybe it would do,
+						would be enough. But maybe there was more current in the River still than it
+						looked like. But this time it was Mississippi, it was cotton; the plow
+						handles felt right to his palms again, the strain and squat of the <unclear>thick</unclear>
+						buttocks against the middle buster's blade was what he knew, even though
+						they paid but a dollar a day here. But that did it. He told it: they told
+						him it was Saturday again and paid him and he told about it—night, a smoked
+						lantern in a disc of worn and barren earth as smooth as silver, a circle of
+						crouching figures, the importunate murmurs and ejaculations, the meagre
+						piles of worn bills beneath the crouching knees, the dotted cubes clicking
+						and scuttering in the dust; that did it. "How much did you win?" the second
+						convict said.<lb/> "Enough," the tall one said.<lb/>
+						"How much?"<lb/>
+							"Enough," the tall one said. It was
+						enough exactly; he gave it all to the man who owned the second motor boat
+						(he would not need food now), he and the woman in the launch now and the
+						skiff towing behind it, the woman with the baby and the paper-wrapped parcel
+						beneath his peaceful hand, on his lap; almost at once he recognised, not
+						Vicksburg because he had never seen Vicksburg, but the trestle beneath which
+						on his roaring wave of trees and houses and dead animals he had shot,
+						accompanied by thunder and lightning, a month and three weeks ago; he looked
+						at it once without heat, even without interest as the launch went on. But
+						now he began to watch the bank, the levee. He didn't know how he would know
+						but he knew he would, and then it was early afternoon and sure enough the
+						moment came and he said to the launch owner: "I reckon this will do."<lb/>
+						"Here?" the launch owner said. "This dont look like
+						anywhere to me."<lb/>
+						"I reckon this is it," the convict said. So the launch put
+						inshore, the engine ceased, it drifted up and lay against the levee and the
+						owner cast the skiff loose.<lb/>
+						"You better let me take you on until we come to
+						something," he said. "That was what I promised."<lb/>
+						"I reckon this will do,"
+						the convict said. So they got out and he stood with the grapevine painter in
+						his hand while the launch purred again and drew away, already curving; he
+						did not watch it. He laid the bundle down and made the painter fast to a
+						willow root and picked up the bundle and turned. He said no word, he mounted
+						the levee, passing the mark, the tide-line of the old raging, dry now and
+						lined, traversed by shallow and empty cracks like foolish and deprecatory
+						senile grins, and entered a willow clump and removed the overalls and shirt
+						they had given him in New Orleans and dropped them without even looking to
+						see where they fell and opened the parcel and took out the other, the known,
+						the desired, faded a little, stained and worn, but clean, recognisable, and
+						put them on and returned to the skiff and took up the paddle. The woman was
+						already in it.<lb/>
+						The plump convict stood blinking at him. "So you come
+						back," he said. "Well well." Now they all watched the tall convict as he bit
+						the end from the cigar neatly and with complete deliberation and spat it out
+						and licked the bite smooth and damp and took a match from his pocket and
+						examined the match for a moment as though to be sure it was a good one,
+						worthy of the cigar perhaps, and raked it up his thigh with the same
+						deliberation—a motion almost too slow to set fire to it, it would seem—and
+						held it until the flame burned clear and free of sulphur, then he put it to the
+						cigar. The plump one watched him, blinking rapidly and steadily. "And they
+						give you ten years more for running. That's bad. A fellow can get used to
+						what they give him at first, to start off with, I dont care how much it is,
+						even a hundred and ninety-nine years. But ten more years. Ten years more, on
+						top of that. When you never expected it. Ten more years to have to do
+						without no society, no female companionship—" He blinked steadily at the
+						tall convict. But he (the tall convict) had thought of that too. He had had
+						a sweetheart. That is, he had gone to church singings and picnics with her—a
+						girl a year or so younger than he, short-legged, with ripe breasts and a
+						heavy mouth and dull eyes like ripe muscadines, who owned a baking-powder
+						can almost full of ear-rings and brooches and rings bought (or presented at
+						suggestion) from ten-cent stores. Presently he had divulged his plan to her,
+						and there were times later when, musing, the thought occurred to him that
+						perhaps if it had not been for her he would not actually have attempted 
+						it—this a mere feeling, unworded, since he could not have phrased this either:
+						that who to know what Capone's uncandled bridehood she might not have
+						dreamed to be her destined fate, what fast car filled with authentic
+						colored glass and machine guns, running traffic lights. But that was all
+						past and done when the notion first occurred to him, and in the third month
+						of his incarceration she came to see him. She wore ear-rings and a bracelet
+						or so which he had never seen before and it never became quite clear how she
+						had got that far from home, and she cried violently for the first three
+						minutes though presently (and without his ever knowing either exactly how
+						they had got separated or how she had made the acquaintance) he saw her in
+						animated conversation with one of the guards. But she kissed him before she
+						left that evening and said she would return the first chance she got,
+						clinging to him, sweating a little, smelling of scent and soft young female
+						flesh, slightly pneumatic. But she didn't come back though he continued to
+						write to her, and seven months later he got an answer. It was a postcard, a
+						colored lithograph of a Birmingham hotel, with a childish X inked heavily across
+						one window, the heavy writing on the reverse slanted and primer-like too:
+							<hi rend="italic">This is where were honnymonning at. Your friend (Mrs)
+								Vernon Waldrip</hi><lb/>
+						The plump convict stood blinking at the tall one,
+						rapidly and steadily. "Yes, sir," he said. "It's them ten more years that
+						hurt. Ten more years to do without a woman, no woman a tall a fellow wants—"
+						He blinked steadily and rapidly, watching the tall one. The other did not
+						move, jackknifed backward between the two bunks, grave and clean, the cigar
+						burning smoothly and richly in his clean steady hand, the smoke wreathing
+						upward across his face saturnine, humorless, and calm. "Ten more years—"<lb/>
+						"Women 'blank'!" the tall convict said.</writing>
+				</u></div2>
+				
+				</div1>
+		</body>
+	</text>
+</TEI.2>

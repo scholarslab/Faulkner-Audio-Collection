@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio30_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio30_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio30_2</idno>
+                <idno type="analog tape">T-145b</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-12">12 May 1958</date>
+                    <locale>Representatives from Other Colleges</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 12 May 1958</head>
+                <head>OCCASION: Representatives from Other Colleges</head>
+                <head>TAPE: T-145b</head><head>LENGTH: 23:35</head>
+                <div2 type="dialog" id="wfaudio30_2.1" start="00:00:05.96" end="00:01:59.77">
+                    <head>Using Violence [part 2]</head>
+                    <u who="WF"><inaudible/> one of the tools. That's a particular saw, hammer that the
+                    particular carpenter feels he can do most with, that he might not like the
+                    violence either. It's simply because he does not have a better tool to show man
+                    in his tragic or comic moments inside the predicament. That is, the dramatic
+                    story is, man is faced—the frail, fragile creature of flesh and bone,
+                    mostly water, in a ramshackle universe stuck together with electricity, faced
+                    with problems which are usually bigger than he is. The story is, does he face
+                    it? Does it lick him? Or does he beat it? Or if it licks him, does he get beaten
+                    to his knees still, as Hemingway says, "Looking good." That, I think,
+                    is—is what anyone writes about. It's man that is striving to be braver
+                    than he might be, more honest than he might be, to be compassionate.</u>
+                <u who="Q">And it's so important in twentieth century, more than in other centuries <inaudible/>
+                    <unclear>to write about this</unclear>?</u>
+                <u who="WF">Well, no, it's always been important. I think that's what makes man
+                    endure and what will cause him to endure, that he is capable of wanting to be
+                    brave and to be honest and to be compassionate, and he will last. He's outlasted
+                    his dinosaurs. He'll outlast his atom bomb. My belief is that the last sound on
+                    earth, when this earth is a red rock freezing, will be two folks building an
+                    airship and fussing about where they're going next. <event desc="audience laughter"/> Man is all right. You can't beat him. No,
+                    there'll be three. The other one will be writing a book about it. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.2" start="00:01:59.78" end="00:02:51.72">
+                    <head>Planning a Novel</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, when you begin to write a novel, do you have it planned
+                    from beginning to end?</u>
+                <u who="WF">Not always. It's—it's a little more instinctive than that. It
+                    could begin with a—a character. It could begin with an anecdote. And
+                    out of that the book grows in order to explain why the person got in that
+                    particular pro—complexity. I—some people work from plots,
+                    but I never could do it, just like I never did do any research. I—it's
+                    more fun to me to—to invent, I think, than to hunt up a fact.
+                    But—and this—I wish it were as simple as that, but
+                    it's—it's not. You—the writer, I think, never knows just
+                    where that germ came from that started him off.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.3" start="00:02:52.85" end="00:05:09.38">
+                    <head>Stories v Novels</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Well, in some of our writing classes at Chapel Hill, we
+                    have—well, we've been discussing with—the ways you go about
+                    writing a novel and a short story. And—and one of the theories we've
+                    been <unclear>dealing</unclear> with is that a short story is planned, outlined,
+                    from beginning to end, whereas in a novel—it seems that most novelists
+                    tend to just find themselves as they go along. Do you find that's
+                        <unclear>true</unclear>?</u>
+                <u who="WF">I don't quite agree with that. If you mean by planned, outlined into a
+                    pattern—</u>
+                <u who="Q">That's for short stories.</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">And the novel, you just kind of find the novel and yourself in it,
+                    or—</u>
+                <u who="WF">No, I think they both come from the same source. I rate
+                    the—the ability to write in three degrees. The first degree, the
+                    highest, of course, is the poet. He can say in—say it in fourteen
+                    lines. I rate next the short story writer. He can say it in ten pages. I rate
+                    last the novelist because it takes him three or four hundred pages. <event desc="audience laughter"/> 
+                    But it—that's a matter of working. If
+                    you work from notes, from something physical that you can look at in front of
+                    you, then you work that way, no matter what you're writing. Maybe the poet does.
+                    If you plan it all inside before you put down anything, then that's the way that
+                    you do it, novel, short story, or sonnet. I don't think that—that
+                    could be a—a procedure, a rule for procedure. Actually, the novelist
+                    wishes he could say it in ten pages. In fact, all that any writer wants to do is
+                    to say it in one absolute word, the poet, the short story writer, or the
+                    novelist. If he could state some moving, tragic, fundamental, eternal truth of
+                    man's struggle within man's heart in one word, that's what he wants to do. He'll
+                    never do it, and that's why he's never bored. He never touches satiation in his
+                    vocation. There's always some reason to get up tomorrow morning and rub your
+                    hands and go back to work.</u></div2>
+                <div2 type="dialog" id="wfaudio30_2.4" start="00:05:11.50" end="00:06:36.09">
+                    <head>Education and the Writer</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Apropos of the last question asked, so far as I understood it, and apropos of
+                    the first question asked, I wonder if you would care to comment a little more
+                    broadly upon the effect of formal education on the creative writer?</u>
+                <u who="WF">I hope I'm not going to step on any toes now. <event desc="audience laughter"/> I don't believe that formal education ever made a
+                    writer or ever hurt him. I think a writer is omnivorous. He will use <unclear>someday</unclear> any
+                    experience. That formal education has taught him one very valuable quality,
+                    which is mental discipline. He could teach himself mental discipline. He
+                    wouldn't have to have formal education for that. Formal education simply
+                    simplifies his field of research. That he is offered by experts, in—in
+                    the simplest way, knowledge, which he probably very likely will need and will
+                    use. Without formal education he would have to dig it out himself. But I don't
+                    think that formal education could take a man and turn him into a
+                        writer.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.5" start="00:06:42.05" end="00:08:05.50">
+                    <head>Crane, Dreiser, Norris</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, a few minutes ago you mentioned personal experience as one
+                    of the sources, including in that books that you have read. According to that,
+                    what is your opinion of such writers as Stephen Crane and Dreiser and Frank
+                    Norris in relation to your own work?</u>
+                <u who="WF">No writer is really interested in who wrote the book. He's interested
+                    only in the book. So I could probably find more influence of characters of
+                    Crane's on what I've written than influence from Crane himself.  That the only
+                    thing that's interesting to the writer is how someone else has taken man and
+                    from those three sources has created him in a slightly new or slightly awry
+                    light in his comic or tragic struggle within his own environment or his own
+                    dilemma. Everything the writer has read from the telephone book up has
+                    influenced him. He's amoral, omnivorous. He will rob and steal from any source,
+                    because he is not only willing but if anyone after him robs and steals from him,
+                    he's flattered. That means that he did it pretty well if somebody else wants to
+                    steal it. 
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.6" start="00:08:11.46" end="00:09:38.03">
+                    <head>Literary Conformity</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, with all this talk of conformity, particularly literary
+                    conformity, don't you suppose that there's either less of it than talk of it has
+                    taken for granted or that it's <inaudible/>?</u>
+                <u who="WF">Would you ask me that again please, Ma'am?</u>
+                <u who="Q">In other words, don't you think there's less literary conformity than is
+                    constantly talked about?</u>
+                <u who="WF">Oh. Well, I—I don't think there's any such thing as literary
+                    conformity. The pressure to conform is not to be literary. It's to belong to an
+                    economic strata. That litera—literature can't be conformed. The only
+                    restriction it submits to is that of language. And that's only in the terms of
+                    the reader. That no first-rate writer is going to—to bother about
+                    writing like Hemingway or like Mark Twain. He's too busy. He's writing about
+                    people. If anything—any trick Hemingway learned is good, he will steal
+                    it from Hemingway or from Twain, but he's not going to conform anybody's school
+                    of—of literature. He's writing about people. And if he belongs to a
+                    school of literature, it's because they are pleasant folks to talk to and drink
+                    with until two and three o'clock in the morning, not to write like.</u></div2>
+                <div2 type="dialog" id="wfaudio30_2.7" start="00:09:43.42" end="00:12:26.87">
+                    <head>Using Myths</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Speaking of language, you said that the two great influences on the
+                    western world and writing are the Bible and the Greek myths and that the latter
+                    are dying out such as, in terms that we speak of, cultures or parts of cultures
+                    dying out, and yet it's feasible that a writer understands those myths and works
+                    with them. It's a tenuous question but is it still legitimate for him to express
+                    himself in—in an old, outmoded form of language, such as myths, even
+                    though he's pretty sure that people who read him will not understand him, at
+                    least right away?</u>
+                <u who="WF">If he feels that that is the best way for him to—to isolate
+                    man in the motion of being alive, inside his dilemma, yes, by all means. He can
+                    use any—any means, any method, he likes. But if he is going to write
+                    just to use means or method of style, he's simply writing rhetoric, and he would
+                    be better off at something a little more fun than that. That the—the
+                    story itself compels its symbolism, compels its—its style, I think.
+                    That the writer, as I said, simply reaches behind him with one hand while he's
+                    writing with the other and drags out a symbol which he thinks is exactly the
+                    scrap of wood he needs to make that joint with, which is, in my opinion,
+                    perfectly legitimate. If he is dealing simply with man in motion then he has
+                    obeyed all the—the compulsion of his craft on him. He can use whatever
+                    method he likes, just as long as he sticks to the primary compulsion, which is
+                    to deal with man in motion, in a—a believable, a credible, dramatic
+                    way. Not to judge, simply to describe man struggling within his predicament, in
+                    his unceasing conflict with himself, with his fellows, with his environment. Any
+                    method he uses, in my opinion, is all right.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.8" start="00:12:29.32" end="00:13:00.83">
+                    <head>Miss Rosa's Poetry</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">You tell us in <hi rend="italic">Absalom</hi> that Miss Rosa writes
+                    poetry, and I've always been curious about what kind of poetry Miss Rosa <inaudible/>.
+                        <event desc="audience laughter"/></u>
+                <u who="WF">It would probably have been gothic love poetry, fourth-rate. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio30_2.9" start="00:13:06.64" end="00:14:26.83">
+                    <head>His Work in Other Media</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">What do you think of the dramatizations that have been made of your work
+                    for the movies and for the play coming out next year?</u>
+                <u who="WF">I saw <hi rend="italic">Intruder in the Dust</hi>.  I thought that was
+                    a—a pretty good picture.  It was a
+                    good deal like my book. <event desc="audience laughter"/> The others, I never
+                    saw. That play which will be in New York next—next fall
+                    is—is the way I wrote it. That hasn't been changed. That
+                    was—was sections of a book that was told in play form because that
+                    seemed to me the best way to tell the story of man struggling in his dilemma. So
+                    I used play form. The others I haven't seen because—well, I've done
+                    the best I could with that book, and I was interested in writing another one
+                    which would be better, I thought, and I just didn't have time to go to see it.
+                    And then picture shows come at the wrong time of day for me.
+                    It's—that's the time of day I like to—to be at home and have
+                    a drink or two and then eat supper and sit down and smoke and read for a while,
+                    not to go out to the picture show.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.10" start="00:14:28.39" end="00:15:36.43">
+                    <head>South as His Setting</head>
+                    <u who="WF">Yes'm.</u>
+                <u who="Q">Mr. Faulkner, <inaudible/> <unclear>you often</unclear> talk about man's <inaudible/> and
+                    man's dilemma, and I hear people <inaudible/>
+                    <unclear>more poignant in the South</unclear>
+                    <inaudible/>?</u>
+                <u who="WF">No, that's simply because the writer to save time can write about what
+                    he knows best. Then there's less chance of somebody, saying "Uh uh, you're
+                    wrong. That—folks don't do that in Keokuk." <event desc="audience laughter"/></u>
+                <u who="Q"><inaudible/> the same <inaudible/> for your ideas?</u>
+                <u who="WF">Yes, I think that people are the same everywhere. Their problems, their
+                    immediate problems, are different but, their—their struggle
+                    within—within the—the fundamental, simple human truths is
+                    the same everywhere, I think. One writes about his own native land simply
+                    because that saves him having to do research to keep people from checking up on
+                    him. <event desc="audience laughter"/> That it's—it's easier. It
+                    saves—saves time. He's writing about something that's familiar, that
+                    he has—well, you might say, not only seen, but smelled, too.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.11" start="00:15:37.08" end="00:16:16.44">
+                    <head>"Dry September"</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Does that mean in a short story like "Dry September" the situation is
+                    <inaudible/> ?</u>
+                <u who="WF">Yes. In which a—a—a woman, in that condition of
+                    frustration after menopause or about menopause, could have caused that sort of
+                    tragedy. It wouldn't necessarily have to have a—a—a colored
+                    note in it. Not necessarily that same story, but she could have caused that same
+                    grief, injustice, crime.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.12" start="00:16:17.10" end="00:17:05.21">
+                    <head>Mississippi's Writers</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Pertinent to that, I'd like to ask why is it that Mississippi seems so
+                    very active in a literary way, and yet we don't find the same phenomenon in New
+                    Jersey? <event desc="audience laughter"/></u>
+                <u who="WF">Well, that's—that's because Mississippi is in the South and
+                    New Jersey's in the North. <event desc="audience laughter"/> I think—I
+                    think that the wisest thing any nation can do when it gets itself into any sort
+                    of a economic muddle is to pick out some rich nation and declare war on it, and
+                    get licked and then be supported. The folks in the South write because the North
+                    has supported us ever since 1865. <event desc="audience laughter"/> We had
+                    plenty of time to write.</u></div2>
+                <div2 type="dialog" id="wfaudio30_2.13" start="00:17:09.18" end="00:17:42.11">
+                    <head>Southerners as Readers</head>
+                    <u who="Q">Would you comment on this? It would seem to me in talking to other people
+                    about your work that—the ladies in Richmond, this class, southern
+                    ladies in general, do not know your work as well as people in other parts of the
+                    country, in Europe. Have you observed that? Do you think that's true?</u>
+                <u who="WF">I think that's because everybody in the South is writing. Nobody has
+                    time to read <unclear>anything</unclear>. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.14" start="00:17:48.49" end="00:18:43.09">
+                    <head>Writer's Growth</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, you speak of finishing a novel and then sitting down to write a
+                    better one. Do you feel that your last book is—whatever it is, is the
+                    best that you've done, to date I mean? Taken at any time?</u>
+                <u who="WF">No, sir. I think to the writer there's no good, better, best. It's got
+                    to be the best or it's nothing. And none of them are good enough to suit me. I
+                    don't—as I said, the writer don't give a damn what anybody else thinks
+                    about this book.</u>
+                <u who="Q">Yeah.</u>
+                <u who="WF">It ain't good enough to suit me, so I'm gonna write another one. And if
+                    I live another hundred years, maybe I'll do it. I—I probably won't,
+                    but I'll keep on trying. But the work is—never suits the—the
+                    writer. That's why it's the—the happiest of all vocations because you
+                    never touch satiation. You're never bored. There's something to get up to and go
+                    to work at tomorrow.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.15" start="00:18:46.68" end="00:19:46.81">
+                    <head>James Joyce</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, I've been puzzling since asking my question. What did you
+                    mean when you said that Joyce was electrocuted?</u>
+                <u who="WF">Only that he had a—a tremendous talent. He tried too hard to
+                    put the whole tragic history of man's struggle within his dilemma on the head of
+                    a pin. I think that is—is a feeling that every—every writer,
+                    every artist has, that I will be here only for a very short time, and
+                    this—this tragic, beautiful dilemma of mankind is so moving that I
+                    must put it down, and I may not live long enough to finish the book, so I'll try
+                    to do it in one sentence, one word. Joyce was trying to do it all in one English
+                    sentence, which was <hi rend="italic">Ulysses,</hi> and in one English word,
+                    which was <hi rend="italic">Finnegans Wake.</hi>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.16" start="00:19:58.49" end="00:20:55.11">
+                    <head>Regionalism</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you feel that a good writer should necessarily be a regionalist in the
+                    sense that he should write about those things that he knows best?</u>
+                <u who="WF">He is writing about people, and people, in my opinion, are not regional.
+                    They are universal. They—the same hopes, aspirations, tragedies are
+                    universal everywhere, no matter what color nor what race. The writer is regional
+                    only in the sense that he is using something that he is familiar with to save
+                    himself the time of research. He is not trying to be a regional writer when he
+                    writes about the East Tennessee mountains or about California. He is simply
+                    using the material that he is most familiar with to save himself the trouble of
+                    having to read up Chamber of Commerce brochures on Portland, Oregon, for
+                    instance. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.17" start="00:21:10.73" end="00:22:14.16">
+                    <head>Indians</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Where did you first get your—get your interest in Indians? Was
+                    it from relics or living near them in Mississippi or—?</u>
+                <u who="WF">That's a part of—of my culture, my North Mississippi culture.
+                    Our country is—compared to the country east of the mountains
+                    is—is—was frontier only a hundred years ago. Remnants of
+                    Chickasaw families still live. They're still my neighbors. Some
+                    are—are—are mixed with Negroes. Others are mixed with white
+                    people. The traditions are still there. There—in my childhood,
+                    boyhood, there were old men that could remember having heard their fathers tell
+                    them about the old days. The Indian names are still on the creeks and branches.
+                    The old roads, the old hilltops, still have the Indian names with the tribal
+                        significance.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_2.18" start="00:22:23.53" end="00:23:14.55">
+                    <head>Writing Habits</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, <inaudible/> work a certain number of hours <inaudible/>, or do you
+                    wait for inspiration?</u>
+                <u who="WF">I don't have to wait for inspiration, if we can use that term. My
+                    trouble now is to—to keep from—to find some good reason not
+                    to work. I don't like to work. I put it off as long as I can. When the demon
+                    begins to worry me and nag me too much, then I will sit down and write. But I
+                    never have used any system, though some people do. Just like I've never kept
+                    notes. I will put off the work of—by any means I can think of. Then
+                    when I've got to get it done, I will sit down and write a batch of it, so I can
+                    take off a week and not work. <event desc="audience laughter"/> I'm lazy.</u></div2>
+                <div2 type="dialog" id="wfaudio30_2.19" start="00:23:16.89" end="00:23:30.23">
+                    <head>Close</head>
+                    <u who="B">Mr. Faulkner, I'm sure that we all join in thanking you for being with us
+                    today.</u>
+                <u who="WF">Well, thank you, ladies and gentlemen. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

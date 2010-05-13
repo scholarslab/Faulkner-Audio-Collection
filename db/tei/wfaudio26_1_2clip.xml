@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio26_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio26_1 and wfaudio26_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio26_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-02">2 May 1958</date>
+                    <locale>Undergraduate Class in Contemporary American Literature,
+                        Undergraduate Class in Writing, Graduate Class in American Fiction</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 2 May 1958</head><head>OCCASION: Undergraduate Class in Contemporary American Literature,
+                    Undergraduate Class in Writing, Graduate Class in American Fiction</head>
+                <head>This clip was created by splicing the end of T-143a and the beginning of T-143b together.</head>
+                
+                <div2 type="dialog" id="wfaudio26_1_2.1" start="00:00:00.82" end="00:01:21.16">
+                    <head>Spliced clip</head>
+                    <u who="WF"> Yes, sir.</u>
+                    <u who="Q">Did Quentin, before, actually have a conversation with his father about
+                        sleeping with his sister? Or was that part of his <inaudible/>?</u>
+                    <u who="WF">He never did. He said, "If I were brave I would—I—I
+                        might say this to my father, whether it was a lie or not." Or—or, "If
+                        I were—if I would say this to my father, maybe he could answer me back
+                        the magic word which would relieve me of this anguish and agony which I live
+                        with." No, they were imaginary. He just said "Suppose I say this to my father.
+                        Would it help me? Would it clarify? Would I see clearer
+                        what it is that I anguish over?"</u>
+                    <u who="Q">The feeling between him and his sister is pretty strong, though,
+                        <unclear>isn't it</unclear>?</u>
+                    <u who="WF">Yes, yes. But in Caddy's opinion he was—was such a—a
+                        weakling that even if they had been no kin, she would never had chosen him for
+                        her sweetheart. She would have chosen one like the—the ex-soldier she
+                        did, but never anybody like Quentin.</u>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

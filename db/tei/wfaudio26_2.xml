@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio26_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio26_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio26_2</idno>
+                <idno type="analog tape">T-143b</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <persName id="G">Frederick Gwynn</persName>
+                </person>
+                <person>
+                    <p id="JCh">John Church</p>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-02">2 May 1958</date>
+                    <locale>Undergraduate Class in Contemporary American Literature, Undergraduate
+                        Class in Writing, Graduate Class in American Fiction</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 2 May 1958</head>
+                <head>OCCASION: Undergraduate Class in Contemporary American Literature,
+                    Undergraduate Class in Writing, Graduate Class in American Fiction</head>
+                <head>TAPE: T-143b</head><head>LENGTH: 25:17</head>
+                <div2 type="dialog" id="wfaudio26_2.1" start="00:00:03.95" end="00:00:54.48">
+                    <head>Quentin and Father [part 2]</head>
+                    <u who="WF"><inaudible/> I live with. No, they were imaginary. He just said, "Suppose I
+                    say this to my father, would it help me? Would it clarify? Would I see clearer
+                    what it is that I anguish over?"</u>
+                <u who="G">The feeling between him and his sister is pretty strong, though,
+                        <unclear>isn't it</unclear>?</u>
+                <u who="WF">Yes, yes. But in Caddy's opinion he was—was such a—a
+                    weakling that even if they had been no kin, she would never had chosen him for
+                    her sweetheart. She would have chosen one like the—the ex-soldier she
+                    did, but never anybody like Quentin.</u></div2>
+                <div2 type="dialog" id="wfaudio26_2.2" start="00:00:56.00" end="00:01:17.95">
+                    <head>The Name Candace</head>
+                    <u who="G">Is Candace a common name in Mississippi or—?</u>
+                <u who="WF">No. No, Caddy seemed a nice name for her, and I had to think of
+                    something to justify it. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio26_2.3" start="00:01:20.76" end="00:02:27.02">
+                    <head>Caddy's Character</head>
+                    <u who="B">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="B">You said that your vision of Caddy was one of the things that started you
+                    on the novel. What qualities other than bravery seem to you to make her such a
+                    person <unclear>that you</unclear> could feel that strongly about?</u>
+                <u who="WF">She was independent herself. She was confident. She was compassionate
+                    enough to take care of the idiot child. That was no burden to her.
+                    If—her mother never had to say "Caddy, I want you to look after
+                    Benjamin this afternoon." Because she loved him. She would have done that
+                    anyway. And she was convinced that she could do the best for him. If what she
+                    couldn't do, Dilsey would tend to, <unclear>with that</unclear> Benjamin would
+                    be all right with her. She could look after him. And that she could take care of
+                    all of them. If there was something that would be pleasant for them to do, she
+                    would run the affair.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.4" start="00:02:34.63" end="00:03:17.24">
+                    <head>Jason's Character</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, I'm curious about Jason <inaudible/> <unclear>that Negro boy  
+                        tells him to keep his hands out of his pockets, because he's falling on his
+                        face all the time.  He stumbles. Why, was he fat and clumsy when he was younger</unclear>?</u>
+                <u who="WF">Probably that was a mannerism, keeping his hands in his pocket. To me,
+                    that—that presaged his future, something of greediness and grasping,
+                    selfishness. That he may have kept his hands in his pocket to guard whatever
+                    colored rock that he had found that was for him—represented the
+                    million dollars he would like to have someday.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.5" start="00:03:17.25" end="00:04:17.51">
+                    <head>Luster's Character</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">In the thumbnail sketch you describe—describe Luster as being a
+                    man of fourteen capable of taking care of an idiot and entertaining him at the
+                    same time. Why—why do you consider Luster a man?</u>
+                <u who="WF">Because he could do a man's job. At this time the idiot was twice his
+                    size, was actually dangerous. The idiot, by that time, was—was a man,
+                    and yet Luster at fourteen could cajole him when necessary, could trick him,
+                    could even apply enough physical force when necessary to keep him in hand. It's
+                    like the lion tamer is—is a man. It means simply that he's big enough
+                    for his job. That's what Luster—I meant by that. In Luster's
+                    terminology, a man is anyone who is big enough to do what he has to
+                        do.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.6" start="00:04:24.21" end="00:05:43.96">
+                    <head>Little Italian Girl</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in part two of <hi rend="italic">The Sound and the Fury</hi>, the
+                    little Italian girl <unclear>following Quentin, is this to
+                        represent</unclear> <inaudible/>?</u>
+                <u who="WF">I'm sorry. I don't remember her. I'll have to get that book and look at
+                    it.  I—I can't remember her. Maybe
+                    Mr. Gwynn could prompt me a little there?</u>
+                <u who="G">She was the sister of Julio. Quentin really <inaudible/> sees in
+                    her some innocence and calls her little sister quite a bit.</u>
+                <u who="WF">Is that in Cambridge?</u>
+                <u who="Q">Yes, sir, or outside of Cambridge—</u>
+                <u who="WF">Well, I mean when he was Harvard. Well, that's probably what it was. No
+                    symbolism. It was—he had a—a—a—a
+                    tenderness, a—an admiration for—for women, for girls and
+                    also a—a sublimation of the concept of virginity after his tragic
+                    situation with his sister. It may be that's what it was.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.7" start="00:05:47.92" end="00:05:55.53">
+                    <head>Quentin's Death</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Does Quentin commit suicide by jumping in the river or—?</u>
+                <u who="WF">Yes, by drowning. Yes.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.8" start="00:06:07.40" end="00:08:08.86">
+                    <head>Psychological Critics</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Mr. Faulkner, you say that the—some things you don't
+                        know exactly why you put them in.  Would you say that the so-called
+                        psychological critics could now <unclear>tell</unclear> you why you put them into your
+                        books?</u>
+                <u who="WF">A good psychologist certainly could or he would be a bad psychologist if
+                    he couldn't. <event desc="audience laughter"/> I think that—that one
+                    reads a book from the same jumping off place that one writes a book, that one
+                    reads a book from his own background of—of observation, imagination,
+                    and experience, too.  That no one man can put into a book what a dozen men
+                    can—can read into it.</u>
+                <u who="Q">But don't you think artistic control keeps the psychologist from
+                        analyzing the writing <inaudible/></u>
+                <u who="WF">No'm, I don't think so. Maybe I don't understand what you mean by
+                    artistic control.</u>
+                <u who="Q">Well, don't you have to put the things in a certain order, objectify
+                    them, and make them just the opposite from what a psychologist <unclear>wants
+                        them</unclear> <inaudible/>?</u>
+                <u who="WF">I wouldn't think so. The writer is—is writing from his own
+                    observation, imagination, experience, and out of the same background which the
+                    psychologist operates from. That is, from the—call it Christianity,
+                    the—the Caucasian race. The same background of education, of
+                    environment, which is the same time—period in time, and they would
+                    have some of the identical ideas which came from that near to identical
+                    backgrounds, which are identical in the period of time, in the—the
+                    culture of the country, of the speech, of the literature.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.9" start="00:08:10.68" end="00:09:27.75">
+                    <head>Darl Bundren</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in <hi rend="italic">As I Lay Dying</hi>, what was the significance
+                    of Darl's lying in front of his mother's coffin after it was saved from the
+                    fire?</u>
+                <u who="WF">Darl was mad. He did things which it seemed to me he—he had to
+                    do, or he insisted on doing. His reasons I could—could try to
+                    rationalize to—to suit myself, or even if I couldn't rationalize his
+                    reasons to please me, I had to accept the acts because Darl insisted on doing
+                    that. I mean that—that any character that you write takes charge of
+                    his own behavior. You can't make him do things once he comes alive and stands up
+                    and casts his own shadow. Darl did things which I'm—I'm sure were for
+                    his own mad reasons, quite logical. I couldn't always understand why he did
+                    things, but he did insist on doing things, and when we would—would
+                    quarrel about it, he always won, <event desc="audience laughter"/> because at
+                    that time he was alive. He was under his own power.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.10" start="00:09:33.48" end="00:10:41.97">
+                    <head>Successful Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, you mentioned that your characters are <inaudible/> dilemma of
+                    life. Are any of them actually successful in reaching a point where life is
+                    not—does not present itself as a dilemma?</u>
+                    <u who="WF">Well, they reach a point where life is no longer a—a—an
+                    uncopeable dilemma. There is one, a sewing machine agent called Ratliff,
+                    that—that handled living pretty well. There are others that handled it
+                    pretty well. I think Dilsey did, though hers was tragic. But it never
+                    did—it might have dented her head a little, but it
+                    never beat her to her knees. Ratliff got along quite well with it, because he
+                    realized—recognized his own limitations and the fact that the dilemma,
+                    although it was insoluble, was not uncopeable with. I think Flem
+                    Snopes—he coped with it pretty well.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.11" start="00:10:51.71" end="00:12:09.33">
+                    <head>Chickasaw Indians</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q"><unclear>Where did you find all your information on the Chickasaw
+                        Indians? Are there records</unclear>
+                    <inaudible/>?</u>
+                <u who="WF">Yes'm. There—there are records there, but I never did do much
+                    research. I would—I probably got my information about Indians as I've
+                    got it about most of the other things I know, from listening to people and
+                    adding a little imagination to it. I suspect that—that no Chickasaw
+                    would recognize my Chickasaws, <event desc="audience laughter"/> but people that
+                    do know more about Mississippi's history don't quarrel too much with my picture
+                    of Chickasaw Indians. And also, I have known some of their descendants. They
+                    have mixed with white people or with Negroes—are still in my country.
+                    And I don't think that—that people are all that different no matter
+                    what color they are.  That people are different more because of the pressure of
+                    their environment than because of their blood.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.12" start="00:12:12.37" end="00:13:50.69">
+                    <head>Enduring</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"><inaudible/>
+                    <unclear>accept and endure</unclear> throughout your work <inaudible/>?</u>
+                <u who="WF">That probably refers to man getting along within the human predicament. 
+                    That you've got to accept it because the only other choice is to cut your
+                    throat. If you cope with it, within your capacity to give when it's stronger
+                    than you, then you endure. And the only alternative to enduring is also
+                    to—to cease. And man is—is here through no choice of his
+                    own. He has—as far as he knows he's not going anywhere else, and if he
+                    does anything with what time he knows who he is, it will have to be while he is
+                    here, and he had better, I think, teach himself to accept the predicament and to
+                    endure in it and still get as much pleasure as he can without doing harm to
+                    anyone. Or if he's bent on doing good to people, that's well enough. Let him
+                    uplift man. But in order to accomplish anything, to be a writer, to be
+                    a—a doctor, to do anything well, to—even to have fun, you've
+                    got to accept the predicament and endure in it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.13" start="00:13:50.70" end="00:14:58.27">
+                    <head>Macbeth and Compsons</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I wonder how did you happen to have come up with the 
+                    title <hi rend="italic">The Sound and the Fury</hi> from <hi rend="italic">Macbeth</hi>, and I thought that perhaps it came from the
+                    speech—I mean the speech that it came from—"all our yesterdays"—of Macbeth himself,
+                    and I wondered if <unclear>there was any merit in</unclear> the analogy of the
+                    character Macbeth who having created his own chaos, inflicted it on life and the
+                    universe <unclear>with the same actions of</unclear> <inaudible/> <unclear>Compson</unclear> <inaudible/>.</u>
+                <u who="WF">No, it came simply from the—the words themselves,
+                    the—the ringing sound of the phrase—"A tale told by an idiot
+                    full of sound and fury." It had nothing to do with—with Macbeth's
+                    character. It was simply from the phrase.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.14" start="00:14:58.28" end="00:15:22.93">
+                    <head>Title and Benjy</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"><unclear>The part of</unclear> Benjy is the tale told by an idiot, I
+                    would assume.</u>
+                <u who="WF">Yes.  Yes, the book began as a short story. Benjamin, of course, was a
+                    deliberate choice from the biblical Benjamin.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.15" start="00:15:22.94" end="00:17:22.55">
+                    <head>Indian Stories</head>
+                    <u who="WF">Sorry.</u>
+                <u who="Q">I was wondering in your Indian stories again, "Lo!" and "A Courtship" and
+                    in "A Justice," except for the framework, your stories—these stories
+                    are very humorous, but in "Red Leaves," while there is a good deal of wry humor,
+                    that story seems to be much more serious, and I wondered if you'd care to
+                    comment.</u>
+                <u who="WF">Only, in primitive peoples—I mean by primitive peoples
+                    a—a small group which are obsolete inside another
+                    culture—the—the distance between what is humor and what is
+                    tragic is never very great, that it—it may be—be funny now
+                    but you better watch out. That was simply that—that the same
+                    conditions, the same ingredients, with just a little more or little less fire
+                    under it might make something completely different. That the—the
+                    implacable pursuit of that poor Negro was funny to anybody but him, and that
+                    not—and also it was not funny to the Indians that had to stop sitting
+                    down to get up and walk him down to catch him. But the
+                    picture of—of those lazy people that didn't want to do that having
+                    to—to catch that Negro, to me, was funny. But the result, the purpose
+                    of it, was anything but funny. The Indians that went to call on President
+                    Jackson was funny, but it wasn't funny to the Indians and certainly wasn't very
+                    funny to President Jackson.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.16" start="00:17:24.99" end="00:20:04.49">
+                    <head>Heredity v Environment</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">I think what I intend to say is man's immediate 
+                    behavior is the result of the pressure of his environment. The—the
+                    method in which he behaves, of course, is—is heredity.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">I'm sorry.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">I think that heredity, if the word means anything, must be a constant
+                    factor. That would not change. It would alter. It would evolve. Man's behavior,
+                    which at one moment is this and in—under another situation is that, is
+                    because of the pressure of the immediate environment. But irregardless of
+                    his—his blood, his heritage, circumstance will compel him
+                    to—to make choices. He will make the choice according to the pressure
+                    of the environment.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">Ma'am.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">Maybe we mean different things by—by environment. When I use
+                    that term I mean the immediate conditions of—of—of a moment.
+                    The environment that has—has shaped a child's character from the time
+                    it was born until it's ten years old has become a part of heritage, by that
+                    time. I use environment as the immediate moment. That is, environment, to me,
+                    now is—is us in this room.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.17" start="00:20:11.19" end="00:21:25.46">
+                    <head>Bayard's Heredity</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Does this mean that young Bayard Sartoris, for example, inherited death
+                    by violence?</u>
+                <u who="WF">Death by violence was—was a part of his past. It was
+                    a—a—a part of the creed of his family. He inherited that
+                    creed. He didn't have to—to function according to it. Which he didn't,
+                    he refused to do that. Because he was—was saying—trying to
+                    repudiate the past, not to cling to it. His tradition was that—that
+                    death by violence came sooner or later if you stuck to the creed of an
+                    eye-for-an-eye, blood-for-blood, and the—the emptiness of that sort of
+                    pride. That was his inheritance.  But his behavior was because of his
+                    environment, which had—which was the result of a lost war in which
+                    people should have had enough of blood-for-blood and an eye-for-an-eye. That
+                    that solved nothing.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.18" start="00:21:31.85" end="00:23:19.00">
+                    <head>"Delta Autumn"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, do you recall a short story you wrote called "Delta Autumn"?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">I wonder what would be the comment of Flem Snopes if such a story were
+                    told to him as being true?</u>
+                <u who="WF">Why, I suppose he would—he wouldn't be too interested in it
+                    because there would be no percentage in going to the woods for two weeks just to
+                    shoot deer. He would be familiar with it. It would be a—a—a
+                    foolish way to spend two weeks. Was that what you meant?</u>
+                <u who="Q"><inaudible/> <unclear>different stories.</unclear> Is—this is the story
+                    where the <inaudible/> going off to Arizona <unclear>with this Negro woman</unclear>.
+                    Isn't that part of the story of "Delta Autumn"?</u>
+                <u who="WF">"Delta Autumn" was a—a camp of deer hunters in which
+                    a—a young woman, a Negress, the discarded mistress of—of one
+                    of the white hunters, came to the camp to see him.</u>
+                <u who="Q">That was the part of the story that I was referring to, that what Flem Snopes' comment would be on that
+                    sort of thing happening within his environment.</u>
+                <u who="WF">Well, that was his environment. He lived there, too. He just didn't go
+                    deer hunting. He probably had—had children by a Negro woman
+                        himself.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_2.19" start="00:23:22.05" end="00:24:22.32">
+                    <head>Mississippi and Doom</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="JCh">Sir, you've mentioned that these people in <hi rend="italic">The Sound
+                        and the Fury</hi> are doomed. Is it your theory also that people everywhere
+                    are doomed or is it just these people in Mississippi?</u>
+                <u who="WF">No, no, <event desc="audience laughter"/> only the— <event desc="Faulkner laughing"/> no, only—only the Compson
+                    family—</u>
+                    <u who="JCh">Sir?</u>
+                        <u who="WF">
+                            Only that Compson family.</u>
+                    <u who="JCh">Oh, the Compsons.</u>
+                    <u who="WF">That they had refused to accept now and
+                    tomorrow. And there's no place for them in now because they wouldn't accept it.
+                    Or maybe that's backward, if there had been a place for them, they wouldn't have
+                    been Compsons. No, that's what—what Dilsey meant by the first and the
+                    last. It was the Compsons, that family. That was Quentin's thought. It's not
+                    Mississippians nor folks in Jefferson, but—but "us Compsons are doomed,
+                    that we have had it."</u></div2>
+                <div2 type="dialog" id="wfaudio26_2.20" start="00:24:24.14" end="00:24:39.36">
+                    <head>Close</head>
+                    <u who="G">Mr. Faulkner, we're forced to accept now and tomorrow and thank you very
+                    much.</u>
+                <u who="WF">Oh, thank you all. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

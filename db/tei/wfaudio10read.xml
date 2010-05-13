@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio10read">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of reading from audio recording wfaudio10</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio10read</idno>
+				<idno type="analog tape">T-118andT-119</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-04-30">30 April 1957</date>
+					<locale>The Jefferson Society</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 30 April 1957</head>
+				<head>OCCASION: The Jefferson Society</head>
+				<head>TAPE: T-118andT-119</head><head>LENGTH: 21:39</head>
+				<head>FAULKNER READING FROM "The Waifs"</head>
+				
+				<div2 type="reading" id="wfaudio10" start="00:01:56.07" end="00:23:35.34">
+					<head>Reading</head>
+					<u who="WF">
+						<writing type="fiction"> And one more thing. One morning—it was summer again
+							now, July—the northbound train from New Orleans stopped and the first
+							man off was usually the Negro porter—not the Pullman porters, they were
+							always back down the track at the end; we hardly ever saw them, but the
+							one from the day coaches at the front end—to get down and strut a little
+							while he talked to the section hands and the other Negroes that were
+							always around to meet the passenger trains. But this time it was the
+							conductor himself, almost jumping down before the train stopped, with
+							the white flagman at his heels, almost stepping on them; the porter
+							himself didn't get off at all: he—just his head sticking out a window
+							about half way down the car.<lb/> Then four things got off. I mean, they
+							were children. The tallest was a girl though we never did know whether
+							she was the oldest or just the tallest, then two boys, all three in
+							overalls, and then a little one in a single garment down to its heels
+							like a man's shirt and made out of a flour- or meal-sack or maybe a
+							scrap of an old tent. Wired to the front of each one of them was a
+							shipping tag written in pencil:<lb/>
+							<hi rend="center">FROM: BYRON SNOPES, EL PASO, TEXAS<lb/> TO: MR> FLEM
+								SNOPES, JEFFERSON, MISSISSIPPI</hi><lb/>
+							Though Mr Snopes wasn't there. He was busy being a
+							banker now and a deacon in the Baptist church, living in solitary
+							widowerhood in the old De Spain house which he had remodeled into an
+							ante-bellum Southern mansion; he wasn't there to meet them. It was Dink
+							Quistenberry. He had married one of Mr Snopes's sisters or nieces or
+							something out at Frenchman's Bend and when Mr Snopes sent I.O. Snopes
+							back to the country the Quistenberrys came in to buy or rent or anyway
+							to run the Snopes Hotel, which wasn't the Snopes Hotel any more now but
+							the Jefferson Hotel though the people that stayed there were still the
+							stock traders and juries locked up by the Circuit Court. I mean, Dink
+							was old enough to be Mr Snopes's brother-in-law or whatever it was but
+							he was the kind of man it just didn't occur to you to say Mister to.<lb/>
+							He was there; I reckon Mr Snopes sent him. And when
+							he saw them I reckon he felt just like we did when we saw them, and like
+							the conductor and the flagman and the porter all looked like they had
+							been feeling ever since the train left New Orleans, which was evidently
+							where they got on it. Because they didn't look like people. They looked
+							like snakes. Or maybe that's too strong too. Anyway, they didn't look
+							like children; if there was one thing in the world they didn't look like
+							it was children, with kind of dark pasty faces and black hair that
+							looked like somebody had put a bowl on top of their heads and then cut
+							their hair up to the rim of the bowl with a dull knife, and perfectly
+							black perfectly still eyes that nobody in Jefferson (Yoknapatawpha
+							County either) ever afterward claimed they saw blink. <lb/>
+							I dont know how Dink talked to them because the
+							conductor had already told everybody listening (there was a good crowd
+							by that time) that they didn't talk any language or anything else that
+							he had ever heard of—heard of and that to watch them because one of them
+							had a switch knife with a six-inch blade, he didn't know which one and
+							he himself wasn't going to try to find out. But anyway Dink got them
+							into his car and the train went on.<lb/> Maybe it was the same thing
+							they used in drugstores or at least with Skeets McGowan in Christian's
+							because it wasn't a week before they could go into Christian's, all four
+							of them (it was always all four of them, as if when the medicine man or
+							whoever it was separated each succeeding one from the mother, he just
+							attached the severed cord to the next senior child. Because by that time
+							we knew who they were: Byron Snopes's children out of a—a Jicarilla
+							Apache squaw in Old Mexico), and come out two minutes later all eating
+							ice-cream cones.<lb/>
+							They were always together and anywhere in town or
+							near it at any time of day, until we found out it was any time of night
+							too; one night at two oclock in the morning when Otis Harker caught them
+							coming in single file from behind the Coca-Cola bottling plant; Otis
+							said he didn't know how in the world they got into it because no door
+							was open nor window broken, but he could smell warm Coca-Cola syrup
+							spilled down the front of the little one's nightshirt or dressing-sacque
+							or whatever it was from five or six feet away. Because that was as close
+							as he got; he said he hollered at them to go on home to the Snopeses, I
+							mean the Jefferson Hotel but they just stood there looking at him and he
+							said he never intended anything: just to get them moving since maybe
+							they didn't understand what he meant yet. So he sort of flung his arms
+							out and was just kind of jumping at them, hollering again, when he
+							stopped himself just in time, the knife already in one of their hands
+							with the blade open at least six inches long; so fast that he never even
+							saw where it came from and in the next minute gone so fast he still
+							didn't even know which one of the three in over-alls—the girl or the two
+							boys—had it; that was when Mr Connors went to Dink Quistenberry the next
+							morning and told him he would have to keep them off the streets at
+							night.<lb/> "Sure," Dink said. "You try it. You keep them off the
+							streets or off anywhere else. You got my full permission. You're welcome
+							to it!" <lb/>
+							So when the dog business happened, even Mr Hub
+							Hampton himself didn't get any closer to them than that. This was the
+							dog business. We were getting paved streets in Jefferson now and so more
+							new families, engineers and contractors and such like the little Riddell
+							boys' papa—the little Riddell boys that gave us that holiday two years
+							ago, had moved to Jefferson. One of them didn't—them didn't have any
+							children but they had a Cadillac and his wife had a dog that they said
+							cost five hundred dollars, the only dog higher than fifty dollars except
+							a field-trial pointer or setter (and a part Airedale bear dog named Lion
+							that Major de Spain, Mr de Spain's father, owned once that hunting
+							people in north Mississippi still talked about) that Jefferson ever
+							heard of, let alone saw—a Pekinese with a gold name-plate on its collar
+							that probably didn't even know it was a dog, that rode in the Cadillac
+							and sneered through the windows not just at other dogs but at people
+							too, and even ate special meat that Mr Wall Snopes's butcher ordered
+							special from Kansas City because it cost too much for just people to buy
+							and eat. <lb/>
+							One day it disappeared. Nobody knew how, since the
+							only time it wasn't sneering out through the Cadillac window, it was
+							sneering out through a window in the house where it—they—lived. But it
+							was gone and I dont think anywhere else ever saw a woman take on over
+							anything like Mrs Widrington did, with rewards in all the Memphis and
+							north Mississippi and west Tennessee and east Arkansas papers and Mr
+							Hampton and Mr Connors neither able to sleep at night for Mrs Widrington
+							ringing their telephone, and the man from the insurance company (its
+							life was insured too so maybe there were more people insured in
+							Jefferson than there were dogs but then there was more of them not
+							insured in Jefferson than there was dogs too) <event
+								desc="audience laughter"/> and Mrs Widrington herself likely at
+							almost any time of day or night to be in your back yard calling what
+							Aleck Sander and I thought was Yow! Yow! Yow! until Uncle Gavin told us
+							it was named Lao T'se for a Chinese poet. Until one day the four Snopes
+							Indians came out of the Christian's drugstore and somebody passing on
+							the street pointed his finger and hollered "Look!" <lb/>
+							It was the collar with the gold name-plate. The
+							little one was wearing it around its neck above the nightshirt. Mr
+							Connors—Connors came quick and sent about as quick for Mr Hampton. And
+							that was when Mr Hampton didn't come any closer either and I reckon we
+							all were thinking about what he was: what a mess that big gut of his
+							would make on the sidewalk if he got too close to that knife before he
+							knew it. <event desc="audience laughter"/> And the four Snopes Indians
+							or Indian Snopeses, whichever is right, standing in a row watching him,
+							not looking dangerous, not looking anything; not innocent
+							especially—especially and nobody would have called it affectionate, but
+							not dangerous in the same sense that four shut pocket knives dont look
+							threatening. They look like four shut pocket knives but they dont look
+							lethal. Until Mr Hampton said:<lb/> "What do they do when they aint
+							eating ice cream up here or breaking in or out of that bottling plant at
+							two oclock in the morning?"<lb/> "They got a kind of camp or reservation
+							or whatever you might call it in a cave they dug in the big di—big ditch
+							behind the school house," Mr Connors said.<lb/> "Did you look there?" Mr
+							Hampton said.<lb/> "Sure," Mr Connors said. "Nothing there but just some
+							trash and bones and stuff they play with."<lb/> "Bones?" Mr Hampton
+							said. "What bones?"<lb/> "Just bones," Mr Connors said. "Chicken bones,
+							spare rib, stuff like that they been eating I reckon." <lb/>
+							So Mr Hampton went and got in his car and Mr Connors
+							went to his that had the red light and the sireen on it and a few others
+							got in while there was still room, and the two cars went to the school
+							house, the rest of us walking because we wanted to see if Mr Hampton
+							with his belly really would try to climb down into that ditch and if he
+							did know how he was going to get out again. But he did it, with Mr
+							Connors showing him where the cave was but letting him go first since he
+							was the sheriff, on to where the little pile of bones was behind the
+							fireplace and turned them over with his toe and then raked a few of them
+							to one side. Because he was a hunter, a woods man, a good one before his
+							belly got too big to go through a thicket. "There's your dog," he said.<lb/>
+							And I remember that time, five years ago now, when
+							we were all at the table and Matt Levitt's cut-out passing in the street
+							and Father says <unclear>now</unclear> Uncle Gavin: "What's that sound I
+							smell?" Except that Mr Snopes's brass business at the power-plant was
+							before I was even born: Uncle Gavin's office that morning and Mrs
+							Widrington and the insurance man because the dog's life had been insured
+							only against disease or accident or acts of God, and the insurance man's
+							contention (I reckon he had been in Jefferson long enough to have talked
+							with Ratliff; any stranger in town for just half a day, let alone a
+							week, would find himself doing that) was that four half-Snopeses and
+							half-Jicarilla Apache Indians were none of them and so Jefferson
+							him—itself was liable and vulnerable to suit. So I had only heard about
+							Mr Snopes and the missing brass from Uncle Gavin, but I thought about
+							what Father said that day because I had been there then: "What's that
+							sound I smell?" when Mr Snopes came in, removing his hat and saying
+							"Morning" to everybody without saying it to anybody; then to the
+							insurance man: "How much on that dog?"<lb/> "Full pedigree value, Mr
+							Snopes. Five hundred dollars," the insurance man said and Mr Snopes (the
+							insurance man himself got up and turned his chair around to the desk for
+							him) sat down and took out a blank check from his pocket and filled in
+							the amount and pushed it across the desk in front of Uncle Gavin and got
+							up and said "Morning" without saying it to anybody and put on his hat
+							and went out. <lb/>
+							Except that he didn't stop there. Because the next
+							day Byron Snopes's Indians were gone. Ratliff came in and told us.<lb/>
+							"Sho," he said. "Flem sent them out to the Bend. Neither of—neither of
+							their grandmaws, I mean I.O.'s wives, would have them but finally
+							Dee-wit Binford"—Dewitt Binford had married another of the Snopes girls.
+							They lived near Varner's store—"taken them in. On a contract, the
+							Snopeses all clubbing together pro rata and paying Dee-wit a dollar a
+							head a week on them, providing of course he can last a week. Though
+							naturally the first four dollars was in advance, what you might call a
+							retainer you might say." <lb/>
+							It was. I mean, just about a week. Ratliff came in
+							again; it was in the morning. "We jest finished using up Frenchman's
+							Bend at noon yesterday, and that jest about cleans up the county. We're
+							down at the dee-po now, all tagged and the waybill paid, waiting for
+							Number Twenty-three southbound or any other train that will connect more
+							or less or thereabouts for El Paso, Texas"—telling about that too: "A
+							combination you might say of scientific interest and what's that word?"
+							until Uncle Gavin told him anthropological "anthropological coincidence;
+							them four vanishing Americans coming durn nigh taking one white man with
+							them if Clarence Snopes's maw and a few neighbors hadn't got there in
+							time." <lb/>
+							He told it: how when Dewitt Binford got them home he
+							discovered they wouldn't stay in bed at all, dragging a quilt off onto
+							the floor and lying in a row on it and the next morning he and his wife
+							found the bedstead itself dismantled and leaned against the wall in a
+							corner out of the way; and they hadn't heard a sound during the process.
+							He—Dewitt—said that's what got on his mind even before he begun to worry
+							about the little one: you couldn't hear them; you didn't even know they
+							were in the house or not, when they had entered it or left it; for all
+							you knew, they might be right there in your bedroom in the dark, looking
+							at you. <lb/>
+							"So he tried it," Ratliff said. "He went over to
+							Tull's and borrowed Vernon's flashlight and waited until about midnight
+							and he said he never moved quieter in his life, across the hall to the
+							door of the room, trying to not even breathe if he could help it; he had
+							done already cut out <unclear>three</unclear> sighting notches in the
+							door-frame so that when he laid the flashlight into them by feel it
+							would be aimed straight at where—where the middle two heads would be on
+							the pallet; and held his breath again, listening until he was sho there
+							wasn't a sound, and snapped on the light. And them four faces and them
+							eight black eyes already laying there wide open looking straight at him.<lb/>
+							"And Dee-wit said he would like to have give up
+							then. But by that time that least un wouldn't give him no rest a-tall.
+							Only he didn't know what to do because he had done been warned about
+							that knife even if he hadn't never seen it. Then he remembered them
+							pills, that bottle of knock-out opium pills that Doc Peabody had give
+							Miz Dee-wit that time the brooder lamp blowed up and burnt most of her
+							front hair off, so he taken eight of them and bought four bottles of
+							sody pop at the store and put two capsules into each bottle and druv the
+							caps back on and hid the bottles jest exactly where he figgered they
+							would have to hunt jest exactly hard enough to find them. And by dark
+							the four bottles was gone and he waited again to be sho it had had
+							plenty of time to work and taken Vernon's flashlight and went across the
+							hall and got on his hands and knees and crawled across to the pallet—he
+							knowed by practice now exactly where on the pallet that least un slept
+							or anyway lay—and reached out easy and found the hem of that nightshirt
+							with one hand and the flashlight ready to snap on in the other.<lb/>
+							"And when he told about it, he was downright crying not jest skeer so
+							much as pure and simple unbelief. 'I wasn't doing nothing' he says. 'I
+							wasn't going to hurt it. All in the world I wanted was jest to see which
+							it was—'" <lb/>
+							"Which is it?" Uncle Gavin said.<lb/> "That's what
+							I'm telling you," Ratliff said. "He never even got to snap on the
+							flashlight. He jest felt them two thin quick streaks of fire, one down
+							either cheek of his face; he said that all that time he was already
+							running backward on his hands and knees toward the door he knowed there
+							wouldn't even be time to turn around, let alone get on his feet to run,
+							not to mention shutting the door behind him; and when he run back into
+							his and Miz Deewit's room there wasn't—there wouldn't be no time to shut
+							that one neither except he had to, banging it shut and hollering for Miz
+							Dee-wit now, dragging the bureau against it while Miz Dee-wit lit the
+							lamp and then come and holp him until he hollered at her to shut the
+							windows first; almost crying with them two slashes running from each
+							ear, jest missing his eye on one side, right down to the corners of his
+							mouth like a great big grin that would bust scab and all if he ever let
+							his face go, telling how they would decide that the best thing would be
+							to put out the lamp too and set in the dark until he remembered how they
+							had managed somehow to get inside that locked-up Coca-Cola plant without
+							even touching the patented burglar alarm. <lb/>
+							"So they jest shut and locked the windows and left
+							the lamp burning, sitting there in that air-tight room on that hot
+							summer night, until it come daylight enough for Miz Dee-wit to at least
+							jump and dodge on the way back to the kitchen to start the fire in the
+							stove and cook breakfast. Though the house was empty then. Not safe of
+							course: jest empty except for themselves while they tried to decide
+							whether to try to get word in to Flem or Hub Hampton to come out and get
+							them, or jest pack up themselves without even waiting to wash up the
+							breakfast dishes, and move over to Tull's. Anyhow Dee-wit said him and
+							Miz Dee-wit was through and they knowed it, four dollars a week or no
+							four dollars a week; and so, it was about nine oclock, he was on his way
+							to the store to use the telephone to call Jefferson, when Miz I.O.
+							Snopes, I mean the number-two one that got superseded back before she
+							ever had a chance to move to town, saved him the trouble." <lb/>
+							We knew Clarence Snopes ourselves. He would be in
+							town every Saturday or every other time he could ge a ride in according
+							to Ratliff—a big hulking man now eighteen or nineteen who was all a gray
+							color: a grayish tinge already to his tow-colored hair, a grayish pasty
+							look to his flesh, which looked as if it would not flow blood from a
+							wound but instead a pallid fluid like thin oatmeal; he was the only
+							Snopes or resident of Frenchman's Bend or Yoknapatawpha County either,
+							for that matter, who made his Texas cousins welcome. "You might say he
+							adopted them," Ratliff said. "Right from that first day. He even claimed
+							he could talk to them and that he was going to train them to hunt in a
+							pack; they would be better than any jest pack of dogs because sooner or
+							later dogs always quit and went home, while it didn't matter to them
+							where they was. <lb/>
+							"So he trained them. The first way he done it was to
+							set a bottle of sody pop on a stump in front of the store with a string
+							running from it to where he would be setting on the gallery, until they
+							would maneuver around and finally bushwack up to where one of them could
+							reach for it, then he would snatch it off the stump with the string and
+							drag it out of their reach. Only that never worked but once so then he
+							would have to drink the bottles empty and fill them again with muddy
+							water or some such, or another good training with muddy water or some
+							such, or another good training method was to gather up a few
+							throwed-away candy-bar papers and wrap them up again with mud inside or
+							maybe jest not nothing a-tall because it taken them a good while to give
+							up then, especially if now and then he had a sho enough candy bar or a
+							sho enough bottle of strawberry or orange shuffled into the other
+							ones.<lb/> "Anyhow he was always with them, hollering at them and waving
+							his arms to go this way or that way when folks was watching, like dogs;
+							they even had some kind of a play house or cave or something in another
+							ditch about half a mile up the road. That's right. What you think you
+							are laughing at is the notion of a big almost growed man like Clarence,
+							playing, all of a sudden—that's right. What you think you are laughing
+							at is the notion of a big almost growed man like Clarence, playing until
+							all of a sudden you find out that what you're laughing at is calling
+							anything playing that them four things would be interested in.<lb/>
+							"So Dee-wit had jest reached the store when here
+							come Clarence's maw, down the road hollering 'Them Indians! Them
+							Indians!' jest like that: a pure and simple case of mother love and
+							mother instinct. Because likely she didn't know anything yet and even if
+							she had, in that state she couldn't a told nobody: jest standing there
+							in the road in front of the store wringing her hands and hollering Them
+							Indians until the men squatting along the gallery begun to get up and
+							then to run because about that time Dee-wit come up. Because he knowed
+							what Miz Snopes was trying to say. Maybe he never had no mother love and
+							mother instinct but then neither did Miz Snopes have a last-night's
+							knife-slash down both cheeks.<lb/> "'Them Indians?' he says. 'Fore God,
+							men, run. It may already be too late.'<lb/> "But it wasn't. They was in
+							time. Pretty soon they could hear Clarence bellowing and screaming and
+							then they could line him out and the fastest ones run on ahead and down
+							into the ditch to where Clarence was tied to a blackjack sapling with
+							something less than a cord of wood stacked around him jest beginning to
+							burn good. <event desc="audience laughter"/><lb/>
+							"So they was in time. Jody telephoned Flem right
+							away and in fact all this would a formally took place yesterday evening
+							except that Clarence's hunting pack never reappeared in sight until this
+							morning when Dee-wit lifted the shade enough to see them waiting on the
+							front gallery for breakfast. But then his house was barred in time
+							because he hadn't never unbarred it from last night. And Jody's car was
+							already standing by on emergency alert as they say and it wasn't much
+							trouble to toll them into it since like Clarence said one place was jest
+							like another to them. "So they're down at the dee-po now. Would either
+							of you gentlemen like to go down with me and watch what—what they call
+							the end of a erea, if that's what they call what I'm trying to say? The
+							last and final end of Snopes out-and-out unvarnished behavior in
+							Jefferson, if that's what I'm trying to say." <lb/>
+							So Ratliff and I went to the station while he told
+							me the rest of it. It was Miss Emily Habersham; she had done the
+							telephoning herself: to the Travellers' Aid in New Orleans to meet the
+							Jefferson train and put them on the one for El Paso, and to the El Paso
+							Aid to get them across the border and turn them over to the Mexican
+							police to send them back home, to Byron Snopes or the reservation or
+							wherever it was. Then I noticed the package and said, "What's that?" but
+							he didn't answer. He just parked the pickup and took the cardboard
+							carton and we went around onto the platform where they were: the three
+							in the overalls and what Ratliff called the least un in the nightshirt,
+							each with a new shipping tag wired to the front of its garment, but
+							printed in big block capitals this time, like shouting this time:<lb/>
+							<hi rend="center">FROM: FLEM SNOPES, JEFFERSON, MISS.<lb/> TO: BYRON
+								SNOPES, EL PASO, TEXAS</hi><lb/>
+							There was a considerable crowd around them, at a
+							safe distance, when we come up and Ratliff opened the carton; it
+							contained four of everything: four oranges and apples and candy bars and
+							bags of peanuts and packages of chewing gum. "Watch out, now," Ratliff
+							said. "Maybe we better set it on the ground and shove it up with a stick
+							or something." But he didn't mean that. Anyway, he didn't do it. He just
+							said to me, "Come on; you aint quite growed so may—they may not snap at
+							you," and moved near and held out one of the oranges, the eight eyes not
+							once looking at it nor at us nor at anything that we could see; until
+							the girl, the tallest one, said something, something quick and brittle
+							that sounded quite strange in the treble of a child; whereupon the first
+							hand came out and took the orange, then the next and the next, orderly,
+							not furtive: just quick, while Ratliff and I dealt out the fruit and
+							bars and paper bags, the empty hand already extended again, the objects
+							vanishing somewhere faster than we could follow, except the little one
+							in the nightshirt which apparently had no pockets: until the girl
+							herself leaned and relieved the overflow. <lb/>
+							Then the train came in and stopped; the day coach
+							vestibule clanged and clashed open, the narrow steps hanging downward
+							from the orifice like a narrow dropped jaw. Evidently, obviously, Miss
+							Habersham had telephoned a trainmaster or a superintendent (maybe a vice
+							president) somewhere too because the conductor and the porter both got
+							down and the conductor looked rapidly at the four tags and motioned, and
+							we—all of us; we represented Jefferson—watched them mount and vanish one
+							by one into that iron impatient maw: the girl and the two boys in
+							overalls and Ratliff's least un in ankle-length single garment like a
+							man's discarded shirt made out of flour- or meal-sacking or perhaps the
+							remnant of an old tent. We never did know which it was. </writing>
+						<event desc="applause"/>
+					</u>
+				</div2>
+				
+			</div1>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio20_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio20_1 and wfaudio20_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio20_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+               
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-02-20">20 February 1958</date>
+                    <locale>The Raven, Jefferson and Omicron Delta Kappa Societies</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 20 February 1958</head>
+                <head>OCCASION: The Raven, Jefferson and Omicron Delta Kappa Societies</head>
+                <head>This clip was created by splicing the end of T-140begins and the beginning of T-140ends together.</head>
+
+<div2 type="dialog" id="wfaudio20_1_2.1" start="00:00:00.32" end="00:01:55.55">
+    <head>Spliced clip</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, it seems that the need by the early first colonies, the
+					need for an agrarian society to have labor, gave birth to this great problem,
+					and it also seems that the continual effort and attempt to maintain the society
+					even after 1865 has prolonged and added to the problem. Do you think, and this
+					is my question, that the advent of industry in the South, the industrialization
+					of the South, and the possible eventual destruction of the
+				    remaining—of the agrarian—agrarian society will have any
+                    effect upon this problem?</u>
+                <u who="WF">It will in that, I think, the agrarian culture was the only culture the
+                    white man went to much trouble to—to train the Negro in. As that
+                    vanishes, the Negro becomes more and more of a problem. When that's completely
+                    gone, he will be still more and more of a problem, and for that reason
+                    the white man will have to do something to—to substitute that agrarian
+                    economy, which took care of the Negro. I—I mean by—by "took
+                    care," which assimilated the Negro. The Negro had a—a definite place
+                    in that economy. Now the only contact the Negro has with the white man's culture
+                    is the time-payment icebox and—and the automobile that he'll own some
+                    day, if he don't tear it up before he finishes paying for it, <event desc="audience laughter"/> but there's no other contact with the white man's
+                    culture that the Negro has since he was—since he left the agrarian
+                    economy of slavery.
+                </u></div2>
+                </div1>
+</body>
+	</text>
+</TEI.2>

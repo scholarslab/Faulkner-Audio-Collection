@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio02_1read">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcription of reading from audio recording wfaudio02_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio02_1read</idno>
+				<idno type="analog tape">T-106</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-03-07">7 March 1957</date>
+					<locale>The English Club</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 7 March 1957</head>
+				<head>OCCASION: The English Club</head>
+				<head>TAPE: T-106</head><head>LENGTH: 31:33</head>
+				<head>FAULKNER READING FROM "Spotted Horses"</head>
+				
+				<div2 type="reading" id="wfaudio02_1" start="00:44:71.00" end="00:32:17.53">
+					<head>Reading</head>
+					<u who="WF">
+						<writing type="fiction">When the Texan, picking his teeth with a splintered
+							kitchen match, emerged from the house twenty minutes later, the tethered
+							wagons and riding horses and mules extended from the lot gate to
+							Varner's store, and there were more than fifty men now standing along
+							the fence beside the gate, watching him quietly, a little covertly, as
+							he approached, rolling a little, slightly bowlegged, the high heels of
+							his carved boots printing neatly into the dust. "Morning, gents," he
+							said. "Here, bud," he said to the little boy, who stood slightly behind
+							him, looking at the protruding butt of the pistol. He took a coin from
+							his pocket and gave it to the boy. "Run to the store and get me a box of
+							gingersnaps." He looked about at the quiet faces, protuberant, sucking
+							his teeth. He rolled the match from one side of his mouth to the other
+							without touching it. "You boys done made your picks, have you? Ready to
+							start her off, hah?" They didn't answer. They were not looking at him
+							now. That is, he began to have the feeling that each face had stopped
+							looking at him the second before his gaze reached it. After a moment
+							Freeman said:<lb/>
+							"Aint you going to wait for Flem?" <lb/>
+							"Why?" the Texan said. Then Freeman stopped looking
+							at him too. There was nothing in Freeman's face either. There was
+							nothing, no alteration, in the Texan's voice. "Eck, you done already
+							picked out yours. So we can start her off when you are ready." "I reckon
+							not," Eck said.<lb/> "I wouldn't buy nothing I was afraid to walk up and
+							touch."<lb/> "Them little ponies?" the Texan said. "You helped water and feed
+							them. I bet that boy of yours could walk up to any one of them."<lb/> "He
+							better not let me catch him at it," Eck said. The Texan looked about at the
+							quiet faces, his gaze at once abstract and alert, with an impenetrable
+							surface quality like flint, as though the surface were impervious or
+							perhaps there was nothing behind it.<lb/>
+							"Them ponies is gentle as a dove, boys. The man that
+							buys them will get the best piece of horseflesh he ever forked or druv
+							for the money. Naturally they got spirit; I aint selling crowbait.
+							Besides, who'd want Texas crowbait anyway, with Mississippi full of it?"
+								<event desc="audience laughter"/> His stare was still absent and
+							unwinking; there was no mirth or humor in his voice and there was
+							neither mirth nor humor in the single guffaw which came from the rear of
+							the group. Two wagons were now drawing out of the road at the same time,
+							up to the fence. The men got down from them and tied them to the fence
+							and approached. "Come up, boys," the Texan said. "You're just in time to
+							buy a good gentle horse cheap." <lb/>
+							"How about that one that cut your vest off night before 
+							last?" a voice said. This time three or four guffawed. The Texan looked
+							toward the sound, bleak and unwinking.<lb/>
+							"What about it?" he said. The
+							laughter, if it had been laughter, ceased. The Texan turned to the
+							nearest gatepost and climbed to the top of it, his alternate thighs
+							deliberate and bulging in his tight trousers, the butt of the pistol
+							catching and losing the sun in pearly gleams. Sitting on the post, he
+							looked down at the faces along the fence which were attentive, grave,
+							reserved and not looking at him. "All right," he said. "Who's going to
+							start her off with a bid? Step right up; take your pick and make your
+							bid, and when the last one is sold, walk in that lot and put your rope
+							on the best piece of horseflesh you ever forked or druv for the money.
+							There aint a pony there that aint worth fifteen dollars. Young, sound,
+							good for saddle or work stock, guaranteed to outlast four ordinary
+							horses; you couldn't kill one of them with a axle-tree—" There was a
+							small violent commotion at the rear of the group. The little boy
+							appeared, burrowing among the motionless overalls. He approached the
+							post, the new and unbroken paper carton lifted. The Texan leaned down
+							and took it and tore the end from it and shook three or four of the
+							cakes into the boy's hands, a hand as small and almost as black as that
+							of a coon. He held the carton in his hand while he talked, pointing out
+							the horses with it as he indicated them. "Look at that one with the
+							three stocking-feet and the frost-bit ear; watch him now when they pass
+							again. Look at that shoulder-action; that horse is worth twenty dollars
+							of any man's money. Who'll make me a bid on him to start her off?" His
+							voice was harsh, ready, forensic. Along the fence below him the men
+							stood with, buttoned close in their overalls, the tobacco-sacks and worn
+							purses, the sparse silver and frayed bills hoarded a coin at a time in
+							the cracks of chimneys or chinked into the logs of walls. From time to
+							time the horses broke and rushed with purposeless violence and huddled
+							again, watching the faces along the fence with wild mismatched eyes. The
+							lane was full of wagons now. As the others arrived they would have to
+							stop in the road beyond it and the occupants came up the lane on foot.
+							Mrs Littlejohn came out of her kitchen. She crossed the yard, looking
+							toward the lot gate. There was a blackened wash pot set on four bricks
+							in the corner of the yard. She built a fire beneath the pot and came to
+							the fence and stood there for a time, her hands on her hips and the
+							smoke from the fire drifting blue and slow behind her. Then she turned
+							and went back into the house. "Come on, boys," the Texan said. "Who'll
+							make me a bid?" <lb/>
+							"Four bits," a voice said. The Texan did not even
+							glance toward it.<lb/>
+							"Or, if he dont suit you, how about that fiddle-head
+							horse without no mane to speak of? For a saddle pony, I'd rather have
+							him than <unclear>this</unclear> stocking-foot. I heard somebody say fifty cents just now.
+							I reckon he meant five dollars, didn't he? Do I hear five dollars?"<lb/>
+							"Four bits for the lot," the same voice said. <event
+								desc="audience laughter"/> This time there were no guffaws. It was
+							the Texan who laughed, harshly, with only his lower face, as if he were
+							reciting a multiplication table.<lb/> "Fifty cents for the dried mud offen
+							them, he means," he said. "Who'll give a dollar more for the genuine
+							Texas cockle-burrs?" Mrs Littlejohn came out of the kitchen, carrying
+							the sawn half—half of a wooden hogshead which she set on a stump beside the
+							smoking pot, and stood with her hands on her hips, looking into the lot
+							for a while without coming to the fence this time. Then she went back
+							into the house. "What's the matter with you boys?" the Texan said.
+							"Here, Eck, you been helping me and you know them horses. How about
+							making me a bid on that wall-eyed one you picked out last night? Here.
+							Wait a minute." He thrust the paper carton into his other hip pocket and
+							swung his feet inward and dropped, cat-light, into the lot. The ponies,
+							huddled, watched him. Then they broke before him and slid stiffly along
+							the fence. He turned them and they whirled and rushed back across the
+							lot; whereupon, as though he had been waiting his chance when they
+							should have turned their backs on him, the Texan began to run too, so
+							that when they reached the opposite side of the lot and turned, slowing
+							to huddle again, he was almost upon him—them. The earth became thunderous;
+							dust arose, out of which the animals began to burst like flushed quail
+							and into which, with that apparently unflagging faith in his own
+							invulnerability, the Texan rushed. For an instant the watchers could see
+							them in the dust—the pony backed into the angle of the fence and the
+							stable, the man facing it, reaching toward his hip. Then the beast
+							rushed at him in a sort of fatal and hopeless desperation and he struck
+							it between the eyes with the pistol-butt and felled it and leaped upon
+							its prone head. The pony recovered almost at once and pawed itself to
+							its knees and heaved at its prisoned head and fought itself up, dragging
+							the man with it; for an instant in the dust the watchers saw the man
+							free of the earth and in violent lateral motion like a rag attached to
+							the horse's head. Then the Texan's feet came back to earth and the dust
+							blew aside and revealed them, motionless, the Texan's sharp heels braced
+							into the ground, one hand gripping the pony's forelock and the other its
+							nostrils, the long evil muzzle wrung backward over its scarred shoulder
+							while it breathed in labored and hollow groans.<lb/>
+							Mrs Littlejohn was in the yard again. No one had
+							seen her emerge this time. She carried an armful of clothing and a
+							metal-ridged washboard and she was standing motionless at the kitchen
+							steps, looking into the lot. Then she moved across the yard, still
+							looking into the lot, and dumped the garments into the tub, still
+							looking into the lot. "Look him over, boys," the Texan panted, turning
+							his own suffused face and the protuberant glare of his eyes toward the
+							fence. "Look him over quick. Them shoulders and—" He had relaxed for an
+							instant apparently. The animal exploded again; again for an instant the
+							Texan was free of the earth, though he was still talking: "—and legs you
+							whoa I'll tear your face right look him over quick boys worth fifteen
+							dollars of let me get a holt of who'll make me a bid whoa you blare-eyed
+							jack rabbit, whoa!" <event desc="audience laughter"/> They were moving
+							now—a kaleidoscope of inextricable and incredible violence on the
+							periphery of which the metal clasps of the Texan's suspenders
+							sun-glinted in ceaseless orbit, with terrific slowness across the lot.
+							Then the broad clay-colored hat soared deliberately outward; an instant
+							later the Texan followed it, though still on his feet, and the pony shot
+							free in mad, staglike bounds. The Texan picked up the hat and struck the
+							dust from it against his leg, and returned to the fence and mounted the
+							post again. He was breathing heavily. Still the faces didn't look at
+							him as he took the carton from his hip and shook a cake from it and put
+							the cake into his mouth, chewing, breathing harshly. Mrs Littlejohn
+							turned away and began to bail water from the pot into the tub, though
+							after each bucketful she turned her head and looked into the lot again.
+							"Now, boys," the Texan said. "Who says that pony aint worth fifteen
+							dollars? You couldn't buy that much dynamite for just fifteen dollars.
+								<event desc="audience laughter"/> There aint a one of them cant do a
+							mile in three minutes; turn them into pasture and they will board
+							themselves; work them like hell all day and every time you think about
+							it, lay them over the head with a single-tree and after a couple of days
+							every jack rabbit one of them will be as tame—so tame you will have to put them
+							out of the house at night like a cat."  <event desc="audience laughter"/>  He shook another cake from the
+							carton and ate it. "Come on, Eck," he said. "Start her off. How about
+							ten dollars for that horse, Eck?"<lb/>
+							"What need I got for a horse I wouldn't—I would need a
+							bear-trap to catch?" Eck said.<lb/> "Didn't you just see me catch him?"<lb/> "I
+							seen you," Eck said. "And I dont want nothing as big as a horse if I got
+							to wrastle with it every time it finds me on the same side of a fence
+							it's on."<lb/> "All right," the Texan said. He was still breathing harshly,
+							but now there was nothing of fatigue or breathlessness in it. He shook
+							another cake into his palm and inserted it beneath the moustache. "All
+							right. I want to get this auction started. I aint come here to live, no
+							matter how good a country you folks claim you got. I'm going to give you
+							that horse." For a moment there was no sound, not even that of breathing
+							except the Texan's.<lb/> "You going to give it to me?" Eck said.<lb/> "Yes.
+							Provided you will start the bidding on the next one." Again there was no
+							sound save the Texan's breathing, and then the clash of Mrs Littlejohn's
+							pail against the rim of the pot.<lb/>
+							"I just start the bidding," Eck said. "I dont have
+							to buy it lessen I aint over-topped." Another wagon had come up to the
+							lane. It was battered and paintless. One wheel had been repaired by
+							crossed planks bound to the spokes with baling wire and the two underfed
+							mules wore a battered harness patched with bits of cotton rope; the
+							reins were ordinary cotton plow-lines, not new. It contained a woman in
+							a shapeless gray garment and a faded sunbonnet, and a man in faded and
+							patched though clean overalls. There was not room for the wagon to draw
+							out of the lane so the man left it standing where it was and got down
+							and came forward—a thin man, not large, with something about his eyes,
+							something strained and washed-out, at once vague and intense, who shoved
+							into the crowd at the rear, saying,<lb/> "What? What's that? Did he give him
+							that horse?"<lb/> "All right," the Texan said. "That wall-eyed horse with the
+							scarred neck belongs to you. Now. That one that looks like he's had his—had his
+							head in a flour barrel. What do you say? Ten dollars?"<lb/>
+							"Did he give him that horse—did he give him that horse?" the newcomer said.<lb/>
+							"A
+							dollar," Eck said. The Texan's mouth was still open for speech; for an
+							instant his face died so behind his hard eyes.<lb/>
+							"A dollar?" he said. "One
+							dollar? Did I actually hear that?"<lb/> "Durn it," Eck said. "Two dollars
+							then. But I aint—"<lb/>
+							"Wait," the newcomer said. "You, up there on the
+							post." The Texan looked at him. When the others turned, they saw that
+							the woman had left the wagon too, though they had not known she was
+							there until—since they had not seen the wagon drive up. She came among them
+							behind the man, gaunt in the gray shapeless garment and the sunbonnet,
+							wearing stained canvas gymnasium shoes. She overtook the man but she did
+							not touch him, standing just behind him, her hands rolled before her
+							into the gray dress.<lb/>
+							"Henry," she said in a flat voice. The man looked
+							over his shoulder.<lb/> 
+							"Get back to that wagon," he said.<lb/>
+							"Here, missus,"
+							the Texan said. "Henry's going to get the bargain of his life in about a
+							minute. Here, boys, let the missus come up close where she can see.
+							Henry's going to pick out that saddle-horse the missus has been wanting.
+							Who says ten—" <lb/>
+							"Henry," the woman said. She didn't raise her
+							voice. She had not once looked at the Texan. She touched the man's arm.
+							He turned and struck her hand down.<lb/> 
+							"Get back to that wagon like I told
+							you." The woman stood behind him, her hands rolled again into her dress.
+							She was not looking at anything, speaking to anyone.<lb/>
+							"He aint no more
+							despair than to buy one of them things," she said. "And us not but five
+							dollars away from the poorhouse, he aint no more despair." The man
+							turned upon her with that curious air of leashed, of dreamlike fury. The
+							others lounged along the fence in attitudes gravely inattentive, almost
+							oblivious. Mrs Littlejohn had been washing for some time now, pumping
+							rhythmically up and down above the washboard in the sud-foamed tub. 
+							Now she stood erect again, her soap-raw hands on her hips, looking into the
+							lot.<lb/>
+							"Shut your mouth and get back to that wagon," the man said. "Do you
+							want me to take a wagon stake to you?" He turned and looked up at the
+							Texan. "Did you give him that horse?" he said. The Texan was looking at
+							the woman. Then he looked at the man; still watching him, he tilted the
+							paper carton over his open palm. A single cake came out of it.<lb/>
+							"Yes," he said. <lb/>
+							"Is the fellow that bids in to this next horse going to
+							get that first one too?"<lb/> "No," the Texan said.<lb/> 
+							"All right," the other
+							said. "Are you going to give a horse to the man that makes the first bid
+							on the next one?"<lb/> 
+							"No," the Texan said.<lb/> 
+							"Then if you was just starting
+							the auction off by giving away a horse, why didn't you wait till we were
+							all here?" The Texan stopped looking at the other. He raised the empty
+							carton and squinted carefully into it, as if it might contain a precious
+							jewel or perhaps a deadly insect. Then he crumpled it and dropped it
+							carefully beside the post on which he sat.<lb/>
+							"Eck bids two dollars," he
+							said. "I believe he still thinks he's bidding on them scraps of bob-wire
+							they come here in instead of one of them horses. But I got to accept
+							it. But are you boys—"<lb/>
+							"So Eck's going to get two horses at a dollar a
+							head," the newcomer said. "Three dollars." The woman touched him again.
+							He flung her hand off without turning and she stood again, her hands
+							rolled into her dress across her flat stomach, not looking at anything.<lb/>
+							
+							"Mister," she said, "we got chaps in the house that never had shoes
+							last winter. We aint got corn to feed the stock. We got five dollars I
+							earned weaving by firelight after dark. And he aint no more despair."<lb/>
+							
+							"Henry bids three dollars," the Texan said. "Raise him a dollar, Eck,
+							and the horse is yours." Beyond the fence the horses rushed suddenly and
+							for no reason and as suddenly stopped, staring at the faces along the
+							fence. <lb/>
+							"Henry," the woman said. The man was watching Eck.
+							His stained and broken teeth showed a little beneath his lip. His wrists
+							dangled into fists below the faded sleeves of his shirt too short from—from
+							many washings.<lb/>
+							"Four dollars," Eck said.<lb/>
+							"Five dollars!" the husband
+							said, raising one clenched hand. He shouldered himself forward toward
+							the gatepost. The woman didn't follow him. She now looked at the Texan
+							for the first time. Her eyes were a washed gray also, as though they had
+							faded too like the dress and the sunbonnet.<lb/>
+							"Mister," she said, "if you
+							take that five dollars I earned my chaps a-weaving for one of them
+							things, it'll be a curse on you and yours during all the time of man."<lb/>
+							
+							"Five dollars!" the husband shouted. He thrust himself up to the post,
+							his clenched hand on a level with the Texan's knees. He opened it upon a
+							wad of frayed banknotes and silver. "Five dollars! And the man that
+							raises it will have to beat my head off or I'll beat hisn."<lb/>
+							"All right,"
+							the Texan said. "Five dollars is bid. But dont you shake your hand at
+							me."<lb/>
+							At five oclock that—that afternoon the Texan crumpled the
+							third paper carton and dropped it to the earth beneath him. In the
+							copper slant of the leveling sun which fell also upon the line of limp
+							garments in Mrs Littlejohn's back yard and which cast his shadow and
+							that of the post on which he sat long across the lot where now and then
+							the ponies still rushed in purposeless and tireless surges, the Texan
+							straightened his leg and thrust his hand into his pocket and took out a
+							coin and leaned down to the little boy. His voice was now hoarse, spent.
+							"Here, bud," he said. "Run to the store and get me a box of
+							gingersnaps." The men still stood along the fence, tireless, in their
+							overalls and faded shirts. Flem Snopes was there now, appeared—appeared suddenly
+							from nowhere, standing beside the fence with a space the width of three
+							or four men on either side of him, standing there in his small yet
+							definite isolation, chewing tobacco, in the same gray trousers and
+							minute bow tie in which he had departed last summer but in a new cap,
+							gray too like the other, but new, and overlaid with a bright golfer's
+							plaid, looking also at the horses in the lot. All of them two—save two had
+							been sold for sums ranging from three dollars and a half to eleven and
+							twelve dollars. The purchasers, as they had bid them in, had gathered as
+							though by instinct into a separate group on the other side of the gate,
+							where they stood with their hands lying upon the top strand of the
+							fence, watching with a still more sober intensity the animals which some
+							of them had owned for seven or eight hours now but had not yet laid
+							hands upon. The husband, Henry, stood beside the post on which the Texan
+							sat. The wife had gone back to the wagon, where she sat gray in the gray
+							garment, motionless, looking at nothing still; she might have been
+							something inanimate which he had loaded onto the wagon to move it
+							somewhere, waiting now in the wagon until he should be ready to go on
+							again, patient, insensate, timeless. <lb/>
+							"I bought a horse and I paid cash for it," he said.
+							His voice was harsh and spent too, the mad look in his eyes had—had a
+							quality glazed now and even sightless. "And yet you expect me to stand
+							around here till they are all sold before I can get my horse. Well, you
+							can do all the expecting you want. I'm going to take my horse out of
+							there and go home." The Texan looked down at him. The Texan's shirt was
+							blotched with sweat. His big face was cold and still, his voice level.<lb/>
+							
+							"Take your horse then." After a moment Henry looked away. He stood with
+							his head bent a little, swallowing from time to time.<lb/>
+							"Aint you going to
+							catch him for me?"<lb/>
+							"It aint my horse," the Texan said in that flat still
+							voice. After a while Henry raised his head. He didn't look at the
+							Texan. <lb/>
+							"Who'll help me catch my horse?" he said. Nobody
+							answered. They stood along the fence, looking quietly into the lot where
+							the ponies huddled, already beginning to fade a little where the long
+							shadow of the house lay upon them, deepening. From Mrs Littlejohn's
+							kitchen the smell of frying ham came. A noisy cloud of sparrows swept
+							across the lot and into a chinaberry tree beside the house, and in the
+							high soft vague blue swallows stooped and whirled in erratic indecision,
+							their cries like strings plucked at random. Without looking back, Henry
+							raised his voice: "Bring that ere plowline." After a while the wife
+							moved. She got down from the wagon and took a coil of new cotton rope
+							from it and approached. The husband took the rope from her and moved
+							toward the gate. The Texan began to descend from the post, stiffly, as
+							Henry put his hand on the latch. "Come on here," he said.  His wife had
+							stopped when he took the rope from her. She moved again, obediently, her
+							hands rolled into the dress across her stomach, passing the Texan
+							without looking at him.<lb/>
+							"Dont you go in there, missus," he said. She
+							stopped, not looking at him, not looking at anything. The husband opened
+							the gate and entered the lot and turned, holding the gate open but
+							without raising his eyes.<lb/>
+							"Come on here," he said.<lb/>
+							"Dont you go in
+							there, missus," the Texan said. The wife stood motionless between them,
+							her face almost concealed by the sunbonnet, her hands folded across her
+							stomach. <lb/>
+							"I reckon I better," she said. The old—the other men did not
+							look at her at all, at her or Henry either. They stood along the fence,
+							grave and quiet and inattentive, almost bemused. Then the wife passed
+							through the gate; the husband shut it behind them and turned and began
+							to move toward the huddled ponies, the wife following in the gray and
+							shapeless garment within which she moved without inference of
+							locomotion, like something on a moving platform, a float. The horses
+							were watching them. They clotted and blended and shifted among
+							themselves, on the point of breaking though not breaking yet. The
+							husband shouted at them. He began to curse them, advancing, the wife
+							following. Then the huddle broke, the animals moving with high, stiff
+							knees, circling the two people who turned and followed again as the herd
+							flowed and huddled again at the opposite side of the lot.<lb/>
+							"There he is," the husband said. "Get him into that
+							corner." The herd divided; the horse which the husband had bought jolted
+							on stiff legs. The wife shouted at it; it spun and poised, plunging,
+							then the husband struck it across the face with the coiled rope and it
+							whirled and slammed into the corner of the fence. "Keep it there now,"
+							the husband said. He shook out the rope, advancing. The horse watched
+							him shouted wild, glaring eyes; it rushed again, straight toward the
+							wife.<lb/>
+							She shouted at it and waved her arms but it soared past her in a
+							long bound and rushed again into the huddle of its fellows. They
+							followed and hemmed it again into the other corner; again the wife failed
+							to stop its rush for freedom and the husband turned and struck her with
+							the coiled rope. "Why didn't you head him?" he said. "Why didn't you?"
+							He struck her again; she didn't move, not even to fend the rope with a
+							raised arm. The men along the fence stood quietly, their faces lowered
+							as though brooding upon the earth at their feet. Only Flem Snopes was
+							still watching—if he ever had been looking into the lot at all, standing
+							in a little island of isolation, chewing with his characteristic faint
+							sidewise thrust beneath the new plaid cap. <lb/>
+							The Texan said something, not loud, harsh and short.
+							He entered the lot and went to the husband and jerked the uplifted rope
+							from his hand. The husband whirled as though he were about to spring at
+							the Texan, crouched slightly, his knees bent and his arms held slightly
+							away from his sides, though his gaze never mounted higher than the
+							Texan's carved and dusty boots. Then the Texan took the husband by the
+							arm and led him back toward the gate, the wife following, and through
+							the gate which he held open for the woman and then closed. He took a wad
+							of banknotes from his trousers and removed a bill from it and put it
+							into the woman's hand. "Get him into the wagon and get him on home," he
+							said. <lb/>
+							"What's that for?" Flem Snopes said. He had
+							approached. He now stood beside the post on which the Texan had been
+							sitting. The Texan didn't look at him.<lb/>
+							"Thinks he bought one of them
+							ponies," the Texan said. He spoke in a flat still voice, like that of a
+							man after a sharp run. "Get him on away, missus."<lb/>
+							"Give him back that
+							money," the husband said, in his lifeless, spent tone. "I bought that
+							horse and I aim to have him if I got to shoot him before I can put a
+							rope on him." The Texan did not even look at him.<lb/>
+							"Get him on away from
+							here, missus," he said.<lb/>
+							"You take your money and I take my horse," the
+							husband said. He was shaking slowly and steadily now, as though he were
+							cold. His hands open and shut below the frayed cuffs of his shirt. "Give
+							it back to him," he said.<lb/> "You dont—you dont own no horse of mine," the Texan
+							said. "Get him on home, missus." The husband raised his spent face, his
+							mad glazed eyes. He reached out his hand. The woman held the banknote in
+							her folded hands across her stomach. For a while the husband's shaking
+							hand merely fumbled at it. Then he drew the banknote free.<lb/> "It's my
+							horse," he said. "I bought it. These fellows saw me. I paid for it. It's
+							my horse. Here." He turned and extended the banknote toward Snopes. "You
+							got something to do with these horses. I bought one. Here's the money
+							for it. I bought one. Ask him." Snopes took the banknote.</writing><lb/>
+						<event desc="turning pages"/>They're in the lot again still trying to catch the horses. This is Eck and
+						the little boy.<lb/>
+						<writing>"Watch out, paw!" the boy said. "There he is! There's
+							ourn!" It was the one the Texan had given Eck. "Catch him, Paw!"<lb/> 
+							"Get
+							out of my way," Eck said. "Get back to that wagon." The line was still
+							advancing. The ponies milled, clotting, forced gradually backward toward the
+							open door of the barn. Henry was still slightly in front, crouched slightly,
+							his thin figure, even in the mazy moonlight, emanating something of that
+							spent fury. The splotchy huddle of animals seemed to be moving before the
+							advancing line of men like a snowball which they might have been pushing
+							before them by some invisible means, gradually nearer and nearer to the
+							back—black yawn of the barn door. Later it was obvious that the ponies were so
+							intent upon the men that they did not realize that the barn was even behind
+							them until they backed into the shadow of it. Then an indescribable sound, a
+							movement of desperate and despairing, arose among them; for an instant of
+							static horror men and animals faced one another, then the men whirled and
+							ran before a gaudy vomit of long wild faces and splotched chests which
+							overtook and scattered them and flung them sprawling aside and completely
+							obliterated from sight Henry and the little boy, neither of whom had moved
+							though Henry had flung up both arms, still holding his coiled rope, the herd
+							sweeping on across the lot, to crash through the gate which the last man
+							through it had neglected to close, leaving it slightly ajar, carrying all of
+							the gate save the upright to which the hinges were nailed with them, and so
+							among the teams and wagons which choked the lane, the teams springing and
+							lunging too, snapping hitch-reins and tongues. Then the whole inextricable
+							mass crashed among the wagons and eddied and divided about the one in which
+							the woman sat, and rushed on down the lane and into the road, dividing, one
+							half going one way and one half the other.<lb/>
+							The men in the lot, except Henry, got to their feet
+							and ran toward the gate. The little boy once more had not been touched,
+							not even thrown off his feet; for a while his father held him clear of
+							the ground in one hand, shaking him like a rag doll. "Didn't I tell you
+							to stay in that wagon?" Eck cried. "Didn't I tell you?"<lb/>
+							"Look out, paw!"
+							the boy chattered out of the violent shaking. "There's ourn! There he
+							goes!" It was the horse the Texan had given them again. It was as if
+							they owned no other, the other one did not exist; as if by some absolute
+							and instantaneous rapport of blood they had relegated to oblivion the
+							one for which they had paid money. They ran to the gate and down the
+							lane where the other men had disappeared. They saw the horse the Texan
+							had given them whirl and dash back and rush through the gate into Mrs
+							Littlejohn's yard and run up the front steps and crash once on the
+							wooden veranda and vanish through the front door. Eck and the boy ran up
+							onto the veranda. A lamp sat on a table just inside the door. In its
+							mellow light they saw the horse fill the long hallway like a pinwheel,
+							gaudy, furious and thunderous. A little further down the hall there was
+							a varnished yellow melodeon. The horse crashed into it; it produced a
+							single note, almost a chord, in bass, resonant and grave, of deep and
+							sober astonishment; <event desc="audience laughter"/> the horse with its
+							monstrous and antic shadow whirled again and vanished through another
+							door. It was a bedroom; Ratliff, in his underclothes and one sock and
+							with the other sock in his hand and his back to the door, was leaning
+							out the open window facing the lane, the lot. He looked back over his
+							shoulder. For an instant he and the horse glared at one another. Then he
+							sprang through the window as the horse backed out of the room and into
+							the hall again and whirled and saw Eck and the little boy just entering
+							the front door, Eck still carrying his rope. It whirled again and rushed
+							on down the hall and onto the back porch just as Mrs Littlejohn,
+							carrying an armful of clothes from the line and the washboard, mounted
+							the steps.<lb/>
+							"Get out of here, you son of a bitch," she said. <event
+								desc="audience laughter"/> She struck with the washboard; it divided
+							neatly on the long mad face and the horse whirled and rushed back up the
+							hall, where Eck and the boy now stood. <lb/>
+							"Get to hell out of here, Wall!" Eck roared. <event
+								desc="audience laughter"/> He dropped to the floor, covering his
+							head with his arms. The boy didn't move, and for the third time the
+							horse soared above the unwinking eyes and the unbowed and untouched head
+							and onto the front veranda again just as Ratliff, still carrying the
+							sock, came around the corner of the house and up the steps. <event
+								desc="audience laughter"/> The horse whirled without breaking or
+							pausing. He galloped to the end of the veranda and took the railing and
+							soared outward, hobgoblin and floating, in the moon. It landed in the
+							lot still running and crossed the lot and galloped through the wrecked
+							gate and among the overturned wagons and the still intact one in which
+							Henry's wife still sat, and on down the lane and into the road.<lb/>
+							A quarter of a mile further on, the road gashed
+							pallid and moony between the moony shadows of the bordering trees, the
+							horse still galloping, galloping its shadow into the dust, the road
+							descending now toward the creek and the bridge. It was of wood, just
+							wide enough for a single vehicle. When the horse reached it, it was
+							occupied by a wagon coming from the opposite direction and drawn by two
+							mules already asleep in the harness and the soporific motion. On the
+							seat was Tull and his wife, in splint chairs in the wagon behind them
+							sat their four daughters, all returning belated from an all-day visit
+							with some of Mrs Tull's kin. The horse neither checked nor swerved. It
+							crashed once on the wooden bridge and rushed between the two mules
+								<event desc="audience laughter"/> which waked lunging in opposite
+							directions in the traces, the horse now apparently scrambling along the
+							wagon-tongue itself like a mad squirrel and scrambling at the end-gate
+							of the wagon with its forefeet as if it intended to climb into the wagon
+							while Tull shouted at it and struck at its face with his whip. The mules
+							were now trying to turn the wagon around in the middle of the bridge. It
+							slewed and tilted, the bridge-rail cracked with a sharp report above the
+							shrieks of the women; the horse scrambled at last across the back of one
+							of the mules and Tull stood up in the wagon and kicked at its face.
+								<event desc="audience laughter"/> Then the front end of the wagon
+							rose, flinging Tull, the reins now wrapped several times about his
+							wrist, backward into the wagon bed among the overturned chairs and
+							the exposed stockings and undergarments of his women. The pony scrambled
+							free and crashed again on the wooden planking, galloping again. The
+							wagon lurched again; the mules had finally turned it on the bridge where
+							there was not room for it to turn and were now kicking themselves free
+							of the traces. When they came free, they snatched Tull bodily out of the
+							wagon. He struck the bridge on his face and was dragged for several feet
+							before the wrist-wrapped reins broke. Far up the road now, distancing
+							the frantic mules, the pony faded on. While the five women still
+							shrieked above Tull's unconscious body, Eck and the little boy came up,
+							trotting, Eck still carrying his rope. He was panting. "Which way'd he
+							go?" he said. <event desc="audience laughter"/><lb/>
+							In the now empty and moon-drenched lot, his wife and
+							Mrs Littlejohn and Ratliff and Lump Snopes, the clerk, and three other
+							men raised Henry out of the trampled dust and carried him into Mrs
+							Littlejohn's back yard. His face was blanched and stony, his eyes were
+							closed, the weight of his head tautened his throat across the protruding
+							larynx; his teeth glinted dully beneath his lifted lip. They carried him
+							on toward the house, through the dappled shade of the chinaberry trees.
+							Across the dreaming and silver night a faint sound like remote thunder
+							came and ceased. "There's one of them on the creek bridge," one of the
+							men said.<lb/>
+							"It's that one of Eck's," another said. "The one that
+							was in the house." Mrs Littlejohn had preceded them into the hall. When
+							they entered with Henry, she had already taken the lamp from the table
+							and she now stood beside an open door, holding the lamp high.<lb/>
+							"Bring him in
+							here," she said. She entered the room first and set the lamp on the
+							dresser. They followed with clumsy scufflings and pantings and laid
+							Henry on the bed and Mrs Littlejohn came to the bed and stood looking
+							down at Henry's peaceful and bloodless face. "I'll declare," she said.
+							"You men." <event desc="audience laughter"/></writing> <event desc="end of recording"/>
+					</u>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

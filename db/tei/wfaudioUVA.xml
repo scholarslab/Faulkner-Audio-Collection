@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudioUVA">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudioUVA</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudioUVA</idno>
+                <idno type="analog tape">wfaudioUVA</idno>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="JW">John Wyllie</persName>
+                </person>
+                <person>
+                    <persName id="FB">Fredson Bowers</persName>
+                </person>
+                <person>
+                    <persName id="XB">Bornhauser</persName>
+                </person>
+                <person>
+                    <persName id="FS">Floyd Stovall</persName>
+                </person>
+                <person>
+                    <persName id="JBC">James Colvert</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1962-07-06">6 July 1962</date>
+                    <locale>English Department Press Conference</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                
+                <head>DATE: 6 July 1962</head>
+                <head>OCCASION: English Department Press Conference</head>
+                <head>TAPE: </head><head>LENGTH: 27:55</head>
+                
+                
+                <div2 type="dialog" id="wfaudioUVA.1" start="00:00:07.64" end="00:02:04.75">
+                    <head>Bowers' Introduction</head>
+                    <u who="FB">Mr. Faulkner came to this university, as so many things happen in real life, more by good luck than by good management on our part, as
+                        we later found. In the winter of 1956-57, the Department of English had received some—a bequest from the estate of Emily Clark Balch
+                        for the advancement of American letters at this university. We felt that we wanted to expend this on a Writer-in-Residence program. We discussed
+                        various prominent American writers who might be persuaded to come here to be in residence to talk to our students, to the public here, to meet in
+                        conferences, meet classes, and so on. We had difficulty deciding really the person we wanted to choose. And finally, by great good fortune,
+                        someone said, "You know, Mr. Faulkner, who is a very devoted grandfather, is often in town visiting his daughter and grandchild." We had all seen
+                        him, of course, walking the streets inconspicuously. We knew that he liked to keep to himself and not to be spoken to. We had not made any
+                        effort.<lb/> We wrote him, therefore, suggested that perhaps he would like to come, and to our great pleasure, he did want to come. He responded
+                        that he would come. He didn't know what he could do for us but at least he wanted to try. This, therefore, in the year of—the winter of
+                        '57 he came and took up duties as Writer-in-Residence at this university. We were so pleased with his—the ardent following of the students and his
+                        popularity that we invited him back for a second—second year of—round of conferences.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.2" start="00:02:04.79" end="00:05:26.63">
+                    <head>Faulkner at UVA</head>
+                    <u who="FB">In those early days,
+                        Mr.—Professor Stovall was chairman and dealt with Mr. Faulkner most directly. I want to ask him now to say something of the early life
+                        that we had when Mr. Faulkner first came to this university's grounds.</u>
+                    <u who="FS">We gave a reception for Mr. and Mrs. Faulkner. He accepted rather reluctantly because he was not accustomed to that sort of formality,
+                        but it went off all right. I remember standing by Mr. Faulkner in some trepidation lest he should turn and flee at any moment, but he stuck it
+                        out and having got through that hurdle, he didn't seem to have any more trouble. He was a little nervous the first time he met a class, and he
+                        worked out some answers at that time, which I think served him pretty well thereafter, and as he told me later, he never was really nervous after
+                        that first class. He was nervous then because he said he'd never done anything of that sort before, and he didn't know what he could do, whether
+                        he could do anything or not, whether he would have anything to say, but he has proved to have a great deal to say. A whole book full has been
+                        published and much else that has not and never will get published people remember who heard him and talked to him on those occasions.<lb/> He was
+                        always very faithful, one of the most conscientious members of the faculty I have known. He would come to me sometime or other and say, "Well
+                        now, what do you think I ought to do?" When somebody would ask him to do some service, meet the radio or something of that sort, sometimes he
+                        would come to me and say, "Well, what do you think I ought to do?" I would say, "Well, Mr. Faulkner, I have nothing to do with it. You're your
+                        own boss. Do what you please." And usually he didn't make [an] appearance.<lb/> 
+                        I remember one time when
+                        the editor of a distinguished quarterly in this country called him up, and I—I happened to be in the office, and the
+                        secretary received the message, and the editor wanted to speak to Mr. Faulkner, and so the secretary went across the hall where Mr. Faulkner was
+                        sitting in my private office, as a matter of fact, which I turned over to him, and said, "Do you want to speak to Mr. So-and-So, the
+                        distinguished editor," and Mr. Faulkner said, "Tell him I'm not here." <event desc="audience laughter"/> But he was the soul of courtesy and of
+                        generosity. When you went to his house, I never have known a person who could make you feel so much at home, and, in general, I would say he was
+                        a very sweet-tempered, a very gentlemanly person, a person who I feel is—was more of a poet really than what I ordinarily think of a
+                        novelist as being.  I was—I was delighted every time I met him. He wasn't much of a talker. You had to lead the way a little bit,
+                        but if you didn't get on the wrong subjects, and the wrong subject was usually literature, <event desc="audience laughter"/> he would talk rather
+                        freely.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.3" start="00:05:28.84" end="00:08:29.93">
+                    <head>Faulkner in the Classroom</head>
+                    <u who="FB"><unclear>Mr.</unclear> Faulkner, at the university, did not like to deliver formal lectures so much as he enjoyed the informal conferences with students.
+                        When he addressed the various public meetings that were—were held, the last of which in Cabell Hall this past spring, we could've
+                        filled the Cabell—Cabell Hall three times over with people from the whole state who came to hear him give the first reading from his
+                        new novel, <hi rend="italic">The Reivers</hi>. He always liked to read from his novels or short stories and then to answer questions afterwards.
+                        Many of these questions and the answers are, of course, perpetuated in the little book, <hi rend="italic">Faulkner at the University</hi>, and
+                        they are, indeed, most illuminating for his own comments, because he loved to talk about his characters beyond what you found in the books, to
+                        speculate sometimes as to what they did in—after—after the book had ended and why they did certain things that were not
+                        always so clear in the book itself.  But perhaps his most intimate talks were given to the students in the classes, and Professor
+                        Colvert, whose classes Mr. Faulkner often attended, wants to say a few words about what this was like in the classroom.</u>
+                    
+                    <u who="JBC">As everyone knows, Mr. Faulkner was not always patient with or even accessible to the professional critic and the professional
+                        student, but he was always most kind and considerate of the students at the university, and when he met with classes of undergraduate and
+                        graduate students, it was most impressive as to how considerate he could be of questions that were not always the most sophisticated and the most
+                        perceptive, but I don't think in any of the several classes which he visited, I ever heard him make a remark or use a tone of voice to any of the
+                        students' questions which might be construed to be the slightest bit ironic or acid. I think that his kindness and consideration toward the
+                        students with their questions, which they often repeated over and over and over again, asking him the same questions again and again, he must've
+                        gotten tired of some of these questions. Of course, they were different students, but as he came from class to class, he would encounter the same
+                        questions, and, of course, he would sometimes give the same answers, but he always did so as if it was the first time he had ever heard the
+                        question itself. </u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.4" start="00:08:39.92" end="00:13:16.60">
+                    <head>The Faulkner Foundation</head>
+                    <u who="FB">Mr. Faulkner did a great deal of good by stealth. He didn't really like everyone to know many of the things he was doing for the
+                        students and for the benefit of other writers. One of his good was the Faulkner Foundation that was set up in Charlottesville. It had two
+                        purposes: one, to devoting itself to scholarships, to bringing students to the University for—who were good—good writers;
+                        secondly, to award a special plaque and prize for the best first novels of the year. Several such awards were made, the most recent to Mr. John
+                        Knowles. Mr. <unclear>Bornhauser</unclear> was present—was a member of this Faulkner Foundation Committee for the awards of these
+                        prize—book prizes and attended the Knowles' presentation as well as others.</u>
+                    <u who="XB">When the Faulkner Foundation First Novel Award Committee was first formed, the members of it were at first very concerned about the
+                        actual criteria which were to be applied and wanted to know about the usual questions, whether the novel was supposed to show promise of an
+                        extended career, how old the young novelist ought to be and so on, but it was typical of Mr. Faulkner not to say more than the most general sort
+                        of thing about this. He wanted to be sure, in spite of his own keen interest in the project and in his desire to encourage young novelists,
+                        authors of first novels, not to intrude any way on the decision made by a committee, which he did stipulate should be what he called the younger
+                        members of the English Department. This made the job much more interesting, of course, to see whether we could come up with something entirely on
+                        our own without any restrictive conditions which would really honor the name of the man who had founded the project.<lb/> 
+                        We never were able to
+                        find out whether we had pleased him or not. As a matter of fact, he, as far as I know, never committed himself as to his reaction to the choices
+                        made by the committee in the first two years of its operation. It's not even certain that he ever read the selections, 
+                        but I remember last winter when John Knowles, the author of the first year's award, came to Charlottesville for the
+                        presentation, which presumably was going to be a formal occasion, Faulkner begged off from any appearance in public, and John Knowles, with
+                        members of the Committee and the President of the Foundation, traveled five or six miles out into the country to the little house where Faulkner
+                        lived on the estate of his daughter, for this presentation to be made. There we were greeted quietly but warmly by Faulkner, who then seemed more
+                        concerned with allowing his wife to show her latest paintings than he was with talking about the award or anything else to do with
+                        literature.<lb/> However, the award had to be made and after a lengthy introduction on the part of the President of the Foundation to make clear
+                        to John Knowles that this award was coming directly from the hand of William Faulkner and so on, he presented—that is, the President of
+                        the Foundation, Mr. Massey—presented the medallion, the plaque, to Faulkner for presentation to Knowles. Faulkner received it in one
+                        hand, transferred it to the other, passed it to Knowles, saying, "Here it is, sir." <event desc="audience laughter"/> That was the whole extent
+                        of the ceremony and a cause for certain subdued amusement on the part of all those who observed. After that, the conversation quickly turned to
+                        matters of art and sherry. <event desc="audience laughter"/></u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.5" start="00:13:20.78" end="00:16:15.78">
+                    <head>Faulkner's Papers</head>
+                    <u who="FB">Among Faulkner's benefactions to the university, the great collection of manuscripts and books that has been formed in great part by
+                        the local collector, Mr. Linton Massey, was greatly amplified. The account of this collection of—of Faulkner's works with
+                        all— with its manuscripts is properly in the hands of Mr. John Wyllie, the librarian.</u>
+                    <u who="JW">I hadn't, as a matter of fact, planned to say anything specifically about this great collection. So much has been published about it
+                        that it seems to me to require no special additional comment, but in trying to think what would be of most interest to you, I was dredging around
+                        in my files and came up with a letter from Mr. Faulkner acknowledging the appointment to the post of Honorary Consultant in the library, an
+                        appointment that we made in 1958, trying not so much to confer honor on Faulkner as on ourselves, and he wrote a very nice letter here saying,
+                        "I'm most happy over my appointment, which will be a thread connecting me with a place and community which I've come to love even after my
+                        present tenure of Writer-in-Residence has ended." But the reason I bring this letter the—is not so much the letter itself as the envelope. I've had a
+                        dozen or so letters I suppose from Faulkner in my—in the few years that I've known him, and every one of them has been a self-addressed
+                        envelope addressed to somebody else that's been sent to Faulkner, which has been crossed out and had my name—with my name practically
+                        always misspelled a slightly different way—and addressed to me. This particular one is addressed to the
+                        <unclear>Von</unclear> Brown-Teller Dinner Committee of some People-to-People program, who are apparently inviting him or trying to inveigle him
+                        into doing something, and they'd sent this self-addressed envelope. Faulkner simply penciled the thing out and typed in his erratic manner my
+                        name and address.<lb/> It—it seems to me one of the great honors that's been conferred on the library that Mr. Faulkner's next-to-last
+                        book, <hi rend="italic">The Mansions</hi>, was written in that building. I tried—kept trying to get him to come back to the faculty
+                        study that he occupied there, telling him that I'd nursed his old Remington in his absence to keep it warm and reporting that only the quality of
+                        its prose had dropped off during his absence, and he frequently said that he planned to come back, and I'm sorry now that he never will be able
+                        to.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.6" start="00:16:24.96" end="00:19:02.26">
+                    <head>Departmental Statement</head>
+                    <u who="FB">This is not really the place for any eloquent remarks except to say that—that we all miss Mr. Faulkner greatly here. This
+                        little figure strolling through our Grounds with his alpine hat, sometimes his cape, and always a very sporty coat or—or vest, with the
+                        students speaking to him, coming up into the English office, having his door open as he sat and students would drift by, occasionally coming in
+                        to read to him and to hear him talk about their writing, about his own.<lb/> This is a statement in the name of the Department of English of the
+                        University of Virginia: "William Faulkner's death will be felt as a personal loss by every reader in English-speaking countries, as well as in
+                        all the nations of the world that know him in translation. He was a magnificently individual writer whose view of life was communicated to
+                        readers in terms of personal immediacy. Faulkner felt deeply about the subjects of his narratives, and since he was a born storyteller, he always
+                        spoke directly, as to a friend, when he re-created in his books the life that he had observed with admiration for its tenacious struggle and with
+                        compassion for its fate. The largeness of his understanding made significant to the reader the great arch of life from outrageous comedy to a
+                        tragedy that was Greek in its inevitability. Fittingly, his last book, <hi rend="italic">The Reivers</hi>, was his most comic and relaxed in its reminiscences of
+                        boyhood and of lost innocence. The Faulkner narrative could never be fully appreciated except from his own lips. The University of Virginia and
+                        its Department of English are proud that in his latter years he chose to associate himself with academic life as Balch Lecturer in American
+                        Literature. By his public readings and discussions of his books, he brought to students the direct experience of life as his mind and memory had
+                        formed it and as his colorful Mississippi speech gave it vigor and reality."</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.7" start="00:19:06.15" end="00:20:26.59">
+                    <head>Faulkner's Favorite Topic</head>
+                    <u who="Q">Dr. Bowers, I think you say—stated or one of you gentlemen stated that Mr. Faulkner didn't particularly care to discuss
+                        literature at any time in more-or-less of a social atmosphere. What was his favorite topic of discussion at that time?</u>
+                    
+                    <u who="FB">He liked—he would talk about his own books if people confined their questions pretty largely to the characters and the
+                        situations in them and from a storyteller's point of view. What he would not do was to discuss symbolism in them, any ulterior motives that he
+                        may have had in—in them, or points that would be called literary critical questions, but he did love to talk about the characters
+                        because they were the real things for him. He always spoke of them with respect, with amusement, with admiration, no matter how ornery they were.
+                        He sort of admired them, I think, down underneath. He always said that he—they formed themselves in his character—mind, that
+                        he began hearing these people talk to each other, and all he wanted to do was to run along fast enough behind them with a notebook, catching what
+                        they were saying and their situations. Now, we may privately say that the beginning of such a book as <hi rend="italic">Light in August</hi>,
+                        say, is not precisely written in this manner, but once he got going in it, possibly something of the sort really did happen.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.8" start="00:20:27.84" end="00:21:31.17">
+                    <head>Faulkner's Shyness</head>
+                    <u who="Q">Dr. Bowers, you mentioned that—you pointed out that Mr. Faulkner was a little hesitant in speaking before audiences. Was he
+                        by nature a shy man or did he ever give any explanation for not appearing to want to appear before audiences?</u>
+                    
+                    <u who="FB">I think he was by nature a—a shy man, who liked to be alone, but liked to be alone with his intimates. I don't think he
+                        really liked strangers very much. When he was telling stories, he always spoke of his days in New Orleans when he and Sherwood Anderson would
+                        just swap—sit on the sidewalk cafe, I expect, and swap stories by the hour. Those were golden days for him, but when he saw his duty,
+                        he faced up to it all right, and he addressed large audiences, but he did want always something definite such as reading his own works or
+                        answering a—a precise question—question. The general discussion before strangers, this he really did not much like I think.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.9" start="00:21:33.89" end="00:25:07.16">
+                    <head>Faulkner and Flying</head>
+                    <u who="Q">The breadth of some of his interest, I think, is—could be shown by his conversations with Mr. Colvert about airplanes. I
+                        just want to throw in a special question you might want to ask because I think it's unusual—ask what he talked to you about.</u>
+                    
+                    <u who="JBC">Me?</u>
+                    
+                    <u who="Q">Yeah. What did he used to talk to you about?</u>
+                    
+                    <u who="JBC">Well, I'd always heard that Mr. Faulkner was especially interested in horses and dogs and hunting and that sort of thing, but when I
+                        got to know him briefly last spring, I discovered that he was also an enthusiast about airplanes. He had an enthusiastic interest in them, and he
+                        knew a great deal about them. As a matter of fact, he was a pilot during the First World War. He was in the Royal Canadian Air Force,
+                        as—as we know and was a pilot of the old Sopwith Camel, one of the famous— well, what he always insisted on calling not
+                        pursuit, but scouts, and he knew a great deal about this, and it's amazing to me how much technical knowledge about airplanes that he managed to
+                        retain over all the years that he was not particularly associated actively with flying.<lb/> 
+                        He had some very amusing stories to tell about his
+                        experiences with airplanes. He said once that he was on a little airport, and—on a little field in Ohio, and he saw a beastly looking airplane
+                        sitting off on the tarmac. Incidentally, he always used the terms and expressions of the—the First World War when he talked about
+                        flying. An airport was a tarmac or pursuit ships were scouts and Germans were Huns, and so on. He saw this airplane on this field in Ohio and
+                        went over to look at it because it was a strange looking thing. It was an old Aeronca which had a radial engine, as he says, and he looked into
+                        the cockpit and he found a placard on the instrument panel which said, "Do not fly this airplane over 73 miles an hour. <event
+                            desc="audience laughter"/> Do not land this airplane under 71 miles an hour. <event desc="audience laughter"/> Do not take off in this airplane
+                        under 72 miles an hour. <event desc="audience laughter"/>" This intrigued him. He looked up the owner and found that the—the owner was on the field,
+                        and he asked if he might fly it around the field, and he was given permission. He flew it around the field and brought it back and bought it.
+                        This was one of the three airplanes of this type manufactured, and as he said himself, "The first one was the—the first prototype.
+                        The second one was the second prototype. And the one I bought was the first and last production model." <event desc="audience laughter"/></u>
+                    
+                    <u who="Q">Did he keep up with modern-day aircraft at all. I mean, did he discuss this with you?</u>
+                    
+                    <u who="FB">Not much. He didn't keep up. He—as a matter of fact, his interest was pretty much historical, and he knew a lot about World
+                        War I airplanes, but not very much about airplanes after about the mid '30s. He sold his Aeronca in 1941, he said, and I don't think he was very
+                        active after that.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.10" start="00:25:10.25" end="00:27:25.06">
+                    <head>Faulkner and Charlottesville</head>
+                    <u who="Q">What was his feeling about the community of Charlottesville in itself, Sto—Stovall?</u>
+                    
+                    <u who="FS">He was very fond of Charlottesville, in particular, and of the state of Virginia as a whole. I think that Mr. Faulkner has in a sense
+                        come into his own during his residency in Virginia. I think he has found something here, particularly in the foxhunting part of the country and
+                        group, which he had greatly missed and which he enjoys—has always enjoyed more than anything else, I believe, as far as I know, that he
+                        has done in recent years. I made the remark to someone a while ago that probably Faulkner had had more pure enjoyment out of life, aside from the
+                        artist pleasure in producing, during his residency in Virginia than he had before that, and I think one can see that he—the best part
+                        of his nature came out. He became far more genial than, as far as I have heard, he had been before that. I believe he felt a sort of debt, sort
+                        of obligation to the world, which had been very good to him and honored him in many ways, and insofar as he was able, he wished to do something
+                        in return. That, at any rate, was one of the statements he made to me when we were discussing his coming here as Writer-in-Residence.<lb/> He
+                        refused to—when I asked him about salary, he refused to mention any salary. He said, "I don't think I'm worth anything, and so don't
+                        pay me anything until I produce something and see what I can do." And, as a matter of fact, he has never—he never accepted anything
+                        more than just a nominal fee, enough to pay for, he said, for tobacco and whiskey. <event desc="audience laughter"/></u>
+                </div2>
+                <div2 type="dialog" id="wfaudioUVA.11" start="00:27:25.08" end="00:27:49.89">
+                    <head>Faulkner's Philosophy</head>
+                    <u who="Q">Did he ever express specifically a philosophy of life?</u>
+                    
+                    <u who="FS">Not privately. I would be very much surprised if he ever philosophized on life in <unclear>a</unclear>conversation. Of course, he does in his books as
+                        you know, and his Nobel Prize speech had something to say about that, but he was a very reticent man in private conversation.</u>
+                    
+                    <event desc="end of recording"/></div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

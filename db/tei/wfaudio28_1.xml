@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio28_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio28_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio28_1</idno>
+                <idno type="analog tape">T-144a</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="XW">Wilson</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-07">7 May 1958</date>
+                    <locale>Department of Psychiatry</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 7 May 1958</head><head>OCCASION: Department of Psychiatry</head>
+                <head>TAPE: T-144a</head><head>LENGTH: 32:09</head>
+                <div2 type="dialog" id="wfaudio28_1.1" start="00:00:03.87" end="00:00:37.53">
+                    <head>Introduction</head>
+                    <u who="M"><inaudible/> that there was a possibility of meeting with you, we
+                    thought it might be an opportunity for us to get together and talk about some of
+                    these <unclear>things</unclear>.</u>
+                <u who="WF">That's good. You'll find a complete amateur in me. I don't know whether
+                    you can find anything in me that would interest the people in your
+                    profession.</u>
+                <u who="M">Well, I think that—that—that we've decided
+                    maybe we're the amateurs in a great many respects. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio28_1.2" start="00:00:46.82" end="00:03:10.79">
+                    <head>Eccentric Characters</head>
+                    <u who="Q">From your people that you select—of course, they're unusual
+                    people, in a way. Do you select the—them as unusual? Or is there a
+                    type <unclear>that seems to appeal to you</unclear>?</u>
+                <u who="WF">I doubt if—if I know whether I select these people or they
+                    select me. I think that the writer is—is trying to—to take
+                    some comic or tragic moment of man in his struggle inside the human condition
+                    and tell it in some form which other people would find comic or tragic.
+                    I—as far as I know, I am dealing simply with people in
+                    the—the condition that I have seen people.  That these people, to me,
+                    seem quite sane and quite normal, even ones that—that are mad, seem to
+                    me quite sane people. Probably that's because the writer has already accepted
+                    the premise that the man believes he's Mahatma Gandhi, so when he lies on a
+                    board full of tacks, he's a rational creature.</u>
+                <u who="Q">By man <unclear>do you mean</unclear> society <inaudible/>?</u>
+                <u who="WF">Yes, sir. Yes, sir. The—the character in the book <hi rend="italic">As I Lay Dying</hi>, 
+                    Darl, one of the sons, was mad, as
+                    society would call him mad. To me, he wasn't—wasn't mad. Or, that is,
+                    I didn't set out to say, "Now, one of these brothers will have to be mad, so I
+                    will invent a good mad one according to what I do know of the rules of
+                    insanity." I was just writing about what was, to me, a—a pitiable,
+                    tragic human being.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.3" start="00:03:13.50" end="00:04:03.89">
+                    <head>Experience with Madness</head>
+                    <u who="Q">And you haven't had much experience in state hospitals or anything
+                    <inaudible/>?</u>
+                <u who="WF">None whatever. None whatever. I think you don't need to go to state
+                    hospitals to find people that society calls mad. <event desc="audience laughter"/></u>
+                <u who="Q">There certainly seems to be a common denominator of interest. So often
+                    the psychiatrist is interested in much of the same area of human function that
+                    comes out in so-called madness or the—the different individuals
+                        <unclear>who crave these things</unclear>. It seems to me a very definite
+                    similarity in at least perception, interest, on the part of the novelist and the
+                    psychiatrist, perhaps, in this vein.</u>
+                    <u who="WF">I should agree with you.  Yes, sir.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio28_1.4" start="00:04:03.90" end="00:06:25.45">
+                    <head>Irrationality</head>
+                <u who="Q">Mr. Faulkner, could you say a few words about what you might consider as
+                    irrational human behavior?</u>
+                <u who="WF">No, I couldn't. I've never tried to set up what might be a pattern for
+                    me to measure irrational human behavior. To me, all human behavior
+                    is—is unpredictable, and considering man's frailty the—in
+                    the ramshackle universe he functions in, it's—it's all irrational. It
+                    couldn't be very rational because his universe is not a very rational one, it
+                    seems to me. I—I think that probably no writer would set himself up to
+                    judge. If he had begun to judge the people he writes about, his—all
+                    the—the—whatever the gods are that lets him do something
+                    which is his cup of tea, he likes, might withdraw the gift. If he begins
+                    to—to preach or—or proselytize or—or pass
+                    judgment, that the fire might go out. Also, I think the—the writer is
+                    not really interested in—in bettering man's condition. He really
+                    doesn't care <unclear>a damn</unclear> about man's condition. He is interested
+                    in all man's behavior, with no judgment whatever. That it's—it's
+                    motion. It's life. The only alternative is—is nothingness, death. And
+                    so, to the writer, anything man does is fine because it's motion. If he were not
+                    doing that, he would be nothing. He'd be dead. Maybe the writer has no 
+                    concept <unclear>of morality</unclear> at all, only an integrity to hold always to
+                    what he believes to be the—the facts and truth of human behavior, not 
+                    moral standards at all. But that man in his books does what man will do, not
+                    what man should do, but what he will do, maybe what he can't help but do.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.5" start="00:06:25.46" end="00:07:30.66">
+                    <head>Writer's Aim</head>
+                    <u who="Q">Is the writer's motivation then simply just a portrayal of that which
+                    most people see but perhaps don't take in?</u>
+                <u who="WF">Did you say the writer? No, I think that his aim is—is maybe
+                    more specific. He simply wants to make something which wasn't here yesterday.
+                    There's not much that he can do. He can take only the—the old
+                    struggles of man within the human predicament, and by showing it slightly awry
+                    or with some faint new light from an individual perception,
+                    make something which was a little different from what was here before. That is,
+                    what—what the writer ahead of him did. There's nothing new he can
+                    write about. I think that's maybe the—the writer's denial
+                    of—of mortality, of death, that he's going to write on the wall,
+                    "Kilroy was here."</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.6" start="00:07:33.37" end="00:10:08.56">
+                    <head>Making Judgments</head>
+                    <u who="Q">Theoretically, the psychiatrist also does not make judgments. He
+                    <unclear>essentially</unclear> takes man as he is, and life as it is, and tries to understand him.
+                    And yet <inaudible/> we think that we would be kidding ourselves if we <inaudible/> <unclear>do
+                        nevertheless</unclear> look at these
+                    things from our own perspective, and certainly when—when the idea
+                    comes in of trying to do anything about it, which the writer doesn't do and
+                    which we do actually do attempt to do as we attempt to better the situation,
+                    you've got to think in terms of bettering it to what aim or what goal, and those
+                    are essentially the goals that we, ourselves, will hold at the—at the
+                    present time or at any given time. Can a writer really avoid personal judgment
+                    or value systems or —?</u>
+                <u who="WF">He can, as long as he is a writer. I think that—that a writer
+                    is a—a perfect case of split personality, that he is one thing while
+                    he is a writer, and he is something else while he's a—a—a
+                    denizen of—of the world. It may be that—that that's
+                    not—that he can't be rid of that split, that—that maybe he
+                    has a hope that what he does may improve man in the sense that it will give to
+                    man some instance of—of man's fine record, being fragile and frail
+                    and—and not his own boss by any manner of means,
+                    yet out of that he has managed to somehow to endure, to have accomplished a
+                    few things which have lasted. Maybe, in that sense, the writer has got to work
+                    for man's betterment, even if he is not deliberately trying to. I think that, in
+                    a way, the—the psychiatrist is doing that too. That—I
+                    imagine a psychiatrist in—with one human being could learn about all
+                    he would need to know about what makes man do what he does, and he would stop
+                    then, and since he will devote his life to it, he must have some thought that
+                    somehow he will improve, in the end, man's condition.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.7" start="00:10:10.86" end="00:11:18.71">
+                    <head>Human Motives</head>
+                    <u who="Q">What is your idea of what makes man do what he does?</u>
+                <u who="WF">I think that man is trying to do what he does because he wants to, that
+                    he himself does not always know why he wants to, but it—it makes him
+                    feel good. It makes his glands function right. People do foolhardy, reckless,
+                    dangerous things because it makes the glands flow good, makes them feel good. I
+                    think that man is—is not a gambler just to get a lot of money, that he
+                    gets some pleasure. His system works good when he is engaged in taking chance
+                    for money or using his skill to gain money. The money is just a symbol of it. I
+                    think he would be a gambler if he were—had to gamble for matches. I
+                    would say that man does what he does because he wants to.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.8" start="00:11:23.74" end="00:12:09.22">
+                    <head>The Subconscious</head>
+                    <u who="XW">You don't have a—any idea of <unclear>the subconscious,
+                        something going on</unclear> <inaudible/>?</u>
+                <u who="WF">No, sir, I don't. Only what I have—have learned about it from
+                    listening to people that do know. What little of psychology I know, the
+                    characters I have invented and playing poker have taught me. <event desc="audience laughter"/> But Freud I'm—I'm not familiar
+                    with.</u>
+                    <u who="Q">You apparently believe in <unclear>human</unclear> extra sensory
+                    perception, though, don't you?</u>
+                <u who="WF">Yes, I probably depend almost completely on it. I don't
+                    have—have a trained mind. I've got to depend on extra sensory
+                    perception.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.9" start="00:12:34.90" end="00:14:22.00">
+                    <head>Character Prototypes</head>
+                    <u who="Q">Would you tell us something perhaps about your acquaintanceship with some
+                    of the people that  have been the—the prototypes for the characters in
+                    your writing? I'm just wondering how you got to know them so well, to
+                    have been able to pick their thoughts. I think this is related to Dr. Wilson's
+                    idea about the subconscious.</u>
+                <u who="WF">Yes, sir. That would be through a—a—an unflagging
+                    curiosity about people, interest in what people are doing, how they do it, and
+                    what they say. Not with any desire to study people or to store up material to
+                    work from, but out of simple curiosity, I reckon. Though it—it may be
+                    that no man could be that—that disinterested in the material he works
+                    from. Maybe that any writer's something like a packrat. He gathers up every
+                    scrap he sees on the chance that someday he may need it, and sure enough, there
+                    it is. The characters, I think, are composite of experience, observation and
+                    imagination, but nobody could say just how much of which goes into it. I'm
+                    convinced, though, that no writer's going to be satisfied just to—to
+                    write—use people as he saw them, because he's convinced that he can do
+                    a better job of creating credible people than the Lord can. He can always
+                    improve on <unclear>it.</unclear> And he's also probably a congenital liar.
+                    That's why they call it fiction, I suppose. <event desc="audience laughter"/> He
+                    probably couldn't tell the truth on any subject.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.10" start="00:14:24.03" end="00:14:40.43">
+                    <head>Observing People</head>
+                    <u who="Q">Do you actually make notes of people who arouse your curiosity?</u>
+                <u who="WF">No, sir. Never did any research, never made any notes. I have a lot of
+                    faith in my memory. If I can't remember it, it wasn't worth keeping anyway,
+                    probably. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio28_1.11" start="00:14:43.33" end="00:15:28.42">
+                    <head>One Person v People</head>
+                    <u who="Q">Mr. Faulkner, as I understand it—correctly when you said that
+                    you thought the psychiatrist took a man and was capable of knowing him well
+                    enough or understanding him well enough, he would know about the nature of man
+                    more as—as much as that you would otherwise, for example studying
+                    people as a group or as a culture?</u>
+                <u who="WF">I would assume so. But then I—I don't know. I'm ignorant. As I
+                    say, I have no training in psychology, psychiatry. I would assume that
+                    psychiatrists could learn as much about man from one man as a surgeon could
+                    about man from one cadaver. That's probably wrong, but that's my assumption.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.12" start="00:15:28.43" end="00:16:14.97">
+                    <head>Cultural Conditioning</head>
+                    <u who="Q">How much influence in—for example, in your portrayal and
+                    creation of people, how much influence does—does a given culture have
+                    in determining this person that you make or write about?</u>
+                <u who="WF">It'd have a great deal of influence, but—but mostly on the
+                    surface. It would influence his idioms, his—his surface actions,
+                    his—his manners. But I would say if you went deep enough, he would
+                    look a good deal like the same individual of his—his age and physical
+                    condition in some African culture.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.13" start="00:16:24.92" end="00:17:43.98">
+                    <head>Symbolism</head>
+                    <u who="Q">You don't deliberately use symbolism, <unclear>do you</unclear>?</u>
+                <u who="WF">I suspect the writer's too busy to deliberately use anything, even good
+                    grammar.  That he is simply trying to get something down, and he
+                    has—he's completely immoral. He will rob and steal from any source he
+                    finds, just like the packrat, against the day when maybe he'll need it. And writing
+                    out of a culture, which—which has certain symbols, in time he will
+                    reproduce those symbols without any deliberation. That's not himself, not his
+                    own erudition. It was simply the culture, which he—which was the
+                    environment he grew up in, and maybe something of <unclear>its residue</unclear>
+                    which produced <unclear>it</unclear>. But I think any writer's too busy dealing
+                    with people, and—and people are incredible and in motion. All the
+                    writer can do once the characters come to life is to—to run at top
+                    speed behind them and try to put down everything they do and say before they get
+                    out of sight, out of hearing, that he hasn't got time to—to use
+                    symbols deliberately.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.14" start="00:17:46.77" end="00:19:26.43">
+                    <head>Modern Conformity</head>
+                    <u who="Q"><unclear>Most of your characters are</unclear> certainly highly
+                    individualized human beings. Do you have any particular ideas on the
+                    so-called trend toward conformity or loss of individualization in our current
+                    society?</u>
+                <u who="WF">Yes. I have very definite ideas about that, and if I ever become
+                    a—a preacher, it will be to preach against man, individual man,
+                    relinquishing into groups, any group. I'm—I'm against belonging to
+                    anything. <event desc="audience laughter"/> Of course, when—when I was
+                    young, I belonged to young people's fraternities and things like that, but now I
+                    don't want to belong to anything except the human race.</u>
+                <u who="Q">Why is that?</u>
+                <u who="WF">I think that there's too much pressure to make people conform, and I
+                    think that—that one man may be first-rate, but if you get one man and
+                    two second-rate men together then he's not going to be first-rate any longer
+                    because the—the—the voice of that majority will be a
+                    second-rate voice. The behavior of that majority will be second-rate. And I
+                    think that a second-rate man to <unclear>state</unclear> himself at least won't
+                    be third grade. But no second-rate man is going to become first-rate just by
+                    joining one or two more first-rate people.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.15" start="00:19:26.44" end="00:20:41.22">
+                    <head>Second-Rate People</head>
+                    <u who="Q">Could you go further and say how you rate people like that, for instance
+                    second-rate?</u>
+                <u who="WF">Well, sir, that would be a little difficult and maybe a little trite. I
+                    would say that—that a first-rate man is one—is a man that
+                    did the best he could with what talents he had to make something which wasn't
+                    here yesterday and also to—that never hurt an inferior, never harmed
+                    the weak, practiced honesty and courtesy and tried to be as brave as he
+                        wanted to be whether he always was that brave or not. I
+                    think that a man that—that held to—to those tenets wouldn't
+                    get very far if he were involved in a—a group of people that had
+                    relinquished their individualities to some one voice which would—could
+                    control their behavior.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.16" start="00:20:44.21" end="00:22:27.99">
+                    <head>Innate Character</head>
+                    <u who="Q">Mr. Faulkner, do you feel like—that man is, you might say, by
+                    nature, first-rate or second-rate <unclear>and</unclear> influences or
+                    circumstances lead to he being what he is? By nature being
+                    one—being other—in other words, man, by nature,
+                    has to pull himself up or—to first-rate—being a first-rate
+                    person or man, by nature, would be a first-rate person, and some are pulled down
+                    to being second-rate people?</u>
+                <u who="WF">I would say that he would have to pull himself up to be what I have
+                    premised as a first-rate human being, that the child is not born a first-rate
+                    human being, in that sense, because the child is still a savage until
+                    it—well, until a little boy is not civilized until
+                    he—about thirteen or fourteen when he falls in love with his teacher.
+                    She teaches him to wash his face, behave like a member of the human race. I
+                    don't believe that all people are—are born equal, if that's what you
+                    mean, that they are all—people are not born second-rate or tenth-rate,
+                    that some people may be incapable of ever becoming first-rate. But that would be
+                    from possibly—yes, it would have to be heredity because environment
+                    could be changed, and if all—if there was only environment that held
+                    people second-rate that <unclear>could</unclear> be changed, but some people are
+                    born incapable of being first-rate.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.17" start="00:22:37.41" end="00:24:47.35">
+                    <head>Freedom</head>
+                    <u who="Q">This freedom that you insist on interests me a great deal. It seems to me
+                    that that's where much of psychiatry goes astray, is in loss of—of
+                    freedom to think and act and so forth as we would if we were totally free or, as
+                    you say, relinquish our individuality. Aside from <unclear>joining the things,
+                        though</unclear>, do you find—find that it's a constant path of
+                    maintaining freedom or is—is it something that comes natural to you.
+                    In other words, are you a natural rebel against convention or conformity?</u>
+                <u who="WF">I don't know whether I believe there's such things as a natural rebel. I
+                    think that man's impulse—that man really doesn't want to be free, that
+                    he is willing to relinquish his freedom to anyone that will give him bread and
+                    circuses, that it takes a certain amount of education or precept by someone
+                    older and wiser to make a—a young man value freedom enough to struggle
+                    for it. It's very easy for him to submit to the constant pressure from the
+                    people who have got to sell him something in order to keep an economy of waste
+                    in motion like ours. To be free, he's an anachronism. He's
+                    against—he's a fly in their ointment. And whether he had
+                    a—an impulse to be free, that impulse will not be enough in a young
+                    man against all the concerted, organized pressure to make him relinquish freedom
+                    into the hands of whoever runs the finance company that collects on his
+                    automobile or—or compels him to be married in order to sell
+                    a—another dishwashing machine to somebody.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.18" start="00:24:49.57" end="00:26:19.37">
+                    <head>Predicting Behavior</head>
+                    <u who="Q">How long do you think that—if we know an individual's
+                    experiences—I mean, which is very difficult to do, but if we just say
+                    that ideally we know all these <unclear>experiences</unclear> that a person
+                    has—have, don't you think that we can predict his behavior?</u>
+                <u who="WF">I would think if anybody could predict his behavior, it would be the
+                    psychologist, the psychiatrist.</u>
+                <u who="Q">I mean, don't you think that a person, what he does, is based on the way
+                    he has been <unclear>raised</unclear>,, the experiences he has had in the past?
+                    Are they <unclear>formative</unclear> of his conduct, of what he does or what he
+                    says?</u>
+                <u who="WF">I was—to an extent, and—and also, to an extent, what
+                    he does at the moment is—is—his environment is responsible
+                    for it.  That he would have impulses which—which his heredity may have
+                    taught him to keep down, but his environment may have released him from the
+                    prohibition. That if you change his environment, he—he might behave
+                    differently. It wouldn't alter what he wanted to do, but probably any morality
+                    is simply a system of—of—of enabling a man to say "don't" to
+                    himself.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.19" start="00:26:20.91" end="00:28:07.53">
+                    <head>Future of Culture</head>
+                    <u who="Q">With this loss of freedom and conformity, materialism, and so forth, how
+                    optimistic or pessimistic do you feel about our current culture, as we see it
+                    today?</u>
+                <u who="WF">Well, pessimism is—I wouldn't—don't like to accept
+                    that term because I have a great belief in man. He has survived the dinosaur,
+                    and I am convinced he will survive his atom bombs. I am convinced that the last
+                    sound on earth will be two people building an air ship arguing about where
+                    they're going next. <event desc="audience laughter"/> I have a great faith in
+                    man.</u>
+                <u who="Q">More specifically, in terms of our west—so called western
+                    culture?</u>
+                <u who="WF">It's a—an unpleasant one. It's a—a—a
+                    nuisance to have to live through, but the only alternative is to get out if it,
+                    and you can't. 
+                    <event desc="audience laughter"/> It won't last any more than the other
+                    cultures. And this one, as soon as we have used up the last of the natural
+                    resources, we will have another one. This is—we are living in an
+                    economy of waste, to buy a new one next year. We clutter the earth up with the
+                    automobiles and washing machines we turned in in order to buy a new one, and
+                    that may create jobs, and maybe the scientists will invent some way to vaporize
+                    all these things. <event desc="audience laughter"/> And that'll be something for
+                    General Motors. They could have a gas that would vaporize every car in the
+                    street <event desc="audience laughter"/> and leave us sitting there
+                    with—with the steering wheel in your hand, nothing <unclear>behind
+                        you</unclear> <inaudible/> <unclear>start all over again</unclear>. It's that or finally choke the earth
+                    up and build a roof over it.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.20" start="00:28:10.24" end="00:28:23.39">
+                    <head>Work in Progress</head>
+                    <u who="Q">You're writing a novel now, I guess. <event desc="audience laughter"/></u>
+                <u who="WF">Well, I just said—said that the writer don't ever stop. People
+                    ask me what time of day I work, and I say, "All the time." <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio28_1.21" start="00:28:23.40" end="00:29:59.66">
+                    <head>Monk</head>
+                    <u who="Q">Sir, let me ask you to discuss very briefly the character of Monk, in
+                    light of his freedom and inevitability <inaudible/> <unclear>and so on</unclear>?</u>
+                <u who="WF">Monk, he was the—it's—I don't re-read this, and
+                    I'm—I'll have to remember just who Monk was. Right now
+                    I—</u>
+                <u who="Q"><unclear>I thought it was</unclear> one of the short stories <inaudible/>.</u>
+                <u who="WF">Oh, yes, the one that—that went to the penitentiary, was sent
+                    to the penitentiary. Well, he was a—a—probably a moron that
+                    just wanted to—to get along, just wanted enough to eat, and probably
+                    liked for people to speak kindly to him. He got involved in—in a crime
+                    which he didn't commit, was sent to the penitentiary, and was used as a tool by
+                    an evil man that wanted to get revenge on the warden. He was innocent, and
+                    innocence possibly has no safe place in this world, that you can't be that
+                    innocent and survive in it, that you've got to have a little of evil in your
+                    nature to cope with <unclear>the</unclear> world <unclear>and</unclear>
+                    mankind.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.22" start="00:30:05.18" end="00:30:39.15">
+                    <head>Human Change</head>
+                    <u who="Q"><inaudible/> do you think that man changes <unclear>chiefly through</unclear>
+                    economic changes, that educational measures, for example, have rather little
+                    impact <inaudible/>?</u>
+                <u who="WF">No, I think that—that he withstands economic changes pretty
+                    well. The only thing that will—will help him, will change him, in my
+                    opinion, is education. If we ever do get education in this country. I mean
+                        <event desc="audience laughter"/> the—the
+                        <unclear>schools</unclear> that—that children go to. That that
+                    is—that is the hope.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.23" start="00:30:41.17" end="00:31:42.83">
+                    <head>Segregation v Education</head>
+                    <u who="Q">Some of us have been very interested in the psychological aspects of
+                    segregation. I should be interested to know whether you believe that hope for
+                    that problem lies in education?</u>
+                <u who="WF">I think if we improve the schools, integration of schools would solve
+                    itself. I think that if the schools were up to the standard of the best that
+                    went there, only the best could stay and the ones that <unclear>went
+                        in</unclear> would be so busy working they wouldn't have time to bother about
+                    what color who was sitting next to them. And I—my hope is, that all
+                    this uproar over integration will improve schools to that point. To get rid of
+                    the emotional problem, the old folks will probably have to die off. The tragedy
+                    is that right now white people and colored people simply do not like and trust
+                    each other.</u></div2>
+                <div2 type="dialog" id="wfaudio28_1.24" start="00:31:52.96" end="00:32:02.63">
+                    <head>Education [part 1]</head>
+                    <u who="Q">What are the greatest defects that you see in our current education
+                    system other than this mediocrity <unclear>and</unclear> mass leveling
+                        thing? <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

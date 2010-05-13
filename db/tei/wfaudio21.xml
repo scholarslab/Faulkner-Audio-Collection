@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio21">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio21</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio21</idno>
+                <idno type="analog tape">T-123a</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-02-21">21 February 1958</date>
+                    <locale>Graduate Class in American Fiction</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 21 February 1958</head>
+                <head>OCCASION: Graduate Class in American Fiction</head>
+                <head>TAPE: T-123a</head><head>LENGTH: 31:53</head>
+                <div2 type="dialog" id="wfaudio21.1" start="00:00:01.91" end="00:00:37.22">
+                    <head>Introduction</head>
+                    <u who="G"><inaudible/> and as we get into the final month, he's answered a good many
+                    questions. About the only one he hasn't heard that's familiar to all teachers
+                    is, "Will that be on the examination?" Mr. Faulkner's by now an old member of the
+                    English Department, <unclear>although we did not accord him</unclear> with the <unclear>title</unclear> of professor we can
+                    ask him almost—we can ask him a lot more things than we can ask
+                    professors, so now's our chance.</u></div2>
+                <div2 type="dialog" id="wfaudio21.2" start="00:00:50.65" end="00:02:13.17">
+                    <head>Dramatizing His Works</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, one of your novels, <hi rend="italic">Requiem for a
+                        Nun,</hi> has been adapted to the theater and was successfully presented in
+                    Paris and England. Do you feel others of your works might be successfully
+                    dramatized, too, and do you plan to do it?</u>
+                    <u who="WF">I—I don't know. I don't know too much about theater. I wrote that book as
+                        a play. It wasn't adapted. There were sections of it—it—the story fell into three
+                        acts told in dramatic form. It was—I—I think played that way. There
+                    were no adaptations and no changes. Of course, there may have been some changes
+                    when Albert Camus got hold of it in Paris. He turned it into an existentialist
+                    job, but he didn't change it too much. I think the—the version
+                    in—in London was about as I wrote it, but it was—was written
+                    in that form. I felt, at the time, that that was the most effective way to tell
+                    the story I was trying to tell. I think that's one of the tools of
+                    the writer's craft, that he is at liberty to use whatever method
+                    he thinks does the job best.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.3" start="00:02:16.05" end="00:03:58.18">
+                    <head>Writing from Experience</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, Romain Gary wrote recently that he refuses to write only
+                    from his own experience because it limits one so. Do you believe that it's
+                    possible for—for good fiction to be written by a novelist who attempts to write of
+                    things beyond the limits of his own experience?</u>
+                <u who="WF">Oh, yes. Of course, you've got to define what you mean by experience. If
+                    you restrict experience to what you yourself have—have done, that
+                    is a—a limited field, and you would have only a limited field to
+                    write from. To—to me, experience is—is anything that you
+                    have perceived. It can come from—from books.  A book that—a
+                    story that is—is true enough and alive enough to move you, that, in my
+                    opinion, is—is your experience, is one of your experiences. You need
+                    not to do the—the actions that the people in that book do, but if they
+                    strike you as being true, that they are things that people would do, that you
+                    can understand the feeling behind them that made them do that, then that's an
+                    experience to me. And so, in my definition of experience, you—it's
+                    impossible to write anything that is not an experience, because everything you
+                    have—have read, have heard, have sensed, have imagined is a part of
+                    experience. That is, I think, there's as much of memory in the—the nerves
+                    and the muscles as there is in the gray matter.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.4" start="00:03:59.47 " end="00:07:33.15">
+                    <head>Writing a Character</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I have a question Mr. Faulkner, sort of along these lines. It's a little
+                    long, <unclear>yet</unclear> I hope you'll bear with me.</u>
+                <u who="WF">Yes, sir. Go slow with it <unclear>so I won't miss it</unclear>.</u>
+                <u who="Q">I certainly will. As background on it, Mr. Gwynn asked us to—to
+                    write an outline of a novel that we wanted to write last semester. It was quite
+                    a difficult task, for me at any rate, and here it is the question which comes
+                    out of that attempt to write that outline. I sometimes think that the writer who
+                    tells the truth has an almost insurmountable problem. First, he must know what
+                    and how other people think, and second he must record what he knows in his artistic
+                    creation. If you agree with this premise, which part of the writer's task is
+                    the more difficult: knowing a character, that is what he believes and how he
+                    reacts to the situations and so forth, or once you know it, getting it down on
+                    paper?</u>
+                <u who="WF">Now there's another case where we've got to define terms. In my opinion,
+                    truth don't have very much relation to facts, that some things you imagine or
+                    you hear, you know is true. Maybe it ain't so, but it should be so. That to me
+                    is truth. Now, give me the second half of your question again.</u>
+                    <u who="Q">Well, the second half, as—as I look at the problem of writing the novel is,
+                    once you have your character in <unclear>mind</unclear>, then getting him down
+                    on paper, telling about the character, describing his thoughts or his opinions
+                        or how he reacts under pressure or his philosophy, is getting that down—that's
+                    the, I suppose, the mechanical part.  Now what to me is, first, you
+                    know your character, and you know what he's like. You know him, and then you
+                    have to put him down on—on the paper as you're writing, and I was
+                    wondering if that is the sort of the way you approach a novel, which it probably
+                    is not, but if it is, which would you say is—is the hardest of the two
+                        problems: to—to get your character in your mind or to get him down on paper once
+                    you have him in your mind?</u>
+                <u who="WF">I would say to get the character in your mind. Once he is in your mind,
+                    and he is right, and he's true, then he does the work himself. All you need to
+                    do then is to trot along behind him and put down what he does and what he says.
+                    It's the—the ingestion and then the gestation. You've got to know the
+                    character. You've got to believe in him. You've got to—to feel
+                    that—that what—that he is—is alive, and then, of
+                    course, you will have to do a certain amount of—of picking and
+                    choosing among the possibilities of his action, so that his actions fit the
+                    character which you believe in. After that, the—the—the
+                    business of putting him down on paper is mechanical. It's—I think, most of
+                    the—the writing has got to take place up here before you ever put the
+                    pencil to the paper.  But the character's got to be true by your conception and
+                    by your experience, and that would include, as we've just said, what you've
+                    read, what you've imagined, what you've heard, all that going to giving you
+                    the gauge to measure this imaginary character by, and once he comes alive and
+                    true to you, and—and he's important and moving, then it's not too much
+                    trouble to put him down.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.5" start="00:07:34.39" end="00:10:41.01">
+                    <head>The Creative Process</head>
+                    <u who="WF"> Yes, ma'am.</u>
+                <u who="Q">I think my question follows a little bit from
+                        that one. I was wondering, to what extent
+                        <unclear>is</unclear> the creative literary process really sometimes
+                    painful, and if facility in writing necessarily goes with
+                    excellence or the other way around. And if it's too difficult, does it appear to
+                    the reader as being labored and—and worked over?</u>
+                <u who="WF">Sometimes, probably. I think of—of so much of Dreiser, that
+                    must've been a terrific anguish to him to write. I can think of—well,
+                    Flaubert, say, that—that sounds so easy, so simple, that must have
+                    been a terrific effort to him, too. Probably you can't—can't draw
+                    any—any general—generalization from that. Now, what was the
+                    question about the— the—the anguish and trouble. We almost
+                    touched on that. Tell me that again, the first of your question was—</u>
+                    <u who="Q">I just wanted to know to what extent <unclear>that in</unclear> the creative literary
+                    process is or can be expected to be—?</u>
+                <u who="WF">Well, it's anything that—that you like to do better than
+                    anything else, of course you're willing to make sacrifices for, and usually the
+                    things that you like to do are troublesome. That is, if you like to ski,
+                    that's—that's difficult. Everybody can't do it. But if you like it
+                    well enough, that very anguish is fun. You do it because that gives you more
+                    pleasure than anything else you can think of. It may be difficult, just like
+                    mountain climbing. Nobody would climb mountains just for fun. People don't know
+                    why they climb mountains, but that's their cup of tea they like. I think that's
+                    true of the writer, that he's—he's willing to face the—the
+                    anguish and the trouble of it because—one reason is he can't help it,
+                    he—his choice is either to—to write or not write, and he
+                    says, "Well, I'm going to write anyway." The other is to have done the job well,
+                    then he has—has been repaid for the trouble and the suffering, we'll
+                    call it, that he went through. Also, he has justified the fact that people must
+                    suffer. There's really no good reason why there should be pain, you know.
+                    There's no biological reason for it, and yet we constantly suffer pain and fear
+                    and if the individual can make something which—which makes him feel
+                    good, that this is something that wasn't here before me, and I've made it, and
+                    it's—it's not quite good enough, but it's the best I can do, and I had
+                    a good time at it, then that is his—his pay for it.</u></div2>
+                <div2 type="dialog" id="wfaudio21.6" start="00:10:42.44" end="00:12:41.90">
+                    <head>Fact v Truth</head>
+                    <u who="Q">This sort of relates to the question before that, but when you are
+                    writing a novel about a particular group of people and a particular environment,
+                    just to what extent—how fully do you imagine these people and this
+                    environment beyond what actually goes into the novel?</u>
+                <u who="WF">I think one of the—the first qualities a writer must have is
+                    an inherent incapacity to stick to the truth,  that he will—will take
+                    characters, situations he has seen with the best intention in the world, but
+                    despite himself, he cannot stick to that. He's going to improve it somehow. He's
+                    trying to make something a little new, a little different than what was here
+                    before, and he's not going to worry too much about whether he sticks to the
+                    truth, and he finds that he's got away from fact, I mean, not the truth, which
+                    is as I just said, there's not too much relation between fact and truth. When he
+                    finds that he has got away from fact, he doesn't worry about that. Because he
+                    has dedicated himself to stick to truth, as he sees it. I mean, by truth,
+                    the—the things which move people. The—the—the
+                    desires, the passions in the human heart, the things that the human heart
+                    considers important—honor and truth, shame, baseness,
+                    courage—that's what he's writing about, and when he's got
+                    to—to ignore fact to do that better, then he won't hesitate to ignore
+                    fact, because he's not really interested in facts. Fact can change too much. Fact
+                    can be one thing today and something else tomorrow. A posted sign can change a
+                    fact, you know, but it can't change the truth.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.7" start="00:12:41.81" end="00:14:28.58">
+                    <head>Writing Humor</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">I think some magazines pay more for humorous stories than they do for
+                    stories of a more serious nature, at least I've heard a number of writers say
+                    that in relation to <hi rend="italic">The New Yorker</hi>, supposedly because
+                    humor is harder to write than—humorous stories are harder to write
+                    than serious ones. Do you find that true in your writing, that it's harder
+                    for you to write a funny scene, a humorous scene, than it is to write one of a
+                    serious nature?</u>
+                <u who="WF">With me, the character does the work, and so I couldn't say that it's
+                    more difficult to write a funny story than a sad one.  That I think the writer is
+                    mainly not writing a story. He's writing about people. He thinks of the
+                    character. He gets that character from observation, from experience, from
+                    imagination, and suddenly that character himself or herself turns out to be
+                    funny, and then she says and does funny things. I think maybe what you might
+                    call a professional writer that—that has a—a knack for
+                    composition, for knowing what magazines will pay the best price for and has the
+                    talent to—to write something to fit that, now he may be able to answer
+                    that question better than me, but I think I've found it more satisfactory to
+                    write mainly about people and let the character himself—if he's comic, then he
+                    does and says comic things, and I don't think I would worry too much about
+                        that.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.8" start="00:14:30.03" end="00:20:00.08">
+                    <head>Anderson's Writing Process</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, you've stated that your method of composition is just to
+                    let the story write itself.  And I was wondering if you could tell us whether or not Sherwood Anderson
+                    wrote in <unclear>a—similar to</unclear> this fashion.</u>
+                <u who="WF">I think so, yes. He—writing was—was very difficult
+                    for him because he took it up late in life and contrary to his tradition and his
+                    training. He had been successful in the—the ordinary shape of the
+                    American dream, which was to come from nothing and—and by your own
+                    shrewdness and skill make something of yourself and establish a certain position
+                    in the community. Then suddenly he decided he wanted to be a writer, and he, at
+                    his age, he—he was thinking always, "Well, now am I good enough to be a
+                    writer? Is this a mistake? Maybe rather than to try to be a writer and fail, I
+                    should've stuck to what I had trained myself to do," and he himself didn't have
+                    the confidence in what he did. It would be other people that would say, "Well,
+                    this is—this is splendid. This is marvelous. Few people can match
+                    that." He never did quite believe that. He was afraid that somebody might come
+                    along and say, "This is nonsense, it's trash." And if someone had, he would've
+                    believed that, that he himself didn't have the confidence in what he did or in
+                    the doing of it, which the person that begins to write, to want to be a writer
+                    young has. When you're young, you know nothing. You believe that you can climb a
+                    mountain or can fly an aeroplane faster or ride a racehorse than anybody else
+                    can. You're not afraid to try anything.  But in his case, he—he was
+                    afraid. Did that answer the question or did it get away from the question?</u>
+                    <u who="Q">Well, I don't know. It—I thought it was very interesting. I don't know
+                    whether exactly was the thing I was—</u>
+                <u who="WF">Well, let's have your question again. I got off myself. That's my
+                    fault.</u>
+                    <u who="Q">I—I was—just wanted to know if he wrote in the same fashion you
+                    did. You said that you just let the story write itself, and I was wondering if
+                    he did the same thing.</u>
+                <u who="WF">Yes, and—generally, yes. I think that all people write
+                    from—in—by the same method. It's a matter of—of
+                    imagining any number of things. The writer at the moment of putting it down has
+                    got to be a censor, to say, "Now, this is—this is right, this is wrong,"
+                    and to throw away the wrong. Anderson didn't quite have that—that
+                    confidence in his own capacity to pick and choose. There was an instinct that
+                    would save him in the end. A lot of—of the stuff that went into
+                    his—his stories a man with a heart or mind more sure of himself
+                    would've stricken out and would've gotten rid of some of the—the sense
+                    of fumbling and clumsiness, the heavy-footedness, which was in Anderson's
+                    stories, which he himself didn't like, but in my opinion, it had a great deal to
+                    do with making his stories. The very fact that they did sound clumsy and—and not
+                    quite strained but a little puzzled, that the truth did come out of—of
+                    all the heavy-footedness and the—the fumbling, the—whatever
+                    it was that—that made him go to the length of reducing some of it to
+                    the sort of <hi rend="italic">First Reader</hi> statements, gave something to
+                    the final result that—that no imitator could—could match
+                    probably. But it was much more of a unhappy strain to him, that he never got
+                    the—the pleasure of—out of writing that a more facile
+                    craftsman could've done. It had nothing to do with the result, of course, but it
+                    just was.</u>
+                    <u who="WF">Yes, sir.</u>
+                <u who="G">Even if he didn't have confidence in his own ability to write well, do
+                    you think he had the confidence in his own vision of some truth?</u>
+                <u who="WF">Absolutely, I do. That is why he stopped being a successful advertiser
+                    and became an artist. He had absolute confidence in his vision and—and
+                    knew it was important enough for something to be done about it, for him to try
+                    to—to tell it, to show to people what he had seen, which
+                    he—he, in my opinion, he did marvelously well, but clumsily.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.9" start="00:20:00.85" end="00:21:24.19">
+                    <head>Anderson and Stein</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, this is another question about Anderson. One critic
+                    suggested Sherwood Anderson felt a particular kinship to Gertrude Stein. Miss
+                    Stein is spoken of so frequently in connection with the writers of the Twenties,
+                    that I would be interested to know whether you recall any discussion by Anderson
+                    of her, of her work, and its supposed influence upon himself.</u>
+                <u who="WF">Yes, he had the—the unlettered man's boundless and almost
+                    baseless respect for—for literacy, for education, and she
+                    was—was an extremely versatile creature that way. She spoke two or
+                    three different languages, and she came from a background of people that took
+                    the best of education as a matter of course, which he didn't have. Also, she was
+                    one of the few people that he could trust. I mean that—that when she
+                    said that what he was doing was—was good, he never doubted it, because
+                    he knew that she would never do anything to hurt him. Other people that told him
+                    it was good, he never did quite trust. He said, "Well—well, maybe
+                    they'll—they'll do something to hurt me tomorrow. I'm afraid of them."
+                     But with her he never was, because he knew that she was a—well, you
+                    might say a lady, and wasn't—was never going to hurt him.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.10" start="00:21:25.66" end="00:22:22.48">
+                    <head>Anderson's Symbolism</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, do you believe that Sherwood Anderson was too deliberate in
+                    his use of <unclear>symbols</unclear> or do you believe that some of
+                    his—these symbols were unconsciously used in <hi rend="italic">Winesburg, Ohio</hi>?</u>
+                <u who="WF">A little of both. You've got to remember that suddenly at the age of
+                    about 40 he decided to be a writer. He had to learn a complete new trade with a
+                    complete new equipment, and up to that time, he had probably not thought too
+                    much about symbolism. He had to teach himself that as he went along.  But
+                    he—what he taught himself, he—he would stop to prove
+                    to—to be sure that it was right, that it was in—in accord
+                    with the—with the symbolism of—of the new psychology, which
+                    was coming along at that time.  But he had to teach himself his trade as he went
+                    along.</u></div2>
+                <div2 type="dialog" id="wfaudio21.11" start="00:22:27.45" end="00:23:32.50">
+                    <head>Meeting Anderson</head>
+                    <u who="G">Do you happen to remember how you first met Mr. Anderson?</u>
+                <u who="WF">Yes, I had—had worked in a New York bookstore. The manager was
+                    Elizabeth Prall, a Miss Prall then. Later I heard that she had married Anderson,
+                    was living in New Orleans. I happened to be in New Orleans, and I had gone to
+                    call on her, because I—I wasn't going to—to bust in on Mr.
+                    Anderson without an invitation from him. I didn't think that I would see him at
+                    all, that he would probably be in his study working, but it happened that he was
+                    in the room at the time.  And we talked, and we liked one another from the start,
+                    and it was this—just the chance that I had gone to call on Miss Prall,
+                    that I had known, who had been kind to me when I was a clerk in a book store,
+                    that I came to meet him.</u></div2>
+                <div2 type="dialog" id="wfaudio21.12" start="00:23:34.23" end="00:25:00.39">
+                    <head>New Orleans</head>
+                    <u who="G">Sir, I'd like to follow that up just once, if I may, sir. We were talking
+                    about the background of Anderson's writing, and all of the writing out of the
+                    '20s, and how people often gathered in groups in Greenwich Village and Chicago
+                    and New Orleans. Was there something in New Orleans that pulled you down there,
+                        or were—were you just making a—a trip?</u>
+                <u who="WF">Well, yes, I had heard of <hi rend="italic">The Double Dealer</hi> and
+                    the people there for years. At that time, I went to New Orleans to—to
+                    get a job in a ship and go to Europe. That was why I happened to be in New
+                    Orleans at that time. That I hadn't—it was no pull to be a part of a
+                    literary group, no. That I had felt the pull—I—I think that
+                    any young writers does feel that pull, to—to be with people
+                    that—that have the same problems and—and the same interests
+                    as him, that—that won't laugh at what he's trying to do, that won't
+                    laugh at—at what he says no matter how foolish it might sound to the
+                    Philistine.  But that was the—the reason I was in New Orleans, was to
+                    get a job with a ship.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.13" start="00:25:00.40" end="00:25:57.19">
+                    <head>Writers and Society</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I'd like to follow up your remark about the Philistine for one minute if
+                    I can. During the past hundred years or so, much has been said and written about
+                    the gulf between the writer and the other people <unclear>of his own
+                        time</unclear>. If this gulf and supposed lack of understanding is a
+                    certainty between the writer and his time does exist, what would you suggest
+                    <unclear>are some of its causes</unclear>?</u>
+                <u who="WF">Probably the writer is just too confoundedly busy with his own private
+                    affairs to have much time for his contemporary scene, that he's aware of it, but
+                    he ain't too interested in it, that to him, the world is not just A.D. this
+                    particular year. To him, the world is all man <unclear>would call</unclear>
+                    anguish in the books and the plays and the poems. That's where he lives. He just
+                    happens to have to eat in—in 1958, but he don't
+                    really live there. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.14" start="00:25:57.20" end="00:28:11.44">
+                    <head>Nature as Redemptive</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, it's been stated that you regard civilization as evil and
+                    nature as good, and in "The Bear," you seem to indicate that the purity of
+                    untouched nature as opposed to the tainted air that hangs about the human
+                    spoilers of the wilderness, that there is this difference.  Is this the
+                    result of a belief that man, if he returns to a natural life, can be
+                    rejuvenated?</u>
+                <u who="WF">No, and if I ever gave that impression in my work, that's not quite
+                    true. I think that with any writer—civilization, his age, his time, is
+                    a part of the equipment, the reservoir that he will write from, that that is
+                    the—the writer, the artist, probably don't think anything is either
+                    good or bad. It just is, and it's vastly interesting because it moves, and that
+                    is the—the source and the material from which he's going to try to
+                    make something. It's motion. It's people, no matter whether what they do is
+                    cowardly or brave or—or a nuisance or diverting 
+                    or entertaining. It's still motion, and he himself hasn't got time, or inclination
+                    either, to judge it. I think that anyone who says civilization is—is
+                    bad and—and non-civilization is therefore good, and if man could just
+                    leave civilization and live in a tree and eat nuts, <event desc="audience laughter"/> that  
+                    he'd be better off, I—some men might be better
+                    off with that, but not everybody would. If—if—if you like to
+                    live in a tree and eat nuts, then you'd be better off and be happier, <event desc="audience laughter"/> 
+                    but the other people that are just as honorable
+                    and just as brave that live in the middle of civilization.  But that's all part
+                    of the—the reservoir that you write from. That's part of the
+                    experience, to be in the midst of <unclear>it, the</unclear> motion.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.15" start="00:28:11.34" end="00:29:13.11">
+                    <head>Winesburg v Yoknapatawpha</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Do you think that Sherwood Anderson could've expanded 
+                    his <hi rend="italic">Winesburg, Ohio</hi> into a series of novels as you've done
+                    with your Yoknapatawpha County people, or do you think that he's necessarily
+                    more limited to a form like the short story?</u>
+                <u who="WF">He was, yes, limited to that form, and his tragedy was that he was
+                    limited to that one book, that—that was—was truth as he saw
+                    it. It was valid, true truth, but he had done it that one time, and he never
+                    could do it again.  Because the truth, it was as though the truth that he was
+                    capable of burst on him like a—a thunderclap all in one flash, that
+                    there was nothing to progress from nor toward, that it all happened to him like
+                    a—a—a house falling on him.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio21.16" start="00:29:15.03" end="00:31:50.46">
+                    <head>Communicating with Others</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, many of the characters in <hi rend="italic">Winesburg, Ohio</hi> had
+                    the problem of not being able to communicate with their fellow man, and I think
+                    some of your characters also seem to have that trouble. Now, you've said that
+                    the most important thing for man is for him to be able to believe in himself. Do
+                    you believe that before he can believe in himself, he must overcome this barrier
+                    of communication <unclear>with others</unclear>?</u>
+                <u who="WF">He would be happier if he could overcome the barrier. I don't believe
+                    that the fact that he feels he can't communicate would have anything to do with
+                    his own belief in himself. I don't think that—that whether the writer
+                    believes he can't communicate or not, he can and he does. I imagine that there's
+                    really nobody that—that doesn't communicate. It may be
+                    he'll—he—he won't want to, that he'll think
+                    that—that he's sufficient, can be an island to himself, but he can't.
+                    Whether he wants to or not, he belongs to mankind, too.  And in the very fact of
+                    belonging to mankind, he communicates with mankind. He may not be able to do it
+                    articulately. He may not have the—the quality of—of
+                    rhetoric, but there's—there's more to communication than speech, you
+                    know.</u>
+                <u who="Q">That's what I meant. I meant just the characters that couldn't seem to
+                    get to know people in <hi rend="italic">Winesburg, Ohio</hi>. There're quite a
+                    few characters in that book that are sort of isolated and frustrated because
+                    they couldn't seem to get to know other people. I didn't mean <unclear>writing or speech</unclear>.</u>
+                <u who="WF">Oh, I see. I think that was—was out of Anderson's own nature,
+                    that he himself didn't believe that communication was—was more
+                    difficult. I think maybe that he expected more of people than he ever found in
+                    people, and these characters in his book, because of what they thought was a
+                    lack of—an inability to communicate was, they simply couldn't find
+                    the—the—the fine virtues in mankind that Mr. Anderson
+                    himself believed were there. They're not there. Man is capable of anything, of
+                    everything, but of no particular virtue, no particular evil. He's
+                    — <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

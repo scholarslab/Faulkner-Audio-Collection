@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio12_2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio12_2</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio12_2</idno>
+				<idno type="analog tape">T-125</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<p id="JL">John Longley, Jr.</p>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-08">8 May 1957</date>
+					<locale>Engineering School Students</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 8 May 1957</head><head>OCCASION: Engineering School Students</head>
+				<head>TAPE: T-125</head><head>LENGTH: 31:11</head>
+				<head>READING: "Was"</head>
+				<div2 type="reading" id="wfaudio12_2.1" start="00:00:00.00" end="00:00:15.76">
+					<head>Story, Excerpt 31</head>
+					<u who="WF">
+					<writing type="fiction">"I'll buy the damn girl then and we'll call the rest of
+						this foolishness off."<lb/>
+						"Hah," Mr Hubert said again. "This is the most
+						serious foolishness you ever took part in in your life. No, you said you
+						wanted your chance, and now you've got it. Here it is, right here on the 
+						table, waiting on you."
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.2" start="00:00:15.77" end="00:00:57.26">
+					<head>Story, Excerpt 32</head>
+						<u who="WF">
+					<writing type="fiction">So Uncle Buck shuffled the cards and Mr Hubert cut them.
+						Then he took up the deck and dealt in turn until Uncle Buck and Mr Hubert
+						had five. And Uncle Buck looked at his hand a long time and then said two
+						cards and he gave them to him, and Mr Hubert looked at his hand quick and
+						said one card and he gave it to him and Mr Hubert flipped his discard onto
+						the two which Uncle Buck had discarded and slid the new card into his hand
+						and opened it out and looked at it quick again and closed it and looked at
+						Uncle Buck and said, "Well? Did you help them threes?"<lb/>
+						"No," Uncle Buck said.<lb/>
+						"Well I did," Mr Hubert said. He shot his hand across the table so the
+						cards fell face-up in front of Uncle Buck and they were three kings and two
+						fives, and said, "By God, Buck McCaslin, you have met your match at
+							last."
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.3" start="00:00:57.26" end="00:01:31.79">
+					<head>Story, Excerpt 33</head>
+						<u who="WF">
+					<writing type="fiction">"And that was all?" Uncle Buddy said. It was late then,
+						near sunset; they would be at Mr Hubert's in another fifteen minutes.<lb/>
+						"Yes,
+						sir," he said, telling that too: how Uncle Buck waked him at daylight and he
+						climbed out a window and got the pony and left, and how Uncle Buck said that
+						if they pushed him too close in the meantime, he would climb down the gutter
+						too and hide in the woods until Uncle Buddy arrived.<lb/>
+						"Hah," Uncle—Uncle Buddy
+						said. "Was Tomey's Turl there?"<lb/>
+						"Yes, sir," he said. "He was waiting in the
+						stable when I got the pony. He said, 'Aint they settled it yet?'"<lb/>
+						"And what
+						did you say?" Uncle Buddy said.<lb/>
+						"I said, 'Uncle Buck looks like he's
+						settled. But Uncle Buddy aint got here yet.'"<lb/>
+						"Hah," Uncle Buck—Uncle Buddy
+							said.
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.4" start="00:01:31.80" end="00:02:46.68">
+					<head>Story, Excerpt 34</head>
+						<u who="WF">
+					<writing type="fiction">And that was about all. They reached the house. Maybe
+						Uncle Buck was watching them, but if he was, he never showed himself, never
+						came out of the woods. So Miss Sophonsiba was nowhere in sight either, so at
+						least Uncle Buck didn't give—hadn't quite given up; at least he hadn't asked her yet.
+						And he and Uncle Buddy and Mr Hubert ate supper and they came in from the
+						kitchen and cleared the table, leaving only the lamp on it and the deck of
+						cards. Then it was just like last night, except that Uncle Buddy had no
+						necktie and Mr Hubert wore the clothes now instead of a nightshirt and it
+						was a shaded lamp on the table instead of a candle, and Mr Hubert sitting at
+						his end of the table with the deck in his hands, riffling the edges with his
+						thumb and looking at Uncle Buddy. Then he tapped the edges even and set the
+						deck out in the middle of the table under the lamp, and folded his arms on
+						the edge of the table and leaned forward a little on the table, looking at
+						Uncle Buddy, who was sitting at his end of the table with his hands in his
+						lap, all one gray color, like an old gray rock or a stump with gray moss on
+						it, that still, with his round white head like Uncle Buck's but he didn't
+						blink like Uncle Buck and he was a little thicker than Uncle Buck, as if
+						from sitting down so much watching food cook, as if the things he cooked had
+						made him a little thicker than he would have been and the things he cooked
+						with, and the flour and such, had made him all one same quiet color.
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.5" start="00:02:46.68" end="00:03:39.95">
+					<head>Story, Excerpt 35</head>
+						<u who="WF">
+							<writing type="fiction">"Little toddy before we start?" Mr Hubert said.<lb/> "I dont
+								drink," Uncle Buddy said.<lb/>
+								"That's right," Mr Hubert said. "I knew there was
+						some thing else besides just being woman-weak that makes 'Filus seem human.
+						But no matter." He batted his eyes twice at Uncle Buddy. "Buck McCaslin
+						against the land and niggers you have heard me promise as Sophonsiba's dowry
+						on the day she marries. If I beat you, 'Filus marries Sibbey without any
+						dowry. If you beat me, you get 'Filus. But I still get the three hundred
+								dollars 'Filus owes me for Tennie. Is that correct?"<lb/>
+								"That's correct," Uncle
+								Buddy said.<lb/>
+								"Stud," Mr Hubert said. "One hand. You to shuffle, me to cut,
+								this boy to deal."<lb/>
+								"No," Uncle Buddy said. "Not Cass. He's too young. I dont
+								want him mixed up in any gambling."<lb/>
+								"Hah," Mr Hubert said. "It's said that a
+						man playing cards with Amodeus McCaslin aint gambling. But no matter." 
+						He was still looking at Uncle Buddy; he never even turned his head when he
+						spoke: "Go to the back door and holler. Bring the first creature that
+						answers, animal mule or human, that can deal ten cards."
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.6" start="00:03:39.95" end="00:04:30.35">
+					<head>Story, Excerpt 36</head>
+						<u who="WF">
+					<writing type="fiction">So he went to the back door. But he didn't even need to call
+						because Tomey's Turl was squatting against the wall just outside the door,
+						and they returned to the drawing-room where Mr Hubert still sat with his
+						arms folded on his side of the table and Uncle Buddy sat with his hands in
+						his lap on his side and the deck of cards face-down under the lamp between
+						them. Neither of them even looked up when he and Tomey's Turl entered.
+						"Shuffle," Mr Hubert said. Uncle Buddy shuffled and set the cards back under
+						the lamp and put his hands back in his lap and Mr Hubert cut the deck and
+						folded his arms back onto the table-edge. "Deal," he said. Still neither he
+						nor Uncle Buddy looked up. They just sat there while—while Tomey's Turl's
+						saddle-colored hands came into the light and took up the deck and dealt, one
+						card face-down to Mr Hubert and one face-down to Uncle Buddy, and one
+						face-up to Mr Hubert and it was a king, and one face-up to Uncle Buddy and
+						it was a six.
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.7" start="00:04:30.31" end="00:04:56.16">
+					<head>Story, Excerpt 37</head>
+						<u who="WF">
+							<writing type="fiction">"Buck McCaslin against Sibbey's dowry," Mr Hubert said. 
+						"Deal." And the hand dealt Mr Hubert a card and it was a three, and Uncle
+						Buddy a card and it was a two. Mr Hubert looked at Uncle Buddy. Uncle Buddy
+								rapped once with his knuckles on the table.<lb/>
+								"Deal," Mr Hubert said. And the
+						hand dealt Mr Hubert a card and it was another three, and Uncle Buddy a card
+						and it was a four. Mr Hubert looked at Uncle Buddy's cards. Then he looked
+						at Uncle Buddy and Uncle Buddy rapped on the table again with his
+							knuckles.
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.8" start="00:04:56.12" end="00:05:57.04">
+					<head>Story, Excerpt 38</head>
+						<u who="WF">
+					<writing type="fiction">"Deal," Mr Hubert said, and the hand dealt him an ace
+						and Uncle Buddy a five and now Mr Hubert just sat still. He didn't look at
+						anything or move for a whole minute; he just sat there and watched Uncle
+						Buddy put one hand onto the table for the first time since he shuffled and
+						pinch up one corner of his face-down card and look at it and and then put
+						his hand back into his lap. "Check," Mr Hubert said.<lb/>
+						"I'll bet you them two
+						niggers," Uncle Buck—Buddy said. He didn't move either. He just sat just like he
+						sat in the wagon or on a horse or in the rocking chair he cooked from.<lb/>
+						"Against what?" Mr Hubert said.<lb/>
+						"Against the three hundred dollars
+						Theophilus owes you for Tennie, and the three hundred you and Theophilus
+						agreed on for Tomey's Turl," Uncle Buddy said.<lb/>
+						"Hah," Mr Hubert said, only
+						it wasn't loud at all this time, not even short. Then he said "Hah. Hah.
+						Hah" and not loud either. Then he said, "Well." Then he said, "Well, well."
+						Then he said: "We'll check up for a minute. If I win, you take Sibbey
+						without a dowry and the two niggers, and I dont owe 'Filus anything. If you
+						win—"<lb/>
+						"—Theophilus is free," Uncle Buddy said.  "And you owe him the three hundred dollars for
+						Tomey's Turl."
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.9" start="00:05:57.01" end="00:07:18.30">
+					<head>Story, Excerpt 39</head>
+						<u who="WF">
+					<writing type="fiction">"That's just if I call you," Mr Hubert said. "If I dont
+						call you, 'Filus wont owe me nothing and I wont owe 'Filus nothing, unless I
+						take that nigger which I have been trying to explain to you and him both for
+						years I wont have on my place. We will be right back where all this
+						foolishness started from, except for that. So what it comes down to is, I
+						either got to give a nigger away, or risk buying one that you done already
+						admitted you cant keep at home." Then he stopped talking. For about a minute
+						it was like he and Uncle Buddy had both gone to sleep. Then Mr Hubert picked
+						up his face-down card and turned it over. It was another three, and Mr
+						Hubert sat there without looking at anything at all, his fingers beating a
+						tattoo, slow and steady and not very loud, on the table. "H'm," he said.
+						"And you need a trey and there aint but four of them and I already got
+						three. And you just shuffled. And I cut afterward. And if I call you, I will
+						have to buy that nigger. Who dealt these cards, Amodeus?" Only he didn't
+						wait to be answered. He reached out and tilted the lamp-shade, the light
+						moving up Tomey's Turl's arms that were supposed to be black but were not
+						quite white, up his Sunday shirt that was supposed to be white but wasn't
+						quite either, that he put on every time he ran away just as Uncle Buck put
+						on the necktie each time he went to bring him back, and on to his face; and
+						Mr Hubert sat there, holding the lampshade and looking at Tomey's Turl. Then
+						he tilted the shade back down and took up his cards and turned them
+						face-down and pushed them across the middle of the table. "I pass, Amodeus,"
+						he said.
+					</writing>
+				</u></div2>
+				<div2 type="reading" id="wfaudio12_2.10" start="00:07:18.41" end="00:08:24.38">
+					<head>Story, Excerpt 40</head>
+						<u who="WF">
+					<writing type="fiction">He was still too worn out for sleep to sit on a horse,
+						so this time he and Uncle Buddy and Tennie all three rode in the wagon,
+						while Tomey's Turl led the pony from old Jake. And when they got home just
+						after daylight, this time Uncle Buddy never even had time to get breakfast
+						started and the fox never even got out of the crate, because the dogs were
+						right there in the room. Old Moses went right into the crate with the fox,
+						so that both of them went right—right on out through the back end of it. That is,
+						the fox went through, because when Uncle Buddy opened the door to come in,
+						old Moses was still wearing most of the crate around his neck until Uncle
+						Buddy kicked it off him. So they made just one run, across the front
+						gallery and around the house and they could hear the fox's claws when—when he
+						went scrabbling up the lean-pole, onto the roof—a fine race while it lasted,
+						but—but the tree was too quick.<lb/>
+					"What in damn's hell do you mean," Uncle Buddy said,
+						"casting that damn thing with the dogs right in the same room?"<lb/> "Damn the
+						fox," Uncle Buck said. "Go on and start breakfast. It seems to me I've been
+						away from home a whole damn month." <event desc="applause"/></writing></u></div2>
+				<div2 type="dialog" id="wfaudio12_2.11" start="00:08:24.39" end="00:08:39.87">
+				<head>Break</head>
+					<u who="JL">Let's give Mr. Faulkner
+						and Mr. Faulkner's voice a moment's rest, and—and he has told me that he'll be glad
+					to have questions. And so we'll take about a five-minute break, and then have a
+						question period.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.12" start="00:08:41.46" end="00:08:50.66">
+					<head>Audience Prompt</head>
+					<u who="JL">I think Mr. Faulkner will
+					be very interested to see what questions you might have to ask him, so go right
+						ahead and volunteer. </u></div2>
+				<div2 type="dialog" id="wfaudio12_2.13" start="00:08:52.54" end="00:09:25.10">
+					<head>Theme of Races</head>
+					<u who="Q">Mr. Faulkner, are you playing a
+					kind of fugue on the theme of races here? Are you having a lot of fun with
+					that?</u>
+				<u who="WF">I had a lot of fun with it. I wasn't playing a fugue on the theme of
+					races. I was writing about people in what I—what to me was amusing terms, and I
+					hoped it would be amusing terms to the reader. No, it was primarily about
+					people, about people who had got into a—a predicament and solved it with the
+					only tools they had.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.14" start="00:09:38.71" end="00:12:27.37">
+					<head>Trip to Greece</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, this is a little bit off the theme of literature, but I'd
+					like to—if you wouldn't mind tell us a little about your trip to Greece? <unclear>I think</unclear> I would
+					like to hear a little about that, if that's not getting too far off the subject,
+					too far away from it.</u>
+				<u who="WF">It was a—a strange experience in that that was the only country that
+					looked exactly like—we had—I mean, the—the background, the—the educational
+					background of—of the Anglo-Saxon had taught him to expect it to look. And sure
+					enough, there was the Hellenic light that I had heard of, had read about. And I
+					saw Homer's wine-dark sea, too. And there was a—the only place I was in where
+					there was a sense of a very distant past, but there was nothing inimical in it.
+					In the other parts of—of the Old World there's a sense of—of the past, but
+					there is something—something <unclear>Gothic</unclear>—Gothic and in a sense 
+					a little terrifying. In Greece, the people seem to function against that past
+					that for all its—its remoteness in time, it was—was still inherent in
+					the—the—the light, the resurgence of spring. You didn't expect to see the—the
+					ghost of—of the old Greeks, or expect to see the actual figures of the gods, but
+					you had a sense that they—they were near, and they were still powerful, not
+					inimical, just—just powerful. That they themselves had—had reached and were
+					enjoying a—a kind of a nirvana. They existed, but they were free of—of man's
+					folly and trouble, of having to involve themselves in man's problem. That they
+					were—at last had the time to watch what man did without having to be involved in
+					it. Yes, it was—was very interesting. I—I think that—that two weeks is not only
+					too short, it's an insult to that country, that one should go with—with no limit
+					to his visit. That there's no end to what you can see, and then sure enough, you
+					see something which is exactly like what you imagined. There will be the plain
+					and—and across it, suddenly there is Parnassus with snow on it, and the old
+					ruins—they look ancient, but there's a sense as though it happened only
+					yesterday. That whether Agamemnon ever lived, ever was an actual man or not,
+					there he was, he—because he had to be. It was necessary. That he—he was in the
+					literary history of man's spirit, so therefore he must have existed at one time
+					as a flesh and blood man.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.15" start="00:12:32.72" end="00:13:46.50">
+					<head>Flem in The Town</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, in your new book, <hi rend="italic">The Town</hi>, you have
+					Flem Snopes assuming the mask of respectability. And I was wondering, since you,
+					I think, are going to write a trilogy, that—I was wondering what type of
+					character would Flem Snopes assume, say, in your next book?</u>
+				<u who="WF">He had never heard of respectability. He didn't even know it existed,
+					until suddenly <event desc="audience laughter"/> he found that he needed it. And
+					so he assumed it, and as soon as he doesn't need respectability any longer, he
+					will cast it away. That he had a certain aim which he intended to attain. He
+					would use whatever tools necessary, with complete ruthlessness, to gain that
+					end. And if he had to use respectability, he would use that. If he had to use
+					religious observance, he would use that. If he has to destroy his wife, he will
+					do that. If he has to—to trick a—a—a child, a girl child, into—to being his
+					tool, he will do that with no compunction whatever. That respectability to him
+					was just a tool.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.16" start="00:13:55.79" end="00:15:51.04">
+					<head>Characters v Theme</head>
+					<u who="Q">Mr. Faulkner—</u>
+				<u who="WF">Yes, sir.</u>
+				<u who="Q">May I ask <unclear>you</unclear>, to what extent when you're composing your stories, are your
+					characters— do they represent ideas or a theme consciously on your part, or to
+					what extent are they just people who keep developing as characters and let 
+					theme and plot fall where they may?</u>
+				<u who="WF">Yes, the character comes first as people. I—I didn't have enough formal
+					education to—to know really what ideas are, that ideas to me must be translated
+					into—to the human being struggling against his own problems. The ideas are only
+					incidental or maybe coincidental to writing about people, and the—the ideas of
+					the—the symbolism, they are simply, in my own case, the tools which the
+					craftsman uses to tell the story, but his interest is primarily in the
+					characters, not in the plot, not really so much in what they do, but it's in—in
+					making the—the—the figure of his imagination assume three dimensions and stand
+					on its own feet and cast its own shadow. The symbolism, the style, the ideas are
+					only coincidental to that and are simply the tools which the craftsman
+					uses.</u>
+					<u who="Q">But would—would you say then, sir,
+					that you have to—you would begin with an idea for a character rather than an
+					anecdote or an idea?</u>
+				<u who="WF">Well—</u>
+				<u who="Q">Of an event?</u>
+				<u who="WF">It could be an anecdote or a scene, but it would be not an idea. It
+					would be people in motion, people in some tragic or comic situation struggling
+					to get out of it, or it could be—come—the first conception would be the character
+					itself.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.17" start="00:15:51.14" end="00:17:27.15">
+					<head>Germ of "Was"</head>
+					<u who="Q">For example, this story you read
+					us this evening, do you recall—this is probably so far back, I wondered, though,
+					what was the germ of that story? Do you recall it, perhaps?</u>
+				<u who="WF">The germ of the story was one of the three oldest ideas that—that man
+					can write about, which is—is love, sex. And to me it was—was comic, of the man
+					that had got himself involved in an engagement, and he himself couldn't
+					extricate himself, and his— <event desc="audience laughter"/> he had to call on
+					his brother, and his brother used the only tools he had, which was his ability
+					to play poker. <event desc="audience laughter"/> Which to me what was funny. It
+					was funny. Also, it was—it had a certain sociological importance in, to show my
+					country as it really was in those days. The—the—the elegance of the colonial
+					plantation didn't exist in my country. My country was still frontier. The
+					plantation, the—the—the columned porticos, that was Charleston and Natchez. But
+					in my country it was still frontier. People lived from day to day, with a—with a
+					bluff and crude hardiness, but with a—a certain simplicity, which to me is very
+					interesting because the—the common picture of the South is all magnolias and
+					crinoline and—and Grecian portals and things like that, which was true only
+					around the fringes of the South, not in the interior, the backwoods.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.18" start="00:17:28.00" end="00:18:55.19">
+					<head>Using Experience</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, to what extent have you drawn directly on experience for
+					these stories?</u>
+				<u who="WF">That's difficult to say. The writer, I think, has three reservoirs: one
+					is experience, which includes what he has read. The other is observation, which,
+					of course, is what he has seen and done. The third is imagination.  And he
+					himself doesn't know, and, in fact, he hasn't gotten time to be concerned or to
+					care how much of which he draws on at any one time. It's as though he had three
+					reservoirs with three pipes that go to a common tap, with maybe a—an automatic
+					selector somewhere that—that when—when observation doesn't go far enough, it
+					tries experience. When experience hasn't gone far enough, it reverts to
+					imagination, that the only check is some rigid concept of what is truth and what
+					is not truth in—in the craftsman, which what he does has got to match. If it
+					doesn't match, he throws it away, and then he's got to—to go back to
+					imagination. If that is not enough, then he's got to—to increase his experience
+					or his observation. But no man can say just how much of—of each he uses. He
+					knows, any writer, that he is going to change and alter anything he writes
+					because any fiction writer is a congenital liar to begin with, you see. He is
+					not going to—to take anything as is. He's going to change it.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.19" start="00:18:58.29" end="00:20:03.42">
+					<head>Sojourn at UVA</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Have you enjoyed your stay here at the University?</u>
+				<u who="WF">Yes, sir, very much.</u>
+				<u who="Q">We were interested in your comment of—of coming to Virginia because you
+					liked snobs, I wonder if you <unclear>might care to</unclear>— <event desc="audience laughter"/></u>
+				<u who="WF">Well, that was—I thought that we were more or less informal then, and I
+					didn't really mean that as a serious observation. But— <event desc="audience laughter"/> Now, let me define what I mean by a snob, is
+					someone who is so complete in himself and so satisfied with what he has that he
+					needs nothing from anybody. That when a stranger comes up, he can accept that
+					stranger on the stranger's terms provided only the stranger observe only a few
+					amenities of civilization. <event desc="audience laughter"/> And to me that—that's
+					what the people, what Virginians do. They don't—they never push at me. They want
+					nothing of me. They—they will—will offer me their hospitability, and they
+					will—will accept me. All I have to do is just to behave decently. <event desc="audience laughter"/>
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.20" start="00:20:03.43" end="00:22:11.00">
+					<head>Decision to Write</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Sir, is there any one incident in your life that you just decided then
+					that you were going to become a writer?</u>
+				<u who="WF">I was living in New Orleans. I was running a—a power boat for a
+					bootlegger. I would go down <event desc="audience laughter"/> and take the boat
+					with a—a—a man with a gun and a—a—a—Negro hand for the crew through the industrial
+					canal across the—the Mississippi Sound to an island where the schooner would
+					bring the raw alcohol up from the Indies, and we would load the cargo and bring
+					it back to town. I'd get a hundred dollars for each trip, and in those days,
+					that was a lot of money, so I wouldn't have to work until I began to run out of
+					money. Then I would make another run with the boat, and I met Sherwood Anderson,
+					and I liked him at once. We would meet and walk around the French Quarter, and
+					he would talk, and I would listen. We would meet again in the evening. We'd go
+					to some pleasant courtyard, and we'd sit over a bottle of whiskey, and he would
+					talk, and I would listen. In the mornings, he would be in seclusion working.
+					That went on day after day, and I thought if—if that's all you had to do to be a
+					writer, then that was the life for me, <event desc="audience laughter"/> so I
+						<unclear>decided I wanted to</unclear> become a writer, and I started a
+					book, and right away I found it was fun to do, and I hadn't seen Mr. Anderson in
+					weeks. I met Mrs. Anderson on the street, and she said, "We haven't seen you." I
+					said, "Yes'm, I'm writing a book." She said, "Good God." <event desc="audience laughter"/> I saw her again a few weeks later. She said, "I
+					told Anderson—Sherwood you were writing a book. She says, "Do I want him,
+						Mr. Anderson, to read it?'" I said, "Well'm, he can if he
+					wants to." She said, "Well, he told me to tell you he'll make a trade with you.
+					If he don't have to read that manuscript, he'll tell his publisher to take it."
+					So I said, "done." <event desc="audience laughter"/> And I finished the
+					manuscript, and he told his publisher to take it, and that's how I got to be a
+					professional writer. <event desc="audience laughter"/> But, of course, by that
+					time, I'd found that writing was fun. It was—was—was the most fun I'd found yet,
+					and I knew then that I had been bitten and was incurable.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.21" start="00:22:11.82" end="00:23:40.14">
+					<head>Writing Habits</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">I was wondering how long you can write—for how long at a stretch can you
+					write before you feel tired, before you've tired yourself out?</u>
+				<u who="WF">You get tired, I think, before you realize it. I took a leaf from—from
+						<hi rend="italic">Gentlemen Prefer Blondes</hi> when she says, "Always leave
+					him while you're looking good." <event desc="audience laughter"/> Well, I—I
+					always try to remind myself to stop before I'm—have found out I'm tired, but as
+					long as it's hot, it's—it's difficult to break off and—and quit. That takes a
+					certain amount of discipline, to stop and always leave something fresh to start
+					on tomorrow. That's the only rule about writing I have, is never to write
+					completely out at one stretch. That could be an hour or sixteen hours in a day,
+					though there're some workmen that—that have to have a rigid discipline. They sit
+					so many hours a day whether they write anything or not. They do research. They
+					have notebooks, and they—they take a piece of paper and—and plot a graph for
+					the story to follow, which I've never done, because I'm lazy, and I—I don't like
+					the effort of putting the words on the paper, so I put that on—put that off as
+					long as possible, and a great deal of that is—is done here before I start to
+					write.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.22" start="00:23:43.36" end="00:25:07.07">
+					<head>Deeper Meanings</head>
+					<u who="JL"><unclear>Did you have a question?</unclear></u>
+				<u who="WF">Yes, sir.</u>
+				<u who="Q">I have a question I've always wanted to ask an author, is do they really
+					put all the significance and meaning and trying to teach this big lesson in the
+					book, and I—I had thought that you answered it once, but then you seem to
+					contradict yourself. Do you write to try to teach somebody a lesson, to describe
+					your state, or just because you think you've got to write a good story and make
+					some money off of it?</u>
+				<u who="WF">No, no. All that is incidental. What the writer is—is—is doing is trying
+					to create people. He hasn't got time to bother with the symbols and the message.
+					The first-rate writer hasn't. He is busy creating people, and he would do that
+					even if he had to pay for the privilege. He's not interested in the money. The
+					money is—is incidental, too, that he is having a—a good time creating living
+					people.</u>
+				<u who="Q">And that's motive enough <unclear>to write a book</unclear>?</u>
+				<u who="WF">Uh, yes, I think so. Actually, he's—he's demon-driven. The—the writer
+					who is trying to—to tell a message is not primarily a writer. He is—he's more of 
+					an—an evangelist or a propagandist <unclear>maybe</unclear>. 
+					But—but the writer, the—the true fictioneer is
+					interested only in creating human beings.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.23" start="00:25:07.08" end="00:26:35.01">
+					<head>Ike Snopes</head>
+					<u who="Q">Then could I ask you what Ike
+					Snopes is supposed to be in—in <hi rend="italic">The Hamlet</hi>? What were you
+						creating then? Is he someone like whom—like someone whom you knew or what?  I—</u>
+				<u who="WF">No, no. No writer is satisfied with—with the folks that God creates.
+					He's convinced that he can do much better than that. <event desc="audience laughter"/> To me, Ike Snopes was simply an interesting human
+					being with—with man's natural, normal failings, his—the baseness which man
+					fights against, the—the honor which he hopes that he can always match. The
+					honesty, the courage which he hopes that he can always match. And at times he
+					fails. And then he is—he is pitiable. But he's still human, and he still
+					believes that man can be better than he is, and that is what the writer is—is
+					trying to do, is interested in, to—to show man as he is in conflict with his
+					problems, with his nature, with his own heart, with his fellows, and with his
+					environment. That's all I—in my opinion, any book or story is about. Of course it
+					has mutations. The problems fall into the categories of money or sex or death.
+					But the—the basic story is man in conflict with his own heart, with his fellows,
+					or with his environment.</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.24" start="00:26:37.15" end="00:28:22.55">
+					<head>Thomas Wolfe</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, is there any special reason why you consider Wolfe such a
+					great author?</u>
+				<u who="WF">That was an unfortunate remark I made about twenty years ago that I've
+					been explaining ever since.  It was at a—a
+					group meeting something like this. Someone asked me how I rated my
+					contemporaries. I said it's too soon to rate us, we haven't finished yet. He
+					said, "Well, you have—haven't you any opinion at all about them?" I said, "About
+					who?" He named Wolfe, Dos Passos, Caldwell, and Hemingway. I said, "Well," and
+					this was sort of off the cuff. I never thought of it before. I said, "Well, I—I
+					think we all failed, and so I would rate them on the—the splendor of the
+					failure." I put Wolfe first because he made the—the—the most splendid failure. I
+					put myself second. I put Dos Passos third, Caldwell fourth and Hemingway fifth.
+					It had nothing to do with the value of the work we'd done but on the—on the
+					splendor with which we had failed. I put Hemingway last because he had found
+					quickly a—a method in which he was secure, and he didn't need to splash around,
+					to experiment, that he stuck to that, and he didn't—didn't need to—to try to—to
+					put all the history of man's heart onto one pinhead and one paragraph, which
+					Wolfe had tried to do, which is why Wolfe's material would have been unreadable
+					had it not been for his editor, Mr. Maxwell Perkins at Scribner's, and Mr.
+					Perkins in—in a way really wrote Wolfe's book because the mass of incoherent
+					material that—which Wolfe sent to him would've been unreadable, <event desc="audience laughter"/> if it hadn't been for Mr. Perkins.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.25" start="00:28:28.65" end="00:29:56.60">
+					<head>Symbolic Characters</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Sir, you say that your characters are, and as much as possible anyway,
+					just people. And yet I sort of got the idea that Flem Snopes is sort of a—a
+					practically inhuman character and sort of symbolic himself. Does that ever—did
+					that enter when you wrote that, or—</u>
+				<u who="WF">Well, it would depend on what he is symbolic of. You see people who are
+					inhuman people. I think that I didn't invent an inhuman—the inhuman type, which—
+					which Flem is a—a manifestation of. I think that Jason Compson in another book
+					of mine is—is completely inhuman. But in a way, he is, I hope, a living man. I
+					have known people in actual life who were hopeless, who in—in the terms of—of—of
+					the humanities, in the terms of—of the—of the verities of—of man's condition,
+					compassion and pity and courage, unselfishness—he was inhuman, but he was still
+					a living man. He was not created to be a symbol of anything. He was simply
+					created because suddenly he had a place in—in that particular scene that I was
+					writing about, in that particular problem of human beings that I was writing
+					about. Not to symbolize anything at all.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio12_2.26" start="00:29:58.47" end="00:31:10.19">
+					<head>Theory of Absurdity</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Sir, do you believe that the theory of absurdity is applicable to man
+					himself?</u>
+				<u who="WF">I doubt if I understand you. You'll have to explain a little more what
+					you mean by that.</u>
+				<u who="Q">Well, the theory of absurdity implies that man is completely
+					unintelligent. He—it's absurd for him to ever <inaudible/></u>
+				<u who="WF">Oh, I see.</u>
+				<u who="Q">Putting myself on the <unclear>plane</unclear> of being or to come in
+					contact with God or anything like that.</u>
+				<u who="WF">No, I don't. That would take a—a different mentality from mine to accept
+					man as absurd. He is ridiculous at times. He is—he is nothing consistently <unclear>absurd</unclear>,
+					except these—these exceptions we spoke of, who are inhuman and who are—are—are
+					devils, but in general, man is capable of—of absurdity, just as he's capable of
+					grandeur, but he is not consistently capable of any. My belief is that he wants
+					to be consistently capable always of—of the best things of—of—of grandeur, of
+					courage, of compassion, of honesty, but he fails.  But—but to me he's not absurd.
+					It's only in his—his ephemeral manifestation of the moment. <event desc="end of recording"/></u></div2>
+				</div1>
+		</body>
+	</text>
+</TEI.2>

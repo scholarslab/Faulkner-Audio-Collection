@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio09_2">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio09_2</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio09_2</idno>
+				<idno type="analog tape">T-117</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<persName id="G">Frederick Gwynn</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-04-27">27 April 1957</date>
+					<locale>Blotner's Novel and Gwynn's American Fiction Classes</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 27 April 1957</head>
+				<head>OCCASION: Blotner's Novel and Gwynn's American Fiction Classes</head>
+				<head>TAPE: T-117</head><head>LENGTH: 14:40</head>
+				<div2 type="dialog" id="wfaudio09_2.1" start="00:00:00.00" end="00:00:11.29">
+					<head>Naming Characters</head>
+					<u who="WF"><inaudible/>  memory of the old miracle plays,
+						the morality plays in early English literature, Chaucer.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.2" start="00:00:21.18" end="00:01:37.46">
+					<head>Sutpen and Snopes</head>
+					<u who="G">Sir, are you conscious of any similarity between Thomas Sutpen and
+						Flem Snopes? They are—I don't suppose there's any comedy in <hi
+							rend="italic">Absalom</hi> anywhere, and there's a great deal, of
+						course, in <hi rend="italic">The Hamlet</hi> and <hi rend="italic">The
+							Town</hi>, but both of them are—have a grand design and are unscrupulous
+						about getting it—and they use people.</u>
+					<u who="WF">Well, only Sutpen had a grand design. Snopes's design was pretty
+						base. He just wanted to—to get rich. He didn't care how. Sutpen wanted to
+						get rich only incidentally. He wanted to take revenge for all the—the
+						redneck people against the—the aristocrat who told him to go around to the
+						back door. He wanted to show that he could establish a dynasty, too. He
+						could make himself a king and raise a—a—a line of princes.</u>
+					<u who="G">It seems as if Flem had something of the same thing in mind. He wants
+						respectability even more than money, doesn't he?</u>
+					<u who="WF">No, no, he only found out when he thought it was almost too late
+						that he'd have to have respectability. He didn't want it until he found out
+						he had to have it. He would have done without it if he could, <event
+							desc="audience laughter"/> but he suddenly had to have it. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.3" start="00:01:40.37" end="00:02:02.53">
+					<head>Money v Respectability</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">In this democracy of ours, is not money an assumed respectability
+						regardless of conduct?</u>
+					<u who="WF">Not always. I imagine a man like Dave Beck ain't
+						very interested in respectability. <event desc="audience laughter"/> He
+						don't symbolize respectability, but he's got a lot of money.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.4" start="00:02:14.09" end="00:03:08.30">
+					<head>Country to City</head>
+					
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">This callous attitude of Sutpen and Flem Snopes, this ability to use
+						people without realizing they're people, <unclear>sort of</unclear>
+						dehumanizing them, it seems to progress and get worse as they go from the
+						country into towns and cities. Is that—is that a definite—is that a
+						conscious thing?</u>
+					<u who="WF">It didn't get worse because they came into cities. They had to come
+						into cities to find more people to use. But it—it got worse because of the
+						contempt which—which the ability to use people develops in anyone. There are
+						very few people that have—have enough grandeur of soul to be able to use
+						people and not develop contempt for. And that—the contempt for people
+						came not because they moved to the city, but out of success. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.5" start="00:03:16.33" end="00:04:11.09">
+					<head>Light in August's Title</head>
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">When did you think of the title of <hi
+							rend="italic">Light in August</hi>
+						for your book? Was it after you had written the story,
+						and—and what is it <unclear>exactly</unclear>
+						<inaudible/>?</u>
+					<u who="WF">To me, to a—to people in my country, that is a—a—a pleasant,
+						evocative sentence. There's a—a certain quality that for a little while in
+						the month of August light has, that it has at no other time. There's a—a—a—a
+						luminosity in which something pagan might live and flourish just for a few
+						days. That's all it meant. It was just a nice, pleasant, evocative sentence
+						to me. It really has little to do with the book. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.6" start="00:04:15.04" end="00:05:29.96">
+					<head>Respectability, North v South</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">I have two questions. One of them relates to this idea of money.
+						Wouldn't you say that the gentleman is confusing the traditions of the North
+						with the traditions of the South? <event desc="audience laughter"/> The
+						South, the Old South, is best pictured in the ideals in the story "A Rose
+						for Emily," where the old woman gets along without the money and keeps up
+						the family traditions. Don't you think that there would be a distinction as
+						far as the respectability in this?</u>
+					<u who="WF">Yes, there is. In the South respectability has a little connection
+						with money. Money don't hurt the respectability, but the respectability
+						don't need the money in the South. You're quite right.</u>
+					<u who="Q">Wouldn't this be shown in <hi rend="italic">The Sound and the
+							Fury</hi>, too? Jason would be trying to get money, whereas the rest of
+						the family, they don't care, and the Negroes really regard them as
+						respectable people.</u>
+					<u who="WF">That's right, yes.</u>
+					<u who="Q">They regard Jason as white trash.</u>
+					<u who="WF">Yes, that's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.7" start="00:05:29.96" end="00:07:01.36">
+					<head>Old v New South</head>
+					<u who="Q">And I would like to ask you on this business of the Old South and the
+						New South, in "The Bear," where the young boy returns as a man and sees the
+						forest cut down, I would like to know, do you like the Old South or the New
+						South better? <event desc="audience laughter"/></u>
+					<u who="WF">Well, the New South has got too many people in it, and it is
+						changing the country too much. It' has—it—it gets rid of—of the—the
+						part of Mississippi that I liked when I was—when I was young, which was the
+						forest. Though it's foolish to—to be against progress because everyone is a
+						part of progress, and he'll have no other chance except this one, so he—it's
+						silly not to—to cope with it, to compromise with it, cope with it. Probably
+						anyone remembers with something of nostalgia the—his young years. He forgets
+						the—the unpleasant, the unhappy things that happened, he remembers only the
+						nice things, and so maybe the northerner feels the same way about the Old
+						North and the New North that the southerner feels about the Old South and
+						the New South. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.8" start="00:07:02.77" end="00:08:08.01">
+					<head>Integration Efforts</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, about this New South, this last Supreme Court school decision
+						has made all the states around here go through quite a bit of gyrations,
+						plotting and planning things, but <unclear>very little is</unclear> heard
+						about or seen in the newspapers about what Mississippi, for instance, plans
+						to do about it, or what is being done, or what they're thinking. I was
+						wondering whether you could 
+						<unclear>give some light on that</unclear>?</u>
+					<u who="WF">Well, Mississippi is pretty well on record about what they think
+						and—and what they're going to do. They have proved it two or three times,
+						and that will be the—the last stronghold of—of the obsolescence which
+						insists that a minority of seventeen million people still must be second
+						rate, second class citizens. We will be the ones that will hold onto that after
+						everybody else has realized that it just don't work any longer. We will
+						still believe that it can be made somehow to work. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.9" start="00:08:12.69" end="00:10:31.20">
+					<head>Mississippi's Governor</head>
+					<u who="WF"> Yes, sir.</u>
+					<u who="Q">Mr. Faulkner, <unclear>in</unclear> part answer to the gentleman's
+						question, I think in a recent <hi rend="italic">Life</hi> magazine, there
+						was an article about your governor. It was citing the progress being made in
+						Mississippi as—as far as the schools were concerned, how the governor will,
+						just as you said, he will stand by segregation until his last dying breath,
+						but he will do all that he can to improve the colored
+							schools.</u>
+					<u who="WF">This one is a better man than anybody in Mississippi expected. I
+						imagine if they had known his true sentiments, they would never have elected
+						him in Mississippi. <event desc="audience laughter"/> And he is—I have had
+						some correspondence with him since he was elected, and every now and then he
+						sends me copies of letters he writes to his legislature, and every now and
+						then he quotes me, things that I have said on the subject of segregation.
+						And he is someone that—that realizes, that sees that—that this is an
+						obsolescence that simply ain't going to work any longer. Something must be
+						done about it. But he has got to represent his state, too, and he cannot
+						come out for a sudden abolishment of segregation, but he knows that
+						something must be done, and he thinks that—that, as a lot of people in
+						Mississippi do, that—that all the Negro wants is equality, is educational,
+						economic equality, that he don't want to mix with white people any more than
+						white people want to mix with him, and the governor says that if he has
+						decent schools, as good schools as he could get anywhere, if he has—has the
+						right to go where he wants to into white churches, if he wants to go there,
+						into the white stores as he can do, that that will solve the question. As
+						someone has said, apparently the difficulty is the Mississippian don't want
+						the—the Negro to sit down with him. They can stand up, that's alright. They
+						can ride in the same elevator, but they can't sit in the same church. Maybe
+						if everybody stood up in church, the Negro could come in, too. <event
+							desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.10" start="00:10:32.88" end="00:12:02.58">
+					<head>Writing about Dead People</head>
+					<u who="Q">Mr. Faulkner—</u>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">In your book <hi rend="italic">As I Lay Dying</hi>, do 
+						you—you feel that you strayed from your main mission of writing, that is, the
+						writing of people, since what I feel is the main character in that, the
+						dead grandmother, who suffered the majority of the pain and the—the torment
+						in having her face have auger holes bored in it and floating down the creek
+						in a coffin and eventually burning the barn. She—she, being dead, could feel
+						none of this torment, and I just wondered if that was sort of an aside from
+						your main mission in writing about people, since she being dead is no longer
+						a person.</u>
+					<u who="WF">No, I don't think so. I was writing about people. I took a—a family
+						of—of the people that I know well. I don't mean that I—that the Bundrens
+						actually live in Mississippi, but their—their kind live there. That was <hi rend="italic">tour
+						de force</hi>. I simply took this group of—of country people and subjected them
+							to the two great catastrophes, flood and fire. That was simple <hi rend="italic">tour de
+						force</hi>. I wrote that in about six weeks without changing a word, because I
+						knew from the beginning where that book was going, because that, in a way,
+						did have a plot. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.11" start="00:12:04.52" end="00:13:02.56">
+					<head>Joyce's Ulysses</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, did Joyce's <hi rend="italic">Ulysses—Ulysses</hi> have any
+						affect on <hi rend="italic">Light in August</hi>?</u>
+					<u who="WF">It has probably had influence on everything I ever wrote, just like
+						everything else I ever read has, from the telephone directory up and down.
+							<event desc="audience laughter"/> I think that everything the writer
+						reads influences his work, that he is completely amoral, he has no hesitancy
+						whatever about taking what he wants from any source he wants, because he
+						knows that anyone after him is welcome to use anything that he has
+						discovered or invented. But I don't believe the writer has time to say,
+						"Now, I'm going to write a book and let Joyce influence it," or "I'm going
+						to write a book and let Flaubert influence it." He is simply writing about
+						people, and he uses—he reaches back in his lumber room and gets whatever
+						plank fits the <unclear>corner</unclear>. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.12" start="00:13:06.85" end="00:14:20.12">
+					<head>Influence v Simultaneity</head>
+					<u who="WF">Yes, ma'am.</u>
+					<u who="Q">I just wanted to say that the theory of parallel cases in evolution,
+						of two plants at the opposite ends of the country developing in the same way,
+						and I don't see why it couldn't happen in the writer's experience, that 
+						it was—that certain devices were the same, shouldn't necessarily mean that perhaps one was
+						influenced by the other, <inaudible/> to be able to develop from the writer
+						in parallel cases <unclear>with</unclear> perhaps no communication, and I
+						wondered if—is that's the case in <hi rend="italic">Light in August</hi>, <inaudible/>?
+—?</u>
+					<u who="WF">It—it could well be because there are only a limited number of
+						stories to tell and only a limited number of ways in which to tell them, so
+						that's something that the writer couldn't answer either, whether that
+						was—was some form of osmosis, or whether it was an actual cribbing from what
+						he had read, or whether two impulses did develop for—at—at poles apart.
+						He—it's impossible to say.  Though I agree with your theory, that that's very
+						possible, that it could be done, because there're so few stories to tell, so
+						few methods to tell them in.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio09_2.13" start="00:14:25.59" end="00:14:38.04">
+					<head>Close</head>
+					<u who="G">Gwynn: Mr. Faulkner, we're all very grateful to you for coming down
+						and answering our questions at this point. Thank you, sir.</u>
+					<u who="WF">Thank you. <event desc="applause"/>
+						<event desc="end of recording"/></u>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

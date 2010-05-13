@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio08_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio08_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio08_2</idno>
+                <idno type="analog tape">T-111d</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-04-25">25 April 1957</date>
+                    <locale>At Mary Washington College</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 25 April 1957</head><head>OCCASION: At Mary Washington College</head>
+                <head>TAPE: T-122d</head><head>LENGTH: 18:59</head>
+                <div2 type="dialog" id="wfaudio08_2.1" start="00:00:08.22" end="00:01:01.91">
+                    <head>Unfinished Business</head>
+                    <u who="Q"><inaudible/> it's kind of a story more or less overlapping with others and
+                    keeping on <inaudible/> <unclear>continuity it it's unfinished</unclear> <inaudible/></u>
+                <u who="WF">Well, it's—it's not finished in the sense that—that
+                    it's not—it don't suit me. It's not as good as—as I want it
+                    to be. None of my work is. That one I worked the hardest at, I—I love
+                    the best.  And that one I'm more—more anxious to—to finish
+                    it in a way that'll suit me. I feel that if—if I hadn't written it and
+                    could—could go back and—and do it over, I would do it
+                    better. Of course I wouldn't. I would do it the same way, <event desc="audience laughter"/> but I would—if I had the chance, I would do it
+                    better. Maybe it would please me <unclear>then</unclear>.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.2" start="00:01:14.02" end="00:02:33.08">
+                    <head>Japanese Writers</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, when you were in Japan and talked to the young Japanese
+                    writers, did you find that their problems were the same as the young American
+                    writers?</u>
+                <u who="WF">I'm sure they were, but it was—I never did touch the Japanese.
+                    They all spoke English, but it was like two people running at top
+                    speed—top speed on opposite sides of a plate-glass window. You could
+                    see the mouth move, you could see the human features, the gestures, but there
+                    was no communication, and then suddenly the paths parted, and one went this way. 
+                    That was all. There was no communication. I'm sure their problems were the same
+                    problems, but their culture is—is so different. It's a culture of—of the
+                    intellectual process.  The result doesn't matter, it's the—it's for the
+                    wheels to click properly, which is completely alien to—to me, to any
+                    Occidental, but I—I never did touch the Japanese.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">But I'm quite sure that their problems were the same as mine, and that
+                    if we could've spoken to one another, we would have benefited both of us, but we
+                    simply couldn't—</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.3" start="00:02:33.09" end="00:04:18.87">
+                    <head>Being in Japan</head>
+                    <u who="Q">The published book about it sounded as though you had touched them very
+                    much, <inaudible/> what they <unclear>asked</unclear> <inaudible/> you seemed to have <inaudible/>
+                    touched them.</u>
+                <u who="WF">Well, I hope so, but I wasn't aware of it at the time. They would ask me
+                    the same questions over and over and then answer them themselves. <event desc="audience laughter"/>
+                     I remember I saw the—the chief archer of Japan. He
+                    had been knighted by the Emperor. It was a ritual. The target was, oh, as far
+                    from here to the bookcase, and he would get up, and go through certain motions
+                    to free his—his forearm from his kimono, and then he would pace
+                    forward so many paces and bow to where the Emperor would be. Then he would get
+                    up and go through some more ritual and fit the arrow to the string, and then he
+                    would pace towards the target and stop and turn and do a sort of a—a 
+                    ballet almost and draw the arrow back and let it go, and sometimes it hit the
+                    target but that didn't matter. Nobody cared, you see. He had <inaudible/>. <event desc="audience laughter"/> 
+                    It was no trouble to hit it. It was only about as
+                    far as the bookcase. <event desc="audience laughter"/> I realize that I had
+                    committed a—a fearful—it was more than a <hi rend="italic">faux pas</hi>. It was <hi rend="italic">lese majesty</hi>
+                    somehow. I—I had made a—a dreadful social error, and
+                    that is the Japanese—we simply could not communicate.
+                </u></div2>
+
+                <div2 type="dialog" id="wfaudio08_2.4" start="00:04:21.61" end="00:05:26.48">
+                    <head>The Novel's Future</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, what do you expect of the future of the American
+                        novel as it is today?</u>
+                <u who="WF">I think that as long as man exists on the earth he will continue to
+                    produce art. I think that—that the—the young writer who
+                    keeps on writing, he learns more and more. He's got to—to waste a
+                    certain amount of his energy fending off from the pressure to make him conform
+                    to something, <unclear>to a group</unclear>, but there's nothing wrong about—about writing in
+                    this country. It goes through  dead times. It goes in cycles, and
+                    the young man today may not come to his—his best powers until maybe
+                    another fifteen, another twenty years. Then suddenly there'll be
+                    a—another renaissance of—of writing in this country.</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.5" start="00:05:26.49" end="00:07:03.39">
+                    <head>Future Themes</head>
+                    <u who="Q">What themes do you most expect to find <unclear>in these writers coming
+                        now</unclear>?</u>
+                <u who="WF">I'm sorry. I couldn't hear that.</u>
+                <u who="Q">What themes do you think <unclear>you'd be</unclear> most apt to find in writers <unclear>coming
+                        now</unclear>?</u>
+                <u who="WF">Oh, the only theme that is worth writing about, that anyone ever has
+                    written about, which is the human heart in conflict with itself, its fellows and its environment, 
+                    its people. You write about people, not about social conditions. They're only
+                    coincidental to it. The social condition is a part of the environment,
+                    which—which one writes from. That's part of your background, and he
+                    writes from that just <unclear>as you do from the</unclear> observation <inaudible/>,
+                    but if you write about a social condition or an injustice, you're a propagandist
+                    or a reporter. The novelist is writing about people, the human heart in conflict
+                    with the same hopes and fears and aspirations it's always had, no matter what
+                    color of the skin or what race, and the—the young writer, if—if he will
+                    resist the pressure to make him conform to a group or a mass, then he
+                    will—will learn that the only thing worth writing about is the
+                    individual human heart and its own <unclear>problems</unclear>  <unclear>in conflict with itself</unclear>, man that wants to be better
+                    than he thinks he might be, and suddenly he finds that he is better, that he has
+                    done something brave or a man that wants to be—be brave and failed.
+                    They are the problems  to write about, not the social
+                    conditions, and those are the problems that <unclear>are eternal.</unclear>
+                    They don't change.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.6" start="00:07:04.29" end="00:07:46.33">
+                    <head>Translating His Works</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">What I want to ask you, do you get any reaction from readers of, say,
+                    your translated works, where the non-American reader is difficult or he
+                    distorts the meaning of American <unclear>words</unclear>?</u>
+                <u who="WF">The only language I read with any ease is French, and the French
+                    translations I've read have been very fine, I thought. The others, of course,
+                    I—I don't know because I'm not familiar with the language and know too
+                    few—well, I'm not really a literary man to—to discuss books
+                    and things like that. I'm a country man, a farmer. I write as a hobby <unclear>because it's fun</unclear>.</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.7" start="00:07:54.78" end="00:08:06.43">
+                    <head>Prodding Audience</head>
+                    <u who="M">Any other questions?</u>
+                <u who="WF">Whether you think it's silly or not, ask it. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.8" start="00:08:06.44" end="00:09:18.02">
+                    <head>His Literary Position</head>
+                    
+                <u who="WF">Yes, sir.</u>
+                <u who="Q"><inaudible/> or when you <inaudible/> novelist, is the difference in what you <inaudible/>
+                    what <inaudible/></u>
+                <u who="WF">No. I haven't had time to think about it. I've been too busy writing
+                    books. <event desc="audience laughter"/> That—that goes back to how I
+                    just said I'm not a literary man, you see. I don't think of myself as having
+                    a—any position, any particular niche in the establishment of
+                    literature. I think of myself as having a particular niche in the establishment
+                    of—of farming, of—of raising grain to feed cattle and
+                    horses, but not as a—as a literary man, and I think
+                    that—that probably when the writer runs dry, and he has nothing more
+                    to say <unclear>or</unclear> know, then he begins to think of his position <event desc="audience laughter"/> as of literary import, but while
+                    he's—he's busy writing, I doubt if he has the time to have
+                        thought about it too much because he's still trying to write a
+                    book which pleases him. That's why he writes another one because the one he
+                    finished is not quite good enough to suit him, so he writes another one and
+                    tries it again.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.9" start="00:09:19.78" end="00:10:37.23">
+                    <head>Conrad's Influence</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, I have a very specific question, which I think will come
+                    under the category of silly. <event desc="audience laughter"/> Frequently, in
+                    your works the story is told by a narrator, and his personality has a strong
+                    influence <unclear>in your work</unclear>, and <unclear>this just</unclear> seems
+                    to me frequently very similar to the use of the narrator that Conrad uses,
+                    particularly in Marlow. Had you, by any chance, read Conrad in your youth?</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">And did it conceivably have any influence on your use of
+                    such—</u>
+                <u who="WF">As I said, everything the writer reads influences him, but he himself
+                    can't say just how much what did when.  But I'm quite sure that Conrad did,
+                    though Conrad wasn't the first one to use that method. At—there's times when the
+                    story itself demands that that method be used, that my experience is that once I
+                    have thought about the characters until they come alive, they stand up and cast
+                    a shadow, then they take charge of the story. I run along at their heels at a
+                    dead run, trying to put down what they say and do. <event desc="audience laughter"/> They have taken charge, and they're the ones that
+                    demand which method shall be used.</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.10" start="00:10:39.97" end="00:11:34.58">
+                    <head>Reading Critics</head>
+                    <u who="Q">Mr. Faulkner, if you do read them, how seriously do you take your
+                    critics.  That is, those people who write in the literary magazines, <hi rend="italic">Hudson Review</hi> and so forth? Do you think it's
+                    particularly rewarding for students to read the critics of your work?</u>
+                <u who="WF">I should think so. I don't read that <unclear>sort of thing</unclear>.
+                        <event desc="audience laughter"/> I'm—I'm too busy. But
+                    I—I should think it might be—be valuable for—for
+                    students to read that. I'm sure it would be valuable, but the writer, if—if he's as
+                    busy as I am and has got as much that he needs to say as I have and knows he
+                    never will live long enough to say it all, he ain't got time to—to
+                    read what anybody else says about his work because he already knows what it
+                    is.  It ain't good enough.  That's why he's writing another
+                        <unclear>one</unclear>. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio08_2.11" start="00:11:39.15" end="00:12:21.88">
+                    <head>Writing about Mississippians</head>
+                    <u who="M">A young lady up here.</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, do you enjoy writing more about the people in your own
+                    locale of Oxford, Mississippi, than of other countries and nations?</u>
+                <u who="WF">I write about the people in my own country because it's simpler. I don't
+                    have to do any research. I know them. <event desc="audience laughter"/> I'm writing about people, not about
+                    Mississippians. I simply use Mississippi because that's what I know best. I
+                    don't have to hunt around to—to keep from making mistakes that
+                    somebody would catch me out on, <event desc="audience laughter"/> but
+                    I—I—I write to—yes, I write because it's fun.  Not
+                    for glory but because it's—it's fun to do.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.12" start="00:12:29.65" end="00:13:29.07">
+                    <head>French Writers</head>
+                    <u who="WF">Yes,
+                    ma'am.</u>
+                <u who="Q">How great do you feel the French influence is on the American novel
+                    today?</u>
+                <u who="WF">Now, that question I can't answer because the reading I do is the books
+                    that I knew and loved when I was twenty-one years old. I haven't read
+                    a—a new book in fifteen, twenty years, <event desc="audience laughter"/> and I don't know literary or writing people, and
+                    I—I—I couldn't attempt to answer that question because I
+                    don't know enough about it. But I would say that there is a—a great
+                    deal of influence because the French writers, the young writers, have been the
+                    most—most prominent lately. Sartre and—and Camus. people like that, seem
+                    to be doing better work than—than the writers of any other country at
+                    the present, and I would say that they have had a great influence on the young
+                    American writers, <unclear>I think</unclear>.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.13" start="00:13:33.16" end="00:14:31.20">
+                    <head>Favorite Books</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, would you mind telling us what some of the books are that
+                    you knew and loved when you were twenty-one?</u>
+                <u who="WF"><hi rend="italic">Don Quixote</hi>, most of Dickens, <hi rend="italic">Moby Dick, The Brothers Karamazov, Madame Bovary</hi>, the Old Testament. I
+                    have a one-volume Shakespeare which I carry around with me. Balzac, I read a
+                    little in that every year. Conrad, I read some of Conrad almost every year.
+                    That's—there're a few more that I don't recall now, but—but 
+                    they are the—the ones I—I'm never too far from, and <unclear>I read</unclear> 
+                    every year.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio08_2.14" start="00:14:33.71" end="00:15:39.29">
+                    <head>Continuing Stories</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="G">You have a new novel coming out soon which is a continuation of <hi rend="italic">The 
+                    Hamlet</hi>. Have you had that—did you have that
+                    in mind a long time?</u>
+                <u who="WF">Yes, I thought of the whole story at once like a bolt of lightning
+                    lights up a landscape, and you see everything, but it takes time to write it.
+                    And this story I've had in my mind for about thirty years, and the—the
+                    one which I will do next, it—it happened at that same moment thirty
+                    years ago and it was sort of a matter of getting at it.</u>
+                <u who="Q">Is this a unique situation or have other sequences occurred to you like
+                    Quentin Compson in both <hi rend="italic">The Sound and the Fury</hi> and <hi rend="italic">Absalom, Absalom!</hi>?</u>
+                <u who="WF">No. I used Quentin in <hi rend="italic">Absalom, Absalom!</hi> as a 
+                         protagonist. His story was in <hi rend="italic">The Sound and the Fury</hi>. I 
+                    just suddenly needed Quentin Compson. In the
+                    sense that he belonged to me, I just reached around and got him. <event desc="audience laughter"/>.</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.15" start="00:15:42.03" end="00:17:47.46">
+                    <head>Writing Sanctuary</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">You're sometimes quoted as saying that <hi rend="italic">Sanctuary</hi>
+                    was a pot-boiler. Will you repudiate that—that idea? I would like for
+                    you—I would like to repudiate it for you if you
+                        <unclear>don't</unclear>. <event desc="audience laughter"/></u>
+                <u who="WF">Well, that book was—was basely conceived. I had—had
+                    written and had never made much money, and I—when I was—was
+                    footloose I could do things to make money. I could—could run a
+                    bootlegging boat, I was a commercial airplane pilot, things like that.  Then
+                    I got married, and I couldn't do things like that anymore, <event desc="audience laughter"/> and so I thought I would make a little money
+                    writing a book. And I thought of the most horrific idea I could think of and
+                    wrote it and sent it to the publisher, and he wrote me back. He said, "Good
+                    Lord, if we print this, we'll both be in jail." <event desc="audience laughter"/> That was about 1920—about 1930, I think, when you couldn't say
+                    things in print like you can now. So I forgot it. I wrote two more books. They
+                    were published, and then one day I got the galleys for <hi rend="italic">Sanctuary</hi>, and I read it, and—probably it was because I
+                    didn't need money so badly then, but anyway, I—I saw what
+                    a—a—a base thing it was in concept, what—what a—a
+                    shabby thing it was, and so I wrote the publisher and said, "Let's throw it
+                    away." He didn't have much money at that time. He said, "We can't do that
+                    because I've had plates made, and that costs something." And I said, "Well, I'll
+                    just have to rewrite it." And he said, "All right, you rewrite it, and I'll pay
+                    half of the new plates, and you pay half of the new plates." So I rewrote it,
+                    did the best I could with it. I got a job passing coal to earn the two hundred
+                    and seventy dollars to pay my half for the plates for printing the book and then
+                    the publisher went bankrupt. I didn't get any money at all. <event desc="audience laughter"/> So it—I did the best I could with—with the
+                    book. It was in a way, already in the public domain. I couldn't throw it away,
+                    and—and I rewrote it and did the best I could with it.</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.16" start="00:17:53.18" end="00:18:27.45">
+                    <head>Sanctuary and Requiem</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">You liked the characters in it enough, though, to write <hi rend="italic">Requiem of a Nun</hi> later.</u>
+                <u who="WF">Well, there was nothing wrong with the characters in it. It was
+                    the—the story itself, the first draft of it. The second draft was the
+                    best I could do with it, and so I'm not ashamed of the second draft because it
+                    was the best I could do. It wasn't good enough, but it was the best I could do,
+                    and they did establish a problem that demanded the question, what
+                    happened?  what could come of—of this marriage founded on
+                        that?</u></div2>
+                <div2 type="dialog" id="wfaudio08_2.17" start="00:18:37:14" end="00:18:58.63">
+                    <head>Close</head>
+                    <u who="M">Any other questions, silly or otherwise?<lb/>  Well, we're very, very grateful to you, sir.</u>
+                    <u who="WF">Thank you, sir.  Thank you, ladies.  <event desc="applause"/> <event desc="end of recording"/></u>
+            </div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

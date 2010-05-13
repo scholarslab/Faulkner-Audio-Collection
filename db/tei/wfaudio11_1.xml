@@ -1,0 +1,798 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio11_1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio11_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio11_1</idno>
+				<idno type="analog tape">T-123c</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<persName id="RD">Robert Davis</persName>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<persName id="AH">Atcheson Hench</persName>
+				</person>
+				<person>
+					<persName id="ES">Edward Stephenson</persName>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+				<person>
+					<p id="E">Engineer</p>
+				</person>
+				<person>
+					<persName id="G">Frederick Gwynn</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-07">7 May 1957</date>
+					<locale>University Radio Show</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 7 May 1957</head>
+				<head>OCCASION: University Radio Show</head>
+				<head>TAPE: T-123c</head><head>LENGTH: 31:47</head>
+				
+				<div2 type="dialog" id="wfaudio11_1.1" start="00:00:00.00" end="00:02:06.47">
+					<head>Warmup</head>
+					<u who="AH">
+						<inaudible/> road shows, as he says.</u>
+					<u who="B"> Well, we haven't heard from the agent, the
+							circuit.  Right now there are none planned. </u>
+					<u who="E"> Just a little bit there. If you can lean in, Mr. Faulkner, without
+						hurting it. <event desc="laughter"/>
+						<inaudible/></u>
+					<u who="AH"> This is to remind us of our names. Wait a minute. I haven't got
+						Blotner down there.</u>
+					<u who="B"> Yeah, you have.</u>
+					<u who="ES"> But not—not—</u>
+					<u who="B"> No.</u>
+					<u who="Q"> Why don't you just turn it around?</u>
+					<u who="WF">Just write his name on a piece of paper and pin it to him. <event
+						desc="laughter"/></u>
+					<u who="Q"> Like they do at conventions.</u>
+					<u who="G">Preferably on the inside.</u>
+					<u who="AH"> 'Cause every now and then one of us just goes blind as far as the
+						words are concerned—I mean names are concerned. Have you ever forgotten your
+						own name, Joe?</u>
+					<u who="B">No, but I've heard another announcer do it.</u>
+					<u who="AH"> You did?</u>
+					<u who="B">He said, "And your announcer has been"—<event desc="laughter"/>. He
+						just turned on the record.</u>
+					<u who="E">Mr. Faulkner, do you think you will be sitting forward like that most
+						of the time?</u>
+					<u who="WF">I can sit wherever you want me to.</u>
+					<u who="E">Well,that—that'll be fine. Just about like that. I think Mr. Hench
+						has a slightly louder voice <unclear>and so it should balance it out</unclear>.</u>
+					<u who="AH">Does he want to try us out?</u>
+					<u who="E"> Yes, sir.  In just a second.</u>
+					<u who="AH">Alright. Well, this is cheating, in a way, to do these two fifteen
+						minuteses and then to say that "Last week"—it's going to be awful hard— <event
+							desc="laughter"/></u>
+					<u who="ES">You just lie one thing after another, don't you?
+						A terrible liar.</u>
+					<u who="AH">Who, me?</u>
+					<u who="ES">Mmhmm.</u>
+					<u who="AH">Well, how is this—how does this sound? Is that alright? And Mr.
+						Faulkner you could say, "Eeny meeny miney mo" or anything else.</u>
+					<u who="WF">If I know it, I will. <event desc="laughter"/> You mean the rest of
+						it or just "eeny meeny miney mo"?</u>
+					<u who="AH"><inaudible/> just testing your voice.</u>
+					<u who="E">All right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.2" start="00:02:06.48" end="00:04:43.17">
+					<head>Blend Words</head>
+					<u who="ES">Is that all right now? Can anyone tell me where these wonderful
+						blend words in "Spotted Horses" are? "Sward" is one of them I remember. Can
+						you hear me all right?</u>
+
+					<u who="RD">I haven't read "Spotted Horses" in a year, so I won't be able to
+						tell you about that one.</u>
+					<u who="B">I'm not sure I know where they are, Steve.</u>
+					<u who="ES">Did you make up that word "sward" or is that something you've
+						heard?</u>
+					<u who="WF">No, no, that's the way they pronounce it.</u>
+					<u who="AH">Joe, Joe.</u>
+					<u who="B">One, two, three, four, five. How's that? Does that—is that alright? A
+						little more volume? Do you need some more gain?</u>
+					<u who="E">Down a little.</u>
+					<u who="B">One two, three, four, five. How's that? Okay?</u>
+					<u who="E">That's all right."</u>
+					<u who="AH">What'd you say, <unclear>game?</unclear></u>
+					<u who="B">
+						Gain, gain.
+					</u>
+					<u who="AH">Oh, gain.</u>
+					<u who="B">The engineer rides the gain. He picks it up or
+						cuts it down.</u>
+					<u who="AH">Oh. <event desc="laughter"/></u>
+					<u who="E">The opening is already on the tape, so any time you gentlemen feel
+						ready. </u>
+					<u who="AH">Are you going to set the clock for us?</u>
+					<u who="E">It is set, and we'll just start it.<inaudible/> we'll give you twelve
+						and a half minutes, <unclear>sir</unclear>, for the first show.</u>
+					<u who="AH"><unclear>He's got some signals</unclear> he doesn't understand. Oh, yes.</u>
+					<u who="E">No rattling of elbows, then.</u>
+					<u who="AH">No rattling of elbows then. Let's not pound the table for once,
+						shall we?<event desc="laughter"/> I pounded the table once, and Steve
+						pounded the table once in excitement.</u>
+					<u who="E">It hasn't been done since.</u>
+					<u who="AH">I mustn't say <unclear>"uh-huh"</unclear>.</u>
+					<u who="B">Yesterday I opened that door, and it sounded like a pistol shot when
+						it hit the wall in <unclear>that basement</unclear>.</u>
+					<u who="AH">It did.</u>
+					<u who="B"><inaudible/> jumped.</u>
+					<u who="RD">They ought to do something about ventilating that room. It was
+						awfully hot in there.</u>
+					<u who="B">It was getting pretty stuffy.</u>
+					<u who="ES">Blowers weren't on, were they?</u>
+					<u who="AH">I don't know.</u>
+					<u who="ES">It's supposed to be air conditioning with blowers, but I
+							don't think they were on.</u>
+					<u who="RD">Mr. Stephenson, can I have a match, sir?</u>
+					<u who="ES">Sure.</u>
+					<u who="RD">Thank you.</u>
+					<u who="B">Well, do you have—</u>
+					<u who="RD">Would you like to light it, Mr. Faulkner?</u>
+					<u who="WF">No, thank you, sir. I'm just about smoked out.</u>
+					<u who="B">Do you have a lot of eloquent, impromptu comments there, Atch? Typed
+						out?</u>
+					<u who="AH">I got my—my stuff. I— </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.3" start="00:04:53.40" end="00:05:48.25">
+					<head>Introduction</head>
+					<u who="AH">Today as our special guest we have with us the American novelist
+						William Faulkner, author-in-residence at the University of Virginia this
+						semester. We are indeed fortunate to have him with us. Also around our table
+						today are our regular panel members Mr. Edward Stephenson and Mr. Robert
+						Davis. As—and, as another special panel member today, we have Mr. Joseph
+						Blotner, of the English Department. And our subject today is Mr. Faulkner's
+						dialect. And I suppose we might as well lay on the table one plain fact, one
+						simple fact at first, that it is Mississippi dialect. Isn't it, Mr.
+						Faulkner?</u>
+					<u who="WF">As far as I know. I wouldn't limit it to Mississippi, though. I
+						think I've heard this same dialect in Arkansas, Louisiana, Alabama. And I
+						imagine, in time, I'll hear it here in Virginia.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.4" start="00:05:48.41" end="00:06:11.17">
+					<head>Mississippi v Southern Dialect</head>
+					<u who="AH">Would you hear the same words, all the same vocabulary?</u>
+					<u who="WF">I wouldn't be surprised. <unclear>I probably would.</unclear></u>
+					<u who="AH">Do you think so, Mr. Stephenson?</u>
+					<u who="Q">Well, I—</u>
+					<u who="ES">Well, the southern dialect—of course, I'm a native of
+						Georgia, and I read many things in Mr. Faulkner's writings that are familiar
+						to me. I run across some things that are not. I expect there might be some
+						small differences.</u>
+					<u who="WF">Oh, yes, there would be small differences.</u>
+					<u who="ES">But it is a southern dialect.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.5" start="00:06:11.10" end="00:06:51.58">
+					<head>Types of Dialect</head>
+					<u who="ES"> By the way, Mr. Faulkner, how many
+						different types of dialect do you try to distinguish? Now I notice, of
+						course, the difference between the speech of the Negroes and the poor white
+						trash. Are there any other distinctions that you try to make?</u>
+					<u who="WF">I would say there are three. The—the dialect, the diction, of the
+						educated, semi-metropolitan white southerner, the dialect of the—of the
+						hill, backwoods southerner, and the dialect of the Negro—four, the dialect
+						of the Negro who has been influenced by the northern cities, who has been to
+						Chicago and Detroit.</u>
+					<u who="ES">Four different dialects?</u>
+					<u who="WF">Four.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.6" start="00:06:51.56" end="00:07:18.14">
+					<head>Dialect and Status</head>
+					<u who="AH">Do you find that your characters change their dialect as they
+						improve in financial status?</u>
+					<u who="WF">Not always. Sometimes. The ones that are—that take up snobbery
+						easily, yes, they will change their dialect, and young people have an
+						aptitude for changing their dialect, like a chameleon does.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.7" start="00:07:17.83" end="00:08:04.98">
+					<head>Suption</head>
+					<u who="AH">By the way, a friend of yours asked me to ask you a question today.
+						He said that Flem Snopes doesn't smoke, but he'll chew a little tobacco till
+						all the "suption" is out of it. He wanted me to ask you if you coined that
+						word "suption."</u>
+					<u who="WF">No, no. Did you ever hear of that in Georgia, Mr. Stephenson?</u>
+					<u who="ES">No, I'm not familiar with that.</u>
+					<u who="WF">Well, it means nourishment. Now I don't know that I—</u>
+					<u who="AH">It doesn't mean juice?</u>
+					<u who="WF">Well, nourishment. There's suption in meat, in bread, it's—I think
+						it's more nourishment than juice.</u>
+					<u who="RD">The goodness. We'd—I think we'd say he got the goodness out of
+						it.</u>
+					<u who="WF">Goodness, yes, that's right.</u>
+					<u who="ES">Have you heard that in Alabama, Mr. Davis?</u>
+					<u who="RD">Suption? I don't think I've heard of suption but—</u>
+					<u who="ES">Maybe it's a Mississippi word.</u>
+					<u who="WF">When chewing gum is no longer sweet, the suption is gone.</u>
+					<u who="ES">Mmhmm.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.8" start="00:08:05.69" end="00:09:05.10">
+					<head>Pussel-gutted</head>
+					<u who="AH">Mr. Faulkner, I had—have down here on a list several words that I
+						would like to ask you about. It's—one is the word "pussel-gutted." You spoke
+						about Jewel calling his horse "pussel-gutted," and that was in mock
+						affection. And then in another place Peabody—this is in, by the way, in <hi
+							rend="italic">As I Lay Dying</hi>—Peabody has "pussel-gutted" himself
+						eating cold greens. I suppose that means make yourself flabby.</u>
+					<u who="WF">Bloated, yes.</u>
+					<u who="ES">That's a Georgia term. I know that term.</u>
+					<u who="AH">Is there a plant that you're—that is behind that figure of speech,
+						pussel?</u>
+					<u who="WF">No.</u>
+					<u who="AH">There's a plant in Virginia called <unclear>pussley</unclear>, and
+						I thought maybe it was the same thing. It's a hideous plant, an ugly plant.
+						It gets full of water.</u>
+					<u who="WF">It could derive from that. I don't know. I've heard it all my life.
+						It means someone that is bloated, that has a tremendous belly that he
+						shouldn't have.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.9" start="00:09:05.11" end="00:10:01.85">
+					<head>Kernal v Cunnel</head>
+					<u who="ES">May I come back for a moment to this distinction between the speech
+						of the Negroes and of the—of what used to be called the poor white trash. In
+						your short story "Wash," Mr. Faulkner, when Wash is talking about Colonel
+						Sutpen, he call—you spell it K-E-R-N-E-L, when the Negroes are talking you
+						spell it C-U-N-N-E-L. Is that supposed to be "Kernal' that Wash says, and
+						"Cunnel" that the Negroes say. In other words, Negroes drop the "r."</u>
+					<u who="WF">That's correct.</u>
+					<u who="ES">That's the idea.</u>
+					<u who="WF">That's correct. And the—what we call the redneck white man has a
+						hard "r."</u>
+					<u who="ES">He has the—</u>
+					<u who="WF">He says "fur" for far. He says "far" for fire.</u>
+					<u who="ES">Yes.</u>
+					<u who="WF">The Negro don't have the hard "r."</u>
+					<u who="ES">I assumed that that was the purpose of that. Now if Colonel Sutpen
+						or one of his—upper class characters was speaking, then you just use the
+						conventional spelling, which really would be rather like Wash's
+						pronunciation, though not as hard on "r"'s.</u>
+					<u who="WF">That's right, it's between—</u>
+					<u who="ES">But the—between Wash and the Negroes, "Kernal" versus "Cunnel."</u>
+					<u who="WF">Yes.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.10" start="00:10:02.45" end="00:10:37.56">
+					<head>Peakling</head>
+					<u who="AH">May I ask you about another word that I noticed, and that's the word
+							"peakling."  You said about Jewel, or rather in
+						connection with Jewel it was said, "I told them that's why ma always whipped
+						him and petted him more. Because he was "peakling" around the house.</u>
+					<u who="WF">That's probably a—a corruption or contraction between "puny" and
+						"weakly." Just like the contraction or corruption between "mist" and
+						"drizzle" becomes "mizzle."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.11" start="00:10:37.57" end="00:11:17.49">
+					<head>Ay for Yes</head>
+					<u who="RD">Mr. Faulkner, I noticed that Vernon and Uncle Billy, in <hi
+							rend="italic">As I Lay Dying, </hi>often say "ay" for "yes." I wondered
+						if that was—if that was common or whether it was just characteristic of the
+						older generation?</u>
+					<u who="WF">That is common among the older people whose ancestry was
+						Scottish.</u>
+					<u who="RD">Oh, yes, sir.</u>
+					<u who="WF">They came to the mountains of North Carolina, then they came to the
+						mountains of Virginia, then they came to the hills of Mississippi, and they
+						kept their old ways. They would say to "red up" a room, just as you hear in
+						Scotland—means to—to clean a room, to make the beds, sweep.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.12" start="00:11:17.60" end="00:11:32.18">
+					<head>Beholden</head>
+					<u who="AH">Is the same thing true about "beholden"? I'm "beholden" to you.</u>
+					<u who="WF">Now would that be Scottish or is that Old English?</u>
+					<u who="AH">Well, I suppose it's English and Scottish.</u>
+					<u who="WF">Well, yes. That's right.</u>
+					<u who="AH">"Red" is certainly Scottish. You're right there.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.13" start="00:11:33.05" end="00:12:16.90">
+					<head>Spelling Dialect</head>
+					<u who="ES">I'd like to make a point about the importance of knowing the
+						author's speech in interpreting his dialect spellings. Now Thomas Nelson
+						Page, for instance, when he wants to represent an Old Virginia Negro who
+						says "cawn't," will spell that sometimes C-A-R-N-T. And I noticed you've done
+						the same thing in "Wash." When the old Negro woman is talking to Colonel
+						Sutpen, she says "Yes, mawster," and you spell it M-A-R-S-T-E-R. Now we
+						should interpret that "mawster" rather than "master", but it isn't "marster,"
+						is it?</u>
+					<u who="WF">No.</u>
+					<u who="ES">It's "moster." And the "ar" spelling then, since we know that you
+						are from a part of the country—and you yourself drop the "r" after a vowel,
+						then the "ar" can be a symbol for the sound "aw."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.14" start="00:12:17.00" end="00:12:58.19">
+					<head>Winder</head>
+					<u who="RD">I suppose, Mr. Faulkner, that'd be the same thing as when Dilsey
+						says, "winda," and you spell it W-I-N-D-E-R. That she says "winda," rather
+						than "winder."</u>
+					<u who="WF">That's right. There's no "r."</u>
+					<u who="RD">But now the backwoodsman would say "winder."</u>
+					<u who="WF">That's right.</u>
+					<u who="RD">Wouldn't he?</u>
+					<u who="WF">"Winder."</u>
+					<u who="RD">"Winder."</u>
+					<u who="ES">And then you'd have a problem because you'd have to spell it the
+						same way if you wanted to represent it in dialect, wouldn't you? That'd be a
+						problem for the author to worry about there.</u>
+					<u who="WF">I should say, being a Mississippian, I would probably put two r's on
+						it.</u>
+					<u who="ES">That's what Page does, by the way—no not Page, but James Russell
+						Lowell in his "Bigelow Papers" when he wants to represent—in certain parts
+						of New England where they have a very hard "r," he puts two "r"'s. That's
+						the same thing he does.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.15" start="00:12:58.07" end="00:13:08.49">
+					<head>Aguer</head>
+					<u who="AH">Is that—is it the same way with that disease that I saw somewhere?
+						A-G-U-E-R. An "aga"? Is that right? "Aga."</u>
+					<u who="WF">Yes, that's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.16" start="00:13:10.44" end="00:13:53.45">
+					<head>Ara v Ary</head>
+					<u who="ES">What did you mean, Mr. Faulkner, in—I'm not quite sure how you
+						intended this to be pronounced—I know the word, but this particular spelling
+						of it. Wash says, "if you was A-R-A other man." "Ary other man. Or
+						"ara."</u>
+					<u who="WF">That's right, "ara."</u>
+					<u who="ES">"Ara."</u>
+					<u who="WF">"Ara" or "nara."</u>
+					<u who="ES">Mmhmm.</u>
+					<u who="RD">"Ara." I remember in Alabama, where I lived sort of back in the
+						hills myself, and it was "ary" back there, rather than "ara." Funny—</u>
+					<u who="AH">"Ary."</u>
+					<u who="RD">"Ary." U-huh.</u>
+					<u who="AH">And "nary."</u>
+					<u who="RD">"Nary."</u>
+					<u who="ES">You know that may be an example of of over-correction, just like in
+						the mountains when the name Andy becomes "Anda" sometimes, and Naomi becomes
+						"Naoma."</u>
+					<u who="RD">Or it may be—it may be the—the mountain speech coming down into
+						Northern Alabama there.</u>
+					<u who="ES">Might be.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.17" start="00:13:53.87" end="00:14:31.05">
+					<head>Awry and Ory</head>
+					<u who="AH">Mr. Faulkner, how do you pronounce these words: "A-W-R-Y haired" and
+						"A-W-R-Y feathered."</u>
+					<u who="WF">Awry.</u>
+					<u who="AH">Awry.</u>
+					<u who="WF">That's what I was trying to spell.</u>
+					<u who="AH">I see. Have you ever heard the pronunciation "ory" haired?</u>
+					<u who="WF">Not in Mississippi—</u>
+					<u who="AH">"Ory" feathered"?</u>
+					<u who="B">Is that at all similar to <unclear>"ory eyed"</unclear>? Or does that
+						refer to another condition or pronunciation.</u>
+					<u who="AH">I think it is. I think it is.</u>
+					<u who="WF">Very likely is, but I never heard "ory" applied to anything except
+						"eye."</u>
+					<u who="B">Mmmhmm.  That's the only usage I know.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.18" start="00:14:31.04" end="00:15:29.09">
+					<head>Dog v Dawg</head>
+					<u who="ES">I want to ask Mr. Faulkner—ask you Mr. Faulkner why once you spell
+						the word dog D-A-W-G for Wash. It seems to me that I don't approve of that
+						spelling. That doesn't really differentiate Wash from any of the other
+						characters. Wouldn't they all say "dawg"? Don't you say "dawg"? Doesn't
+						everybody in Mississippi say "dawg."</u>
+					<u who="WF">Yes, the reason for that is that someone has said southerners don't
+						read books; they write books. And I think that when the southerner writes
+						deliberately spelled dialect, he is writing not for the man that calls "dog"
+						"dawg," but for the man that calls "dog" "dog."</u>
+					<u who="ES">But "dawg"—"dawg" is very general all over the country. Of course in
+						some parts of the Midwest people do say "dog." But in New England and the
+						South, and a large part of the rest of the country D-O-G is "dawg"</u>
+					<u who="WF">Yes, but these people would speak with a—even more flatness than
+						that. It would be "Dawg."</u>
+					<u who="AH">Stretched out.</u>
+					<u who="WF">Yes.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.19" start="00:15:29.08" end="00:16:42.19">
+					<head>Hit for It</head>
+					<u who="ES">Well another—another point I'd like to ask you about. In the use of
+						"hit" which I'm familiar with in Georgia. It's an old form that's survived.
+						But it seems to me, at least in Georgia, the distinction is this. In an
+						unstressed, where the—where the syllable would not be accented—for instance,
+						you could hardly say—if you wanted to say "Move it over thar," you—it would
+						be hard say "move hit over thar." But if you said, "Hit don't make no
+						difference"—or—when it's stressed, it would be "hit." But I notice you use it
+						rather indiscriminately whether it would be in a stress position or not in a
+						stress position. I think—I think you were careless in that regard.</u>
+					<u who="WF">Perhaps so, but I think I have heard it used—sometimes the same man
+						will say "move hit yonder" or "move it yonder."</u>
+					<u who="AH">And "make it now" and "make hit now."</u>
+					<u who="WF">That's right, the same—</u>
+					<u who="AH">More deliberation.</u>
+					<u who="WF">Well, I don't know. It's—he probably is not aware himself. At
+						one time he puts an <inaudible/> and the next time he drops it.</u>
+					<u who="B">I should think his—the speed with which he spoke or the emotion—</u>
+					<u who="WF">Yes, has a lot to do with it.</u>
+					<u who="B">That might even determine which spelling—</u>
+					<u who="ES">For instance, here's one. Wash says, "You make hit right," and you
+						spell it H-I-T, which—but again, he says, "Hit don't need no ticket."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.20" start="00:16:42.18" end="00:17:11.18">
+					<head>Fragment</head>
+					<u who="RD">Mr. Faulkner, one thing that I'd like to get in 
+						I've wondered how you do it. Just how you go about it. I see some every now
+						again, some of these words that I think are—are brilliant. Luster, I
+						remember, in the end of <hi rend="italic">The Sound and the Fury</hi>, says—
+							<event desc="recording is interrupted by seventeen seconds of music"
+						/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.21" start="00:17:11.97" end="00:17:28.00">
+					<head>Fragment</head>
+					<u who="RD"><inaudible/> in our memory I should think.</u>
+					<u who="AH">Do you ever create these things?</u>
+					<u who="WF">Probably.</u>
+					<u who="ES">He doesn't mean to, though.</u>
+					<u who="WF">No, I don't deliberately, but I—probably I have corrupted words
+							 on my own ticket.</u>
+					<u who="ES">To get a good result.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.22" start="00:17:27.94" end="00:18:03.76">
+					<head>Close</head>
+					<u who="AH">We've enjoyed being with you for the past fifteen minutes for this
+						chat. There is much more on the subject that we could say, but our time has
+						run out on us again. However, we cordially invite you to be in our listening
+						audience next week at this same time, when Mr. Faulkner will again be in
+						our—will be our special guest. Joining us around the table today were Mr. Ed
+						Stephenson, Mr. Joseph Blotner, and Mr. Robert Davis. Our special guest for
+						this program was Mr. William Faulkner. This is Atcheson Hench thanking you
+						for joining our discussion today and inviting you to listen again next week
+						at this time for another chat on some aspect of the language we speak.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.23" start="00:18:04.36" end="00:18:18.19">
+					<head>Break, 1</head>
+					<u who="G">
+						<event desc="cough"/>
+					</u>
+					<u who="RD">Have you been waiting all that time to cough, Mr. Gwynn?</u>
+					<u who="WF">Now's the time for Mr. Hench to get up and do this again. <event
+							desc="laughter"/></u>
+					<event desc="laughter"/>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.24" start="00:18:18.31" end="00:18:32.17">
+					<head>Break, 2</head>
+					<u who="E">You may stretch your muscles just a moment just while we switch tapes
+						and then we'll continue again as though we never stopped.</u>
+					<u who="AH">Well wasn't it brilliant?</u>
+					<u who="G">That worked very well.</u>
+					<u who="B">You were great, Hench.  <event desc="laughter"/></u>
+					
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.25" start="00:18:34.24" end="00:18:55.17">
+					<head>Elefunk</head>
+					<u who="AH">Oh dear. You know I—you speaking about <unclear>"elefunk"</unclear>.
+						I think that's one of those rebuildings to suit what the man probably thinks
+						it ought to be, like <unclear>"plathform"</unclear> instead of "platform."
+						Though what <unclear>"funk"</unclear>—"elefunk" would be I wouldn't have any idea. But he's got
+						some notion in there.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.26" start="00:18:57.47" end="00:19:36.69">
+					<head>Jaybirds and Hell</head>
+					<u who="RD">There's something I've wondered about, and I don't guess 
+						we can ask it on this program, so I'll just ask it
+						now. I remember Luster says—he chunks some rocks at some jaybirds, and he
+						says, "Git on back to hell, whar you belong at. 'Taint Monday yit." I
+						wondered what that superstition—I never heard that superstition—</u>
+					<u who="WF">The superstition is that on Friday the jaybirds all go to hell; they
+						don't come back till Monday.</u>
+					<u who="RD"><inaudible/> around from that Monday until the next Friday.</u>
+					<u who="WF">Quite often you never hear a jaybird over the weekend, and the
+						superstition is they've gone to hell.</u>
+					<u who="B">That's probably what they've done.</u>
+					<u who="WF">Sometimes that is where they should go—</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.27" start="00:19:36.70" end="00:20:03.87">
+					<head>No more despair</head>
+					<u who="B">Gee, there was one that I wanted to ask about. In "Spotted Horses,"
+						when Armstid's wife tells how badly off they are and says that "He aint no
+						more despair than to spend four dollars for a horse." I know what she means,
+						but I've just never heard those words put together that way before.</u>
+					<u who="ES">
+						<inaudible/>
+						I'm familiar with that.
+					</u>
+					<u who="B">Are you?</u>
+					<u who="WF">It means he has no more shame, no more consideration, for
+							our trouble.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.28" start="00:20:17.35" end="00:20:36.43">
+					<head>Technical Terms</head>
+					<u who="B">I'm glad you didn't use any—any technical terms on us, Steve, like
+							 post-vocalic "r."   Stuff like that it was the wrong
+						thing to do.</u>
+					<u who="ES">I slipped up and did that one time. It was the first program we did then I realized
+						that was the wrong thing to do —</u>
+					<u who="B">You might just as well use Esperanto.</u>
+					<u who="ES">I won't talk about this <inaudible/> vowel then.</u>
+					<u who="B">Good.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.29" start="00:20:38.78" end="00:20:51.12">
+					<head>Starting Program Two</head>
+					<u who="E">Okay? You gentleman ready for—?</u>
+					<u who="B">Do you want to reset the clock?</u>
+					<u who="AH">I think it does, and that every now and then helps me if I think of
+						it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.30" start="00:20:59.58" end="00:21:30.67">
+					<head>Swurge for Surge</head>
+					<u who="WF">Did you ever hear of "swurge" for "surge?"</u>
+					<u who="ES">No, that was another one I marked in "Spotted Horses." And you
+						didn't invent that either. I thought maybe you invented that. It's a
+						wonderful term, I think. It conveys the idea beautifully, but—</u>
+					<u who="AH">I think I've heard that "w" in certain places. I can't pull one out
+						of my head right now. But I think in the mountains up here, in the Blue
+						Ridge, I've heard a "w" that gets—</u>
+					<u who="ES">It could be. I could see how it happens. It could be the reverse of
+						the loss of the "w" in "sword." "Sward."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.31" start="00:21:37.66" end="00:22:04.04">
+					<head>Opening Program Two</head>
+					<u who="AH">Today as our special guest again we have with us the American
+						novelist Mr. William Faulkner, author-in-residence at the University of
+						Virginia this semester. We are indeed fortunate, as we were last week, to
+						have him with us. Also around our table today are our special—are our
+						regular panel members Mr. Edward Stephenson and Mr. Robert Davis. And as
+						another panel member today, we have Mr. Joseph Blotner.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.32" start="00:22:04.88" end="00:22:36.06">
+					<head>Hogfish</head>
+					<u who="AH">Mr. Faulkner, following up what we said last week, I should like to
+						ask you about the meanings of one or two words. By the way, is there a fish
+						in Mississippi called a "hog"?</u>
+					<u who="WF">No.</u>
+					<u who="AH">Then I misunderstood a line. Somewhere I thought you called a fish a
+						hog. Maybe—there's no hogfish?</u>
+					<u who="WF">No, I think somebody said the catfish the little boy had was as
+						bloody as a hog. It's as full of blood as a hog.</u>
+					<u who="AH">Oh, I see. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.33" start="00:22:36.07" end="00:22:59.84">
+					<head>Frailed</head>
+					<u who="AH"> What about the word "frailed"? He "frailed him time and
+						time." What's that mean?</u>
+					<u who="WF">To whip, thrash.</u>
+					<u who="ES">It's a variant of flail, isn't it? Yes, I—I know that. It's a
+						variant of flail.</u>
+					<u who="WF">—but they say "frail."</u>
+					<u who="B">You use that, Mr. Davis?</u>
+					<u who="RD">No, sir, I never heard that—I don't think. Not frail.</u>
+					<u who="ES">Oh, you're too much of a city boy.</u>
+					<u who="RD">I guess so.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.34" start="00:23:00.98" end="00:23:50.06">
+					<head>Dust-dark and Dust-dawn</head>
+					<u who="AH">What about these two that are—that always have interested me:
+						"dust-dark" and "dust-dawn." The time of day which is "dust-dark" and
+						"dust-dawn."</u>
+					<u who="WF">Twilight.</u>
+					<u who="AH">What does "dust" mean there?</u>
+					<u who="WF">It's "dusk" really.</u>
+					<u who="AH">Dusk.</u>
+					<u who="WF">But they say "dust." That is, they say "dus-dark" and "dus-dawn."
+						They don't say "dusk-dark" and "dusk-dawn."</u>
+					<u who="ES">If you all would let me be technical I'd say that's assimilation to
+						the following "d." You see—</u>
+					<u who="B">Of course.</u>
+					<u who="ES"><unclear>The assimilated "d."</unclear></u>
+					<u who="AH">Dusky dark? Have you ever, Mr. Stephenson, heard "dusk-dawn," 
+						"dusk-dark"?</u>
+					<u who="ES">No, I don't know that.</u>
+					<u who="RD">But I've heard "dust" for dusk. For the time of day, it's just
+						"dust."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.35" start="00:23:50.87" end="00:24:47.08">
+					<head>Kain't and Class</head>
+					<u who="ES">Mr. Faulkner, you have—to come back to the story "Wash" again, which
+						I read quite recently—you have Wash say "kain't," but you don't represent
+						the colonel as saying that. Don't you think he would have said "kaint"
+						too?</u>
+					<u who="WF">That was to make a distinction between their social position.</u>
+					<u who="ES">It's—it's really a sort of faking in a way. I mean I don't mean to
+						be nitpicking but—</u>
+					<u who="B">Well, don't you think really the—the colonel himself would have been
+						conscious of such things as pronunciation and perhaps would have stressed it
+						where Colonel Sartoris might not have?</u>
+					<u who="WF">I doubt that. It was Wash's flat drawl. The colonel would have said
+						"kaint"; Wash would have said "kayint." And the only way I know to do that
+						is to spell it slightly different. Wash has a flatter voice than the
+						plantation owner—and the master. <unclear>Though they would use the
+							same—</unclear></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.36" start="00:24:47.09" end="00:25:19.03">
+					<head>Holler</head>
+					<u who="ES">In that same story, Millie says to Wash, "You'll have to
+						holler—you'll have to holler louder than that." "Holler," I suppose.
+						H-O-L-L-E-R, you spelled it. That comes back to the question we asked last
+						week about what would you do with "winder" if you wanted to have one of the
+						poor white trash—</u>
+					<u who="WF">Well—</u>
+					<u who="ES">It's a problem, isn't it. Because now if this were one of the upper
+						class characters, H-O-L-L-E-R would represent "holla," But knowing that it's
+						Wash's daughter it's going to be "holler."</u>
+					<u who="WF">That's right.</u>
+					<u who="ES">So we have to know something about the background.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.37" start="00:25:19.04" end="00:26:21.38">
+					<head>Figures of Speech</head>
+					<u who="AH">Mr. Faulkner, do you—you have—must have an astonishingly retentive
+						memory for figures of speech. I noticed you spoke of a coffin "as neat as a
+						sewing basket." And the talk of some women as kind of like "bees murmuring
+						in a water bucket." Do you—are these phrases that are proverbial in your
+						talk—in the talk of people in Mississippi, or do you make these up, or—or
+						what? They're delightful phrases.</u>
+					<u who="WF">Those, I imagine, the circumstances of the story invent themselves,
+						suggest to me. I've never heard them as— <unclear>as
+							analogies</unclear>. Simply the circumstances of the story—or the desire
+						to describe that the best I can in comprehensible phrases or figures of
+						speech.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.38" start="00:26:21.45" end="00:27:29.15">
+					<head>Sources of Figures</head>
+					<u who="AH">Do you have any idea which kinds of things you like most to use
+						figures of speech—make figures of speech out of. Flowers or fish or horses
+						or dogs or trees or just—or don't you worry and care less?</u>
+					<u who="WF">I would say that the—the—the instant I am involved
+						with does the commanding in that.</u>
+					<u who="RD">I think one of the most unusual kinds of figures of speech that I've
+						noticed—when certain of your characters—certain of your more perceptive
+						characters like Benjy in <hi rend="italic">The Sound and the fury </hi>and
+						Darl in <hi rend="italic">As I Lay Dying</hi>—their sense of smell seems to
+						be very acute. I know Darl says—when it's getting ready to rain he says it
+						smells like sulfur. Well, even Quentin in <hi rend="italic">The Sound and
+							the Fury</hi> remembers the smell of the honeysuckle and so forth. I—I
+						think that's particulary good and it's rather unusual, I think. Because usually that's one
+						of the senses—one of the five that's left out so often in writing. It gives
+						that added touch of realism to it.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.39" start="00:27:29.10" end="00:28:07.27">
+					<head>Christmas Masts</head>
+					<u who="AH">Mr. Faulkner, may I ask you if I—if there's something here in
+						Mississippi folklore that I missed, not having grown up in Mississippi. Cora
+						says, "His face looked like one of these here Christmas masts that had
+						been—that had done been buried a while and then dug up." What is a Christmas
+						"mast"?</u>
+					<u who="WF">Oh, the toy mask, the comic faces that children buy in the—in the
+						stores for Halloween and—and Christmas time.</u>
+					<u who="Q">And "mast" is really for "mask"?</u>
+					<u who="WF">Mask, yes.</u>
+					<u who="Q">Just like "dusty" for "dusk."</u>
+					<u who="WF">Yes, that's right.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.40" start="00:28:07.23" end="00:28:54.61">
+					<head>Bot as Misprint</head>
+					<u who="ES">Mr. Faulkner, in "The Bear," here's a word I don't know.  I wonder if you
+						can tell me what it means. The word is B-O-T: "The old game crossing over
+						which he'd trailed bucks wounded and not wounded and more than once seen
+						them anything but wounded bot out of the woods and up and across the
+						embankment—" What's that word B-O-T mean? It looks like a verb having to do
+						with rapid motion or something of the sort.</u>
+					<u who="WF">I would have to see it.</u>
+					<u who="ES">Maybe it's a misprint?</u>
+					<u who="WF">It is a misprint, yes. There's no such word as that. If it's not a
+						misprint for "but" then—</u>
+					<u who="ES">"But out of the woods" would make sense. Or could it be "hot out of
+						the woods"?</u>
+					<u who="WF">That's a good point.</u>
+						<u who="ES">Wherever <inaudible/></u>
+					<u who="WF">"Hot."</u>
+					<u who="ES">"Hot out of the woods."  I see.</u>
+					<u who="WF">Yes, I remember. It was hot.</u>
+					<u who="ES">"Hot out of the woods."  That's a misprint. </u>
+					<u who="WF">Running at top speed. Yes, "hot out of the woods."</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.41" start="00:28:55.90" end="00:29:25.16">
+					<head>Chapping</head>
+					<u who="AH">Do all—do many people use the word "chapping" for having children.
+						Somebody said, "We ain't nigh done chapping yet."</u>
+					<u who="WF">That's quite colloquial. You hear that only in the remote hill
+						country. People that—that have no—where there are no Negroes and their
+						speech is not corrupted by—by Negro inflections and the Negro usage of words.
+						That came from Scotland.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.42" start="00:29:25.90" end="00:29:47.68">
+					<head>Lawed</head>
+					<u who="AH">Is "lawed"—would you say of—the same thing of "lawed." "He should be
+						lawed for treating her so." In other words arrested or something.</u>
+					<u who="WF">That's <unclear>not all</unclear>—making a verb out of a noun.</u>
+					<u who="AH">You did that yourself?</u>
+					<u who="WF">No. I've heard that.</u>
+					<u who="AH">Oh, I see.</u>
+					<u who="WF">That's—I imagine that that's in Georgia and Alabama, too.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.43" start="00:29:47.42" end="00:30:27.22">
+					<head>Tongued</head>
+					<u who="ES">What does this mean, Mr. Faulkner? Let's see, "They all piled over
+						the crest of the hill just in time to see Tomey's Turl a way out across the
+						flat almost to the woods and the dogs streaking down the hill and out onto
+						the flat. They just tongued once and when they
+						came boiling up around Tomey's Turl they looked like they were going to jump
+						up and lick him in the face."</u>
+					<u who="WF">Another verb made from a noun. They "gave tongue" once.</u>
+					<u who="AH">You've never hunted.</u>
+					<u who="ES">No, I'm not a hunter.</u>
+					<u who="AH">Well, Mr. Faulkner is. He's heard the sound of dogs.</u>
+					<u who="WF">That means they were—they were on game. They bayed once, then they
+						recognized Tomey's Turl, a friend, so they quit.</u>
+					<u who="ES">I see.</u>
+					<u who="WF">They just caught up with him to lick his hand, to run along with
+						him.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.44" start="00:30:29.08" end="00:30:45.49">
+					<head>A Tie-up</head>
+					<u who="AH">Mr. Faulkner, what is a tie-up in a barn?</u>
+					<u who="WF">That's anything you tie cattle to. It's near a rack for feeding.</u>
+					<u who="AH">Oh, I see. A rack or a bar.</u>
+					<u who="WF">A hitch or a lead is snapped into the halter—tied to a
+						<unclear>bar</unclear>.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.45" start="00:30:46.83" end="00:31:08.79">
+					<head>Soopled</head>
+					<u who="ES">And another place, Mr. Faulkner, "Black John came out of the trees,
+						driving, soopled out flat and level as a hawk." Is that a verb made from the
+						adjective "supple"?</u>
+					<u who="WF">Yes, they pronounce "supple," "soople."</u>
+					<u who="ES">I've heard the pronunciation of the adjective as "soople." This is a
+						verb in the past tense, "soopled."</u>
+					<u who="WF">Yes, that's right. To—to "soople" is to do something rapid and
+							limber.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio11_1.46" start="00:31:09.00" end="00:31:44.50">
+					<head>Regional Dialects Q</head>
+					<u who="AH">Mr. Faulkner, some days ago I remember your saying that you thought
+						you could move, say, to a Maine village, a fishing village or a lumbering
+						village, and it wouldn't be long before you would be writing about people
+						there. Yet I remember yesterday you said that it was the inflection, the
+						sound of the words and the dialect that was very much a part of the people
+						that you write about. Don't you think that, though you could see stories
+						quickly in the lives of this imagined Maine group of people, it would take
+						you a long time to get on to their talk, their pronunciation, and so forth?
+							<event desc="end of recording"/></u>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

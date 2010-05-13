@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio23_1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio23_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio23_1</idno>
+				<idno type="analog tape">T-142a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<p id="M">Moderator</p>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+				<person>
+					<p id="FS">Floyd Stovall</p>
+				</person>
+				<person>
+					<p id="JC">John Coleman</p>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+				<person>
+					<p id="AKD">A. K. Davis</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1958-04-24">24 April 1958</date>
+					<locale>Undergraduate Writing Class</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 24 April 1958</head><head>OCCASION: Undergraduate Writing Class</head>
+				<head>TAPE: T-142a</head><head>LENGTH: 33:46</head>
+				<head>READING: "A Word to Young Writers"</head>
+				<div2 type="dialog" id="wfaudio23_1.1" start="00:00:04.06" end="00:00:36.06">
+					<head>Faulkner's Introduction</head>
+					<u who="WF">We're both given to stage fright.
+					I hope we're both well enough known here by now to where we don't need too much
+						introduction. Am I talking right, you think?  <event desc="audience laughter"/> This would be addressed
+						to—to young writers. It's a suggestion more than a—an idea.
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.2" start="00:00:36.10" end="00:01:49.09">
+					<head>Speech, Excerpt 1</head>
+					<u who="WF">
+					<writing type="speech">Two years ago President Eisenhower conceived a plan based
+						on an idea which is basically a sound one. This was that world conditions,
+						the universal dilemma of mankind at this moment, are what they are simply
+						because individual men and women of different races and tongues and
+						conditions cannot discuss with one another these problems and dilemmas,
+						which are primarily theirs, but must attempt to do so only through the
+						formal organizations of their antagonistic and seemingly irreconcilable
+						governments. That is, that individual people in all walks of life should be
+						given opportunity to speak to their individual opposite numbers all over the
+						earth—laborer to laborer, scientist to scientist, doctors and
+						lawyers and merchants and bankers and artists to their opposite numbers
+						everywhere. There was nothing wrong with this idea. Certainly no
+						artist—painter, musician, sculptor, architect, or
+						writer—would dispute it because this, trying to communicate man
+						to man regardless of race or color or condition, is exactly what every
+						artist has already spent all his life trying to do, and as long as he
+						breathes, will continue to do.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.3" start="00:01:49.10" end="00:03:27.88">
+					<head>Speech, Excerpt 2</head>
+					<u who="WF">
+					<writing type="speech">What doomed it, in my opinion, was symptomized by the
+						phraseology of the President's own concept—laborer to laborer,
+						artist to artist, banker to banker, tycoon to tycoon. What doomed it, in my
+						opinion, was an evil inherent in our culture itself. An evil quality
+						inherent in and perhaps necessary, though I do—though I, for one,
+						do not believe this last, in the culture of any country capable of enduring
+						and surviving through this period of history. This is the mystical belief,
+						almost a religion, that individual man cannot speak to individual man
+						because individual man can no longer exist. A belief that there is no place
+						anymore where individual man can speak quietly to individual man of such
+						simple things as honesty to oneself and responsibility toward others and
+						protection for the weak and compassion and pity for all, because such
+						individual things as honesty and pity and responsibility and compassion no
+						longer exist, and man himself can hope to continue only by relinquishing and
+						denying his individuality into a regimented group of his arbitrary,
+						factional kind, arrayed against an opposite opposed arbitrary, factional,
+						regimented group, both filling the same air at the same time with the same
+						double-barreled abstractions of "peoples' democracy" and "minority rights"
+						and "equal justice" and "social welfare"—all the synonyms which
+						take all the shame out of irresponsibility by not merely inviting but even
+						compelling everyone to participate in it.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.4" start="00:03:27.89" end="00:05:18.42">
+					<head>Speech, Excerpt 3</head>
+					<u who="WF">
+					<writing type="speech">So, in this case—I mean the President's
+						People-to-People Committee—the artist, too, who has already spent
+						his life trying to communicate simply people-to-people the problems and
+						passions of the human heart and how to survive them or, anyway, endure them,
+						has in effect been asked by the president of his country to affirm that
+						mythology which has—which he has already devoted his life to
+						denying: the mythology that one single individual man is nothing, and
+						can—can have weight and substance only when organized into the
+						anonymity of a group where he will have surrendered his individual soul for
+						a number. It would be sad enough if only at such moments as this—I
+						mean, formal recognition by his country of the validity of his life's
+						dedication—did the artist have to run full-tilt into what might be
+						called almost a universal will to regimentation, a universal will to
+						obliterate the humanity from even—from man even to the extent of
+						relieving him not only of moral responsibility, but even of physical pain
+						and mortality, by effacing his individuality into any—it does not matter
+						which as long as he has vanished into one of them—nationally-recognized
+						economic group by profession or trade or occupation or income-tax bracket
+						or, if nothing else offers, finance-company list. His tragedy is that today
+						he must even combat this pressure, waste some part of his puny but, if he is
+						an artist, precious individual strength against this universal will to
+						efface his individual humanity, in order to be an artist. Which comes at
+						last to the idea I want to suggest, which is what seems to me to be the one
+						dilemma in which all young writers today participate.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.5" start="00:05:18.43" end="00:05:49.80">
+					<head>Speech, Excerpt 4</head>
+					<u who="WF">
+					<writing type="speech">I think that perhaps all writers, while they are hot,
+						working at top speed to try to get said all they feel the terrific urgency
+						to say, don't read the writers younger, after themselves. Perhaps for the
+						same reason which the sprinter or the distance-runner has—he does
+						not have time to be interested in who is behind him or even up with him, but
+						only in who is in front. That was true in my own case, anyway, so there was
+						a gap of about twenty-five years during which I had almost no acquaintance
+						whatever with contemporary literature.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.6" start="00:05:49.76" end="00:08:17.45">
+					<head>Speech, Excerpt 5</head>
+					<u who="WF">
+					<writing type="speech">So, when a short time ago I did begin to read the
+						writing being done now, I brought to it not only ignorance but a kind of
+						innocence, freshness, what you might call a point of view and an
+							interest virgin of preconceptions. Anyway, I got
+						from the first story an impression which has repeated itself so consistently
+						since that I shall offer it as a generalization. This is, that the young
+						writer of today is compelled by the present state of our culture, which I
+						tried to describe, to function in a kind of vacuum of the human race. His
+						characters do not function, live, breathe, struggle, in that moil and seethe
+						of simple humanity as did those of our predecessors who were the masters
+						from whom we learned our craft—Dickens, Fielding, Thackeray,
+						Conrad, Twain, Smollett, Hawthorne, Melville, James. Their names are legion
+						whose created characters were not just weaned but even spawned into a moil
+						and seethe of simple human beings whose very existence was an affirmation of
+						an incurable and indomitable optimism—men and women like
+						our—themselves, understandable and comprehensible even when
+						antipathetical, even in the very moment while they were murdering or robbing
+						or betraying you, since theirs too were the same simple human lusts and
+						hopes and fears uncomplicated by regimentation or group compulsion. A moil
+						and seethe of humanity into which they could venture, not only unappalled
+						and welcome, but with pleasure too, since with no threat of
+						harm—and with no threat of harm since the worst that could happen
+						to them would be a head butt by what was only another human head. An elbow
+						or a knee skinned, but that too was only another human knee or elbow which
+						did the skinning. A moil and seethe of mankind which accepted and believed
+						in and functioned according, not to angles, but to moral principles. Where
+						truth was not where you were standing when you looked at it, but was an
+						unalterable quality or thing which could and would knock your brains out if
+						you did not accept it or at least respect it. While today the young writer's
+						characters must function not in individuality but in isolation, not to
+						pursue in myriad company the anguishes and hopes of all human hearts in a
+						world of a few simple, comprehensible truths and moral principles, but to
+						exist alone inside a vacuum of facts which he did not choose and cannot cope
+						with and cannot escape from like a fly inside an inverted tumbler.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.7" start="00:08:17.45" end="00:09:22.00">
+					<head>Speech, Excerpt 6</head>
+					<u who="WF">
+					<writing type="speech">Let me repeat. I have not read all the work of this
+						present generation of writing. I have not had time yet. So I must speak only
+						of the ones I do know. I am thinking now of what I rate the best one,
+						Salinger's <hi rend="italic">Catcher in the Rye</hi>, perhaps because this
+						one expresses so completely what I have tried to say. A youth, father to
+						what will—must—someday be a man, more intelligent than some and more
+						sensitive than most, who—he would not even have called it by
+						instinct because he did not know he possessed it because God perhaps had put
+						it there, loved man and wished to be a part of mankind, humanity, who tried
+						to join the human race and failed. To me, his tragedy was not that he was,
+						as he perhaps thought, not tough enough or brave enough or deserving enough
+						to be accepted into humanity. His tragedy was that when he attempted to
+						enter the human race, there was no human race there. There was nothing for
+						him to do save buzz, frantic and inviolate, inside the glass wall of his
+						tumbler, until he either gave up or was himself, by himself, by his own
+						frantic buzzing, destroyed.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio23_1.8" start="00:09:22.00" end="00:10:31.02">
+					<head>Speech, Excerpt 7</head>
+					<u who="WF">
+					<writing type="speech">One thinks of course immediately of Huck Finn, another
+						youth already father to what will some day soon now be a man. But in Huck's
+						case all he had to combat was his small size, which time would cure for him.
+						In time he would be as big as any man he had to cope with. And even as it
+						was, all the adult world could do to harm him was to skin his nose a little.
+						Humanity, the human race, would and was accepting him already. All he needed
+						to do was just to grow up into it. That is the young writer's dilemma as I see
+						it. Not just his, but all our problems is to save mankind from being
+						de-souled as the stallion or boar or bull is gelded, to save the individual
+						from anonymity before it is too late, and humanity has vanished from the
+						animal called man. And who better to save man's humanity than the writer,
+						the poet, the artist, since who should fear the loss of it more, since the
+						humanity of man is the artist's life's blood? <event desc="applause"/></writing>
+					
+					</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.9" start="00:10:30.75" end="00:10:49.04">
+					<head>Audience Prompt</head>
+					<u who="M">Mr. Faulkner has consented
+					to answer any questions you might have about this paper or about his works. So
+						<unclear>who shall lead</unclear> the questions?</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.10" start="00:10:55.95" end="00:12:10.41">
+					<head>Anse</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">In <hi rend="italic">As I Lay Dying,</hi> in the soliloquy of Addie
+					Bundren, she says that when she first met Anse that he had a good farm, and that
+					he was on that farm, and that he farmed it himself, and one gets the impression that
+					he was doing a pretty good job of it, and yet when we see him in the book, he's
+					a—a ne'er do well. He—he depends on his neighbors. I was
+					wondering if there were—was any implication that Addie might have
+						sapped his will to—to work or his will to be a
+					personality?</u>
+				<u who="WF">No, I wouldn't say so. I suspect that Anse didn't like to farm anyway,
+					and he was just waiting until he could find a wife and get some children to do
+					the work for him. And soon as he got some children to do the work, he quit.
+					That's the sort of Anse Bundrens that I'm familiar with in my country, and I
+					imagine he exists in Virginia, too. <event desc="audience laughter"/>
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.11" start="00:12:23.73" end="00:13:47.25">
+					<head>Reason for Speech</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">May I ask you what moved you to write that essay? I find it very profound
+					<inaudible/>.</u>
+				<u who="WF">I—I reckon that—that anything you have devoted a
+					great deal of your time to, any sort of craft, whether it's an important one or
+					not, becomes pretty serious to you, and maybe when you get along you think,
+					"Well, I have—if it's not valid, I have wasted a lot of pretty valuable
+					time," and so I prefer to believe that it is valid, and it should continue, and
+					the people to carry it on are the people that come after me, and if—if
+					my thoughts about it are—are worth anything, whether they are or not,
+					it had better be expressed so the young people after me can take a look at them
+					and say, "It's nonsense," or not. I suppose that's the reason. That—no
+					particular need to—to improve writing or to better man's condition
+					maybe, any more than any artist has. I think maybe it's not so much to better
+					man's condition but maybe to uplift his heart, to give him pleasure, fun.
+					Anyway, it becomes important to the one who's spent all his life laying the
+					brick, and he wants the trade of bricklaying to continue.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.12" start="00:13:49.69" end="00:15:14.88">
+					<head>Young Writers' Predicament</head>
+					<u who="FS">Mr. Faulkner, do you—do you feel that this predicament of the young writer is one which he has in his
+					individual resources the ability to escape from, or is he the victim of a social
+					condition which he can't possibly escape?</u>
+				<u who="WF">He does not need to be victim of it if he does not want to. He inherited
+					this condition, and possibly he himself knows there's—something somewhere is
+					wrong, but he doesn't know what. It may be someone who is old enough to have
+					seen the other side of this <unclear>nettle</unclear> may be able to tell him,
+					"This is where the trouble is." No, sir, I don't think that—that he's
+					the victim of it. He simply inherited a condition which is not too good,
+					but—but I doubt if anything can stop the artist from being an artist,
+					and I doubt if any condition, economic or social or any other, is going to
+					prevent the good work being done, that even without anybody to say, "This is
+					what my hindsight tells me is wrong," will—will aid
+					him—well, it will shorten the time maybe. He doesn't need to be told
+					what's wrong. He will—will solve that problem himself if he's going to
+					keep working, and the good one will keep working.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.13" start="00:15:14.84" end="00:16:21.08">
+					<head>Ike's Predicament</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Mr. Faulkner, Isaac McCaslin in "The Bear" relinquishes his heredity. Do
+					you think he may be in the same predicament as modern man, under the same
+					conditions that he can't find a humanity that he can fit in with?</u>
+				<u who="WF">Well, there are some people in any time and age that—that
+					cannot face and cope with the problems. There seems to be three stages. The
+					first says, "This is rotten. I'll have no part of it. I will—will take
+					death first." The second says, "This is rotten. I don't like it. I can't do
+					anything about it, but at least I will not participate in it myself. I will go
+					off into a cave or—or climb a pillar to sit on." The third says, "This
+					stinks, and I'm going to do something about it." McCaslin is the second. He
+					says, "This is bad, and I will withdraw from it." What we need are people who
+					will say, "This is bad, and I'm going to do something about it. I'm going to
+					change it."
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.14" start="00:16:22.90" end="00:20:02.57">
+					<head>Modern Poet's Status</head>
+					<u who="WF"> Yes, sir.</u>
+				<u who="Q">There is a great problem of the status in the—of the writer and
+					the poet in our society. I think you have done a great deal to try to fix it. It
+					occurs to me that after some thirty-three years of—I'm
+						fifty-two—I started writing poetry when I was about
+					eighteen when I was trying to find my way and really always <unclear>felt a sort
+						of</unclear> shame in being a poet. Until the other day, a—a man
+					of—whom I consider a man of great dignity took me <unclear>to his
+						pupils who</unclear> study poetry, because I was a poet. Now, I must say he was
+					a Russian who had said <unclear>at</unclear> one time that Russia, the revolution
+					killed its soul, and he said this was a great
+					tragedy for the country. Now, I think always in extremes of the poet and the
+					writer, <inaudible/> <unclear>society,</unclear> and I would suspect that in America we
+					<unclear>are more</unclear> conservative in pushing 
+					<unclear>against that</unclear> enormous conservatism that is in opposition to the
+					complete radicalism of the Russian <inaudible/> <unclear>the opportunities I've
+						had</unclear> over the past few days <inaudible/>. This country which is so really
+					talented was a radical country, a visionary country, has
+					now become crystalized and not writing, so that the poet, I see, from
+						my knowledge as a poet, the poets in San Francisco, you
+						may laugh at it, their—their manifesto is called "Howl."
+					On the other hand, we have our academic—so-called academic poets who
+					are very tame <unclear>because</unclear> they don't howl. They don't know how to
+					shriek, and there's no guts in the middle.  <inaudible/> There are a few people,
+						very few people, who make the synthesis of the romantic and
+						classic, the liberal and conservative <inaudible/>.</u>
+				<u who="WF">Yes, I agree with that to an extent. I think that there're times
+					when—when the voice has more welcome to shout, to howl, than others,
+					but I think that the voice is still shouting and howling even if it's inaudible.
+					I'm convinced that—that it would take a great deal more than any
+					police state to suppress and destroy the heirs to Dostoevsky and Tolstoy. My
+					belief is that they are still writing in Russia. They have to hide it in the
+					chimney or under the floor, but they are still producing the books.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.15" start="00:20:02.58" end="00:21:40.13">
+					<head>Unrecognized Artists</head>
+					<u who="Q">Yes, well very fortunately
+						due to the death of Stalin now, the writers have been
+					freed, and there is a great flourishing, and people were writing, people like
+					<inaudible/> have been writing, others, <inaudible/> has been writing novels, and
+					I—I can't evaluate them, but my friend who knows the Russian
+					literature says they are distinguished works. <inaudible/> But there is another
+						<unclear>sad</unclear> fact that in post-revolution Russia
+						<unclear>the—the artist has</unclear> <inaudible/> but the critics—I think the critics are
+					lacking <inaudible/> have never honored their poets, their
+						visionaries <inaudible/> are always<inaudible/></u>
+				<u who="WF">Well, maybe so. I'm—I'm not too convinced that that has hurt
+					the—the writing, though, has hurt the poet.</u>
+				<u who="Q">No, I suppose <unclear>the poetry</unclear> <inaudible/>.</u>
+					<u who="WF">It would be—it would be pleasanter if he did get recognition and were a—an
+						<unclear>integer</unclear>—or a definite integer in
+					the—the culture of the country, but—but whether he is or
+					not, he's going to continue to—to be a poet and to dedicate his life
+					and his breath to being a poet simply because that's what he likes. That's his
+					cup of tea.</u>
+				<u who="Q">Yes, but it's difficult <inaudible/> the artist needs
+					somehow <inaudible/>.</u>
+				<u who="WF">Well, yes.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.16" start="00:21:40.12" end="00:23:35.83">
+					<head>Modern Dilemma</head>
+					
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">You surely don't mean that this modern dilemma which you've described so
+					well is concerned specifically, for instance, with the poets and artists. Do you
+					think <unclear>humans</unclear>—do you think it applies just to the
+					creative group of people, or do you think it applies more widely?</u>
+				<u who="WF">I think—I would say that—that, of course, it applies to
+					everybody, but—but the creative man will suffer from it. The young man
+					that—that knows "there's something wrong with what I do—I
+					don't know what it is, but I do know there's something wrong." That's because he
+					has not the—the perspective of an older person's hindsight to measure
+					against. I—yes, I think anyone would be hurt. A—a doctor
+					would be a better doctor for being more of a humanitarian, a better lawyer. I
+					was thinking more of people who deal with the human spirit. That is, the
+					teacher, not the doer, but the teacher, which are men in—in the
+					colleges, the—the priests, the—the artists,
+					whose—whose craft, whose vocation is—is showing man the
+					splendor of his long history, that a—a frail web of—of flesh
+					and bone, mostly water, stuck together in a ramshackle world held together by
+					electricity which may collapse at any moment, yet somehow he still believes in
+					it and still gets fired up enough to—to produce poetic records of man's struggle
+					which are still pleasing and still uplift the human hearts five hundred years
+					after they were written, done.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.17" start="00:23:37.36" end="00:25:32.37">
+					<head>Modernity v Individualism</head>
+					<u who="Q">Mr. Faulkner?</u>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q"><unclear>I wonder</unclear> what you would say <inaudible/> this current cycle of
+						decay <inaudible/>?</u>
+				<u who="WF">Well, I don't quite like the word decay. I—as I see it, it was
+					because of—of overpopulation maybe and the—the mistakes
+					of—that we had made which brought on the wars have compelled people
+					to—to coalesce in order to—to get along, to live, that more
+					children are being born every year with no provisions to take care of the ones
+					that we already have, that the man who insists on being an eccentric and an
+					individual is in everybody else's way. He's got to belong to something simply to
+					keep the wheels running smooth, which is fine for people to get along, but that
+					is bad for the artist, for the man to paint in and compose the music and write
+					the poetry.</u>
+				<u who="Q">What year <unclear>was it</unclear> around—what year would you
+					say this <unclear>period</unclear> began?</u>
+				<u who="WF">Oh, around 1912, '13, '14, maybe.</u>
+				<u who="Q">In other words, before the First World War?</u>
+				<u who="WF">Yes, the seeds of it were implicit in the turn of the century, though
+					maybe it began—well, '28, '29, and the collapse of Wall Street. That
+					may have been the first milepost of it.  Though it's hard to say just where it
+					did begin. I would say that's—was a—a sharp mark to measure from.  Say
+					'29 maybe.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.18" start="00:25:33.00" end="00:27:09.10">
+					<head>Art vs Reform</head>
+					<u who="Q">Mr. Faulkner?</u>
+				<u who="WF">Yes, sir.</u>
+				<u who="Q">After the writer or poet has gotten the howl out of his system,
+					what—in what way do you think that he can influence his society to
+					become more individualistic?</u>
+				<u who="WF">Well, if he's going to put in the time on influencing his society, he
+					ain't going to have much time left to be a good poet. <event desc="audience laughter"/> 
+					I think that he had better go ahead and—and be a good
+					poet and let his influence on society take care of itself, but I think
+					he—that he is still got to—to write his poetry about the
+					simple fundamental verities of—of the human heart in conflict with
+					itself, not in conflict with labor unions, nor with high prices, nor with, "How
+					am I going to get a Cadillac when all I've got now is a Mercury." He's got to
+					stick to the simple, fundamental things, which are the anguishes and troubles of
+					his own aspirations and his failed capability and capacity to—to
+					accomplish what he can <unclear>dream</unclear>. That's what the—the—the 
+					music, the poetry is about. It's—it's not about economics nor
+					belonging to groups nor liberal movements nor improving mankind because the
+					artist really don't really give a damn about mankind. He's too busy. He's busy being an
+					artist, writing poetry or composing music, taking pictures.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.19" start="00:27:09.11" end="00:27:51.05">
+					<head>Art and Environment</head>
+					<u who="FS">Mr. Faulkner?</u>
+				<u who="WF">Yes, sir?</u>
+				<u who="FS">I'm <unclear>going</unclear> to ask a question which you may think
+					trivial. Suppose we had the ideal society, economic society, where everybody had
+					leisure and comfort and all the Cadillacs we could use. What would that do, if
+					anything, to literature <unclear>or</unclear> poetry?</u>
+				<u who="WF">I think the poet would still be a poet. He'd prefer to be a poet than to
+					have the Cadillac. There may be a culture which would compel him to have that
+					Cadillac, but he would be a poor Cadillac owner just like he'd be a poor doctor
+					or lawyer because he's going to be a poet first. <event desc="audience laughter"/>
+				</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.20" start="00:27:53.20" end="00:30:16.05">
+					<head>Snopes v Holden Caulfield</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q"><unclear>Could you</unclear> compare Wall Street Panic Snopes and Holden
+					Caulfield, please? What advantages or qualities are there in Wall Street Panic
+					that Holden Caulfield has not now and never did have?</u>
+				<u who="WF">Wall Street Panic knew where he wanted to go. He knew that he could get
+					there provided he observed a few of the rules of the game, which he did, and he
+					got there. I think that Wall Street Panic wasn't really a Snopes, that probably,
+					actually, he was not a Snopes, that—that his—his father's
+					mama may have done a little extra-curricular night work, <event desc="audience laughter"/> and that he really wasn't a Snopes. He was
+					a—a—more of a simple human being than the other Snopes were.
+					But he—he wanted to be independent, wanted to make money, but he had
+					rules about how he was going to do it. He wanted to make money by simple
+					industry, the old rules of—of working hard and saving your pennies, not by taking
+					advantage of anybody.</u>
+				<u who="Q">Could you contrast him please with <inaudible/> to Holden Caulfield in <hi rend="italic">Catcher in the Rye</hi>?</u>
+				<u who="WF">Well, I think that they were completely different. There's almost no
+					grounds that—that they would meet on. That Caulfield was a—a
+					sensitive young man that wanted to love man and couldn't find him. Wall Street
+					Panic Snopes was going to get along with man, but he didn't especially love man
+					nor—nor did he have anything against man. He simply wanted
+					to—to make a little money. He wanted success in—in his own
+					terms of—of hard work, industry, which Caulfield didn't. Caulfield
+					wanted to love man, to be accepted by mankind, and he couldn't because in his
+					sensitive terms, mankind wasn't there when he tried to touch it.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.21" start="00:30:16.06" end="00:31:46.07">
+					<head>Holden's Tragedy</head>
+					<u who="JC">Mr. Faulkner, you said earlier
+					that Holden Caulfield's tragedy was the fact that mankind wasn't there or that
+					Holden Caulfield didn't think he was there?</u>
+				<u who="WF">He wasn't there.</u>
+				<u who="JC">I sometimes thought the tragedy of Holden Caulfield was that he did not
+					fall, in a way, that if he fell off into humanity he might've found humanity.</u>
+				<u who="WF">Well, he would have to have been tougher than he was. If he had been
+					tougher than that, there wouldn't have been any story in the first place, but
+					his—his story was an—an intelligent, very sensitive young
+					man who was in this—this day and time was an anachronism, was almost
+					an obsolescence, trying to cope with and struggle with—with the
+					present-day world, which he was not fitted for. When—he didn't want
+					money. He didn't want position, anything. He just wanted to find man and wanted
+					something to love, and he couldn't. There was nothing there. The nearest he came
+					to it was his sister who was a child, and—and though she tried to love
+					him, she couldn't understand his problem. The only other human beings he ran
+					into, he had preconceptions to doubt, the—the teacher which could've
+					helped him, and he suddenly began to suspect the teacher's motives.</u></div2>
+				<div2 type="dialog" id="wfaudio23_1.22" start="00:31:46.08" end="00:33:42.10">
+					<head>Holden and Quentin</head>
+					<u who="B">Sir, this sounds an awful lot like
+					a novel called <hi rend="italic">The Sound and the Fury</hi>,
+					<unclear>with</unclear> Quentin Compson wanting to love people and the same sort
+					of relationship with his sister.</u>
+				<u who="WF">I don't quite agree with you. I don't believe that—that
+					Quentin and Holden were very much alike in—except in being a little too sensitive
+					and coming from a somewhat similar background of—of people that
+					were—were over-intelligent but incapable of—of any strength
+					of—of mutual affection and tenderness, which, as I got it,
+					was—was Holden's home.</u>
+				<u who="AKD">Mr. Faulkner, Holden wasn't grown up, and Quentin was grown up. He was
+					holding onto something.  <inaudible/>  He was a case of arrested
+					development, and Holden was a case of <inaudible/>. Isn't that true?</u>
+				<u who="WF">Yes, sir, there was that difference.</u>
+				<u who="AKD">I don't know whether I read Quentin right or not, but he was holding onto
+					an ideal, wasn't he, sir?</u>
+				<u who="WF">Yes, sir.</u>
+					<u who="AKD">That—that simply could not be lived up to in his terms.</u>
+				<u who="WF">Yes, that's right. That couldn't have been lived up to in any time
+					maybe. But Holden Caulfield was simply looking for something which should be
+					everybody's right, not only a privilege, but everybody's right, to find mankind
+					and—and love mankind and be accepted into mankind, and he couldn't,
+					because mankind, as I tried to say in my paper <inaudible/> <event desc="end of recording"/></u></div2>
+				</div1>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,10 @@
+<h1>TEI Files</h1>
+
+<%- counter = 0 %>
+
+<ul>
+<% @files.each do |file| %>
+	<%- counter += 1 %>
+	<li><%= link_to "File", :controller => "transcripts" ,:action=> "show", :id => "#{counter}" %></a></li>
+<% end %>
+</ul>

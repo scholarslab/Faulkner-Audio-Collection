@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio17</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio17</idno>
+                <idno type="analog tape">T-134</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-20">20 May 1957</date>
+                    <locale>Press Conference</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 20 May 1957</head>
+                <head>OCCASION: Press Conference</head>
+                <head>TAPE: T-134</head><head>LENGTH: 32:05</head>
+                
+                <div2 type="dialog" id="wfaudio17.1" start="00:00:02.51" end="00:00:08.14">
+                    <head>Introduction</head>
+                    <u who="M"> <inaudible/><unclear>pick up from where he left off this
+                        morning</unclear>—</u></div2>
+                <div2 type="dialog" id="wfaudio17.2" start="00:00:08.14" end="00:02:02.29">
+                    <head>The Rising Generation</head>
+                    <u who="Q">Mr. Faulkner, what I would sort of like to ask you is, after four months
+                    of contact with students at the University, sort of what you feel in the rising
+                    generation, whether—we've heard a lot of talk that they 
+                        are very much driven toward conformity and
+                    security, just the things I think that you probably would oppose in anyone who
+                    wanted to be a writer. But I'm thinking more of what you see in the students
+                    you've talked to?</u>
+                <u who="WF">Tell me that again. I got lost. <event desc="audience laughter"/></u>
+                <u who="Q">I'm sorry <inaudible/>  my sentence was
+                    <unclear>involved</unclear>. What I—what I'm thinking of is what
+                    you—what you think of the generations of students that you've had
+                    contact with over the last four months here and possibly a year or so
+                    ago—well, let's limit it to the United States. Are they more
+                    conventional than they were when they—when you were their age? Are
+                    they more seeking of conformity? What—well, what—are they
+                    less intellectually curious? Are they less daring?</u>
+                <u who="WF">No, I would say that they are more intellectually curious. They are more
+                    daring, but they have more pressure to conform. There's—there's more
+                    and more constant pressure to belong to something, to be submerged into a mass,
+                    that they have got to—got to struggle with. But I would say that they
+                    are—they are more curious than they were, that they have more
+                    opportunities to be curious, to—to know, to keep up with
+                    what—what cooks, what does go on.  But there is that—that
+                    tremendous pressure to conform, which I think they don't—don't always
+                    realize is there.</u></div2>
+                <div2 type="dialog" id="wfaudio17.3" start="00:02:03.76" end="00:03:48.53">
+                    <head>Resisting Conformity</head>
+                    <u who="Q">Well, do you think most of them are resisting it? I would doubt it.</u>
+                <u who="WF">I think that all young people resist it, but there's no ordered
+                    resistance. They themselves don't—don't realize how much and how constant that
+                    pressure is or that they would confederate against it. They are given too many
+                    things that take the form of—of bribery to not resist it, to be
+                    unaware of it.</u>
+                <u who="Q">What sort of bribery?</u>
+                <u who="WF">Well, the—the—the pleasant things
+                    of—of—of existence, of being a student, the motor cars, and
+                    the—the things that make the—the day-by-day life of a
+                    student simpler than it used to be when there was some question to keep warm in
+                    winter. You had to go to a little trouble to keep a fire going, if nothing else.
+                    There were—it was a little more difficult to—to find
+                    pleasure. You couldn't go out and go to the theater by paying sixty or seventy
+                    cents at the moving-picture show every night. The books were not always
+                    available. And because things like that are available, the student
+                    is—the young man is—is tricked into not realizing
+                    the—the pressure on him to belong to a mass or a group which wants to
+                    do his thinking for him, to give him the ideas that that group that—of
+                    the overlords of the group and mass want him to have. But I'm convinced he still
+                    resists it, and it breaks out in all sorts of—of queer and
+                    unpredictable places.</u></div2>
+                <div2 type="dialog" id="wfaudio17.4" start="00:03:48.53" end="00:04:24.05">
+                    <head>Individualism at UVA</head>
+                    <u who="Q">What are they, sir?</u>
+                <u who="WF">Well, I think of young Mr. Plowden-Wardlaw, whose avocation seems to be
+                    taking part in a Calypso band, yet suddenly he and his friends on the magazine
+                    here have thought of that issue stating different notions about segregation.
+                    That's interesting. He should—they should do more with that. There
+                    should be more of that in the University, I think, than there is. But that's a
+                    very good, a very hopeful symptom.</u></div2>
+                <div2 type="dialog" id="wfaudio17.5" start="00:04:30.50" end="00:05:57.78">
+                    <head>Virginia and the South</head>
+                    <u who="Q">You said something about wishing that the University of Virginia and the
+                    State of Virginia would take more leadership in the South. You were asked that
+                    question the other night in conversation.</u>
+                <u who="WF">Well, yes, that's because of the—the respectful, almost
+                    abject, reverence which the rest of the South has toward the State of Virginia
+                    and toward the University, that when the State of Virginia makes mistakes which
+                    should have been made not by Virginia but by Mississippi or Alabama, we are a
+                    little ashamed.</u>
+                <u who="Q">Do you have any mistakes in mind?</u>
+                <u who="WF">Well, the unhappy business of the invitations they sent out for that
+                    dinner, and they found that some of them had gone to Negroes, and they had to
+                    recall them, that sort of thing. That's the sort of thing that you expect
+                    Mississippi to do but not Virginia. To the—the rest of the South,
+                    Virginia must be like Caesar's wife.</u></div2>
+                <div2 type="dialog" id="wfaudio17.6" start="00:06:22.49" end="00:08:21.62">
+                    <head>Student-Playwright</head>
+                    <u who="Q">Mr. Faulkner, last week you went to see a play written by one of the
+                    students here. I would be interested in any comments you would care to make on
+                    the play.</u>
+                <u who="WF">Hopeful. It was another instance of—of—of that
+                    pressure to conform. I think that a—a sad and tragic thing, a
+                    condition which the—the young writer today has to face is that the
+                    middle class has been broken down. It no longer exists as a—a homogeneous
+                    condition recognized by everyone everywhere. It exists, but it exists,
+                    as—as you might say, individual cells. The—the best of the
+                    writing of the old days—not so much done by members of the middle
+                    class, but it was about the—the tragedies, the problems which existed
+                    in the middle class, and now there's no middle class anymore as
+                    a—a—a—a definite condition recognizable everywhere
+                    to create those problems, and so the—the plays have a—a
+                    flavor a little too preciously proletarian, that they are concerned with
+                    conditions and not problems of the human heart. Mr. Coffey's play showed
+                    a—it was—was very hopeful, I think. It—it showed a—a
+                    sense of—of his craft, and it was very well done to have been done by
+                    amateurs because that was pretty difficult for amateurs to do, that sort of
+                    thing, to make it believable.</u></div2>
+                <div2 type="dialog" id="wfaudio17.7" start="00:08:24.71" end="00:09:44.00">
+                    <head>The Middle Class</head>
+                    <u who="Q">Mr. Faulkner, you say the middle class, but if there is no more middle
+                    class, what do you think has happened to the middle class
+                        <unclear>when</unclear> there was one?</u>
+                <u who="WF">Conditions of over-population, the—the confederation of
+                    the—the various labor unions which are—are—have
+                    transposed, are transposing what was the proletariat into a new middle class.
+                    I—by the middle class having hard and fixed recognizable boundaries, I
+                    mean that class which decreed that—that there should be banks, a
+                    stable currency. There should be churches. There should be schools. A class in
+                    which even the ones who couldn't cope financially were still supported by the
+                    middle class. They still belonged to it. Now, that class doesn't exist with the
+                    rigid boundaries, so that—that when the—the ex-member of it,
+                    the member of what was the middle class, has failed financially, he is
+                    submerged. He is passed by people who rise through the old middle class without
+                    having learned any of the discipline, the responsibility of their class, of a
+                    middle class.</u>
+                    </div2>
+                    <div2 type="dialog" id="wfaudio17.8" start="00:09:45.51" end="00:10:28.68">
+                        <head>The Rise of Snopes</head>
+                <u who="Q">Is part of that transition what you recorded in <hi rend="italic">The
+                        Town</hi>? —</u>
+                <u who="WF">Well, it's—what everybody writing records. I think
+                    it's—it definitely is a fact, and every—</u>
+                    <u who="Q">
+                    <inaudible/> rise.
+                </u>
+                <u who="WF">Well, people like the Snopeses always have risen—risen
+                    in a country like this where there is freedom in which
+                    to—to make the best of your capacities.  But there was no middle class
+                    to give him a check—probably he couldn't have risen as rapidly as he
+                    did fifty years ago when there was a definite and rigid middle class.</u></div2>
+                <div2 type="dialog" id="wfaudio17.9" start="00:10:31.67" end="00:11:20.42">
+                    <head>A More Public Role</head>
+                    <u who="Q">Mr. Faulkner, I'm interested in something that seems to have happened to
+                    you. It seemed to me, using the Nobel Prize as a mark in time rather than any
+                    special significance, that you seem to have moved to a certain extent from
+                    communicating only through your works to—well, for example, going to
+                    Japan or coming to the University of Virginia and going to other places for the
+                    State Department. I wondered if this marked any sort of change or departure in
+                    your own thinking, or sort of why you moved out.</u>
+                <u who="WF">Well, sir, you are constantly changing. Your skin, your fingernails, is
+                    constantly changing. The—the only alternative, you know, is death.  And
+                    let's hope that we won't have to keep on doing tomorrow what we are doing today.
+                    There wouldn't be much fun in it. </u></div2>
+                <div2 type="dialog" id="wfaudio17.10" start="00:11:26.40" end="00:11:51.89">
+                    <head>Southern Baptists</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">In your talk to the students, you said, as I remember, that it's a
+                    question whether Southern Baptists are religious, and I was wondering if
+                    you could elaborate on that and say if they are not religious, then
+                    what are they?</u>
+                <u who="WF">Well, they're <event desc="laughter"/> Southern Baptist. I think that is
+                    an—an emotional condition that has nothing to do with God or <event desc="audience laughter"/> 
+                    politics or anything else.</u></div2>
+                <div2 type="dialog" id="wfaudio17.11" start="00:12:01.55" end="00:12:57.94">
+                    <head>The Baptist Condition</head>
+                    <u who="Q">What is involved in this emotional condition of the
+                    Southern—Southern Baptist?</u>
+                <u who="WF">It came from—from times of hardship in the South where there
+                    was little or no food for the human spirit, where there were no books, no
+                    theater, no music, and life was pretty hard. It—a lot of it happened
+                    out in the sun, for very little reward, and that was the only escape they had. I
+                    think that is the—the human spirit aspiring toward something. Of
+                    course, it got warped and twisted in the process.</u>
+                <u who="Q">Now this—this condition, do you limit that to Southern Baptists
+                    or do you visualize something larger than actually the Baptist churches in the
+                    South?</u>
+                <u who="WF">Well, I imagine that it exists almost everywhere, though it may take
+                    other forms. It would exist wherever people have been starved, spiritually
+                    starved.</u></div2>
+                <div2 type="dialog" id="wfaudio17.12" start="00:13:06.23" end="00:13:56.33">
+                    <head>His Time at UVA</head>
+                    <u who="Q">Mr. Faulkner, one other question, can you—have you gotten
+                    anything particularly out of this four months in Charlottesville yourself, and
+                    can you, at this point, in any way distill sort of any feeling you might have
+                    about Charlottesville and about the University?</u>
+                <u who="WF">The writer writes from the three tanks I spoke of—observation,
+                    imagination, and experience. He's got to constantly replenish them and fill
+                    them, and so I—I couldn't say exactly what I've got from
+                    my—my stay here to replenish those tanks, though the tanks have been
+                    replenished because, as—as we agreed, life is in constant flux, in
+                    constant change, and the time that you don't learn something new every day you're 
+                    dead.</u></div2>
+                <div2 type="dialog" id="wfaudio17.13" start="00:13:59.13" end="00:15:28.95">
+                    <head>A College Education</head>
+                    <u who="Q">Based on your four months here, I was wondering if your opinion of
+                    university education or college education has changed. As I understand, when you
+                    first came here, you said that a university—a college education was
+                    good for some people and not—not necessary for others, and I was
+                        wondering if—whether your opinion has been modified at all.</u>
+                <u who="WF">No, because I've had that opinion for about fifty years. <event desc="audience laughter"/> 
+                    I—I think that—that all
+                    education in this country has got to be overhauled. I think that there's
+                    a—it's basically bad when—when its premise is that everybody
+                    must be educated willy nilly, that some people don't deserve to be educated, and
+                    if everyone is to be educated, unless enough money is spent on education to
+                    where the—the best student can have the best of the treatment, the
+                    best of the education, then he is going to have to be stultified and held back
+                    by a scheme which has got to take the—the one that is least fitted.
+                    Probably the—the ideal form of education would be one professor to one
+                    student, or one professor to no more than ten students.</u></div2>
+                <div2 type="dialog" id="wfaudio17.14" start="00:15:51.02" end="00:17:12.70">
+                    <head>Cultural Interchanges</head>
+                    <u who="Q">Last week you were talking about the cultural interchange through the
+                    State Department and wishing more of it could be done and done better. Do you
+                    care to comment on that?</u>
+                <u who="WF">I think my opinion is that we go about it the wrong way. We should stop
+                    trying to sell our country to Europe or to anywhere else. We should bring the
+                    people that don't like our country to this country and let them alone and let
+                    them see what it is about it that makes us like it.  That
+                    it's—we—we try to—to choose a people who are
+                    already our friends and then sell them some illusory picture of America. Let's
+                    bring our enemies here. We—we can't keep communist spies out of this
+                    country anyway. You might just as well bring all the communists that will come
+                    here and let them see what there is about this country that makes us like it,
+                    not try to sell them anything. Just let them see a country where everybody has a
+                    job, and he can always hope for a Cadillac. His children can go to the corner
+                    drugstore and—and get an ice cream cone every day, buy all the junk
+                    that Americans love on the installment plan. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio17.15" start="00:17:28.43" end="00:18:11.60">
+                    <head>Loss of MIddle Class</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you think the thing that has broken down the middle class is
+                    materialism?</u>
+                <u who="WF">No, it's the—the—the terrific increase of
+                    population, people that have got to be cared for, that if we had spent as much
+                    attention to breeding people as we do to breeding horses and dogs, we would've
+                    had a—a better world probably and stayed out of a lot of trouble.
+                    Changing conditions. The machine is responsible for a great deal of it, the
+                    machine that has given us more leisure than we have taught ourselves what to do
+                    with.</u></div2>
+                <div2 type="dialog" id="wfaudio17.16" start="00:18:33.89" end="00:19:49.19">
+                    <head>Improving Colleges</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">You—your statements that you think education should be
+                    overhauled, and you said that you thought it would do good to—if possible, to have
+                    maybe one professor to one student or one to ten students, and that generally I
+                    believe is what colleges are trying to work for. Now, do you think they are on
+                    the right track generally, or do you think they are making some mistakes, and if
+                    so, what mistakes?</u>
+                <u who="WF">I'm sure that they are working toward something like that or maybe even
+                    a better idea, and I'm convinced, too, that—that with—with
+                    all the—the problems, the— the—the social problems
+                    which we face, which is the leisure that we don't know what to do with, with too
+                    many people, with the need for housing, that it's amazing that the—the
+                    colleges advance as they do. That is, if—if suddenly things could be
+                    stopped to give the colleges one year in which to make their plans, they might
+                    do something, but now they can't because here's another flux of—of
+                    young men and women that have got to go to school, and they don't have any
+                    chance to stop and get their breath and take stock and make plans.</u></div2>
+                <div2 type="dialog" id="wfaudio17.17" start="00:20:07.34" end="00:21:03.05">
+                    <head>Comparing Students</head>
+                    <u who="Q">What comparison, if any, can you make really between the Japanese
+                    students you talked to at Nagano and elsewhere and the ones you've found
+                    here?</u>
+                <u who="WF">I don't think that anyone can understand Japanese, so the impression I
+                    got could be completely wrong, <unclear>you see.</unclear> The impression I got
+                    is that they are—that their culture is a culture
+                    of—of—how to phrase it? Of the functioning of
+                    the—of the intellect, not intelligence, but of the intellect,
+                    the—the little clicking of—of—of the wheels that
+                    turn and <unclear>then just</unclear> what it produces don't matter, just so
+                    the—all the little wheels are running constantly.</u></div2>
+                <div2 type="dialog" id="wfaudio17.18" start="00:21:10.48" end="00:22:20.98">
+                    <head>Austrian Students</head>
+                    <u who="Q">You've made a comparison the other night of students, different types of
+                    students in Austria, I believe.  Isn't that true?</u>
+                <u who="WF">Well, sir, I don't remember. I've done a lot of talking in these four
+                    months, but you'd have to look <event desc="audience laughter"/> at the tape
+                    recorder to remember just what it was.</u>
+                <u who="Q">At the University of—it would've been at the University of
+                    Vienna?</u>
+                <u who="WF">I don't know. Keep on. Maybe I'll remember it.</u>
+                    <u who="Q"> With a group who were studying—to whom you were talking in English—were 
+                        studying for Foreign Service and had definite ideas of what they wanted and so forth.  
+                  <inaudible/> They were much more seriously interested in <inaudible/>.</u>
+                <u who="WF">I don't know. Can you help us out on that?</u>
+                <u who="B">No, sir. I don't recall that question or that answer.</u>
+                <u who="WF">Do you remember any more of it, Mr. <unclear>Ranick</unclear>? Maybe
+                    we'll get to it in a minute.</u>
+                    <u who="Q">No. I—that—I was asking partly trying to find what the answer was
+                    because I missed part of it. I was too far back in the room to catch <unclear>it
+                        all</unclear>.</u>
+                <u who="Q">Mr. Faulkner, I remember you <unclear>stated</unclear> <inaudible/>.</u></div2>
+                <div2 type="dialog" id="wfaudio17.19" start="00:22:28.97" end="00:23:31.25">
+                    <head>Cultural Interchange</head>
+                    <u who="Q">Mr. Faulkner, in this cultural interchange you speak of, wouldn't the
+                    student serve as well, the student maybe and his family and <inaudible/> the
+                    communists <inaudible/>?. How would you go about <unclear>arranging</unclear> 
+                    something like that?</u>
+                <u who="WF">I would import the whole family. The—the first requirement
+                    would be that be communists. I would bring the whole family intact. I would
+                    arrange for labor to find a—a—a job for him, a house for
+                    him, and schools for his children. Let them stay two years, and then send them
+                    back, and then bring another intact family. Yes, to bring the father and the
+                    mother and—and two or three children and not bother them at all. Just let them see
+                    this country, how it actually is, instead of trying to give them
+                    the—the false, phony picture which the people that put out our
+                    propaganda seem to think it is.</u></div2>
+                <div2 type="dialog" id="wfaudio17.20" start="00:23:34.71" end="00:24:47.52">
+                    <head>Regional v Universal</head>
+                    <u who="Q">Do you feel that if you had been born and grown up someplace else, you
+                        would've written pretty much the same kind of book and <unclear>laid the environment</unclear>
+                    there or do you think Mississippi is particularly strong in bringing out
+                    the—these conditions in the human race?</u>
+                <u who="WF">No, no, the imagination would be the same. The observation 
+                    we— would be different and assuming that—that the experience,
+                    the—the books were—were Russian books or French books, that
+                    would be a little different.</u>
+                <u who="Q">I mean—</u>
+                <u who="WF">But the people I write about are the same people. People haven't changed
+                    that much. The—the locale is—is just incidental. The writer uses that
+                    because that's easier.</u>
+                <u who="Q">You wouldn't say there's anything significant about—</u>
+                <u who="WF">No.</u>
+                    <u who="Q">—about <inaudible/> Mississippi beyond—</u>
+                <u who="WF">No, it's just because it's there. That's easier. If I wrote about
+                    another locale, I'd have to do some research or risk somebody saying, "Uh-uh,
+                    that's wrong." <event desc="audience laughter"/></u>
+                <u who="Q">Do you feel you would have been influenced also probably to write the
+                    same type of thing?</u>
+                <u who="WF">Yes, people are the same. People don't change that much. Their problems
+                    are the same problems.</u></div2>
+                <div2 type="dialog" id="wfaudio17.21" start="00:24:53.59" end="00:26:30.61">
+                    <head>Advice to Young Writers</head>
+                    <u who="Q">Mr. Faulkner, you may have touched on this previously, but could you give
+                    some advice to young writers? What advice would you give to young writers?</u>
+                <u who="WF">At one time I thought the most important thing was talent. I think now
+                    that—that the young man or the young woman must possess or teach
+                    himself, train himself, in infinite patience, which is to—to try and
+                    to try and to try until it comes right. He must train himself in ruthless
+                    intolerance. That is, to throw away anything that is false no matter how much he
+                    might love that page or that paragraph. The most important thing is insight,
+                    that is, to be—to curiosity—to—to wonder, to mull,
+                    and to—to—to muse why it is that man does what he does. And
+                    if you have that, then I don't think the talent makes much difference, whether
+                    you've got that or not.</u>
+                <u who="Q">How would you suggest that he get this insight? Through experience?</u>
+                <u who="WF">Yes, and then the greatest part of experience is in the books, to read.
+                    To read and to read and to read and to read. To watch people, to
+                    have—to never judge people. To watch people, what they do,
+                    with—with—without intolerance. Simply to—to learn why it is
+                    they did what they did.</u></div2>
+                <div2 type="dialog" id="wfaudio17.22" start="00:26:35.05" end="00:28:46.54">
+                    <head>Symbols</head>
+                    <u who="Q">Mr. Faulkner, I believe earlier you were talking about reading when you
+                    were speaking to the class and <unclear>a lot of it was</unclear> about
+                    symbolism. You said since the writers cannot follow a lot of turns and corners,
+                    the symbols, <unclear>and must get on with the</unclear> writing and that's for
+                    the reader to follow up. I was wondering when you did your reading, did you
+                        follow the turns and the corners in—in looking for symbolism?</u>
+                <u who="WF">No, I didn't. The—the reader reads out of the same three
+                    reservoirs—imagination, observation, and experience that the writer
+                    writes from. The—the reader and the writer in the same culture have
+                    the same cultural background. That is, the same religious symbols are a part
+                    of—of both backgrounds, and it's—the writer, by simple
+                    instinct, will match those symbols and the old stories of his folklore for the
+                    reason that there're—there're only two or three stories anyone can
+                    write, and they are bound to repeat themselves. There're only a certain number
+                    of symbols, which are the cultural background, the spiritual background of
+                    anyone, and, of course, they're going to appear when he begins to translate his
+                    own observation and imagination and experience onto paper. He will use the terms
+                    of his environment, and a part of his environment is the—the
+                    symbolism which he inherited, took in with his mother's milk, you might say, as
+                    a part of his own past, of the—the long generations
+                    which—which bought him to A.D. 1957, and so it's not surprising that
+                    they should all be there, and it's not surprising that he, taking them for
+                    granted, doesn't bother to—to see, "Well, here's where I've used a
+                    symbol, and so I got this symbol how many years ago." That's not too important to
+                    him. It's there.</u></div2>
+                <div2 type="dialog" id="wfaudio17.23" start="00:28:51.85" end="00:29:42.19">
+                    <head>UVA's Young Writers</head>
+                    <u who="Q">Mr. Faulkner, have you found any promising young writers during your stay
+                    here, anyone who looks <unclear>good</unclear> for the future <unclear>of
+                        fiction</unclear>?</u>
+                <u who="WF">Any promising young writer to me is one that's really working at it. His
+                    promise will be in the work. The—the—the symptom of promise
+                    is that he really is interested enough to—to accept the anguish and
+                    the frustration and the disappointment and—and the final fun and—and
+                    ecstasy of working at it, so any young man that is sincerely working at it and
+                    sincerely interested in—in the—the verities of
+                    man's condition shows promise. It may take him years before he lives up to that
+                    promise, but if he's working at it, that's all the promise he needs to give
+                        anybody.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio17.24" start="00:29:46.30" end="00:30:48.19">
+                    <head>Writing and Reading</head>
+                    <u who="WF"> Yes, sir.</u>
+                    <u who="Q">What specifically in your memory did you—you read that helped you more than
+                    anything else?</u>
+                <u who="WF">Everything I ever read, from the telephone book up and down. Trash. The
+                    good stuff. All of it.</u>
+                <u who="Q">It all—</u>
+                <u who="WF">And I think that no writer can say just how much influence he had from
+                    what source. That is, he might be able to go back over his work and pick out
+                    pages or scenes or chapters that show—show a derivation from a
+                    specific source, but then the writer don't do that because by that time he's
+                    busy writing another book.  That he feels at—at perfect liberty to take
+                    whatever he needs from whatever source he can find it, just as he is perfectly
+                    willing to let anyone after him take whatever they can get from him with no
+                    jealousy whatever, or no feeling that he has—has—what
+                    he—he's amoral, not immoral.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio17.25" start="00:30:51.95" end="00:31:46.30">
+                    <head>America to Communists</head>
+                    <u who="WF"> Yes, sir.</u>
+                    <u who="Q">To return to the idea about—about bringing in communists and—and
+                    letting them live here and—and see our way of life, and—and
+                    not bother them, and—well, along that idea—you said
+                    that usually—you think they would return with a better picture of
+                    America than they're getting through our propaganda, and I was wondering if you
+                    had any—what kind of picture do you think they're getting now?</u>
+                <u who="WF">It would be a true picture. I think the picture that they get from what
+                    we export is not a true picture of America because we want to be liked. We
+                    wanted to be thought well of, and despite ourselves, we dress up the image that
+                    we send abroad, simply because we want to be liked and want to be thought well
+                    of, but that ain't it. It's to let them see themselves what it is in this
+                    country that makes us for some strange reason like it.</u></div2>
+                <div2 type="dialog" id="wfaudio17.26" start="00:31:50.65" end="00:31:57.98">
+                    <head>Fragment</head>
+                <u who="Q">Have you given this enough consideration that you would probably be tempted 
+                    to write <inaudible/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

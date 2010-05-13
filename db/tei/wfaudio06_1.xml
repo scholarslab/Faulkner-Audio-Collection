@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio06_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio06_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio06_1</idno>
+                <idno type="analog tape">T-114</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+                <person>
+                    <p id="B">Joseph Blotner</p>
+                </person>
+                <person>
+                    <p id="JC">John Coleman</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-04-13">13 April 1957</date>
+                    <locale>Blotner's Novel and Gwynn's American Fiction Classes</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 13 April 1957</head>
+                <head>OCCASION: Blotner's Novel and Gwynn's American Fiction Classes</head>
+                <head>TAPE: T-114</head><head>LENGTH: 33:54</head>
+                <div2 type="dialog" id="wfaudio06_1.1" start="00:00:00.00" end="00:00:17.34">
+                    <head>Opening</head>
+                    <u who="G"> <inaudible/>questions having to do with his own work and on anything that 
+                        people want to consider about the problems of writing in general.  It would help everybody in the room, 
+                        I think, if each questioner spoke up not only for Mr. Faulkner’s hearing but for everyone else’s.  Mr. Faulkner. </u></div2>
+                <div2 type="dialog" id="wfaudio06_1.2" start="00:00:44.07" end="00:02:35.36">
+                    <head>Lyrical Narrative</head>
+                    <u who="Q">Sir, I come from India, and I've been trying to read a good many of your
+                    books. The problem <unclear>I am finding</unclear> it extremely difficult to follow
+                    the narrative method that you adopt. Is it true to say that you adopt a lyrical
+                    method to a narrative, and <unclear>a novel is also a</unclear> narrative of certain events and what the
+                    characters do, what happens to them? We find that in a novel like <hi rend="italic">As I Lay Dying</hi> or <hi rend="italic">The Sound and the
+                        Fury</hi> or the <hi rend="italic">Sanctuary</hi> that it's difficult to
+                    follow the event. Is it true to say that you follow the lyrical method while
+                    trying to tell a story? Am I correct?</u>
+                <u who="WF">No, I think the writer is concerned first in telling about people,
+                    people in conflict with themselves and with others, with their environment, and
+                    he uses whatever method seems to him the best to tell what he is trying to tell
+                    in the most dramatic and passionate way, that he is not trying to use a lyrical
+                    method deliberately. It may seem to him best to use a lyrical method or maybe
+                    the result of—of his own agony and anguish to say what he wants to say
+                    becomes lyrical.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.3" start="00:02:42.64" end="00:03:32.43">
+                    <head>Absalom's Central Character</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Who is the central character of <hi rend="italic">Absalom, Absalom!</hi>?
+                    It seems so obviously to be Sutpen, yet it's been said that it's also the story
+                    of Quentin, and I was wondering just who is the central character?</u>
+                <u who="WF">The central character is Sutpen, yes. The story of a man who wanted a
+                    son and got too many, got so many that they destroyed him. It's incidentally the
+                    story of—of Quentin Compson's hatred of the—the bad
+                    qualities in the country he loves. But the central character is Sutpen, the
+                    story of a man who wanted sons.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.4" start="00:03:37.12" end="00:04:06.10">
+                    <head>Mr. Coldfield</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, in the same book, I was wondering what is supposed to be the
+                    reader's attitude towards Mr. Coldfield, the father of Ellen?</u>
+                <u who="WF">Well, my attitude is that he was a—a pretty poor man. I don't
+                    know what the reader's attitude might be, but I still felt compassion and pity
+                    for him, but he was a poor man in my opinion.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.5" start="00:04:09.37" end="00:04:54.05">
+                    <head>Sutpen's Dealings</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, what sort of a deal was made between Goodhue Coldfield and Sutpen in
+                        reference to the bill of lading? It looked like they pulled some sort of
+                    deal.</u>
+                <u who="WF">I don't remember. That book is so long ago to me, but—but
+                    Coldfield was a—a petty, grasping man and Sutpen was a—a
+                    bold, ruthless man, and Sutpen used Coldfield's pettiness for his, Sutpen's,
+                    ends, but I don't remember exactly what it was.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.6" start="00:05:00.79" end="00:06:02.22">
+                    <head>Christmas' Race</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in <hi rend="italic">Light in August</hi>, the central character Joe
+                    Christmas had most of his troubles and his persecutions and in his search to
+                    find himself was based on his belief that he was part Negro, and yet it's never
+                    made really clear that he is. Was he supposed to be part Negro, or was this
+                    supposed to add to the tragic irony of the story?</u>
+                <u who="WF">I think that was his tragedy. He didn't know what he was, and so he was
+                    nothing. He—he deliberately evicted himself from the human race
+                    because he didn't know which he was. That was his tragedy. That to me was the—the 
+                    tragic, central idea of the story, that he didn't know what he was, and
+                    there was no way possible in life for him to find out, which to me is the most
+                    tragic condition a man could find himself in, not to know what he is
+                    and to know that he will never know.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.7" start="00:06:08.95" end="00:06:54.05">
+                    <head>Gavin's Racial Theory</head>
+                    <u who="Q">Sir, if—if he is not—does not definitely have Negro blood, well,
+                    what is the significance of Gavin Stevens's surmise there at the end when he
+                    explains that there's a conflict of blood? That that is only a guess that stands
+                    for a guess and not a final knowledge of —</u>
+                <u who="WF">Yes, yes, that is—is an assumption, a rationalization which Stevens
+                    made. That is, the people that destroyed him made rationalizations about what he
+                    was. They decided what he was. But Christmas himself didn't know, and he evicted
+                    himself from mankind.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.8" start="00:07:05.68" end="00:08:08.74">
+                    <head>Clytie and Bon</head>
+                    <u who="G">Sir, when in <hi rend="italic">Absalom, Absalom!</hi>, after the killing
+                        of Charles Bon, Clytie tries to keep Rosa Coldfield from—from coming in, does Clytie
+                    realize that Charles Bon is her own half-brother? Is that the reason that she's
+                    trying to keep Rosa out, do you think? Does she feel any relationship?</u>
+                <u who="WF">I don't remember. I don't remember that. Let me think a minute.
+                    I—I don't remember whether Clytie was any relation to Charles Bon's
+                    mother. That's so long ago, too.</u>
+                <u who="Q">They have the same father.</u>
+                <u who="WF">Well, then, yes, that would be the reason, of course.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.9" start="00:08:09.15" end="00:08:39.96">
+                    <head>Bon and Christmas</head>
+                    <u who="B">Mr. Faulkner, do you think that a comparison can justly be made between
+                    Joe Christmas and Charles Bon's son? Is there much in their behavior you think
+                    that's similar?</u>
+                <u who="WF">There again you have me. I don't remember. They're both so long ago, and
+                    that's one good thing about being a writer. You can get rid of one book you
+                    don't have to read again. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio06_1.10" start="00:08:39.97" end="00:09:30.87">
+                    <head>Christmas and Oedipus</head>
+                    <u who="JC">Mr. Faulkner —</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="JC">In working out the situation of Joe Christmas, did you deliberately have
+                    in mind a correspondence between his situation and Oedipus, for example, as has
+                    recently been brought out in an essay published in the <hi rend="italic">Quarterly</hi> magazine?</u>
+                <u who="WF">No, not deliberately and not consciously. That's another matter of the
+                    writer reaching back into the lumber room of his memory for whatever he needs
+                    to—to create the character or the situation. The—and
+                    the—the similarity is there, but it was not by deliberate intent. It
+                    was by—by coincidence, not accident, but by coincidence.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.11" start="00:09:32.82" end="00:09:52.75">
+                    <head>Sutpen and Heathcliff</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Along those same lines, I noticed a similarity between Sutpen and
+                    Heathcliff from Emily Bronte's <hi rend="italic">Wuthering Heights</hi>, and I
+                    was wondering if there's any intentional similarities here at all?</u>
+                <u who="WF">I don't know. I don't know <hi rend="italic">Wuthering Heights</hi>. I
+                    never read it.</u>
+                <u who="Q">Thank you.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.12" start="00:09:52.00" end="00:10:32.61">
+                    <head>Individual Religion</head>
+                    <u who="Q">Mr. Faulkner, in <hi rend="italic">Wild Palms</hi>, there is a passage
+                    strongly reminiscent of the Grand Inquisitor in Dostoevsky's <hi rend="italic">Brothers 
+                        Karamazov,</hi> the import of which seems to condemn not Christ
+                    but organized religion. In <hi rend="italic">Light in August,</hi> much of the
+                    action seems to stem from almost fanatical Calvinism. Would it be true to
+                    surmise that you favor strongly individual rather than an organized
+                    religion?</u>
+                <u who="WF">I do, always.</u>
+                <u who="Q">Then you think perhaps that man must work out his own salvation from
+                    within rather than without?</u>
+                <u who="WF">I do, yes.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.13" start="00:10:37.30" end="00:12:10.56">
+                    <head>The Writing Process</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, I have often wondered through what process the author actually goes
+                    when he writes a book. Could you briefly outline what process you go through?
+                        <event desc="audience laughter"/></u>
+                <u who="WF">Now, I know I can't. I'm—I'm lazy. I hate to—the
+                    mechanics of putting the words down on paper, and I do as much of it as possible
+                    in my head. I will—that is, putting it down on paper is the last
+                    resort. I've got to get it out of my system, and so I don't know what system I
+                    might use mentally to get the—the facts in order, to—to
+                    bring the—the mass of material into the—the—the form according
+                    to the rules of—of unity and emphasis. I—I just don't know.
+                    Some people work from notes. They—they make notes and then correlate
+                    the notes and then edit and then write and then do a—a draft. I don't
+                    do that. I try my best not to have to change anything because I'm lazy, I think,
+                    that I don't like to work.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.14" start="00:12:10.76" end="00:12:30.35">
+                    <head>Revising</head>
+                    <u who="Q">How many times do you rewrite the <inaudible/>
+                    <unclear>hundreds of</unclear> drafts?</u>
+                <u who="WF">Sometimes the first one is all right. Sometimes I will do three or four
+                    or five until it comes right, but I will try my best not to do it but once
+                    because I hate to work. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio06_1.15" start="00:12:30.36" end="00:13:14.03">
+                    <head>Absalom's Origin</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">In another class, you stated that you seldom have the plot of your novels
+                    worked about before you begin to write, but that they simply develop from
+                    a—from a character or an incident. I was wondering if you remember
+                    what character or what incident caused you to write <hi rend="italic">Absalom,
+                        Absalom!</hi>?</u>
+                <u who="WF">Sutpen.</u>
+                <u who="Q">You thought about the character —</u>
+                <u who="WF">Yes, the—the idea of a man who—who wanted sons and
+                    got sons who destroyed him. The—the other characters I had to get out
+                    of the attic to tell the story of Sutpen.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.16" start="00:13:16.47" end="00:14:15.04">
+                    <head>Using Real People</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Mr. Faulkner, do you ever consciously base your—any of your
+                    characters, either major characters or minor characters, on people you find in
+                    every-day life. For example, during your time spent in Charlottesville, could
+                    you possibly incorporate someone who lived here into one of your major books, as
+                    a conscious exercise?</u>
+                <u who="WF">I will very likely do it, but not as a conscious exercise. The writer is
+                    completely amoral. He—he will use experience. He will rob from other
+                    writers. He will take from life, but he is—is trying to create a
+                    character of his own, and so very likely in time, I will—will need
+                    someone I have seen in Charlottesville, Virginia, and will without any
+                    compunction use him. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio06_1.17" start="00:14:15.05" end="00:15:03.41">
+                    <head>Sutpen and Civil War</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">I've been looking for Sutpen's—the reason for Sutpen's
+                    downfall, Mr. Faulkner, and it seems to me that the Civil War plays a part in
+                        it. Is that—is that true?</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">But that's not—that's not the main reason?</u>
+                <u who="WF">No, this—I used the Civil War to—for my own ends
+                    there. Sutpen—Sutpen's country was wrecked by the Civil
+                    War, but that didn't stop Sutpen. He was still trying to get the son, still
+                    trying to establish a dynasty. He was still trying to get even with that man who
+                    in his youth had said, "Go to the back door."</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.18" start="00:15:07.28" end="00:16:12.38">
+                    <head>Origin of Light in August</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, in <hi rend="italic">Light in August,</hi> much of the action comes
+                    back to the scene or the picture of a column of yellow smoke coming up from
+                    Joanna Burden's cabin. I was wondering—you had said that in <hi rend="italic">Sound and the Fury</hi> you got the idea for the story
+                    from seeing a little girl like Caddy in a tree. I was wondering if that happened
+                    with <hi rend="italic">Light in August</hi>. Perhaps that was the scene that you
+                    had seen and that you started from in that story.</u>
+                    <u who="WF">No, that story began with Lena Grove, the idea of—of—of the young
+                    girl with nothing, pregnant, determined to find her sweetheart. It
+                    was—that was out of my—my admiration for women, for the
+                    courage and endurance of women. As I told that story, I had to get more and more
+                    into it, but that was mainly the story of Lena Grove.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.19" start="00:16:16.67" end="00:17:22.37">
+                    <head>Sutpen's Wrestling Negroes</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">In <hi rend="italic">Absalom, Absalom!</hi>, what was the significance of
+                    Sutpen pitting himself against his Negro servants, the wild Negro servants, and
+                        especially in that scene where Ellen happened in when he had 
+                    brought the children there to watch it? Was that another example of the
+                    decadence of the South?</u>
+                <u who="WF">No, not—not by intent. That was—was another instance
+                    of Sutpen's ruthlessness, of his will, his implacable will to create a dynasty
+                    and fill it with sons, and I—I thought of—of rather these,
+                    which seemed to me dramatic or—or amusing or tragic incidents, invented
+                    themselves as props for Sutpen's will, implacable will, to get the son.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.20" start="00:17:24.29" end="00:18:01.35">
+                    <head>Popeye's Character</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">In <hi rend="italic">Sanctuary</hi>, Mr. Faulkner, is the character of
+                    Popeye emblematic of evil in a materialistic society, or what would he stand
+                    for?</u>
+                <u who="WF">No, he was to me another lost human being. He became a—a
+                    symbol of evil in modern—modern society only by coincidence, but I was
+                    still writing about people, not about ideas, not about symbols.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.21" start="00:18:04.01" end="00:18:35.23">
+                    <head>Title of Light in August</head>
+                    <u who="Q">Sir, I've been told that the title of <hi rend="italic">Light in August</hi>
+                    came from a colloquialism for the completion of a pregnancy. Is that true?</u>
+                    <u who="WF">No, I used it because in my country in August there's a—a—a
+                    peculiar quality to light, and that's what that title means. It has in
+                    a—a sense nothing to with the book at all, the story at all.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.22" start="00:18:39.31" end="00:19:09.72">
+                    <head>Pronouncing Yoknapatawpha</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">How do you pronounce the name of your mythical county?</u>
+                <u who="WF">If you break it down into syllables, it's simple. Y-o-k, n-a, p-a,
+                    t-a-w, p-h-a, YOK-na-pa-TAW-pha. It's a Chickasaw Indian word, meaning water
+                    runs slow through flat land. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio06_1.23" start="00:19:16.04" end="00:20:08.69">
+                    <head>Wash and Sutpen</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Mr. Faulkner, what was the particular significance of having—of
+                    having Wash Jones, a very humble man, be the instrument through which Sutpen met
+                    his death? Is that to relate back to the social stratum from which Sutpen
+                    himself came and have there a sort of ironic effect? Just what was the idea of
+                    that?</u>
+                <u who="WF">In a sense. In another sense, Wash Jones represented the man
+                    who survived the Civil War. The—the aristocrat in the columned house
+                    was ruined, but Wash Jones survived it unchanged. He had been Wash Jones before
+                    1861, and after 1865 he was still Wash Jones, and Sutpen finally collided with
+                    him.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.24" start="00:20:15.63" end="00:21:27.04">
+                    <head>Dark Rooms</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, in some of your stories, you've used scenes wherein two or more
+                    people are sitting around or across from each other at a table or a desk, in a
+                    very dark room where perhaps only the hands can be seen in the lighting. I was
+                    wondering if that sort of scene meant anything to you, or that you felt that you
+                    could use that particular scene for a certain type of information in your story,
+                    or just what?</u>
+                <u who="WF">I think maybe instinctively I like understatement. Maybe I—I
+                    have a feeling for—for somberness. Probably I do, but I—I do
+                    like to—to tell things as simply by—by understatement, to—to
+                    tell—to show just the—the surface with—with the dark
+                    implications behind it of an instance <unclear>or</unclear> scene.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.25" start="00:21:32.36" end="00:22:38.07">
+                    <head>The South of Today</head>
+                    <u who="Q">Mr. Faulkner —</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you believe that the South of today is the South of people like Wash
+                    Jones and the Snopes clan or do you think—<unclear>do you still think
+                        there's noble blood there</unclear>?</u>
+                <u who="WF">I think that it's mostly the—the South of Wash Jones and
+                    Snopeses, but there's—there's a—the—the something left by
+                    the—the—the older, braver people that appears now and then, but it's a
+                    country mainly of Snopeses and Wash Joneses. They survived. The—the
+                    quality that was left by the—the old, brave aristocratic people shows
+                    occasionally. Nobody knows where it might—when it might appear or
+                    where from.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.26" start="00:22:49.70" end="00:23:57.05">
+                    <head>Hightower's Fate</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">In <hi rend="italic">Light in August</hi>, do you feel that Reverend
+                    Hightower dies feeling that he has achieved a certain kind of salvation,
+                        <unclear>received</unclear> some sort of salvation, <unclear>Mr. Faulkner</unclear>?</u>
+                <u who="WF">He didn't die. He had—had wrecked his life. He had failed his
+                    wife. He had failed himself, but there was one thing that he still had, which
+                    was—was the—the—the brave grandfather that—that
+                    galloped into the town to burn the Yankee stores, and at least he had that.
+                    Everything else was gone, but since he had been a—a—a man of God, he
+                    still tried to be a man of God, and he could not destroy himself. But he
+                    had—had destroyed himself, but he still couldn't take his own life. He
+                    had to—to endure it, to live, but that was one thing that
+                    was—was pure and fine that he had, was the—the memory of his
+                    grandfather, who had been brave.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.27" start="00:23:59.29" end="00:25:03.37">
+                    <head>Quentin and Shreve</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">So much of the story in <hi rend="italic">Absalom, Absalom!</hi> is
+                    reconstructed by Shreve and Quentin. How does the reader know which to accept as
+                    objective truth and which to consider just a <unclear>reflection</unclear> of
+                    their personalities?</u>
+                <u who="WF">Well, the—the story was told by Quentin to Shreve. Shreve
+                    was—was the—the comment—the commentator that held
+                    the thing to—to something of reality. If Quentin had been let alone to
+                    tell it, it would have—have become completely unreal. It had to have
+                    a—a—a solvent to keep it real, keep it believable, creditable.
+                    Otherwise, it would have vanished into—to smoke and fury.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.28" start="00:25:03.40" end="00:26:40.97">
+                    <head>Writing Absalom</head>
+                    <u who="G">Sir, along that same line, you mentioned at the English Club that you had
+                    had to lay aside <hi rend="italic">Absalom</hi> at one point and then resume it
+                        later on. I wonder if it might not have been the point where—toward the end of
+                    Miss Rosa's section where you might have felt that she was running away with
+                    you, because right after that Shreve comes in. Is that in your memory at all,
+                    sir?</u>
+                <u who="WF">I can't say just where it was that I had to put it down, that I decided
+                    I didn't know enough at that time maybe or—or my feeling toward it
+                    wasn't passionate enough or pure enough, but I don't remember at what point I
+                    put it down. Though when I took it up again I almost rewrote the whole thing. I
+                    think that what I put down were inchoate fragments that wouldn't coalesce, and
+                    then when I took it up again, I—as I remember, I rewrote it.</u>
+                <u who="G">There's no break in style at that—no break in style at that
+                    point, but the change in characters and point of view <inaudible/>.</u>
+                <u who="WF">That's possible, but I—I don't remember just how much of the
+                    first I rewrote when I began the second time.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.29" start="00:26:42.75" end="00:27:57.64">
+                    <head>Ike Learning Courage</head>
+                    <u who="JC">Mr. Faulkner —</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="JC">I would like to ask you to identify a quality for me. I am thinking of a
+                    sentence toward the end of "The Bear." I am going to read part of the sentence
+                    so that you will understand what I am asking about. "There was a boy who wished
+                    to learn humility and pride in order to become skillful and worthy in the woods.
+                    He suddenly found himself becoming so skillful so rapidly that he feared that he
+                    would never become worthy because he had not learned humility." Then finally, it
+                    goes on, "until an old man who could not have defined either had led
+                    him as though by the hand to that point where an old bear and a little mongrel
+                    of a dog showed him that by possessing one thing other he would possess them
+                    both." What is that "one thing other"?</u>
+                <u who="WF">Courage.</u>
+                <u who="JC">Thank you very much.</u>
+                <u who="WF">That was the little dog that —</u>
+                <u who="JC">Yes. I wondered if it was pity or truth, Mr. Faulkner.</u>
+                <u who="WF">Courage, it was. The little dog that—that never saw a bear
+                    bigger than he was.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.30" start="00:28:00.09" end="00:28:30.29">
+                    <head>Absalom's Title</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Is the title of <hi rend="italic">Absalom, Absalom!</hi> taken from the
+                    passage in the Bible found in Second Samuel?</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">Did you write the novel with this episode in your mind or did you first
+                    write the novel and then realizing the similarity of the name —</u>
+                <u who="WF">They were simultaneous. As soon as I thought of the idea of
+                    the—of the man who wanted sons and the sons destroyed him, then I
+                    thought of the title.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.31" start="00:28:34.17" end="00:28:59.27">
+                    <head>Failure as a Poet</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Did you expect to write a <unclear>any more</unclear> poetry? And if so, are
+                    there any particular subjects you'd <unclear>like to see in your poetry</unclear>?</u>
+                <u who="WF">I'm a failed poet. I consider myself a failed poet. I've tried to be a
+                    poet, and I couldn't be a good one, and so I did the next best thing which I
+                    could do, but I'm still a—a failed poet, but what I write
+                    is—is, in my opinion, poetry.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.32" start="00:29:05.80" end="00:30:43.34">
+                    <head>His Best Book</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Mr. Faulkner, what do you consider your best book?</u>
+                <u who="WF">The one that—that failed the most tragically and the most
+                    splendidly. That was <hi rend="italic">The Sound and the Fury</hi>—the
+                    one I worked at the longest, the hardest, that was to me the—the
+                    most passionate and moving idea, and made the most splendid failure. That's the
+                    one that's my—I consider the best, not—well, best is the
+                    wrong word—that's the one that I love the most.</u>
+                <u who="Q">I wanted to ask something about <unclear>that</unclear>. Was it very difficult to write the
+                    stream-of-consciousness <unclear>part of</unclear> Benjamin?</u>
+                <u who="WF">No, no. Not—not once I understood Benjy and understood the
+                    story.  It was very simple, very easy.</u>
+                <u who="Q">That's such a difficult part to understand unless someone shows you
+                    —</u>
+                <u who="WF">No, it was very easy to do. That's probably why it's so hard to read. I
+                    think anything that is easy to do is—is per se probably
+                    bad <event desc="audience laughter"/>, but I couldn't think of any better way to
+                    tell about Benjy. I was trying to tell a story. I tried that way. That wasn't
+                    enough. I tried with Quentin. That wasn't enough. I tried with Jason. That still
+                    wasn't enough.  And then I tried Faulkner and that still wasn't enough. <event desc="audience laughter"/> It 
+                    still failed, and that's why I love it.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.33" start="00:30:46.61" end="00:31:48.13">
+                    <head>Style in Light in August</head>
+                    <u who="Q">Mr. Faulkner —</u>
+                <u who="WF">Sir.</u>
+                <u who="Q">Most people are very struck by your change of style in <hi rend="italic">Light in August</hi>. For 
+                    example, you use the present tense to tell the
+                    story <unclear>in</unclear>, rather than the past. Was that—did you mean something by that or
+                    were you just using a new form for dramatic import or — ?</u>
+                <u who="WF">No, that just seemed to me the best way to tell the story. It wasn't a
+                    deliberate change of style. I don't know anything about style. I
+                    don't—I think a writer with—with a lot to—pushing
+                    inside him to get out hasn't got time to bother with style. If he just likes to
+                    write and hasn't got anything urging him, then he can become a stylist, but the
+                    ones with a—a great deal pushing to get out don't have time to be
+                    anything but clumsy, like Balzac, for instance.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.34" start="00:31:53.14" end="00:32:46.40">
+                    <head>Absalom's Lawyer</head>
+                    <u who="B">Mr. Faulkner —</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="B">In <hi rend="italic">Absalom, Absalom!</hi>, when Shreve and Quentin are
+                    reconstructing the story for each other, they set up a lawyer who was directing
+                    the campaign of Charles's mother to gain revenge against Sutpen. Was there
+                    really a lawyer, do you think, or is it just a product of their imagination as
+                    they reconstructed the story?</u>
+                <u who="WF">I'm sorry, I don't remember that.</u>
+                <u who="B">They speak about the man who was counseling Charles's mother in trying to
+                    get back at Sutpen.</u>
+                <u who="WF">There probably was a lawyer. I don't remember that book, but yes, yes,
+                    there was a lawyer. That sounds too logical in Mississippi terms. Yes, he
+                    was—there would have been lawyer there.</u></div2>
+                <div2 type="dialog" id="wfaudio06_1.35" start="00:32:52.52" end="00:33:52.52">
+                    <head>Readers' Meanings</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, what is your personal reaction to situations such as being in a
+                    classroom when you discover that a lot of people who've read into your novels things
+                    that you didn't intend them to read?</u>
+                <u who="WF">Interest. <event desc="audience laughter"/> I didn't know about all
+                    these things and so I'm quite interested to hear that they were in there. They
+                    must've been in there for people to find them.</u>
+                    <u who="Q">Do you feel that perhaps you've failed in—in just plain telling your story
+                        or that perhaps you've done more than you realized <inaudible/>?</u>
+                <u who="WF">No, to me, it wasn't told as well as it should've been told, and that's
+                    why I write another one. The one that—that I have finished,
+                    that's—that's water under the bridge and I'm not interested any longer
+                    because that wasn't good enough. <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

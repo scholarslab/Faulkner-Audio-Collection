@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio12_1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio12_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio12_1</idno>
+				<idno type="analog tape">T-124</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<p id="JL">John Longley, Jr.</p>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-08">8 May 1957</date>
+					<locale>Engineering School Students</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 8 May 1957</head>
+				<head>OCCASION: Engineering School Students</head>
+				<head>TAPE: T-124</head><head>LENGTH: 29:22</head>
+				<head>READING: "Was"</head>
+				<div2 type="dialog" id="wfaudio12_1.1" start="00:00:00.00" end="00:00:29.15">
+					<head>Introduction</head>
+					<u who="JL">Gentlemen, I had a speech all prepared tonight, but I've forgotten
+						what it was. <event desc="audience laughter"/> So I'll just say that I would
+						like to introduce to you an old hand on this campus. He's been around so
+						long now that he's really become one of us: Mr. William Faulkner, who is
+						going to entertain you now. <event desc="applause"/>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.2" start="00:00:29.68" end="00:01:05.00">
+					<head>Inaudible</head>
+					<u who="WF">
+						<inaudible/>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.3" start="00:01:05.90" end="00:01:49.56">
+					<head>Story, Excerpt 1</head>
+					<u who="WF">
+						<writing type="fiction">When he and Uncle Buck ran back to the house from
+							discovering that Tomey's Turl had run again, they heard Uncle Buddy
+							cursing and bellowing in the kitchen, then the fox and the dogs came out
+							of the kitchen and crossed the hall into the dogs' room and they heard
+							them run through the dogs' room into his and Uncle Buck's room then they
+							saw them cross the hall again into Uncle Buddy's room and heard them run
+							through Uncle Buddy's room into the kitchen again and this time it
+							sounded like the whole kitchen chimney had come down and Uncle Buddy
+							bellowing like a steamboat blowing and this time the fox and the dogs
+							and five or six sticks of firewood all came out of the kitchen together
+							with Uncle Buddy in the middle of them hitting at everything in sight
+							with another stick. It was a good race. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.4" start="00:01:49.57" end="00:02:24.19">
+					<head>Story, Excerpt 2</head>
+					<u who="WF">
+						<writing type="fiction">When he and Uncle Buck ran into their room to get
+							Uncle Buck's necktie, the fox had treed behind the clock on the mantel.
+							Uncle Buck got the necktie from the drawer and kicked the dogs off and
+							lifted the fox down by the scruff of the neck and shoved it back into
+							the crate under the bed and they went to the kitchen, where Uncle Buddy
+							was picking the breakfast up out of the ashes and wiping it off with his
+							apron. "What in damn's hell do you mean," he said, "turning that damn
+							fox out with the dogs all loose in the house?"<lb/> "Damn the fox,"
+							Uncle Buck said. "Tomey's Turl has broke out again. Give me and Cass
+							some breakfast quick. We might just barely catch him before he gets
+							there." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.5" start="00:02:24.20" end="00:04:40.97">
+					<head>Story, Excerpt 3</head>
+					<u who="WF">
+						<writing type="fiction">Because they knew exactly where Tomey's Turl had
+							gone, he went there every time he could slip off, which was about twice
+							a year. He was heading for Mr Hubert Beauchamp's place just over the
+							edge of the next county, that Mr Hubert's sister, Miss Sophonsiba (Mr
+							Hubert was a bachelor too, like Uncle Buck and Uncle Buddy) was still
+							trying to make people call Warwick after the place in England that she
+							said Mr Hubert was probably the true earl of only he never even had
+							enough pride, not to mention energy, to take the trouble to establish
+							his just rights. Tomey's Turl would go there to hang around Mr Hubert's
+							girl, Tennie, until somebody came and got him. They couldn't keep him at
+							home by buying Tennie from Mr Hubert because Uncle Buck said he and
+							Uncle Buddy had so many niggers already that they could hardly walk
+							around on their own land for them, and they couldn't sell Tomey's Turl
+							to Mr Hubert because Mr Hubert said he not only wouldn't buy Tomey's
+							Turl, he wouldn't have that damn white half-McCaslin on his place even
+							as a free gift, not even if Uncle Buck and Uncle Buddy were to pay board
+							and keep for him. And if somebody didn't go and get Tomey's Turl right
+							away, Mr Hubert would fetch him back himself, bringing Miss Sophonsiba,
+							and they would stay for a week or longer, Miss Sophonsiba living in
+							Uncle Buddy's room and Uncle Buddy moved clean out of the house,
+							sleeping in one of the cabins in the quarters where the niggers used to
+							live in his great-grandfather's time until his great-grandfather
+							died and Uncle Buck and Uncle Buddy moved all the niggers into the big
+							house which his great-grandfather had not had time to finish, and not
+							even doing the cooking while they were there and not even coming to the
+							house any more except to sit on the front gallery after supper, sitting
+							in the darkness between Mr Hubert and Uncle Buck until after a while
+							even Mr Hubert would give up telling how many more head of niggers and
+							acres of land he would add to what he would give Miss Sophonsiba when
+							she married, and go to bed. And one midnight last summer Uncle Buddy
+							just happened by accident to wake and hear Mr Hubert drive out of the
+							lot and by the time he waked them and they got Miss Sophonsiba up and
+							dressed and the team put to the wagon and caught Mr Hubert, it was
+							almost daylight. So it was always he and Uncle Buck who went to fetch
+							Tomey's Turl because Uncle Buddy never went anywhere, not even to town
+							and not even to fetch Tomey's Turl from Mr Hubert's, even though they
+							all knew that Uncle Buddy would have risked it ten times as much as
+							Uncle Bud—Buck—Buck could have dared.</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.6" start="00:04:42.56" end="00:05:50.60">
+					<head>Break</head>
+					<u who="WF">Now did you want us to go to—is that enough there, or did you want
+						us to go to the fox—to the poker game—?</u>
+					<u who="JL">Yes. I think reading about the poker prowess. And—let me see if I can
+							<unclear>find this one now</unclear>.  <inaudible/></u>
+					<u who="WF">Not too long, yes.</u>
+					<u who="JL">Oh yes, you can read it <inaudible/> If your voice doesn't give out.
+						Let's see. You might explain it they're simply been—trying to catch Tomey's
+						Turl. Then you might begin about here where they are going back
+							into the bedroom again. <inaudible/>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.7" start="00:05:56.96" end="00:07:00.40">
+					<head>Story, Excerpt 4</head>
+					<u who="WF">
+						<writing type="fiction">They ate breakfast fast. Uncle Buck put on his
+							necktie while they were running toward the lot to catch the horses. The
+							only time he wore the necktie was on Tomey's Turl's account and he
+							hadn't even had it out of the drawer since that night last summer when
+							Uncle Buddy had waked them in the dark and said, "Get up and out of that
+							bed and damn quick." Uncle Buddy didn't own a necktie at all; Uncle Buck
+							said Uncle Buddy wouldn't take the chance even in a section like
+							theirs, where ladies were so damn seldom thank God that a man could ride
+							for days in a straight line without having to dodge a single one. His
+							grandmother (she was Uncle Buck's and Uncle Buddy's sister; she had
+							raised him following his mother's death. That was where he had got his
+							christian name: McCaslin, Carothers McCaslin Edmonds) said that Uncle
+							Buck and Uncle Buddy both used the necktie just as another way of daring
+							people to say they looked like twins, because even at sixty they would
+							still fight anyone who claimed he could tell—could not tell them apart;
+							whereupon his father had answered that any man who ever played poker
+							once with Uncle Buddy would never misjudge him again for Uncle Buck or
+							anybody else. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.8" start="00:07:00.41" end="00:07:45.28">
+					<head>Story, Excerpt 5</head>
+					<u who="WF">
+						<writing type="fiction">Jonas had the two horses saddled and waiting. Uncle
+							Buck didn't mount a horse like he was any sixty years old either, lean
+							and active as a cat, with his round, close-cropped white head and his
+							hard little gray eyes and his white-stubbled jaw, his foot in the iron
+							and the horse already moving, already running at the open gate when
+							Uncle Buck came into the seat. He scrabbled up too, onto the shorter
+							pony, before Jonas could boost him up, clapping the pony with his heels
+							into its own stiff, short-coupled canter, out the gate after Uncle Buck,
+							when Uncle Buddy (he hadn't even noticed him) stepped out from the gate
+							and caught the bit. "Watch him," Uncle Buddy said. "Watch Theophilus.
+							The minute anything begins to look wrong, you ride to hell back here and
+							get me. You hear?"<lb/> "Yes, sir," he said. "Lemme go now. I wont even
+							ketch Uncle Buck, let alone Tomey's Turl—" </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.9" start="00:07:45.29" end="00:08:17.80">
+					<head>Story, Excerpt 6</head>
+					<u who="WF">
+						<writing type="fiction">Uncle Buck was riding Black John, because if they
+							could just catch sight of Tomey's Turl at least one mile from Mr
+							Hubert's gate, Black John would ride him down in two minutes. So when
+							they came out on the long flat about three miles from Mr Hubert's, sure
+							enough, there was Tomey's Turl on the Jake mule about a mile ahead.
+							Uncle Buck flung his arm out and back, reining in, crouched on the big
+							horse, his little round head and his gnarled neck thrust forward like a
+							cooter's. "Stole away!" he whispered. "You stay back where he wont see
+							you and flush. I'll circle him through the woods and we will bay him at
+							the creek ford." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.10" start="00:08:17.81" end="00:09:37.32">
+					<head>Story, Excerpt 7</head>
+					<u who="WF">
+						<writing type="fiction">He waited until Uncle Buck had vanished into the
+							woods. Then he went on. But Tomey's Turl saw him. He was closed—he
+							closed in too fast; maybe he was afraid he wouldn't be there in time to
+							see him when he treed. It was the best race he had ever seen. He had
+							never seen old Jake go that fast, and nobody had ever known Tomey's Turl
+							to go faster than his natural walk, even riding a mule. Uncle Buck
+							whooped once from the woods, running on sight, then Black John came out
+							of the trees, driving, soupled out flat and level as a hawk, with Uncle
+							Buck right up—up behind his ears now and yelling so they looked
+							exactly like a big black hawk with a sparrow riding it, across the field
+							and over the ditch and across the next field, and he was running too;
+							the mare went out before he even knew she was ready, he was yelling
+							too. Because, being a nigger, Tomey's Turl should have jumped down and
+							run for it afoot as soon as he seen them. But he didn't; maybe Tomey's
+							Turl had been running off from Uncle Buck for so long that he had even
+							got used to running away like a white man would do it. And it was like
+							he and old Jake had added Tomey's Turl's natural walking speed to the
+							best that old Jake had ever done in his life, and it was just exactly
+							enough to beat Uncle Buck to the ford. Because when he and the pony
+							arrived, Uncle—Black John was blown and lathered and Uncle Buck was
+							down, leading him around in a circle slow—to slow him down, and they
+							could already hear Mr Hubert's dinner horn a mile away. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.11" start="00:09:37.33" end="00:10:24.33">
+					<head>Story, Excerpt 8</head>
+					<u who="WF">
+						<writing type="fiction">Only, for a while Tomey's Turl didn't seem to be at
+							Mr Hubert's either. The boy was still sitting on the gatepost, blowing
+							the horn—there was no gate there; just two posts and a nigger boy about
+							his size sitting on one of them, blowing a fox-horn; this was what Miss
+							Sophonsiba was still reminding people was named Warwick even when they
+							had already known for a long time that's what she aimed to have it
+							called, until they wouldn't call it Warwick she wouldn't even seem to
+							know what they were talking about and it would sound as if she and Mr
+							Hubert owned two separate plantations covering the same area of ground,
+							one on top of the other. Mr Hubert was sitting in the spring-house with
+							his boots off and his feet in the water, drinking a toddy. But nobody
+							there had seen Tomey's Turl; for a time it looked like Mr Hubert
+							couldn't even place who Uncle Buck was talking about. "Oh, that nigger,"
+							he said at last. "We'll find him after dinner." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.12" start="00:10:24.34" end="00:10:48.71">
+					<head>Story, Excerpt 9</head>
+					<u who="WF">
+						<writing type="fiction">Only it didn't seem as if they were going to eat
+							either. Mr Hubert and Uncle Buck had a toddy, then Mr Hubert finally
+							sent to tell the boy on the gate post he could quit blowing, and he and
+							Uncle Buck and—had another toddy and Uncle Buck still saying, "I just want
+							my nigger. Then we got to get on back home."<lb/> "After dinner," Mr
+							Hubert said. "If we dont start him somewhere around the kitchen, we'll
+							put the dogs on him. They'll find him if it's in the power of mortal
+							Walker dogs to do it." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.13" start="00:10:48.72" end="00:11:42.05">
+					<head>Story, Excerpt 10</head>
+					<u who="WF">
+						<writing type="fiction">But at last a hand began waving a handkerchief or
+							something white through the broken place in an upstairs shutter. They
+							went to the house, crossing the back gallery, Mr Hubert warning them
+							again, as he always did, to watch out for the rotted floor-board he
+							hadn't got around to having fixed yet. Then they stood in the hall,
+							until presently there was a jangling and swishing noise and they began
+							to smell the perfume, and Miss Sophonsiba came down the stairs. Her hair
+							was roached under a lace cap; she had on her Sunday dress and beads and
+							a red ribbon around her throat and a little nigger girl carrying her fan
+							and he stood quietly a little behind Uncle Buck, watching her lips until
+							they opened and he could see the roan tooth. He had never known anyone
+							before with a roan tooth and he remembered how one time his grandmother
+							and his father were talking about Uncle Buddy and Uncle Buck and his
+							grandmother said that Miss Sophonsiba had matured into a fine-looking
+							woman once. Maybe she had. He didn't know. He wasn't but nine.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.14" start="00:11:42.03" end="00:12:52.21">
+					<head>Story, Excerpt 11</head>
+					<u who="WF">
+						<writing type="fiction">"Why, Mister Theophilus," she said. "And McCaslin,"
+							she said. She had never looked at him and she wasn't talking to him and
+							he knew it, although he was prepared to—to balanced to drag his foot
+							when Uncle Buck did. "Welcome to Warwick."<lb/> He and Uncle Buck
+							dragged their foot. "I just come to get my nigger," Uncle Buck said.
+							"Then we got to get on back home."<lb/> Then Miss Sophonsiba said
+							something about a bumblebee, but he couldn't remember that. It was too
+							fast and there was too much of it, the earrings and beads clashing and
+							jingling like little trace chains on a toy mule trotting and the perfume
+							stronger too, like the earrings and the beads sprayed it out each time
+							they moved and he watched the roan-colored tooth flick and glint between
+							her lips; something about Uncle Buck was a bee sipping from flower to
+							flower and not staying long anywhere and all that stored sweetness to be
+							wasted on Uncle Buddy's desert air, calling Uncle Buddy Mister Amodeus
+							like she called Uncle Buck Mister Theophilus, or maybe the honey was
+							being stored up against the advent of a queen and who was the lucky
+							queen and when? "Ma'am?" Uncle Buck said. Then Mr Hubert said:<lb/>
+							"Hah. A buck bee. I reckon that nigger's going to think he's a buck
+							hornet, once he lays hands on him. But I reckon what Buck's thinking
+							about sipping right now is some meat gravy and biscuit and a cup of
+							coffee. And so am I." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.15" start="00:12:52.21" end="00:13:34.39">
+					<head>Story, Excerpt 12</head>
+					<u who="WF">
+						<writing type="fiction">They went into the dining room and ate and Miss
+							Sophonsiba said how seriously now neighbors just a half day's ride apart
+							ought not to be so long as Uncle Buck did, and Uncle Buck said Yessum,
+							and Miss Sophonsiba said Uncle Buck was just a confirmed roving bachelor
+							from the cradle born and this time Uncle Buck even quit chewing and
+							looked at her and said, Yes, ma'am, he sure was, <event
+								desc="audience laughter"/> and born too late at it to ever change
+							now but at least he could thank God no lady would ever have to suffer
+							the misery of living with him and Uncle Buddy, and Miss Sophonsiba said
+							ah, then maybe Uncle Buck just aint met the woman yet who would not only
+							accept what Uncle Buck was pleased to call misery, but who would make
+							Uncle Buck consider even his freedom a small price to pay, and Uncle
+							Buck said, "Nome. Not yet." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.16" start="00:13:34.30" end="00:14:31.37">
+					<head>Story, Excerpt 13</head>
+					<u who="WF">
+						<writing type="fiction">Then he and Mr. Hubert and Uncle Buck went out on
+							the front gallery and sat down. Mr Hubert hadn't even got done taking
+							his shoes off again and inviting Uncle Buck to take his off, when Miss
+							Sophonsiba came out of the door carrying a tray with another toddy on
+							it. "Damnit, Sibbey," Mr Hubert said. "He's just et. He dont want to
+							drink now." Miss—but Miss Sophonsiba didn't seem to hear him at all. She
+							stood there, the roan tooth not flicking now but fixed because she
+							wasn't talking now, handing the toddy to Uncle Buck until after a while
+							she said how her papa always said nothing sweetened a Missippi toddy
+							like the hand of a Missippi lady and would Uncle Buck like to see how
+							she use to sweeten her papa's toddy for him? So she lifted the toddy and
+							took a sip of it and handed it again to Uncle Buck and this time Uncle
+							Buck took it. He dragged his foot again and drank the toddy and said if
+							Mr Hubert was going to lay down, he would lay down a while too, since
+							from the way things looked Tomey's Turl was fixing to give them a long
+							hard race unless Mr Hubert's dogs were a considerable better than they
+							used to be. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.17" start="00:14:31.38" end="00:15:31.28">
+					<head>Story, Excerpt 14</head>
+					<u who="WF">
+						<writing type="fiction">Mr Hubert and Uncle Buck went into the house. After
+							a while he got up too and went around to the back yard to wait for them.
+							The first thing he saw was Tomey's Turl's head slipping along behind the
+							lane fence. But when he cut across the yard to turn him, Tomey's Turl
+							wasn't even running. He was squatting behind a bush, watching the house,
+							peering around the bush at the back door and the upstairs windows, not
+							whispering exactly but not talking loud either: "Whut they doing
+							now?"<lb/> "They're taking a nap now," he said. "But never mind that;
+							they're going to put the dogs on you when they get up."<lb/> "Hah,"
+							Tomey's Turl said. "And nemmind—nem you mind that neither. I got
+							protection now. All I needs to do is to keep Old Buck from ketching me
+							unto I gets the word."<lb/> "What word?" he said. "Word from who? Is Mr
+							Hubert going to buy you from Uncle Buck?"<lb/> "Huh," Tomey's Turl said
+							again. "I got more protection than whut Mr Hubert got even." He rose to
+							his feet. "I gonter tell you something to remember: anytime you wants to
+							git something done, from hoeing out a crop to getting married, just get
+							the womenfolks to working at it. Then all you needs to do is set down
+							and wait. You member that." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.18" start="00:15:31.29" end="00:16:19.35">
+					<head>Story, Excerpt 15</head>
+					<u who="WF">
+						<writing type="fiction">Then Tomey's Turl was gone. And after a while he
+							went back to the house. But there wasn't anything but the snoring coming
+							out of the room where Uncle Buck and Mr Hubert were, and some more
+							light-sounding snoring coming from upstairs. He went to the spring-house
+							and sat with his feet in the water as Mr Hubert had been doing, because
+							now soon it would be cool enough for a race. And sure enough, after a
+							while Mr Hubert and Uncle Buck came out onto the back gallery, with Miss
+							Sophonsiba right behind them with the toddy tray only this time Uncle
+							Buck drank his before Miss Sophonsiba had time to sweeten it, <event
+								desc="audience laughter"/> and Miss Sophonsiba told them to get
+							back early, that all Uncle Buck knew of Warwick was just dogs and
+							niggers and now that she had him, she wanted to show him her garden that
+							Mr Hubert and nobody else had any sayso in. "Yessum," Uncle Buck said.
+							"I just want to catch my nigger. Then we got to get on back home."
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.19" start="00:16:19.36" end="00:17:45.18">
+					<head>Story, Excerpt 16</head>
+					<u who="WF">
+						<writing type="fiction">Four or five niggers brought up the three horses.
+							They could already hear the dogs waiting still coupled in the lane, and
+							they mounted and went on down the lane, toward the quarters, with Uncle
+							Buck already out in front of even the dogs. So he never did know just
+							when and where they jumped Tomey's Turl, whether he flushed out of one
+							of the cabins or not. Uncle Buck was away out in front on Black John and
+							they hadn't even cast the dogs yet when Uncle Buck roared, "Gone away! I
+							godfrey, he broke cover then!" and Black John's feet clapped four times
+							like pistol shots while he was gathering to go out, then he and Uncle
+							Buck vanished over the hill like they had been—like they had run at the
+							blank edge of the world itself. Mr Hubert was roaring too: "Gone away!
+							Cast them!" and they all piled over the crest of the hill just in time
+							to see Tomey's Turl away out across the flat, almost to the woods, and
+							the dogs streaking down the hill and out onto the flat. They just
+							tongued once and when they came boiling up around Tomey's Turl it looked
+							like they were trying to jump up and lick him in the face until even
+							Tomey's Turl slowed down and he and the dogs all went into the woods
+							together, walking, like they were going home from a rabbit hunt. <event
+								desc="audience laughter"/> And when they caught up with Uncle Buck
+							in the woods, there was no Tomey's Turl and no dogs either, just nothing
+							but old Jake about a half an hour later, hitched into a clump of bushes with
+							Tomey's Turl's coat tied on him for a saddle and near half a bushel of
+							Mr Hubert's oats scattered around on the ground that old Jake never even
+							had enough appetite left to nuzzle up and spit back out again. It wasn't
+							any race at all. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.20" start="00:17:45.19" end="00:18:23.22">
+					<head>Story, Excerpt 17</head>
+					<u who="WF">
+						<writing type="fiction">"We'll get him tonight though," Mr Hubert said.
+							"We'll bait for him. We'll throw a picquet of niggers and dogs around
+							Tennie's house about midnight, and we'll get him."<lb/> "Tonight, hell,"
+							Uncle Buck said. "Me and Cass and that nigger all three are going to be
+							half way home by dark. Aint one of your niggers got a fyce or something
+							that will trail them hounds?"<lb/> "And fool around here in the woods
+							for half the night too?" Mr Hubert said. "When I'll bet you five hundred
+							dollars that all you've got to do to catch that nigger is to walk up to
+							Tennie's cabin after dark and call him?"<lb/> "Five hundred dollars?"
+							Uncle Buck said. "Done! Because me and him neither one aint going to be
+							anywhere near Tennie's house by dark. Five hundred dollars!" He and Mr
+							Hubert glared at each other.<lb/> "Done!" Mr Hubert said. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.21" start="00:18:23.23" end="00:19:04.22">
+					<head>Story, Excerpt 18</head>
+					<u who="WF">
+						<writing type="fiction">So they waited while Mr Hubert sent one of the
+							niggers back to the house on old Jake and in about a half an hour the
+							nigger came back with a little bob-tailed black fyce and a new bottle of
+							whisky. Then he rode up to Uncle Buck and held something out to him
+							wrapped in a piece of paper. "What?" Uncle Buck said.<lb/> "It's for
+							you," the nigger said. Then Uncle Buck took it and unwrapped it. It was
+							a piece of red ribbon that had been on Miss Sophonsiba's neck and Uncle
+							Buck sat there on Black John, holding the ribbon like it was a little
+							water moccasin only he wasn't going to let anybody see he was afraid of
+							it, batting his eyes fast at the nigger. Then he stopped batting his
+							eyes.<lb/> "What for?" he said.<lb/> "She just sont hit to you," the
+							nigger said. "She say to tell you 'success'."<lb/> "She said what?"
+							Uncle Buck said.<lb/> "I dont know, sir," the nigger said. "She just say
+							success." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.22" start="00:19:04.23" end="00:20:24.38">
+					<head>Story, Excerpt 19</head>
+					<u who="WF">
+						<writing type="fiction">"Oh," Uncle Buck said. And the fyce found the
+							hounds, They heard them first, from a considerable distance. It was just
+							before sundown and they were not trailing—they were not, they were making the
+							noise dogs make when they want to get out of something. They found out what
+							that was too. It was a ten-foot-square cotton-house in a field about two
+							miles from Mr Hubert's house and all eleven of the dogs were inside it
+							and the door wedged with a chunk of wood. They watched the dogs come
+							boiling out when the nigger opened the door, Mr Hubert sitting his horse
+							and looking at the back of Uncle Buck's neck.<lb/> "Well, well," Mr
+							Hubert said. "That's something, anyway. You can use them again now. They
+							dont seem to have no trouble—no more trouble with your nigger than he
+							seems to have with them."<lb/> "Not enough," Uncle Buck said. "That
+							means both of them. I'll stick to the fyce."<lb/> "All right," Mr Hubert
+							said. Then he said, "Hell, 'Filus, come on. Let's go eat supper. I tell
+							you, all you got to do to catch that nigger is—"<lb/>
+							"Five hundred dollars," Uncle Buck said.<lb/>
+							"What?" Mr Hubert said. He and Uncle Buck looked at each other. They
+							were not glaring now. They were not joking each other either now. They
+							sat there in the beginning of twilight, looking at each other, just
+							blinking a little. "What five hundred dollars?" Mr Hubert said. "That
+							you wont catch that nigger in Tennie's cabin at midnight tonight?"<lb/>
+							"That me or that nigger neither aint going to be near nobody's house but
+							mine at midnight tonight." Now they did glare at each other.<lb/> "Five
+							hundred dollars," Mr Hubert said. "Done."<lb/> "Done," Uncle Buck
+							said.<lb/> "Done," Mr Hubert said.<lb/> "Done," Uncle Buck said.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.23" start="00:20:24.38" end="00:20:53.79">
+					<head>Story, Excerpt 20</head>
+					<u who="WF">
+						<writing type="fiction">So Mr Hubert took the dogs and some of the niggers
+							and went back to the house. Then he and Uncle Buck and the nigger with
+							the fyce went on, the nigger leading old Jake with one hand and holding
+							the fyce's leash (it was a piece of gnawed plowline) with the other. Now
+							Uncle Buck let the fyce smell Tomey's Turl's coat; it was like for the
+							first time now the fyce found out what they were after and they would
+							have let him off the leash and kept up with him on the horses, only
+							about that time the nigger boy began blowing the fox-horn for supper at
+							the house and they didn't dare risk it. <event desc="audience laughter"
+							/>
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.24" start="00:20:53.50" end="00:21:36.11">
+					<head>Story, Excerpt 21</head>
+					<u who="WF">
+						<writing type="fiction">Then it was full dark. And then—he didn't know how
+							much later nor where they were, how far from the house, except that it
+							was a good piece and it had been dark for good while and they were still
+							going on, with Uncle Buck leaning down—leaning down from time to time to
+							let the fyce have another smell of Tomey's Turl's coat while Uncle Buck
+							took another drink from the whisky bottle—they found that Tomey's Turl
+							had doubled and was making a long swing back toward the house. "I
+							godfrey, we've got him," Uncle Buck said. "He's going to earth. We'll
+							cut back to the house and head him before he can den." So they left the
+							nigger to cast the fyce and followed him on old Jake, and he and Uncle
+							Buck rode on to Mr Hubert's, stopping on the hills to blow the horses
+							and listen to the fyce down in the creek bottom where Tomey's Turl was
+							still making his swing. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.25" start="00:21:36.12" end="00:22:41.23">
+					<head>Story, Excerpt 22</head>
+					<u who="WF">
+						<writing type="fiction">But they never caught him. They reached the dark
+							quarters; they could see lights still burning in Mr Hubert's house and
+							somebody was blowing the fox-horn again and it wasn't any boy and he had
+							never heard a fox-horn sound mad before, and he and Uncle Buck scattered
+							out on the slope below Tennie's cabin. Then they heard the fyce, not
+							trailing now but yapping, about a mile away, then the nigger whooped and
+							they held the fyce—and they knew the fyce had faulted. It was at the
+							creek. They hunted the banks both ways for more than an hour, but they
+							couldn't straighten Tomey's Turl out. At last even Uncle Buck gave up
+							and they started back toward the house, the fyce riding too now, in
+							front of the nigger on the mule. They were just coming up the lane to
+							the quarters; they could see on—on along the ridge to where Mr Hubert's
+							house was all dark now, when all of a sudden the fyce gave a yelp and
+							jumped down from old Jake and hit the ground running and yelling every
+							jump, and Uncle Buck was down too and had snatched him off the pony
+							almost before he could clear his feet from the irons, and they ran too,
+							on past the dark cabins toward the one where the fyce had treed. "We got
+							him!" Uncle Buck said. "Run around to the back. Dont holler; just grab
+							up a stick and knock on the back door, loud." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.26" start="00:22:42.29" end="00:23:32.38">
+					<head>Story, Excerpt 23</head>
+					<u who="WF">
+						<writing type="fiction">Afterward, Uncle Buck admitted that it was his own
+							mistake, that he had forgotten when even a little child should have
+							known: not ever to stand right in front of or right behind a nigger when
+							you scare him; but always to stand to one side of him. <event
+								desc="audience laughter"/> Uncle Buck forgot that. He was standing
+							facing the front door and right in front of it, with the fyce right in
+							front of him yelling fire and murder every time it could draw a new
+							breath; he said the first he knew was when the fyce gave a shriek and
+							whirled and Tomey's Turl was right behind it. Uncle Buck said he never
+							saw the door open; that the fyce just screamed once and ran between his
+							legs and then Tomey's Turl ran right clean over him. He never even
+							bobbled; he knocked Uncle Buck down and then caught him up before he
+							fell without even stopping, snatched him up under one arm, still
+							running, and carrying him along for about ten feet, saying, "Look out of
+							here, old Buck. Look out of here, old Buck," before he threw him away
+							and went on. <event desc="audience laughter"/> By that time they
+							couldn't even hear the fyce any more at all. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.27" start="00:23:50.06" end="00:24:38.30">
+					<head>Story, Excerpt 24</head>
+					<u who="WF">
+						<writing type="fiction">Uncle Buck wasn't hurt; it was only the wind knocked
+							out of him where Tomey's Turl had thrown him down on his back. But he
+							had been carrying the whisky bottle in his back pocket, saving the last
+							drink until Tomey's Turl was captured, and he refused to move until he
+							knew for certain it was just whisky and not blood. <event
+								desc="audience laughter"/> So Uncle Buck laid over on his side easy,
+							and he knelt behind him and raked the broken glass out of his pocket.
+							Then they went on to the house. They walked. The nigger came up with the
+							horses, but nobody said anything to Uncle Buck about riding again. They
+							couldn't hear the fyce at all now. "He was going fast, all right," Uncle
+							Buck said, "But I dont believe that even he will catch that fyce, I
+							godfrey, what a night."<lb/> "We'll catch him tomorrow," he said.<lb/>
+							"Tomorrow, hell," Uncle Buck said. "We'll be at home tomorrow. And the
+							first time Hubert Beauchamp or that nigger either one ever sets foot on
+							my land, I'm going to have them arrested for trespass and vagrancy."
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.28" start="00:24:38.31" end="00:26:00.65">
+					<head>Story, Excerpt 25</head>
+					<u who="WF">
+						<writing type="fiction">The house was dark. They could hear Mr Hubert
+							snoring good now, as if he had settled down to road-gaiting at it. But
+							they couldn't hear anything from upstairs, even when they were inside
+							the dark hall, at the foot of the stairs. "Likely her room will be at
+							the back," Uncle Buck said. "Where she can holler down to the kitchen
+							without having to get up. Besides, an unmarried lady will sholy have her
+							door locked with strangers in the house." So Uncle Buck eased himself
+							down onto the bottom step, and he knelt and drew Uncle Buck's boots off.
+							Then he removed his own and set them against the wall, and he and Uncle
+							Buck mounted the stairs, feeling their way up and into the upper hall.
+							It was dark too, and still there was no sound anywhere except Mr Hubert
+							snoring below, so they felt their way along the hall toward the front of
+							the house, until they felt a door. They could hear nothing beyond the
+							door, and when Uncle Buck tried the knob, it opened. "All right," Uncle
+							Buck whispered. "Be quiet." They could see a little now, enough to see
+							the shape of the bed and the mosquito-bar. Uncle Buck threw down his
+							suspenders and unbuttoned his trousers and went to the bed and eased
+							himself carefully down onto the edge of it, and he knelt again and drew
+							Uncle Buck's trousers off and he was just removing his own when Uncle
+							Buck lifted the mosquito-bar and raised his feet and rolled into the
+							bed. That was when Miss Sophonsiba sat up on the other side of Uncle
+							Buck and gave the first scream. <event desc="audience laughter"/>
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.29" start="00:26:04.62" end="00:27:12.22">
+					<head>Story, Excerpt 26</head>
+					<u who="WF">
+						<writing type="fiction">When he reached home just before dinner time the
+							next day, he was just about worn out. He was too tired to eat, even if
+							Uncle Buddy had waited to eat dinner first; he couldn't have stayed on
+							the pony another mile without going to sleep. In fact, he must have gone
+							to sleep while he was telling Uncle Buddy, because the next thing he
+							knew it was late afternoon and he was lying on some hay in the jolting
+							wagon-bed, with Uncle Buddy sitting on the seat above him exactly the
+							same way he sat a horse or sat in his rocking chair before the kitchen
+							hearth while he was cooking, holding the whip exactly as he held the
+							<unclear>spork or foon</unclear> he stirred and tasted with. Uncle Buddy had some cold
+							bread and meat and a jug of buttermilk wrapped in a—in damp towsacks
+							waiting when he waked up. He ate, sitting in the wagon in almost the
+							last of the afternoon. They must have come fast, because they were not
+							more than two miles from Mr Hubert's. Uncle Buddy waited for him to eat.
+							Then he said, "Tell me again," and he told it again: how he and Uncle
+							Buck finally found a room without anybody in it, and Uncle Buck sitting
+							on the side of the bed saying, "O godfrey, Cass. O godfrey, Cass," and
+							then they heard Mr Hubert's feet on the stairs and watched the light
+							come down the hall and Mr Hubert came in, in his nightshirt, and walked
+							over and set the candle on the table and stood looking at Uncle Buck.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.30" start="00:27:12.14" end="00:27:54.59">
+					<head>Story, Excerpt 27</head>
+					<u who="WF">
+						<writing type="fiction">"Well, 'Filus," he said. "She's got you at last."
+								<event desc="audience laughter"/><lb/> "It was an accident," Uncle
+							Buck said. "I swear to godfrey—"<lb/> "Hah," Mr Hubert said. "Dont tell
+							me. Tell her that."<lb/> "I did," Uncle Buck said. "I did tell her. I
+							swear to godfrey—"<lb/> "Sholy," Mr Hubert said. "And just listen." They
+							listened a minute. He had been hearing her all the time. She was nowhere
+							near as loud as at first; she was just steady. "Dont you want to go back
+							in there and tell her again it was an accident, that you never meant
+							nothing and to just excuse you and forget about it? All right."<lb/>
+							"All right what?" Uncle Buck said.<lb/> "Go back in there and tell her
+							again," Mr Hubert said. Uncle Buck looked at Mr Hubert for a minute. He
+							batted his eyes fast.<lb/> "Then what will I come back and tell you?" he
+							said.<lb/> "To me?" Mr Hubert said. "I would call that a horse of
+							another color. Wouldn't you?" </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.31" start="00:27:54.55" end="00:28:52.68">
+					<head>Story, Excerpt 30</head>
+					<u who="WF">
+						<writing type="fiction">Uncle Buck looked at Mr Hubert. He batted his eyes
+							fast again. Then he stopped again. "Wait," he said. "Be reasonable. Say
+							I did walk into a lady's bedroom, even Miss Sophonsiba's; say, just for
+							the sake of the argument, there wasn't no other lady in the world but
+							her and so I walked into hers and tried to get in bed with her, would
+							I—would I have took a nine-year-old boy with me?" <event
+								desc="audience laughter"/><lb/> "Reasonable is just what I'm being,"
+							Mr Hubert said. "You come into bear-country of your own free will and
+							accord. All right; you were a grown man and you knew it was bear-country
+							and you knew the way back out like you knew the way in and you had your
+							chance to take it. But no. You had to crawl into the den and lay down by
+							the bear. And whether you did or didn't know the bear was in it dont
+							make any difference. <event desc="audience laughter"/> So if you got
+							back out of that den without even a claw-mark on you, I would not only
+							be unreasonable, I'd be a damned fool. After all, I'd like a little
+							peace and quiet and freedom myself, now I got a chance for it. Yes, sir.
+							She's got you, 'Filus, and you know it. You run a hard race and you run
+							a good one, but you skun the hen-house one time too many." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio12_1.32" start="00:28:52.69" end="00:29:22.17">
+					<head>Story, Excerpt 31</head>
+					<u who="WF">
+						<writing type="fiction">"Yes," Uncle Buck said. He drew his breath in and
+							let it out again, slow and not loud. But you could hear it. "Well," he
+							said. "So I reckon I'll have to take the chance then."<lb/> "You already
+							took it," Mr Hubert said. "You did that when you came back here." Then he
+							stopped too. Then he batted his eyes, but only about six times. Then he
+							stopped and looked at Uncle Buck for more than a minute. "What chance?"
+							he said.<lb/> "That five hundred dollars," Uncle Buck said.<lb/> "What
+							five hundred dollars?" Mr Hubert said. He and Uncle Buck looked at each
+							other. Now it was Mr—Mr Hubert that batted his eyes again and then
+							stopped—</writing>
+						<event desc="end of recording"/>
+
+					</u>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

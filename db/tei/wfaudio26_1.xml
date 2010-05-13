@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio26_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio26_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio26_1</idno>
+                <idno type="analog tape">T-143a</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <persName id="G">Frederick Gwynn</persName>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-02">2 May 1958</date>
+                    <locale>Undergraduate Class in Contemporary American Literature, Undergraduate
+                        Class in Writing, Graduate Class in American Fiction</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 2 May 1958</head><head>OCCASION: Undergraduate Class in Contemporary American Literature,
+                    Undergraduate Class in Writing, Graduate Class in American Fiction</head>
+                <head>TAPE: T-143a</head><head>LENGTH: 32:15</head>
+                <div2 type="dialog" id="wfaudio26_1.1" start="00:00:03.68" end="00:01:25.62">
+                    <head>Introduction</head>
+                    <u who="G">Ladies and gentlemen, Mr. Faulkner is generously with us once again. On
+                    two levels, one that came up last week when a young Polish visitor to the United
+                    States came up to the fifth floor of Cabell Hall with a translation, a Polish
+                    translation, of Mr. Faulkner's <hi rend="italic">The Wild Palms</hi>. I suppose
+                    it has some—emphasizes—or it was published because of the
+                    theme of the difficulty of love in a capitalist society, but it shows
+                    the—once again, the extent of Mr. Faulkner's current influence. On the
+                    other hand, a colleague, Mr. Blotner, as a matter of fact,
+                    reports that at the—during the comprehensives last week, an English
+                    major—one boy identified the novel <hi rend="italic">The Town</hi> as
+                    simply "novel, twentieth century, by our own Mr. William Faulkner." So we run
+                    between these two extremes of local pride and international pride. And I think
+                    that may set the tone for the kind of questions we are allowed to ask Mr.
+                    Faulkner, i.e. anything. Mr. Faulkner.</u>
+                <u who="WF">Would it be better if I stood up like this?</u>
+                <u who="M">Yes, sir.</u></div2>
+                <div2 type="dialog" id="wfaudio26_1.2" start="00:01:46.59" end="00:02:16.36">
+                    <head>David and Boon Hogganbeck</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Is David Hogganbeck in "A Courtship" an ancestor of Boon Hogganbeck in
+                    "The Bear"?</u>
+                <u who="WF">Yes, that would be Boon's grandfather, probably. 1812 to—yes
+                    that would be Boon's grandfather.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.3" start="00:02:19.79" end="00:03:47.94">
+                    <head>Winesburg, Ohio</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, in <hi rend="italic">Winesburg, Ohio,</hi> Sherwood
+                    Anderson has a section in there on Jesse Bentley that doesn't seem connected
+                    with the rest of the book as much as the other chapters. That is, none of the
+                    people in there knew George Willard. There's been criticism of this. Would you
+                    care to comment on that <unclear>as it stands—maybe your fourth
+                        section of "The Bear," seems to bear a relation on the past to the present
+                        whereas</unclear>—is there much as much of a relationship in this
+                    section of <hi rend="italic">Winesburg, Ohio</hi>?</u>
+                <u who="WF">I'm sure there was in Mr. Anderson's concept of it. I think the writer
+                    looks on his work as an entity, that it has got to—to please him by
+                    its completeness, its wholeness. What seems extraneous to somebody else, to him
+                    may seem completely necessary, that without that even though it might have
+                    been—been out of—out of <unclear>tune almost,</unclear> was
+                    necessary to the—the work as a whole, an entity. And I'm sure that Mr.
+                    Anderson felt that his book without that was not finished, not complete. That it
+                    wasn't intact.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.4" start="00:03:55.32" end="00:05:57.64">
+                    <head>Cowley's Interpretation</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, Malcolm Cowley has written that not one of your characters
+                        exercises the faculty of conscious choice between good
+                    and evil, that they seem to be haunted, obsessed and driven—or driven
+                    by some kind of destiny. Do you think that's a valid
+                    statement?</u>
+                <u who="WF">Yes, it is quite valid, in—in the sense that—that
+                    anyone who reads a—a book or story gives something to
+                    that—something of himself to that book or that story. It takes that.
+                    The—the—the man that wrote it offers a <unclear>step</unclear>. That is, he
+                    offers his own opinion, which is his own concept of a fundamental truth. Someone
+                    else sees it, sees the same fundamental truth, but he adds something to it. If
+                    the—the critic is—is intelligent, is sympathetic and is
+                    quite honest, of course, his criticism, even though I might not agree with it,
+                    is valid. And I think the writer's not the one to say that it's wrong simply
+                    because he doesn't agree with it. Mr. Cowley may be right. I don't think he is,
+                    but I'm not the one to say that he's wrong just because we don't agree. But at
+                    least he brought enough attention and sympathy to the book to have a sound or
+                    valid opinion of it, which is certainly what the critic should do. Not to write
+                    what the critic's own clients expect to hear from him the next time he reviews a
+                    book, but to give his concept of a piece of work, a work of art.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.5" start="00:06:00.36" end="00:07:10.25">
+                    <head>Darl Bundren</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="B">Sir, in <hi rend="italic">As I Lay Dying</hi>, do you conceive of Darl as
+                    having more than one reason for burning the barn where his mother's body is
+                    being stored for the night?</u>
+                <u who="WF">He probably did. Darl was mad. His reasons are—would be
+                    completely valid reasons if you accept his premise. It's like the—the
+                    man that—that sits on a—a plank full of tacks looks insane
+                    until you find out he thinks he's Gandhi. Darl could have had our reasons and
+                    his own mad reasons for what he did. Could have had any number of reasons.
+                    The—the—the sane reason might be to—to efface a <inaudible/>, but
+                    his own reasons, we don't know what they might be because he was mad.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.6" start="00:07:11.81" end="00:08:59.76">
+                    <head>Beat Prose Writers</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, some of the prose writers in this so-called San Francisco
+                    renaissance that's going on now feel that the novel form as a type is archaic
+                    and that it won't make any progress until they can get rid of the discipline
+                    imposed by simple grammar, punctuation, the language in general. I wonder how
+                    you'd react to this idea <unclear>of theirs</unclear>.</u>
+                <u who="WF">I think the—the manner, the method is—is not too
+                    important. The writer is simply trying to arrest in one dramatic moment an
+                    instant of man's struggle within the human dilemma. I think that he should use
+                    whatever method seems the best to him to do that. But I don't think that because
+                    he believes that—that his method is the best one that all other methods are
+                    bad. And I think that if—if anyone is going to waste his time trying
+                    to abolish the—the form of the novel, then he's not going to get much
+                    good work done. To use whatever form is—comes to hand that does his
+                    job. If it's a moving picture camera, use that. If he'd rather use paint,
+                    use that. If he'd rather—if he thinks he can do it better with sign
+                    language, assuming that he can communicate with enough readers, use that. I
+                    imagine that any form is—is going to change, but I don't think
+                    that—that we will see the time when folks will get rid of grammar and
+                        punctuation.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.7" start="00:09:02.48" end="00:10:53.15">
+                    <head>Human Dilemma</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">You use the term human dilemma. What do you describe as a human
+                    dilemma?</u>
+                <u who="WF">The environment in which man, frail and fragile, with all his impulses,
+                    his lusts, greeds, also his conscience, whatever it is that makes him want to be
+                    better than he is and makes him, even when he's responsible for it, hate the
+                    condition in which the weak suffer and anyone is hungry <unclear>which will
+                        always occur</unclear>. That he would like to alter that. He hasn't been
+                    able to so far, yet he doesn't quit trying. His dilemma is to—to
+                    arrange the world in which he lives, in which he—and where he came
+                    without any—any choice, into a condition in which he can get the most
+                    for his money, you might say. His dilemma is his struggle with his own nature
+                    against his conscience. Call that God or whatever you like. But whatever it is
+                    that—that makes man want to be better than he is and that he is afraid
+                    he may be able to be. That he wants to be braver than he is afraid he might be.
+                    He wants to be more honest than he's afraid he might be able to be. And he
+                    wants—wants peace. He wants happiness, what he calls happiness. And
+                    his dilemma is his struggle and striving to get that.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.8" start="00:10:55.87" end="00:11:45.18">
+                    <head>Jason Compson</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">I—in <hi rend="italic">The Sound and the Fury,</hi> Mr.
+                    Faulkner, Jason Compson <inaudible/> is one of your most memorable characters. To me,
+                    he is one of the meanest, orneriest people who I have ever conceived of. Now, if
+                    it's not a personal question, have you ever known anyone who was anywhere near
+                    as mean and as hateful as Jason Compson?</u>
+                <u who="WF">I hope I haven't. No writer worth his salt is going to believe that
+                    anybody can create better people than—than he can, more villainous or
+                    more saintly. And so I prefer to believe that there ain't anybody quite that bad
+                    because I would have lost the trick. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.9" start="00:11:45.19" end="00:14:53.13">
+                    <head>Obsession with Time</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"><unclear>I have found that</unclear> a number of characters,
+                    particularly in <hi rend="italic">Absalom, Absalom!</hi> and 
+                    <hi rend="italic">The Sound and the Fury</hi>, have a great obsession with time and through
+                    their conception of time which often
+                        tends—to define their characters. In other words, an
+                    obsession with the past or with the future or—or placing time
+                    altogether out of the <inaudible/> as the sum of their characters,
+                    their—their—their own characters to their own detriment. And
+                    that Dilsey, perhaps, and Lena, who approach time in a cyclical order, and
+                    therefore have been able to make more order out of their lives. Perhaps
+                        I have <unclear>that in</unclear> an inverted order, but I wonder if you would—if
+                    you would comment on that.</u>
+                <u who="WF">Well, of course a part of—of man's dilemma, the individual
+                    dilemma, is that man, individual man, is the victim of his past. Actually
+                    there's—there's no such thing as "me," probably, that I am a
+                    conglomeration of a lot of "us."  Probably a great deal of—of man's
+                    behavior is from a pattern that was fixed long before he entered it. He
+                    inherited it, that he can't help doing some of the thing he does. He can't help
+                    his—his attitude toward that that he—he has. He—he
+                    might be educated out of them. I think that the—the wise
+                    person—I mean wise in the sense that Dilsey was wise, to do the best
+                    she could with what she had, she would know by instinct that she
+                    must—must abolish the past. That she must accept—accept
+                    "now," and accept the—the moment in which "now" becomes "will be."
+                    That she must be intact in "now" rather than to have one foot inside "now," and
+                    the rest of—of the body in "yesterday," if she is to cope with
+                    environment. I don't know whether that makes any clearer what you asked or not.
+                    Does it?
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.10" start="00:14:56.24" end="00:15:57.98">
+                    <head>Indians in "Lo!"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, I have two questions about your short story, "Lo!"  And the
+                    first one is what is the relation of the chief, Francis Weddell, to the Indians
+                    which we see in "A Courtship" or "Red Leaves" <inaudible/>?</u>
+                <u who="WF">Simply another—another clan. They were the same Chickasaw
+                    people. That was just another clan. They may have been related by marriage, even
+                    by blood, but they had begun to take white names by that time. When—as
+                    they became plantation owners and held U.S. commissions.  But he
+                    was—belonged to the same lot of people as Issetibbeha and his
+                    descendants.</u></div2>
+                <div2 type="dialog" id="wfaudio26_1.11" start="00:15:57.99" end="00:16:55.84">
+                    <head>Weddell</head>
+                    <u who="Q">Well, Mr. Faulkner could you tell me when Weddell takes his Chickasaws to
+                    Washington, takes his nephews and besieges the president, whether this is just
+                    the action of a naive savage or whether he, all the time, is planning on getting
+                    the best of the President?</u>
+                <u who="WF">I think that required a great deal of shrewdness, that he was no longer
+                    in a position to take his spears and bows and arrows and his warriors and go
+                    there and get what he wanted, so he used the white man's tactics.  I think
+                    that he was pretty shrewd about that, that he just behaved in a naive and
+                    innocent way, but he wasn't. That he had—had abolished the past and
+                    had taught himself pretty fast to cope with "now," with environment.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.12" start="00:16:58.56" end="00:17:13.70">
+                    <head>Girl Quentin's Father</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, I have a couple of questions about <hi rend="italic">The
+                        Sound and the Fury</hi>. The first one, is Quentin the daughter of Dalton
+                    Ames. Do you remember that?</u>
+                <u who="WF">Yes.</u>
+                <u who="Q">She is?</u>
+                <u who="WF">Yes.</u></div2>
+                <div2 type="dialog" id="wfaudio26_1.13" start="00:17:13.71" end="00:18:45.73">
+                    <head>Quentin and Jason</head>
+                    <u who="Q">And the second one, how do you think Quentin have turned out if
+                        Jason wouldn't have been hounding her the all the time? Would she have
+                        turned out well or <inaudible/>?</u>
+                <u who="WF">I don't know. That whole family was against her. I doubt if any child as
+                    insecure as she was—to know, suspect that she was—was
+                    insecure, could have coped with that family of adults, with nobody to defend her
+                    except the Negro woman. Probably she was—was doomed in any environment
+                    she would have found herself in.</u>
+                <u who="Q">I had the impression that she would have turned out fine if it
+                        hadn't have been for Jason.</u>
+                <u who="WF">I can't say. I'm—I'm inclined to think that she was doomed,
+                    that no matter what the environment would have been, she was still doomed.
+                    That's certainly poetically necessary in the book, that she be. That
+                       was the reason for—part of the reason for her
+                    uncle's Quentin's tragedy. I mean the poetic reason, not the actual
+                        reason.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.14" start="00:18:45.74" end="00:19:31.17">
+                    <head>Benjy's Name</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">In <hi rend="italic">The Sound and the Fury</hi> you said that Maury
+                    Compson's name was changed to Benjamin. You mention it a 
+                    number of times <inaudible/> in the book.  What was the purpose of changing his name and
+                    why—what was the importance of <unclear>the change</unclear> <inaudible/>?</u>
+                <u who="WF">Maury was his mother's brother, the only brother, and they were a proud
+                    named family. This child was given that proud name, and when he began to appear
+                    to be an idiot, they didn't want him named Maury, so they changed his
+                        name.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.15" start="00:19:31.18" end="00:20:23.99">
+                    <head>Benjy's Deafness</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Sir, is there anything significance in the fact that at one point in <hi rend="italic">The Sound and the Fury</hi> T.P.
+                    says that Benjy was not only deaf—dumb but also deaf?</u>
+                <u who="WF">No, no, Benjy wasn't really deaf, but in T.P.'s concept,
+                    if—if—if you're—you're "deaf and dumb," that means
+                    you can't talk, and you—you just don't have any sense. And he was
+                    saying "You're deaf 'cause you—you won't do what I tell you to do." He
+                    didn't mean that Benjy couldn't hear because he knew Benjy could. But that was
+                    T.P.'s exasperation with this creature who was bigger than he was and yet was
+                    more trouble than an infant.</u></div2>
+                <div2 type="dialog" id="wfaudio26_1.16" start="00:20:25.53" end="00:20:52.71">
+                    <head>T.P.'s Name</head>
+                    <u who="G">Does the name T.P. stand for <unclear>anything in
+                    particular</unclear>?</u>
+                <u who="WF">No, that was just his name.</u>
+                <u who="G"><unclear>Was</unclear> Versh the same way?</u>
+                <u who="WF">Versh's name, back in slavery times, had probably been Virgil, and then
+                    his people couldn't spell it, and it passed from son to son and finally wound up
+                    as Versh. It may have gone from Virgil to Verge, and then it got to be Versh.</u></div2>
+                <div2 type="dialog" id="wfaudio26_1.17" start="00:20:54.66" end="00:21:49.02">
+                    <head>Addie's Children</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir. This gentleman.</u>
+                <u who="Q">Sir, in <hi rend="italic">As I Lay Dying</hi> which of Addie's children
+                    has the most love—love for her and why?</u>
+                <u who="WF">I would say that Jewel did.  That Jewel himself didn't know why he did.
+                    He was a—a child of love. That he was illegitimate. And he and his
+                    mother were closer. He didn't know why. She did. And I imagine—and
+                    also by his—his nature, that he was not the child of—of his
+                    shiftless father who loved nothing but his own comfort, that Jewel had inherited
+                    something of <unclear>warmth</unclear> from his—his father.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.18" start="00:21:52.13" end="00:22:49.99">
+                    <head>Names of Snopeses</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="B">Sir, we're talking about names. Just as we learn that Eck Snopes is
+                    really named Eckrum, is there any longer name for I.O., Mink, and Flem?</u>
+                <u who="WF">No, that's like T.P.'s name, the I.O. And Mink—Mink was an
+                    orphan. He was raised by some kin people, and he himself had never heard himself
+                    called anything but Mink. Someone asked him in a—a—a book
+                    I'm at now what his name is. He says, "Mink." He says, "Is that all the name
+                    you've got?" He says, "That's all I know." And he's asked, "What did your mother
+                    call you?" He said, "I don't know. She died." That he—he doesn't know.
+                    That's all he's heard cause he's raised—passed from hand to hand,
+                    anybody that would feed a—a child like a stray dog.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.19" start="00:22:52.32" end="00:24:19.30">
+                    <head>Benjy in Church</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, would you say a few words about the significance of the Easter service 
+                    <inaudible/> in <hi rend="italic">The Sound and
+                            the Fury</hi>?</u>
+                <u who="WF">Only that, at that point, it seemed to me that was needed, just as
+                    the—the—the musician will put certain chords or themes or
+                    phrases into what he's doing. He himself may not know why. It seems obvious to
+                    him that something like that was needed, and that's the best he could do. It may
+                    be counterpoint to the—the dreary scene in the house with that selfish
+                    woman, the mother, and this child who's taken out of the house to—just
+                    so the—the woman—his own mother wouldn't be bad with him is
+                    taken to church with these people going—trying to—to follow
+                    the—the white man's concept of—of the passion story.  For
+                    emphasis I suppose.
+                </u>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"><unclear>Was—was there resentment among the colored people
+                        about</unclear> Benjy going to church <unclear>with Dilsey</unclear>?</u>
+                <u who="WF">No, no, none whatever.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.20" start="00:24:19.31" end="00:25:01.63">
+                    <head>The Beginning and the End</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Sir, at one point in that Easter service, Dilsey mentions that she has
+                    seen the beginning and the end. What was it that referred to? 
+                    Was it religion or is it the family?</u>
+                <u who="WF">It's the family. She sees that there's doom on the family.
+                    There—there may have been one hope—was—was that
+                    girl, Quentin. And Quentin is gone. The doom which Dilsey had been fighting
+                    against all her life had happened. And she saw the first of it, and she did the
+                    best she could, and now she's seen the end.  All that remains is an idiot boy
+                    that she takes to an Easter service in a Negro church that he can't even
+                        understand.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.21" start="00:25:01.64" end="00:26:08.43">
+                    <head>Vardaman's Fish</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in <hi rend="italic">As I Lay Dying</hi> is there any
+                    significance—significance—significance in the fact that
+                    Vardaman catches the fish at the beginning, and <unclear>keeps comparing the
+                        death of it to that of</unclear> his mother rather than it being some other
+                    animal, perhaps?</u>
+                <u who="WF">Yes. That's a question that's a little—little hard for me to
+                    answer because anything in the book has some need, more than significance. There
+                    was a need, it seemed to me, that that should be there. The connection, I
+                        felt, of the transference that the little boy made
+                    between the dead fish and the blood and his dead mother was—was an
+                    instance of a child's rationalizing, thinking. But there were no symbolism
+                    intended there.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.22" start="00:26:09.58" end="00:26:53.85">
+                    <head>Sound and Fury Dust Jacket</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="G">Speaking of symbolism, on the dust jacket of first edition of <hi rend="italic">The Sound and the Fury</hi> two figures
+                    seem to be wrestling: 
+                    a black one is pinning down a whiter one. Do you recall who
+                    the artist was and whether anything particular was intended?</u>
+                <u who="WF">No I don't. I don't know who did that. Of course
+                    the—the—the symbolism was simply the powers of—of
+                    darkness and of light wrestling, struggling. I don't know whose idea that jacket
+                    was or who did it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.23" start="00:27:00.07" end="00:27:18.70">
+                    <head>Sound and Fury Title</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, the title of <hi rend="italic">The Sound and the
+                        Fury</hi> is taken from Macbeth's speech, <unclear>isn't
+                        it</unclear>?</u>
+                <u who="WF">Yes, yes. There must have—be at least a dozen books named from
+                    that one speech.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.24" start="00:27:21.81" end="00:30:11.90">
+                    <head>Quentin and Time</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">It seems that one of the tragedies of Quentin Compson
+                        <unclear>that</unclear> was the greatest is the inability to
+                        <unclear>remove</unclear> himself at all in <unclear>time</unclear>. He
+                    has the obsession to begin with, and then <inaudible/> confused, and then he battles
+                        <unclear>time</unclear> altogether, mechanical and
+                    natural time, <unclear>destroys his clock,</unclear> puts himself in the future and
+                        looks back at himself. He's totally confused and yet
+                    totally obsessed with time, trying to put it in some rational understanding for
+                    himself, and he fails. <inaudible/> his—his failure after an
+                        attempted intellectual approach, and Dilsey's success 
+                    <unclear>after more of</unclear> an emotional approach, which seemed to
+                    indicate a <unclear>collective</unclear> attempt at trying to relate to time,
+                        to live with time <inaudible/> <unclear>and that perspective cannot be reached in
+                        an</unclear> intellectual, rational manner but more or less comes from an
+                    emotional or instinctive <unclear>comprehension</unclear>.</u>
+                <u who="WF">Remember Quentin was not trying to put time into perspective. He was
+                    trying to escape from time into the past. He was trying to escape back into a
+                    time when all this which I hate was not. He failed, and so he committed suicide.
+                    There was only one more step left to him. He couldn't be alive and escape back
+                    before when his sister was pure. And so he had to commit suicide. That was all
+                    that remained for him. Dilsey accepted the past, and she didn't waste herself
+                    trying to discard it or get away from it. She simply accepted it and said,
+                    "All right. So it is. Let's go on. Let's go forward." That time was—was
+                    in its perspective for, I think, the both of them, but—but one of them
+                    hated "now" and wanted to return to "was," which you can't do because what was,
+                    is. There's actually no such thing as "was." As we said any man is the victim
+                    of—not only victim, but the sum of his past. He never escapes from it.
+                    Quentin wanted to escape back into it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.25" start="00:30:13.45" end="00:30:50.34">
+                    <head>Gerald Bland</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, how real are the—the—these amorous
+                    exploits of Gerald Bland in <hi rend="italic">The Sound and the Fury</hi>?
+                    Is—is he just bragging, trying to live up to his mother's dramatic
+                    conception of him or does he really <inaudible/>?</u>
+                <u who="WF">I suspect that most of them are lies.  That he would be like any
+                        <unclear>fictioneer</unclear>—nothing that happened would be quite
+                    as good as what he could imagine. So the—the ones that actually
+                    happened would be dull to him. The ones he told about were probably all
+                        lies.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio26_1.26" start="00:30:50.35" end="00:31:33.44">
+                    <head>Quentin and Father [part 1]</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Did Quentin, before, actually have a conversation with his father about
+                    sleeping with his sister? Or was that part of his <inaudible/>?</u>
+                <u who="WF">He never did. He said, "If I were brave I would—I—I
+                    might say this to my father, whether it was a lie or not." Or—or, "If
+                    I were—if I would say this to my father, maybe he could answer me back
+                    the magic word which would relieve me of this anguish and agony which I live
+                    with." No, they were imaginary. He just said "Suppose I say this to my father.
+                    Would it help me?" <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

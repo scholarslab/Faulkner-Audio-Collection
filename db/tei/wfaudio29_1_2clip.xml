@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio29_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio29_1 and wfaudio29_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio29_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-08">8 May 1958</date>
+                    <locale>Introductory Class in Types of Literature, Graduate Class in American
+                        Literature</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 8 May 1958</head><head>OCCASION: Introductory Class in Types of Literature, Graduate Class in American
+                    Literature</head>
+                <head>This clip was created by splicing the end of T-144c and the beginning of T-144c2 together.</head>
+                
+                <div2 type="dialog" id="wfaudio29_1_2.1" start="00:00:00.00" end="00:03:10.57">
+                    <head>Spliced clip</head>
+                    <u who="WF">Yes, ma'am.</u>
+                    <u who="Q">Sir, I'd like some help on understanding the—what I call the
+                        bedroom scene in the fourth section of "The Bear." You made one statement, "She
+                        is lost. She was born lost." Can you help me to understand what you meant by
+                        that?</u>
+                    <u who="WF">Who does that refer to?</u>
+                    <u who="Q">That refers to Ike McCaslin's wife. In—in that section
+                        <inaudible/>—</u>
+                    <u who="WF">Yes, I—I think I remember now. She—from her
+                        background, her tradition, sex was—was something evil, that it had to
+                        be justified by acquiring property. She was, ethically, a prostitute. Sexually
+                        she was frigid. I think what he meant—he knew that—that
+                        there was no warmth that he would ever find from her, no understanding,
+                        no—no chance ever to—to accept love or return love because
+                        she was incapable of it. That's probably what he meant.</u>
+                    <u who="Q">And I wondered why she laughed <unclear>and laughed</unclear> when
+                        <inaudible/>?</u>
+                    <u who="WF">She realized then that he was going to give up the land. She married him
+                        because she was going to be chatelaine of a plantation. And then she found he was
+                        going to give all that away, and the only revenge she knew was deny—to
+                        deny him sexually, that was the only triumph she had. And she was going to make
+                        him suffer for that just as much as she could to get even with him.</u>
+                    <u who="Q">So she intended from the beginning of her marriage to deny him this one
+                        thing that he had requested until it was useful in blackmailing—?</u>
+                    <u who="WF">Well, she assumed when they got married that she was going to be
+                        chatelaine of a plantation, and they would have children. And she was going to
+                        be as—according to the rules of the book—a good wife to him.
+                        She'd still be frigid and cold and a shrew probably, but she'd be a good wife.
+                        Then when he was going to throw the plantation away for idealistic folly, all
+                        she—the only revenge she had was that. At least he would have no
+                        children from her. He'd have no wife from her. And she hoped—</u>
+                    <u who="Q">Well, Ike <inaudible/>—</u>
+                    <u who="WF">And she hoped that he would—would make him grieve.</u>
+                    <u who="Q">Well Ike says here <inaudible/>
+                        <unclear>Did she realize when he was saying this that he did not mean</unclear>—?</u>
+                    <u who="WF">Did not mean what?</u>
+                    <u who="Q"><inaudible/> that he would go back to the land.</u>
+                    <u who="WF">She must have <unclear>understood</unclear> he was not going to <inaudible/> take
+                        his heritage. Yes, I'm sure she was convinced of that, no matter what he might
+                        have said.
+                    </u>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

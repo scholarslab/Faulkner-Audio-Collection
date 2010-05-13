@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio14_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio14_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio14_2</idno>
+                <idno type="analog tape">T-130</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-15">15 May 1957</date>
+                    <locale>Session with the General Public</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 15 May 1957</head>
+                <head>OCCASION: Session with the General Public</head>
+                <head>TAPE: T-130</head><head>LENGTH: 3:41</head>
+                
+                <div2 type="dialog" id="wfaudio14_2.1" start="00:00:02.47" end="00:00:56.05">
+                    <head>Composition Process</head>
+                    <u who="Q"><inaudible/> completing your writing, whether you start writing it or does it
+                    develop as you go?</u>
+                <u who="WF">It usually develops as I go. It can begin with an anecdote
+                    or—or an action or a character. Then when enough people get in it to
+                    begin to talk back and forth to each other and to impact on one another and to
+                    begin to quarrel with one another, they take charge of the story. All I have to
+                    do then is to trot along behind with a notebook and a pencil and put down what
+                    they do or say. <event desc="audience laughter"/> Then, of course, at the end,
+                    you have to go back to the rules of unity and coherence and emphasis and give
+                    it some sort of shape, but—but the characters take—take
+                    charge of the story. That's my own system. Other people work from plots and
+                    diagrams and keep notes. I never had a notebook and never did any research. Mine
+                    is done for pleasure, for fun.</u></div2>
+                <div2 type="dialog" id="wfaudio14_2.2" start="00:00:56.00" end="00:01:03.12">
+                    <head>The Mansion</head>
+                    <u who="Q">Will—will <hi rend="italic">A Mansion</hi> follows the same characters as <hi rend="italic">The Town</hi>?</u>
+                <u who="WF">Yes, that's right.</u>
+                <u who="Q">Do you see it? You're working on it now?</u>
+                <u who="WF">Yes.</u></div2>
+                <div2 type="dialog" id="wfaudio14_2.3" start="00:01:06.93" end="00:02:19.12">
+                    <head>An American Language</head>
+                    <u who="Q">Mr. Faulkner, do you believe that there is a American language 
+                    developing as compared to the English language, or <unclear>that they are</unclear>
+                    the same language?</u>
+                <u who="WF">Yes'm, I think so. I don't know how many generations, eons, before it
+                    will be too distinct, but any language, if it is not changing, will not last
+                    long. That is, the only alternative to change and progress is—is
+                    death. It may be with the—with the world being condensed by rapid
+                    transportation, there'll be even less divergence of the two languages than ever,
+                    but I would say that—that there will be—be a
+                    change, and in time, there will be just as much difference between the English
+                    English and American English as—as there is between classic Greek and
+                    modern Greek, unless both have been abolished in the meantime, and there's still
+                    another language that comprises both, which will also be in a state of flux and
+                    change and advancement.</u></div2>
+                <div2 type="dialog" id="wfaudio14_2.4" start="00:02:25.28" end="00:03:22.08">
+                    <head>Imagination v Experience</head>
+                    <u who="Q">Mr. Faulkner, do you think that an author is actually getting
+                        into hot water if he doesn't stick to subjects that he
+                    himself has experienced?</u>
+                <u who="WF">No, no, the imagination will serve. You stick to experience and
+                    observation—are only shortcuts, but imagination will—will
+                    well serve. It's—it has served so many writers when they need—I think
+                    right now—all the—these books of so-called science fiction,
+                    I think of H.G. Wells' <hi rend="italic">Time Machine</hi>, that there's
+                    absolutely no limit to what man can imagine, and he—and
+                    by—by using a few simple mechanical facts, he can make it credible.
+                    That is, nobody can dispute him if what he—he says holds together
+                    assuming you grant his premise.</u></div2>
+                <div2 type="dialog" id="wfaudio14_2.5" start="00:03:30.71" end="00:03:35.84">
+                    <head>Close</head>
+                    <u who="G">Thank you, Mr. Faulkner, very much.</u>
+                <u who="WF">Thank you. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

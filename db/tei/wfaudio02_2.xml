@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio02_2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of audio recording wfaudio02_2</title>
+        <respStmt>
+          <resp>Creation of electronic transcription</resp>
+          <name/>
+        </respStmt>
+        <respStmt>
+          <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+          <name>AEL Data</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Virginia Library</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="digital audio filename">wfaudio02_2</idno>
+        <idno type="analog tape">T-107</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording type="audio"> </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <person>
+          <persName id="WF">William Faulkner</persName>
+        </person>
+        <person>
+          <persName id="B">Joseph Blotner</persName>
+        </person>
+        <person>
+          <persName id="JC">John Coleman</persName>
+        </person>
+        <person>
+          <p id="Q">Unidentified participant</p>
+        </person>
+        <person>
+          <persName id="G">Frederick Gwynn</persName>
+        </person>
+        <person>
+          <p id="M">Moderator</p>
+        </person>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date value="1957-03-07">7 March 1957</date>
+          <locale>The English Club</locale>
+          <name type="place">University of Virginia</name>
+          <name type="city">Charlottesville, Virginia</name>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="event1">
+        <head>DATE: 7 March 1957</head>
+        <head>OCCASION: The English Club</head>
+        <head>TAPE: T-107</head><head>LENGTH: 28:24</head>
+        <div2 type="dialog" id="wfaudio02_2.1" start="00:00:02.05" end="00:01:04.29">
+          <head>Dating a Story</head>
+          <u who="WF">Well, when you go to the trouble to invent a—a private domain of your own, then
+          you're the master of time, too. <event desc="audience laughter"/> I have the right, I
+          think, to shift these things around wherever it sounds best, <event desc="audience laughter"/> and I can move them about in time and, if necessary, change
+          their names. This would be 1906 or '07 this happened. That is, the more you write, the
+            more you've got to compromise with such facts as time and place, and so I've got to—to agree
+          with Mr.Gwynn and establish this somewhere in time, so it's about 1907.
+            <event desc="audience laughter"/></u></div2>
+        <div2 type="dialog" id="wfaudio02_2.2" start="00:01:04.30" end="00:03:39.54">
+          <head>Faulkner's Own Spotted Pony</head>
+          <u who="Q">Mr. Faulkner, have you ever such an auction taking place?</u>
+        <u who="WF">Yes'm. I bought one of these horses once. <event desc="audience laughter"/> They
+          appeared in our country. Every summer somebody would come in with another batch of them.
+          They were western range-bred ponies, pintos. Had never had a bridle on them. Had never
+          seen shell corn before.  And they'd brought—be brought into our town and
+          auctioned off for prices from three or four dollars up to six or seven, and I bought this
+          one for four dollars and seventy-five cents. I was—<event desc="audience laughter"/> oh, I reckon ten years old. My father at that time ran a
+          livery stable, and there was a—a big man. He was six feet and a half tall. He weighed two
+          hundred pounds, but mentally he was about ten years old, too.  And I wanted one of those
+          horses. My father said, "Well, if you and Buster can buy one for what money you've saved,
+          you can have it."  And so we went to the auction, and we bought one for four dollars and
+          seventy-five cents. We got it home. We were going to gentle it. We had a two-wheel cart
+          made out of the front axle of a buggy with shafts on it, and we fooled with that 
+          <unclear>creature</unclear>. It was—was a wild animal. It was a wild 
+          beast. <event desc="audience laughter"/> It wasn't a domestic animal at all, and finally Buster said
+          that it was about ready, so we had the cart in a shed. Estelle probably remembers this. We
+          put a croaker sack over the horse's head and backed it into the cart with two niggers
+          to—to fasten it in, to buckle traces and toggles and 
+          things, and me and Buster got in the seat, and Buster said, "All right boys, let him go."
+            <event desc="audience laughter"/> And they snatched the—the sack off the
+          horse's head, and it went across the lot. There was a big gate. The lane had turned at a
+          sharp angle. It hung the inside wheel on the gatepost as it turned. We were down on one
+          hub then. Then about that time, Buster caught me by the back of the neck and threw me,
+          just like that, and then he jumped off. <event desc="audience laughter"/> And the cart was
+          scattered up that lane, and we found the horse a—a mile away run into a dead-end
+          street. All he had left on him was just the hames, the harness was
+          gone. <event desc="audience laughter"/>
+          <unclear>But</unclear> that was a <unclear>pleasant</unclear> experience. But we kept that
+          horse and gentled him to where I finally rode him.  But I loved that horse because that was
+          my own horse. I bought that with my own money. <event desc="audience laughter"/></u></div2>
+        <div2 type="dialog" id="wfaudio02_2.3" start="00:03:44.33" end="00:04:42.68">
+          <head>The Next Book</head>
+          <u who="Q"><inaudible/> Mr. Faulkner, how do you feel about your next novel, or do you always feel
+          that your next one is the best?</u>
+        <u who="WF">Well, the—the one that I'm going to write this year is going to be the
+          best. The one that I finished last year, that's finished. That's behind me. There's
+          nothing more I can do to that, but I'm going to do one this year that's still better,
+          which is probably a happy attitude to have toward writing. <event desc="audience laughter"/> That is, it's—it's 
+          fun to do. It's like some people find playing golf fun to do or
+          collecting stamps. If you ever get the perfect stamp, there's nothing else to collect. If
+          you ever write a book that suits you exactly, there's nothing else to do, and so you hope
+          that you really won't write one as good as you think it's going to be, and, of course, you
+          won't.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.4" start="00:04:49.99" end="00:05:56.67">
+            <head>Mrs. Armstid's Suit</head>
+            <u who="Q">Mr. Faulkner—</u>
+        <u who="WF">Yes, ma'am.</u>
+        <u who="Q">Do you feel that the gap between the people and the law that exists in "Spotted
+          Horses" has closed any since then?</u>
+        <u who="WF">The gap between the people and—</u>
+        <u who="Q">And the law.</u>
+        <u who="WF">And the law?</u>
+        <u who="Q">Uh huh.</u>
+          <u who="WF">Will you explain a little more of what that means?</u>
+          <u who="Q">The law is so inappropriate, and—and—and we feel that
+          it's—in the end, it's so ridiculous, really. It's—it's so far from the
+          people and the way they live, and it doesn't seem to apply to them. I just wondered if you
+          felt that it were more appropriate now.</u>
+        <u who="G">You mean that Mrs. Armstid doesn't get her money back in court?</u>
+        <u who="Q">Yes.</u>
+        <u who="WF">Oh, well, that's one of the natural occupational hazards of breathing, is conflict
+          with the law, with police. I think that all people have to face that and accept it and do
+          the best they can with it. That's—if she had got her money back, it'd been bad on me because my
+          story would've blown up. <event desc="audience laughter"/></u></div2>
+        <div2 type="dialog" id="wfaudio02_2.5" start="00:06:03.17" end="00:06:23.00">
+          <head>Requiem on Stage</head>
+          <u who="Q">Mr. Faulkner, have you seen any of the productions of <hi rend="italic">Requiem
+            for a Nun</hi>?</u>
+        <u who="WF">No, I haven't. I have read the—the version that—that Camus
+          did in French, but then he turned it into an existentialist play, <event desc="audience laughter"/> but I've never seen it on the stage.
+          I would like to.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.6" start="00:06:33.60" end="00:07:20.45">
+          <head>Eula's Character</head>
+          <u who="B">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="B">Eula Varner seems to be the sort of character who would in some way seems almost
+          larger than life, seems to be invested with a—a meaning that's almost symbolic.
+          When you conceived this character, did she seem to represent, let us say, some of the best
+          aspects of the—the Varners?</u>
+        <u who="WF">Oh, you're quite right. She was larger than life, that she was—was an
+          anachronism. She had no place there, that that little—little hamlet couldn't have held her, and
+          when she moved on to Jefferson, that couldn't hold her either, but then that'll be in the
+          next book, the one that'll be out next month. <event desc="audience laughter"/> You're
+          quite right. She was larger than life. She was too big for this world.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.7" start="00:07:29.35" end="00:07:58.41">
+          <head>Plot v Character</head>
+          <u who="Q">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="Q">To what extent are your plots and characters preconceived, or in other words, to
+          what extent do you outline what is going to happen to your characters before you begin to
+          write?</u>
+          <u who="WF">I don't at all. I get a character and—and get him or her started, get him or her
+          involved with somebody else, and then they take charge of it. I just gallop along behind
+          to put it down, <event desc="audience laughter"/> but they are writing the book by that
+          time.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.8" start="00:07:58.52" end="00:09:54.34">
+          <head>Writing Sound and Fury</head>
+          <u who="Q">You—you have said previously that—that <hi rend="italic">The Sound and the
+            Fury</hi> came from an impression of a little girl up in a tree, and I wondered how you
+          built it from that, and whether you just, as you said, let it—let the story
+          develop itself.</u>
+        <u who="WF">Well, impression is—is the wrong word. It's more an image. A very
+          moving image to me was of the children. Of course, we didn't know at that time that one
+          was an idiot, but there were three boys—one was a girl, and the girl was the
+          only one that was brave enough to climb that tree to look in the forbidden window to see
+          what was going on, and that's what the book <inaudible/>, and <unclear>it</unclear> took the
+          rest of the 400 pages to explain why she was brave enough to climb the tree to look in the
+          window. It was an image, a—a picture to me, a—a very moving one, which
+          was symbolized by the muddy bottom of her drawers as her brothers looked up into the apple
+          tree that she had climbed to look in the window, and the symbolism of the muddy bottom of
+          the drawers became the—the lost Caddy, which had caused one
+          brother to commit suicide, and the other brother had—had misused her money that
+          she'd sent back to the—to the child, the daughter. It was a—I thought—a short story, 
+          something that could be done in <unclear>about</unclear> two pages, a
+          thousand words. I found out it couldn't. I finished it the first time, and it wasn't
+          right, so I wrote it again, and that was Quentin. That wasn't right. I wrote it again.
+          That was Jason. That wasn't right. Then I tried to let Faulkner do it. That still was
+          wrong.</u></div2><div2 type="dialog" id="wfaudio02_2.9" start="00:10:03.00" end="00:11:02.74">
+            <head>The Snopses' Respectability</head>
+            <u who="B">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="B">One thing that we sometimes seem to see with acquisitive
+          people like the Snopeses is that after they have made the gains which they want very much
+          to make, respectability seems to set in and start to work on them, too. Do you see any
+          signs of that happening in that clan?</u>
+        <u who="WF">No, only that the rapacious people, if they're not careful, they are seduced
+          away and decide that what they've got to have is respectability which destroys one, almost
+          anybody. That is, nobody seems to be brave enough anymore to be a—an out-and-out blackguard
+          or rascal, that sooner or later he's got to be respectable, <event desc="audience laughter"/> and 
+          that finishes it.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.10" start="00:11:04.45" end="00:12:03.90">
+          <head>Pressure to Conform</head>
+          <u who="Q">Why aren't there blackguards <unclear>then</unclear>?</u>
+          <u who="WF">They ain't brave and strong and tough like they used to be. <event desc="audience laughter"/> And
+          that's— </u>
+        <u who="Q"><unclear>And</unclear> why not?</u>
+          <u who="WF">It's the—the curse of the times, maybe.  It may be there's a three or four color
+          printing of advertisements have—have been too seductive, or a picture of a fine
+          big car in two colors with a handsome young woman by it, so that you almost think the
+          woman comes with the new car <event desc="audience laughter"/> when you make the starter
+          payments. Money is—there's so much pressure to conform, to—to be
+          respectable.</u>
+        <u who="Q">More than in the Victorian?</u>
+        <u who="WF">I think so, yes. In the Victorian, they tried to—to force you to be
+          respectable to save your soul. Now, they compel you to be respectable
+          to be rich.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.11" start="00:12:13.18" end="00:14:04.96">
+            <head>Conformity v Individualism</head>
+            <u who="Q">Were these people blackguards to save their souls? I'm not quite sure I
+          understand the connection.</u>
+        <u who="WF">Well, I think that possibly the old Adam in man suggests to him to be a
+          blackguard if he can get away with it, and when there's a great deal of pressure to be
+          respectable, if there is—is a great enough reward for the respectability, he
+          will choose that in preference to the pleasure of being a scoundrel and a blackguard, that
+          people don't have enough verve and zest anymore, which is not the fault of man so much as
+          the fault of the times that we live in to where he—there's too much pressure
+          against being an individualist, and—and a—a good first-rate scoundrel
+          is an individualist. He don't really belong to a gang. Once he's got to join a gang, he
+          becomes a second-rate scoundrel, but a first-rate scoundrel is like a first-rate artist.
+          He's an individualist, and the pressure's all against being an individualist. You've got
+          to belong to a group. It don't matter much what group, but you've got to belong to it, or
+          there's no place for you in the—the culture or the economy. Maybe to belong to a
+          gang you might escape the Atom bomb. <unclear>This</unclear>—</u>
+          <u who="Q">Are you saying that he has to be a—a scoundrel to be an individualist?</u>
+        <u who="WF">No, sir. I say a scoundrel, to be a good one, must be an individualist. That
+          only an individualist can be a first-rate scoundrel. Only an individualist can be a
+          first-rate artist. He can't belong to a group or a school and be a first-rate writer.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.12" start="00:14:09.11" end="00:14:28.60">
+          <head>Flem Snopes</head>
+          <u who="G">You could have some grudging admiration for Flem Snopes who pretty well sticks to
+          his character.</u>
+        <u who="WF">Well, until he was bitten by the bug to be respectable. Then he let me down.
+            <event desc="audience laughter"/> I had an admiration for him until then.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.13" start="00:14:28.94" end="00:14:55.90">
+          <head>Good Snopeses</head>
+          <u who="G">Any there good Snopeses? That boy of Eck's seems like a nice little fellow. Is
+          he—is he going to get depraved, too?</u>
+        <u who="WF">No, no. He was—he turned into a—in his—his way, a
+          pretty good boy. He wanted no more of Snopes. He tried to remove himself from the—the aura
+          and orbit of <unclear>the</unclear> Snopes.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.14" start="00:14:55.96" end="00:16:00.59">
+          <head>Montgomery Ward Snopes</head>
+          <u who="B">Somebody once wrote, Mr. Faulkner, I—maybe this is apocryphal, that
+            a—a couple of Snopeses who haven't yet been described, but who—who might <unclear>were
+              to be described</unclear>, were named Dollar Watch Snopes and Montgomery Ward Snopes. <event desc="audience laughter"/>  Is
+          there any truth to that?</u>
+        <u who="WF">Yes, there's a Montgomery Wards Snopes. He went to France in 1917 to keep from
+          being drafted. He joined the YMCA, <event desc="audience laughter"/> and he came back with
+          a batch of—of French pornographic postcards and opened what he called a studio.
+          <event desc="audience laughter"/> He—he had a—a Basque hat and a
+            windsor tie by that time. He was an artist. His studio had a back door to it,
+          and if people joined the club, they could look at the postcards <event desc="audience laughter"/> until 
+          the government caught him. That was Montgomery
+          Ward.</u>
+        <u who="Q">Did he ever make it back to America?</u>
+        <u who="WF">Oh, yes. This was back in Jefferson where he opened his studio. <event desc="audience laughter"/></u></div2>
+        <div2 type="dialog" id="wfaudio02_2.15" start="00:16:10.17" end="00:18:53.99">
+          <head>Resisting Snopesism</head>
+          <u who="Q">Mr. Faulkner, you said before that it was your belief that man would prevail.
+          Well, in the light of this book <hi rend="italic">The Hamlet</hi> and several others that
+          we've discussed recently, what type of man do you think will prevail? What kind? A
+          scoundrel?</u>
+        <u who="WF">No, no. The scoundrel in time is seduced away by the desire to be respectable,
+          so he's finished. There's a—what quality in man that prevails, it's—it's difficult to
+          be specific about, but somehow man does prevail. There's always someone that will—will never
+          stop trying to cope with Snopes, that will never stop trying to get rid of Snopes.</u>
+        <u who="Q">
+          <inaudible/>
+          <unclear>A sort of the lunatic fringe or something?</unclear>
+        </u>
+        <u who="WF">What?</u>
+        <u who="Q"><unclear>A remnant</unclear>?</u>
+        <u who="WF">No, the—the impulse to eradicate Snopes is—is, in my
+          opinion, so strong that it—it selects its champions when the crisis comes.  When the battle
+          comes, it always produces a Roland. It doesn't mean that they will get rid of Snopes or
+          the impulse which produces Snopes, but always there's something in man that—that don't like
+          Snopes and objects to Snopes and, if necessary, will step in to keep Snopes from doing
+          some irreparable harm. There's whatever it is that—that keeps us still trying to
+          paint the pictures, to make the music, to write the books. There's a great deal of
+          pressure not to do that because certainly the artist has no place in—in nature,
+          and almost no place at all in our American culture and economy, but yet people still try
+          to write books, still try to paint pictures. They still go to a lot of trouble to—to produce
+          the music, and a few people will always go to hear the music, which still has nothing to
+          do with—with the number of people that will produce the Cadillac cars or the
+          economies which will give everybody a chance to buy a Cadillac car on the installment plan
+          or the deep freezers. That is, all that's advertised. It has to be advertised, in order to
+          keep <unclear>you provided,</unclear> but the books, the music, that's not advertised, yet
+          still there're people that will pay for it and buy the pictures. It's a slow process, but
+          yet it apparently goes on, that we will even outlast the atom and
+          hydrogen bombs. I don't know right now how we will do it, but my bet is we will.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.16" start="00:19:02.52" end="00:20:03.60">
+          <head>Retelling Stories</head>
+          <u who="Q">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="Q">There's another version of this story, isn't there? It seems to me I remember one
+            with a sewing machine agent telling it.</u>
+        <u who="WF">I'm sure there is. I have written a dozen versions of it. I would—I
+          would have to see them all to unravel them myself, <event desc="audience laughter"/> but
+          I'm sure there's any number of versions of it, which is simply the—the
+          craftsman's job to try it and try it and try it, to have infinite patience, to try and try and
+          try until it comes as good as you can possibly make it. When you have reached that point,
+          it still ain't good enough, so you write another one, and you try and try that one, to
+          bring it to the nearest perfection that you are capable of, which still won't be the best
+          one, so you write another one. When you reach this point where you don't do that anymore,
+          you cut the throat.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.17" start="00:20:07.84" end="00:22:32.83">
+          <head>Sutpen's Quest</head>
+          <u who="Q">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="Q">Along this respectability/scoundrel line, how do you explain Colonel Sutpen, who
+          sweeps into Jefferson and grimly sets himself up, and <unclear>along the line</unclear>
+          decides he'll have respectability? Marches into town with the willpower that's possibly
+          equaled only by his mother—his eventual mother-in-law. Does he really lose his
+          individuality or is respectability just another notch on his rifle, so to speak?</u>
+        <u who="WF">He wanted more than that. He wanted revenge as he saw it, but also he wanted to
+          establish the fact that man is—is immortal. That—that man, if—if he is
+          man, cannot be inferior to another man through artificial standards or circumstances. What
+          he was trying to do—when he was a boy, he had gone to the front door of a big
+          house, and somebody, a servant, said, "Go around to the back door." He said, "I'm going to be
+          the one that lives in the big house. I'm going to establish a dynasty. I don't care how."
+          And he violated all the rules of—of decency and honor and pity and compassion,
+          and the fates took revenge on him. That's what that story was. But he was trying
+          to—to say in his blundering way that—that, "Why
+          should a man be better than me because he's richer than me, that if I had had the chance I—I
+          might be just as good as he thinks he is, so I'll make myself as good as he thinks he is
+          by getting the same outward trappings which he had"—which was a big house and servants in
+          it. He didn't say, "I'm—I'm going to be—be braver or more compassionate
+          or more honest than he." He just said, "I'm going to be as rich as he was, as big as he was
+          on the outside."</u>
+        <u who="Q">He never really attained this respectability?</u>
+        <u who="WF">No, he was—the—the Greeks destroyed him, the old Greek
+          concept of tragedy. He wanted a son which symbolized this—this ideal, and he got
+          too many sons. His sons destroyed one another and then him. He was left with—the
+          only son he had left was a Negro.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.18" start="00:22:46.85" end="00:25:10.82">
+          <head>Individualism v Love</head>
+          <u who="Q">Mr. Faulkner—</u>
+        <u who="WF">Yes, sir.</u>
+        <u who="Q">You've said that you regarded respectability as one of the prime enemies of
+          individualism. Do you regard love as an enemy of individualism?</u>
+        <u who="WF">No, <unclear>not at all</unclear>. What's love got to do with respectability?
+            <event desc="audience laughter"/> No, sir, I—I do not. Respectability
+          is—is an artificial standard, which—which comes from up here. That is,
+          respectability is—is not your concept or my concept. It's what we think is
+          Jones's concept of respectability.</u>
+        <u who="Q">I don't mean to defend respectability in love or out. What I mean <event desc="audience laughter"/> to 
+          do is—be quiet, please. <event desc="audience laughter"/> What I mean to ask is—is this. Isn't there a basic dichotomy
+          between the kind of individualism which you are praising and the attitude of love?</u>
+        <u who="WF">If you will substitute decency for respectability, I would agree with you. I
+          don't quite follow you between respectability and love, but decency and love. That's an
+          interesting point. Has anybody else got a thought on that?</u>
+        <u who="B">Well, that's what Harry Wilbourne and the girl in <hi rend="italic">Wild
+            Palms</hi> discovered, didn't they? That they couldn't get love and respectability
+          together, they couldn't live in the twentieth century patterns the way they wanted to.</u>
+        <u who="WF">Yes, that's right, but then by Smith's conception of respectability, they
+          couldn't have had that anyway because one was already married. So there was a choice about
+          will we take what we can or will we have a little or nothing, and a little, I think, is
+          always better than nothing. </u></div2>
+        <div2 type="dialog" id="wfaudio02_2.19" start="00:25:12.53" end="00:27:28.46">
+          <head>Pylon</head>
+          <u who="Q">Mr. Faulkner, do you regard <hi rend="italic">Pylon</hi> a serious novel and what
+          were you driving at in that novel?</u>
+          <u who="WF">To me, they were a—a fantastic and—and bizarre phenomenon on
+            the—the—the face of a—of a contemporary scene, of our culture at a particular time. I
+          wrote that book because I'd gotten in trouble with—with <hi rend="italic">Absalom, Absalom!</hi>, and 
+          I had to get away from it for a while, so I thought a good
+          way to get away from it was to write another book, so I wrote <hi rend="italic">Pylon</hi>. They were 
+          ephemera and a phenomena on the face of a—of a
+            contemporary scene. That is, there was really no place for them in—in—in the culture, in the
+          economy, yet they were there at that time, and everyone knew that they wouldn't last very
+          long, which it didn't. That time of those frantic little aeroplanes which dashed around
+            the country, and people wanting just enough money to—to live, to get to the next place to
+          race again, something frenetic and, in a way, almost immoral about it, that they were
+            outside—outside the range of—of God, not only respectability, of love, but of—but of God,
+            too, that they had escaped the—the compulsion of—of accepting a past and a future,
+          that they were—they had no past. They were as—as ephemeral
+          as—as the butterfly that—that's born this morning with no stomach and
+          will—will be gone tomorrow, which seemed to me interesting enough to make a
+          story about. But that was just to get away from a book that wasn't going too well until I
+          could get back at it.</u></div2>
+        <div2 type="dialog" id="wfaudio02_2.20" start="00:27:29.66" end="00:28:24.00">
+          <head>Close</head>
+          <u who="M">I think that perhaps we've used up enough of Mr. Faulkner's energy unless, sir,
+          you feel the wish to carry on a bit more.</u>
+          <u who="WF">Surely. If anyone can suggest something we can discuss, by all means. You might—when 
+            should this stop? What do you—</u>
+        <u who="M">Well, it has no set closing hour, but—but <event desc="audience laughter"/> we don't want to tire you.</u>
+        <u who="WF">Well, I've told you—this is a dreadful habit to get into where you can
+          stand up in front of people and talk, and nobody can say shut up and sit down. <event desc="audience laughter and applause"/>  <event desc="end of recording"/></u></div2>
+        </div1>
+    </body>
+  </text>
+</TEI.2>

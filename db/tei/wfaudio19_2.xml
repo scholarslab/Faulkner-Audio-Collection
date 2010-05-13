@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio19_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio19_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio19_2</idno>
+                <idno type="analog tape">T-139</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="B">Joseph Blotner</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-06-05">5 June 1957</date>
+                    <locale>Local Public and University Community</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 5 June 1957</head><head>OCCASION: Local Public and University Community</head>
+                <head>TAPE: T-139</head><head>LENGTH: 27:36</head>
+                <div2 type="dialog" id="wfaudio19_2.1" start="00:00:06.87" end="00:00:58.98">
+                    <head>Time in Charlottesville</head>
+                    <u who="WF"><inaudible/> happen among people, and if anything can happen to—to
+                    improve man's condition and get rid of his bother and trouble, it will be for
+                    amateur to meet amateur, not for professional to meet professional, but for
+                    amateur to meet amateur, and if I do have the amateur quality that
+                    people in Charlottesville have—have—have felt and been in
+                    sympathy with, then—then my time here has been more than just happy,
+                    it's been worthwhile, too. I imagine that—that there could be circles,
+                    conditions in which the Writer-In-Residence would have to be a literary man,
+                    but—but I'm not a literary man, and—and I'm happy to know
+                    that—that in Charlottesville, at least, I've been forgiven for that.
+                        <event desc="audience laughter"/>
+                    </u></div2>
+                <div2 type="dialog" id="wfaudio19_2.2" start="00:01:01.14" end="00:02:24.37">
+                    <head>The Writer's Sources</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">How much of yourself do you include in your characters? <event desc="audience laughter"/></u>
+                <u who="WF">Well, I consider that I'm in the public domain, just like you and Mr.
+                    Gwynn and anybody else that I meet, but I'm still convinced that I can make a
+                    much better job of Faulkner than God made of Faulkner, so I will—if I
+                    were writing my own biography very likely I couldn't possibly tell the truth
+                    about it. <event desc="audience laughter"/> Actually, the writer has got to
+                    write from experience, observation, imagination, and—and imagination
+                    and observation are bound to be colored just a little by experience, so actually
+                    any artist is simply recounting time after time his own biography or his own
+                    history or his own reaction to the human condition, which is—which is
+                    universal to all men.  But his is a—what he thinks is a particular ache
+                    and anguish, which to him, anyway, is important enough to put into the music or
+                    the picture or into the poem.  But he must write from what he knows, and all he
+                    knows is just a little of himself because he will die not knowing too much
+                    about himself, but he would certainly know very little about anything
+                        else.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio19_2.3" start="00:02:27.53" end="00:02:58.10">
+                    <head>Part-Time Demons</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Your demon sounds relentless. Is there any hope for anyone learning to
+                    write if they have a part-time demon? <event desc="audience laughter"/></u>
+                <u who="WF">Well, I think that—that there's a—a limitless supply
+                    of demons just like germs that hang around maybe just looking for lodgment in
+                    anyone that shows any aptitude for ink. That it's—that's—as
+                    I said, it's a vice, and it's a virulent sort of vice, too. If you ain't
+                    careful, it'll get you.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.4" start="00:03:09.73" end="00:04:01.98">
+                    <head>Comedy</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">You've often talked about the <unclear>effort to convey</unclear> condition of man, do you
+                        think that this can be achieved in comedy?</u>
+                <u who="WF">Oh, yes, certainly, because so much of man's condition is comedy. It's
+                    difficult to say just where comedy stops and tragedy begins. His condition is
+                    his eternal struggle with himself, with his fellows, and with his environment,
+                    and that takes the form of—of—of comic or tragic situations,
+                    and the comic situations show the tragedy of his—his constant,
+                    indomitable striving with his own heart, the heart of mankind, or the condition
+                    in which mankind has to function, so one is just as valid as
+                    the other, just as important, and who can say just where one stops and the other
+                    starts?</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.5" start="00:04:03.23" end="00:05:32.28">
+                    <head>Sherwood Anderson</head>
+                    <u who="Q">Mr. Faulkner, <unclear>isn't it</unclear> rather unusual for a man to write his
+                        first book <unclear>setting in full-blown and starting</unclear> that way rather than an outline, maybe a first
+                        chapter—a whole book for the first time. Is that what's usually done?</u>
+                <u who="WF">Well, it's probably a little unusual for a—a 
+                    reasonably prospering young bootlegger to meet a writer like Sherwood Anderson.
+                        <event desc="audience laughter"/> That don't happen to everybody, you know.
+                        <event desc="audience laughter"/></u>
+                <u who="Q">Mr. Faulkner, how old were you then?</u>
+                <u who="WF">Twenty-two, twenty-three. That was in the early '20s after the old
+                    war.</u>
+                <u who="Q">Did he advise you on your writing? Did he criticize you?</u>
+                <u who="WF">No'm, he wouldn't even read it. That was the trade he made. 
+                     He would never read it. <event desc="audience laughter"/></u>
+                <u who="Q">Did he talk about writing to you at all, about your work?</u>
+                <u who="WF">No'm, we talked about people. Rather, he talked, and I listened. He was
+                    telling me the fantastic stories, which later he would probably write, but I
+                    couldn't believe any of it, <event desc="audience laughter"/> because I knew he
+                    was a writer. He talked, and I listened, but it was not about books because
+                    neither one of us were literary people, because we were not really interested in
+                    literature and books. We were interested in people and the comic and tragic
+                    ephemera of man's condition, interested in laughing, maybe.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.6" start="00:05:34.61" end="00:06:45.85">
+                    <head>Writing and College</head>
+                    <u who="Q">Mr. Faulkner, do you feel that a writer might be hampered by a college
+                    education? Keep him from creating the characters <inaudible/>—</u>
+                <u who="WF">No, sir, I do not. I think that a college education is not going to
+                    hamper anyone. I think that a lot of people are subject to it that don't deserve
+                    it and can do nothing with it, but it's not going to hamper anyone. I think
+                    that—that the college education will save the writer a great deal
+                    of—of—of trouble, which he would have to go to in simply
+                    learning about man, about the—the history, the record, the history of
+                    man, that is available to him in the university, which otherwise he has got to
+                    get out and dig for himself, and I'm sorry that I didn't have a—a
+                    college education myself. I think that if you have the demon you're going
+                    to—to write anyway. Nothing is going to stop you, and it may be you
+                    don't want things too easy. But I never heard of anyone that was hurt by a
+                    college education, and any writer that says, "I would have been a good writer
+                    except"—I put no stock in that because I believe that the "mute,
+                    inglorious Milton" is a complete myth.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.7" start="00:06:51.20" end="00:08:04.07">
+                    <head>Modern Heroism</head>
+                    <u who="B">Mr. Faulkner, in spite of what happens to General Compson and Colonel
+                    Sutpen and Colonel Sartoris, there seems to be a heroic quality about them. Do
+                    you think that it is still possible for that kind of heroism in the time of
+                    which the story in <hi rend="italic">The Town</hi> is set?</u>
+                <u who="WF">Yes, I think that—that although man is not always matched with
+                    his finest hour, I'm convinced that—that the hour, the need finds the
+                    men it—it requires. That the men like—like Compson and
+                    Sutpen who—who had the—the desire to—to be heroic,
+                    they failed through—through lack of character or absence of things in
+                    their character which should not have been there, but at least they tried. But
+                    I'm convinced that the hour will find the men it needs. Though the tragedy is
+                    the man who didn't find his hour, didn't find his chance to—to be what
+                    he could have been and might have been.  He's tragic.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.8" start="00:08:09.62" end="00:08:49.66">
+                    <head>Effect of Critics</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">What effect, if any, have the opinions of literary critics had
+                        on your writing?</u>
+                <u who="WF">None. I don't read critics. I imagine that most writers don't. They're
+                    too busy. That is, the book the writer just finished ain't good enough. He knows
+                    that before he's finished it, and so he's forgot about that book. He's going to
+                    try one next that will be, and so since it—it didn't meet with his
+                    approval, he don't care what anybody else's opinion of it is. And, in my own
+                    case, I like to read, but I ain't going to read what anybody thinks about
+                    somebody else's ideas. I'd rather read about people.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.9" start="00:08:49.67" end="00:10:52.80">
+                    <head>Rejection Slips</head>
+                    <u who="Q">Have you ever received any rejection slips, Mr. Faulkner? <event desc="audience laughter"/></u>
+                <u who="WF">Yes'm, for the first few years when I'd try to write short stories, I
+                    got plenty of rejection slips.</u>
+                <u who="Q">How did it affect you? Or did it?</u>
+                <u who="WF">Well, I would—I would be frustrated and—and
+                    enraged in the time when I hoped I could get a little money for it, but if I
+                    didn't need money at that time, it didn't make much difference. I sent it
+                    somewhere else, or—or I was busy still writing another one. I'd
+                    probably—that's—</u>
+                <u who="Q">I've heard it's had a very depressive affect on many writers.</u>
+                <u who="WF">It—it could on a young writer, yes. I think
+                    that—that the young writer maybe doesn't always know or doesn't always
+                    have time to decide exactly why he writes.  Under the pressure of—of
+                    our—our culture, the only measure for his writing is whether people
+                    buy it, whether it's in the magazines or not, and he accepts that, and it gives
+                    him a lot of bother and trouble, until he gets along a little and realizes
+                    that's not at all why one writes, that the reason one writes is from the full
+                    knowledge of death that we all have.  He knows that some day he will pass into
+                    oblivion. He has seen something so—so moving, so
+                    beautiful, so aching in the human condition that he wants to write about it, and
+                    what he is—is actually doing is to make a scratch on that
+                    wall.  Before he passes through the last wall into nothingness, he will
+                    leave on that wall "Kilroy was here." Not for glory, not for money, just to
+                    say "I was here for a little while. I did this. I made something that wasn't here
+                    before." That's probably the reason he sticks at it, why he's not discouraged by
+                    a rejection slip.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.10" start="00:10:53.10" end="00:11:14.37">
+                    <head>Rejected Stories</head>
+                    <u who="Q">Mr. Faulkner, what became of those stories that were rejected in the
+                    first few years you were writing? Did you just abandon them?</u>
+                <u who="WF">No, I kept them. I kept them, and after a while the folks that rejected
+                    them bought them.  They bought them. <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio19_2.11" start="00:11:19.02" end="00:12:13.12">
+                    <head>The Writer's Demon</head>
+                    <u who="G">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="G">This demon that follows you, could it be described as one that insists on
+                    your writing a certain story, one story, or is it one that suggests lots of
+                    different stories, and you'll have to use your rational mind and select?</u>
+                <u who="WF">No, it's the sort of demon that is like the mosquito that won't let you
+                    sleep. You want to say, "Oh, go away, let's—let's be quiet a while.
+                    What's the use in going to all this bother and trouble just to write books and
+                    stories?" But it won't let you sleep. It's not that it says, "You must tell this
+                    story." It's just that it won't let you alone. That it keeps on whispering to
+                    you, "If you wake up, this is a lot of fun. Come on. Wake up and try it now."</u>
+                <u who="Q">The demon doesn't really care which story you write, then—</u>
+                <u who="WF">No'm, I think it's just against repose more than in favor of
+                    anything.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.12" start="00:12:18.00" end="00:12:40.10">
+                    <head>Seeing Characters</head>
+                    <u who="Q">Do you see any faces as you describe characters? Do you see a physical
+                    person as you write?</u>
+                <u who="WF">Yes, yes, I don't always hear a name, but I always see a—a
+                    physical face, a body, mannerisms, and quite often they name themselves, but not
+                    always.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.13" start="00:12:40.11" end="00:13:26.21">
+                    <head>Naming Characters</head>
+                    <u who="Q">So where did you get your names?</u>
+                <u who="WF">The—the characters usually name themselves, or the situation
+                    names the characters. I've never had to hunt around and say, "Now, let's see,
+                    what shall I call Smith this time?" That he has said, "This is who I am, and this
+                    is what I'm going to be called."</u>
+                <u who="Q">Have you usually known people with these names?</u>
+                <u who="WF">No, I try not to use a name I've ever heard because once you do it, two
+                    days later, you get a letter saying, "Dear Sir, I have just turned this matter
+                    over to my lawyer. <event desc="audience laughter"/> How much
+                        money <unclear>do you have</unclear>?"—<event desc="audience laughter"/> And so any writer is awful
+                    careful not to put down any name he ever heard or—or to describe any
+                    incident he ever actually saw.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.14" start="00:13:30.40" end="00:15:35.31">
+                    <head>Thomas Wolfe</head>
+                    <u who="Q">Mr. Faulkner, I read that you admired Mr. Wolfe—Thomas Wolfe's
+                    work very much. Just what about it, what—what do you admire about his
+                    work?</u>
+                <u who="WF">Now, that was an unfortunate remark I made. It was a group of students.
+                         They asked me what I thought about my
+                    contemporaries. I said, "It's too soon to say. We're not done writing." This was,
+                    oh, twenty—twenty, thirty years ago. They said, "Well, don't you have
+                    any opinion of them at all?" I said, "Opinion of who?" He named Wolfe, Caldwell,
+                    Hemingway, Dos Passos. And I said, "Well, I think we all failed, so I'll have to
+                    rate us on what I consider the splendor of our failure, and so this is the way I
+                    would rate us," and ever since that I've been trying to explain that or live it
+                    down. <event desc="audience laughter"/> But that's all it was. To tell the
+                    truth, I haven't read much of Wolfe. I've read one or two of his stories. I've
+                    opened his books and read pages or paragraphs, but that was—was an
+                    opinion on the—the tremendous effort that he had gone into to try to
+                    put all of—of the history of the human heart on the head of the pin.
+                    That is, to tell it all in each paragraph until he died, as though he had
+                    a—a premonition of his own early death. That was what I meant
+                    by—by the failure. That he failed the best because he had tried the
+                    hardest, he had—had taken the longest gambles, taken the longest
+                    shots. I rated Hemingway last not on the value of—of the product at
+                    all, but simply because of—of Hemingway having taught himself a
+                    pattern, a method which he could use, and he stuck to that without splashing
+                    around to try to experiment. It had nothing to do with the value of the work at
+                    all. It was simply on the degree of the—of the attempt to reach the
+                    unattainable dream, to—to accomplish more than any flesh and blood man
+                    could accomplish, could touch.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.15" start="00:15:46.51" end="00:17:08.63">
+                    <head>Writing Sound and Fury</head>
+                    <u who="Q">Mr. Faulkner, I understand that in writing <hi rend="italic">The Sound
+                        and the Fury</hi>, you meant for the first part, Benjy's story, to be the book
+                    and then you went then on afterwards to add three more parts. What prompted you
+                    to do that? Did you feel the need to go on and explain <inaudible/>— ?</u>
+                <u who="WF">It was to be a short story. It was those three children who had been
+                    forbidden to come into the house that afternoon, for what reason they didn't
+                    know. They only knew dimly that—that grandmama had been sick, and
+                    they didn't know that they'd been forbidden to come in the house because of the
+                    funeral, and they were curious enough to climb up to see why they couldn't go
+                    into the parlor that they had been forbidden to enter. I thought it would be a
+                    short story of ten pages maybe. It got longer and longer, and then I began to
+                    know more and more about the people in it, and I finished the first section, and
+                    that wasn't right.  So I wrote another section. I let somebody else try it. That
+                    wasn't right. I let another brother try it. That still wasn't right. I tried it
+                    once myself, and that still wasn't right. It still is not—not good
+                    enough to suit me. It's still not the book that I'm convinced if I hadn't
+                    written it and could start again tomorrow, I would write it better. Probably
+                    wouldn't, but I'm convinced of that.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.16" start="00:17:16.23" end="00:19:55.19">
+                    <head>Incidents in Sound and Fury</head>
+                    <u who="Q">Sir?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">I'd like to ask you about  two incidents in <hi rend="italic">The
+                        Sound and the Fury</hi>, which I didn't—I didn't—I
+                    wasn't able to—to relate to the rest of the story, but I thought they
+                    were—the fact that you threw them in was interesting.  And one
+                    was—well, I haven't read this for a while, and you—you say you haven't
+                    either. <event desc="audience laughter"/> One was about something to do
+                    with—with a broken leg, as I recall. And another was a description of
+                    an operation which took place in the woods, as I remember, with a razor blade.
+                    And I'd like for you to—to try to help me understand just how these fit in with the
+                    rest of the book and what they had to do with the story as  you recall.</u>
+                <u who="WF">I don't remember about the operation with the razor blade in the woods,
+                    though without doubt it—it referred to—to—to the
+                    castration of the idiot child. After he had tried to molest a little girl, they
+                    had to do something about him, so he was castrated, and if the operation in the
+                    woods had any application, and I can't remember now, it was probably something
+                    out of the older brother's garbled, half-mad history and background, which he
+                    had used as a—as a—as a transference. The—the
+                    brutality of it as a transference onto this shameful thing which—which
+                    his idiot brother had had to suffer. The—the broken bone—I
+                    don't remember—but I'm—I'm—I worked so hard at
+                    that book that I doubt if there's anything in it that—that didn't
+                    belong there. I would have to look at the book again to—</u>
+                <u who="G">That's <hi rend="italic">As I Lay Dying</hi>,
+                    <unclear>isn't it?</unclear> Cash's broken leg?</u>
+                <u who="WF">Oh, well, yes, that was to—to show
+                    the—the—the ignorance of these people in trying to repair
+                    that—that broken bone with cement in order to make this completely
+                    foolish hegira with that decaying body, which they were
+                    doing, which was in its own way heroic because they had promised that woman that
+                    they would take her back to—to her people to bury her, and so they
+                    went through fire and flood and all possible natural catastrophes
+                    to—to do this thing, which didn't need to be done at all, but they had
+                    promised to do it, so they did.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.17" start="00:19:55.01" end="00:21:17.30">
+                    <head>Compson v Bundren Families</head>
+                    <u who="Q">Sir, did—when you wrote either <hi rend="italic">The Sound and the Fury</hi> and—or
+                        <hi rend="italic">As I Lay Dying</hi>, did you—were you conscious
+                    of—of making the characters, the brothers and sisters and their
+                    relationships, somewhat similar? I mean, would you think back, as
+                        you—as you recall—that it seems to me that there's a certain type of
+                    family relationship in each of the families, which—I
+                        wouldn't—I don't know which one of the books you wrote first—</u>
+                <u who="WF">Well, yes, probably there is, due to the fact that in each one of them,
+                    there was a sister surrounded by a—a gang of brothers.
+                        The one, <hi rend="italic">As I Lay Dying</hi>, was <hi rend="italic">tour de 
+                            force</hi>. I knew when I put down the first word what
+                    the last word of that would be. The other was anything but <hi rend="italic">tour 
+                        de force</hi>. I was completely submerged in the other one.
+                    I—I struggled and anguished with it for a year. This is—<hi rend="italic">As I Lay Dying</hi> I 
+                    wrote in about six weeks without
+                    changing any of it. If there is any relationship, it's probably simply because
+                    both of them happened to—to have a sister in a—a roaring
+                    gang of men folks.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.18" start="00:21:24.94" end="00:22:51.27">
+                    <head>Stories v Novels</head>
+                    <u who="Q">Mr. Faulkner, you spoke about <hi rend="italic">The Sound and the
+                        Fury</hi> as starting out to write a short story, and it kept growing. Well,
+                    now, do you think that it's easier to write a novel than a short story?</u>
+                <u who="WF">Yes, sir, you can be more careless. You can put more trash in it and be
+                    excused for it than a short story—that's next to the poem. Almost
+                    every word has got to be almost exactly right. In the novel you can be careless,
+                    but in the short story you can't. I mean by that the good short stories like
+                    Chekhov wrote. That's why I rate that second—it's because
+                    it's—it demands a nearer absolute exactitude. You have less room to be
+                    slovenly and careless. There's less room in it for trash. In poetry, of course,
+                    there's no room at all for trash. It's got to be absolutely impeccable,
+                    absolutely perfect.</u>
+                <u who="Q">It's more like playwriting then?</u>
+                <u who="WF">Yes'm, that's right.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">That's right. That's right. Of course, playwriting has one more demand,
+                    that you're—you're not going to keep your audience that long. With a
+                    book you can read that a while and put it down and then go back and read it, but
+                    if it's a play you can't. If you don't use up your ticket tonight, you've got to
+                    buy another ticket.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio19_2.19" start="00:22:52.00" end="00:23:52.48">
+                    <head>Favorite Work</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q"> Mr. Faulkner, would you care—I—I think you've made us understand
+                    your feeling that a writer is never satisfied with his work, but would you care
+                    to suggest which one of your works, or one or two of your works that you
+                    consider—that are your own favorites?</u>
+                <u who="WF">Well, that goes back to—to the old standard of failure. The
+                    one that's the dearest to me is the one that—that caused me the most
+                    anguish and trouble, just like the—the idiot child is—is
+                    the—the dearest to the—to the parent, and that's <hi rend="italic">The Sound and the Fury</hi>. That's the one I worked at the
+                    hardest, made the most splendid and to me the most beautiful failure, so that's
+                    the one that I love. The others didn't cause that much trouble. That is,
+                    I—I—I found out sooner that I couldn't make them perfect and
+                    was willing to quit. With <hi rend="italic">The Sound and the Fury</hi>, it took
+                    me a long time to realize I couldn't make it good enough to suit me before I'd
+                    give it up.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio19_2.20" start="00:23:54.31" end="00:24:33.24">
+                    <head>Reading Modern Works</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Do you <unclear>like to</unclear> read modern works and if so, how do you
+                    choose the ones that you like to read?</u>
+                <u who="WF">I think most writers as they get old read less and less, and I know that
+                    I read now the books that I knew and loved when I was a young man. I haven't
+                    read a—a dozen contemporary books in the last dozen years, and they
+                    were books which someone gave me and said, "Read this, I think you will like it,"
+                    or "There's something interesting in it," then I'll read it. But the reason I do
+                    is—is in the old books which I go back to as you go to call on an old
+                    friend and talk with him for a while.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.21" start="00:24:43.32" end="00:25:42.46">
+                    <head>War Experience</head>
+                    <u who="Q">Mr. Faulkner, do you feel that your war experiences in World War I had
+                    any significant influence on the perspective of the South that you developed in
+                    Yoknapatawpha County?</u>
+                <u who="WF">I don't know. As I said, the writer uses every experience that ever
+                    happened to him, and he is not interested in just how much one experience changes
+                    his own point of view, that he is too involved and too engaged with the people
+                    that he thinks he is writing about, that he hopes to make come alive and stand
+                    up in three dimensions and cast a shadow behind them, that he himself can't say
+                    because he don't really care how much any of his own private experience has
+                    changed him, that he's going to use it all, that he stores everything away
+                    willy-nilly, regardless, just as—as the magpie picks up everything that
+                    glitters, or as the professional carpenter don't ever throw away a plank no
+                    matter how crooked or short it is, that some day he will use it.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.22" start="00:25:44.79" end="00:27:17.93">
+                    <head>Civil vs Great War</head>
+                    <u who="Q"><unclear>Can I have one other</unclear> question in that general area?  Do
+                    you see or have you seen in the South an analogy between the Civil War and the First 
+                    World War as you knew it?</u>
+                <u who="WF">No, I—I don't. I imagine that—that literary experts
+                    or maybe even war literary experts might find analogies. I myself don't recall
+                    any. All I remember about the—the only war I know about was that was the first war
+                    when if you were scared, you said so. Up to that time, nobody every admitted he
+                    was scared. <event desc="audience laughter"/> There may have—there was
+                    a lot of romantic foolishness talked about air fighting in that war which wasn't
+                    really there because you were still contending with a machine which
+                    would come to pieces or would burn up, that there was nothing of
+                    the—of the quality of matching your—your own skill against
+                    another human being with the same fine high hopes and desires that you had. You
+                    were involved with a confounded machine that would kill you.</u></div2>
+                <div2 type="dialog" id="wfaudio19_2.23" start="00:27:21.49" end="00:27:31.45">
+                    <head>Close</head>
+                    <u who="B">Mr. Faulkner, we're very grateful to you for being with us, and we thank
+                    you very much.</u>
+                <u who="WF">Well, thank you all. <event desc="audience applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

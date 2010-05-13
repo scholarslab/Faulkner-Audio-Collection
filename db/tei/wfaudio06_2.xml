@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio06_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio06_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio06_2</idno>
+                <idno type="analog tape">T-115</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+                <person>
+                    <p id="B">Joseph Blotner</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-04-13">13 April 1957</date>
+                    <locale>Blotner's Novel and Gwynn's American Fiction Classes</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 13 April 1957</head>
+                <head>OCCASION: Blotner's Novel and Gwynn's American Fiction Classes</head>
+                <head>TAPE: T-115</head><head>LENGTH: 17:13</head>
+                <div2 type="dialog" id="wfaudio06_2.1" start="00:00:00.00" end="00:00:44.10">
+                    <head>Repeating Types</head>
+                    <u who="Q">Is there any purpose in the repetition of the same types of characters
+                    throughout your writing?</u>
+                <u who="WF">No, only that I have led a—all of my life has been lived in a
+                    little Mississippi town, and there's not much variety there. A—a
+                    writer writes from his experience, his—his background, in the terms of
+                    his imagination and his observation. That would be the explanation, I think.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.2" start="00:00:44.75" end="00:01:51.88">
+                    <head>Returning to Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, in line with that, some of your novels pick up
+                        <unclear>the</unclear> characters where you left them off in other novels
+                    that you had written a good number of years before. For example, most of the
+                    incidents involving the Snopes, as I understand it, were written from 1929 on
+                    and yet you've come out with a book this year about the Snopes. Do you find it
+                    difficult to, over a period of years, pick up those characters and carry their
+                    personalities through along the same vein?</u>
+                <u who="WF">No, no, those characters to me are—are quite real and quite
+                    constant. They are in my—my mind all the time. I don't have any trouble at all
+                    going back to pick up one. I—I forget what they did, but—but
+                    the character I—I don't forget, and when the book is finished, that
+                    character is not done, he's still going on at some new devilment that sooner or
+                    later I will find out about and write about. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio06_2.3" start="00:01:52.61" end="00:02:55.18">
+                    <head>The Heart's Truth</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">It's been said that you write about the secret of the human heart. Is
+                    there one major truth of the human heart?</u>
+                <u who="WF">Well, that's a question almost metaphysical. I would say if there is one
+                    truth of the human heart, it would be to believe in itself, believe in
+                    its—its capacity to aspire, to be better than it is, it might be. That
+                    it does exist in all people.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.4" start="00:02:57.78" end="00:03:58.38">
+                    <head>Relationship to Society</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, it has been said that at certain points in the evolution of society,
+                    an author is within the society describing his immediate surroundings and what
+                    he sees at that time, but as that society degrades and goes down, the author is
+                    thrown out and looks as an outsider on his society such that you might see when
+                    you look at the <unclear>South</unclear> <inaudible/>? What do you feel is your position in
+                    society today? Are you looking from within or are you out of the society looking
+                    at it objectively, the South in particular?</u>
+                <u who="WF">I think that I'm still a part of society. I think that as I grow older I
+                    know more, and I see more, understand more of what I see, but I am as much
+                    involved in society as I was when I was a young man. I just—just know
+                    more of what I see now, because I'm older. </u></div2>
+                <div2 type="dialog" id="wfaudio06_2.5" start="00:03:59.21" end="00:05:05.31">
+                    <head>A Fable's Setting</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, in light of the question out here and your answer about
+                    writing about Jefferson because that's what you know, I've always been
+                    interested in why you switched <unclear>then</unclear> to France with <hi rend="italic">A
+                        Fable</hi>, which is another treatment of the human heart? Why did you feel
+                    that a European setting would be best for that theme?</u>
+                <u who="WF">The <hi rend="italic">Fable</hi> was the only book I ever wrote on an
+                    idea, and the idea was, who might that man be under the splendid cenotaph with
+                    the eternal fire burning over him?  That if he had been Christ returned again and
+                    crucified again for the second time, then maybe we would have only one more
+                    chance. That was the only book I ever wrote from an idea, and that idea had
+                    to—since the idea was, who might be under that cenotaph, it had to take
+                    place in France.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.6" start="00:05:09.25" end="00:06:01.05">
+                    <head>A Fable's Merit</head>
+                    <u who="WF">Sir.</u>
+                    <u who="Q">Sir, on the inside of the cover of <hi rend="italic">A Fable</hi>, I read
+                    the comment that this work might possibly become a classic in the lifetime of
+                    the author. I never finished the book, and so I don't have an opinion of it to
+                    comment. Do you care to comment?</u>
+                <u who="WF">I don't think it's a—a very good book because
+                    it's—as I say, that's the only book I ever tried to write on ideas,
+                    and I'm not an idea man. I'm not a—a cerebral man. I write
+                    from—from—from here, and so I don't consider that a very good book myself.
+                    It was the best I could do with the idea, and I had to write it because the idea
+                    worried me.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.7" start="00:06:15.65" end="00:07:24.05">
+                    <head>What Bon Knew</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">I was wondering whether Charles Bon in <hi rend="italic">Absalom,
+                        Absalom!</hi> ever had <unclear>concluded</unclear> who his father was, Sutpen—</u>
+                <u who="WF">I think he knew. I don't know whether he—his mother probably
+                    told him. I think he knew.</u>
+                <u who="Q">Was it a conscious knowledge, would you say, or an unconscious
+                    knowledge?</u>
+                    <u who="WF">Probably it—it was a—a conscious knowledge, in the sense that his
+                    mother had told him who his father was. It may be that he didn't believe it or
+                    didn't know or didn't care. I think—I don't believe that he felt any
+                    affinity with Sutpen, as father and son, but probably his mother had told him
+                    and—that she had been deserted and if anything, if he did believe it,
+                    he hated Sutpen, of course.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.8" start="00:07:28.70" end="00:07:52.39">
+                    <head>The Greatest Sin</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, do you think—according to Nathaniel Hawthorne, the
+                    greatest sin was the violation of the human heart. Would you say that you think
+                    along those lines as far as what the greatest sin could be or the greatest
+                    <unclear>crime a character could commit</unclear>? Would you agree with that
+                    statement?</u>
+                <u who="WF">Yes, yes, I agree with that.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.9" start="00:08:03.50" end="00:08:34.07">
+                    <head>Nancy's Character</head>
+                    <u who="G">Sir, did you feel any connection between the servant Nancy in <hi rend="italic">Requiem for a Nun</hi> and the servant Nancy in "That Evening
+                    Sun"?</u>
+                <u who="WF">She is the same person, actually.</u>
+                <u who="G">They both have that incident about Mr. Stovall in the street.</u>
+                <u who="WF">Yes, she is the same personal actually. These people I figure belong to
+                    me, and I have the right to move them about in time when I need them.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.10" start="00:08:40.07" end="00:09:31.05">
+                    <head>The Curse on the South</head>
+                    <u who="Q">Mr. Faulkner.</u>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Mr. Faulkner, throughout your work there seems to be a theme that there's
+                    a curse upon the South. I was wondering if you could explain what this curse is
+                    and if there's any chance of the South of escaping it.</u>
+                    <u who="WF">The—the curse is slavery, which is a—a—an intolerable
+                    condition. No man shall be enslaved, and the South has got to
+                    work—work that curse out, and it will, if it's let alone.
+                    It—it can't be compelled to do it. It—it must do it of its
+                    own will and—and desire, which I believe it will do, if it's let
+                    alone.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.11" start="00:09:35.50" end="00:11:02.30">
+                    <head>Integrating Society</head>
+                    <u who="Q">Sir, along that line, how will it do it, and what will <unclear>it do</unclear>
+                     to adjust its relationship with the Negro? Will it take the Negro into
+                    society or what will <inaudible/>?</u>
+                <u who="WF">No, it will—it will never take the Negro into society. It will
+                    give the Negro the right for equality, which to me is something different. It
+                    will—will teach the Negro the responsibility of equality, of
+                    the—the Negro's own people will teach him that. Then he
+                    will—will receive equality. He—I think that the Negro
+                    doesn't want to mix with the white man any more than the white man wants to mix
+                    with the Negro, but I do think that the Negro wants to be equal with the white
+                    man and have the right to, that once—once he has the same right to
+                    enter the white man's house that—that another white man does, he
+                    won't want to, that his—his grief is that he knows that he has not
+                    that right. No matter how clean he is or how intelligent, he has not that right,
+                    to enter the white man's restaurant, the white man's hotel. Once he has that
+                    right, he won't want to. He'll prefer his own, I believe.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.12" start="00:11:05.03" end="00:11:49.32">
+                    <head>Miscegenation</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, so many of your books have certain characters of mixed blood. Do you
+                    consider miscegenation absolute—an absolute wrong or is it just a mistake with the
+                    current social <inaudible/>?</u>
+                <u who="WF">It's—no, not wrong. It's a mistake only in the current social
+                    scheme. There's—there's no law that is going to—to prevent
+                    Romeo and Juliet no matter what color they are. There's no wrong in it. It's
+                    simply a mistake and an error as conditions are now, and an individual suffers
+                    because of it. That's the tragedy of it.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.13" start="00:11:55.16" end="00:13:22.05">
+                    <head>Sutpen and Society</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q"> In <hi rend="italic">Absalom, Absalom!</hi> <inaudible/> reaction to Sutpen's marriage because of their 
+                        concern for their  <inaudible/>  because there's  <inaudible/>?</u>
+                <u who="WF">I'm sorry. I couldn't hear that too well.</u>
+                    <u who="Q">Was the reaction of the people to Sutpen's second marriage, when they had—no one
+                    showed up at the <unclear>wedding</unclear> <inaudible/>—was that reaction caused by
+                    people's—the people's dislike of his <unclear>life</unclear> or his
+                    social errors or because of their not being told why—where he got his
+                    money <inaudible/>?</u>
+                <u who="WF">Oh, he had violated the local mores. They—they feared him, and
+                    they hated him, because of his ruthlessness. He made no pretence to be anything
+                    else except what he was, and so he violated the local mores, and
+                    they—they ostracized him. Not in revenge at all, but simply because
+                    they wanted no part of Sutpen.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.14" start="00:13:24.25" end="00:14:43.50">
+                    <head>Hope for the South</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Mr. Faulkner, you say that you feel that there is hope for the South, yet
+                    the Snopeses have taken over Frenchmen's Bend, Flem is president of the bank in
+                    Jefferson. Are those the men that are going to lead the South out of the
+                    darkness in <inaudible/>?</u>
+                <u who="WF">They are the—the men that can cope with the new industrial
+                    age, but there will be something left, as this—we mentioned a while
+                    ago, of—of the old cavalier spirit that will appear, that does appear.
+                    I—by cavalier spirit, I mean people who believe in—in simple
+                    honor for the—for the sake of honor, and honesty for the sake of
+                    honesty.<lb/>
+                    Yes, ma'am.</u>
+                <u who="Q">Do you think <unclear>those</unclear> people will band together, or how
+                    do you think they will accomplish this feat?  <unclear>Don't you feel that</unclear>—that there is a
+                    curse and that it should be removed? How do you feel <unclear>that they will eventually overcome</unclear>?</u>
+                <u who="WF">They—they won't band together. I doubt if people accomplish
+                    very much by banding together. People accomplish things by individual
+                    protest.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.15" start="00:14:45.89" end="00:15:53.02">
+                    <head>Responding to Sutpen</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Is Sutpen meant to be a completely depraved character, something like
+                    Claggart in <hi rend="italic">Billy Budd</hi> or Iago in <hi rend="italic">Othello</hi>, or is he meant to be pitied?</u>
+                <u who="WF">To me, he is to be pitied. He was not—depraved.  He
+                    was—was amoral. He was ruthless, completely self-centered. To me he is
+                    to be pitied, as anyone who ignores man is to be pitied, who does not believe
+                    that he belongs as a member of—of a human family, of the human family,
+                    is to be pitied. Sutpen didn't believe that. He was Sutpen. He was going to take
+                    what he wanted because he was big enough and strong enough, and I think that
+                    people like that are destroyed sooner or later, because one has got to belong to
+                    the human family, and to take a responsible part in the human family.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.16" start="00:15:54.89" end="00:16:55.69">
+                    <head>Mechanization</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q"><unclear>If you were</unclear> to explain mechanization in the South
+                    after the Civil War as a destructive force, part of the degeneration, do you
+                    think this is inherent of mechanization in a society when it shifts from an
+                    agrarian society or do you think this is because, as a person in the South, that
+                    it is this way in the South?</u>
+                <u who="WF">Well, the South is—is a part of the United States, and I think
+                    that—that we are—the whole world is going through a—a
+                    tragic time now, not because of mechanization, but because we became slaves
+                    to—to the machines—<unclear>at</unclear>—which we invented for man's
+                    good. Instead of they being our slaves, we are their slaves.  And we will have
+                    to—but man is tougher even than the machine, that he
+                    will—will endure and will outlast the—the age in which that
+                    machine dominates.</u></div2>
+                <div2 type="dialog" id="wfaudio06_2.17" start="00:16:56.32" end="00:17:10.62">
+                    <head>Close</head>
+                    <u who="B">Mr. Faulkner, I'm sure we're all very grateful to you for coming
+                        down and answering our questions this morning. Thank you, sir. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

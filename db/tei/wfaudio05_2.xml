@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio05_2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcript of audio recording wfaudio05_2</title>
+        <respStmt>
+          <resp>Creation of electronic transcription</resp>
+          <name/>
+        </respStmt>
+        <respStmt>
+          <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+          <name>AEL Data</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Virginia Library</publisher>
+        <pubPlace>Charlottesville, Virginia</pubPlace>
+        <idno type="digital audio filename">wfaudio05_2</idno>
+        <idno type="analog tape">T-113</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording type="audio"> </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <person>
+          <persName id="WF">William Faulkner</persName>
+        </person>
+        <person>
+          <p id="EM">Edward McAleer</p>
+        </person>
+        <person>
+          <p id="Q">Unidentified participant</p>
+        </person>
+        <person>
+          <p id="M">Moderator</p>
+        </person>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date value="1957-03-13">13 March 1957</date>
+          <locale>McAleer's Twentieth Century Literature Class</locale>
+          <name type="place">University of Virginia</name>
+          <name type="city">Charlottesville, Virginia</name>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 type="event1">
+        
+        <head>DATE: 13 March 1957</head>
+        <head>OCCASION: Edward McAleer's Twentieth Century Literature Class</head>
+        <head>TAPE: T-113</head><head>LENGTH: 14:30</head>
+        <div2 type="dialog" id="wfaudio05_2.1" start="00:00:00.87" end="00:00:13.50">
+          <head>Observation</head>
+          <u who="WF"><inaudible/> Then he will need observation. He uses that, but I don't believe
+          that—that he—he himself knows or has time to know just how much of
+            which was where and when.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.2" start="00:00:14.22" end="00:00:41.18">
+          <head>Televising His Stories</head>
+          <u who="WF">Yes, ma'am.</u>
+          <u who="Q">Mr. Faulkner, when you were out in Hollywood, did you have anything to do with
+          televising some of your stories? I heard that you <inaudible/>. Now, they have been televised,
+          haven't they?</u>
+        <u who="WF">Yes, every now and then I—I hear about one. I don't have a radio and
+          television, so I don't keep up with what goes on, but I hear now and then that they have
+          been on TV.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.3" start="00:00:42.75" end="00:01:49.46">
+          <head>Horses as Symbols</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Sir, what are the spotted horses symbolic of, if anything?</u>
+        <u who="WF">As spotted horses, I don't know. I—that—that may be
+          symbolical, but as horses, that was—was—they—they symbolized the—the hope, the
+          aspiration of—of the masculine part of society, that is capable of—of
+          doing, of—of committing puerile folly for some gewgaw that—that has drawn him, as
+          juxtaposed to the cold practicality of—of the women, whose spokesman Mrs.
+          Littlejohn was when she said "Them men!" or "What fools men are!" That the man even in a
+          society where there's a constant pressure to conform can still be taken off by the chance
+          to buy a horse for three dollars. Which to me is a good sign, I think. I hope that man can
+          always be <unclear>tolled</unclear> off that way, to—to buy a horse for three dollars.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.4" start="00:01:50.82" end="00:02:51.21">
+          <head>His Reading</head>
+          <u who="WF">Yes, ma'am.</u>
+          <u who="Q">Mr. Faulkner, what sort of reading do you best enjoy? Do you have much time for
+          the work of contemporary novelists?</u>
+        <u who="WF">No, I don't. I haven't read a contemporary book in twenty-odd years, unless
+          someone says, "This is a good book. I think you would like it," and so I will get that book
+          and read it, but I've got out of the habit of keeping up with—with
+          contemporaries because I never was a—a literary man in the sense of—of—of 
+          needing to keep abreast of the establishment of literature. To me, reading is like
+          writing—I do it for fun. I'm not too interested in—in what anybody
+          else has done, that I read books because it's fun.</u>
+        <u who="Q">How about the classics?</u>
+        <u who="WF">The classics? I read the books that I liked when I first began to read, and they
+          are—yes, what ranks as classics now, meaning by that any book that people still
+          read after a hundred or two years.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.5" start="00:02:57.49" end="00:03:43.06">
+          <head>Where to Start Reading</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Sir, could you suggest any books that one read first, in order to get a clearer
+          and more comprehensive picture of your complete works, and if there are any, why these
+          specific choices?</u>
+        <u who="WF">There are none. I think the best way to read—no, I can't say the best
+          way, this is the way I read. I take the book, and I can tell within two or three pages if
+          I want to read that book now. If I don't, I put that down, I take another. I would say
+          to take Faulkner that—that same way, and read a page or two until you find one
+          that you want to read another page. It would be difficult for anyone, except an expert,
+          to—to plot out a schedule for you. I would do it that way, I think.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.6" start="00:03:45.92" end="00:04:54.07">
+          <head>Finding Peace</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Sir, do you have any solution for a man to find peace if he cannot write, 
+            as you?</u>
+        <u who="WF">Well, I don't think the writer finds peace. If he did, he would—he
+          would quit writing. Maybe man is incapable of peace. Maybe that is what
+          differentiates man from a vegetable. Though, maybe the vegetables don't even find peace.
+          Maybe there's no such thing as peace, that it is a—a negative quality, that —</u>
+        <u who="Q">And I understand. I am speaking of peace in his own heart.</u>
+        <u who="WF">Yes, well, I'm—I'm inclined to think that the only peace man knows
+          is—is he says, "Why good gracious, yesterday I was happy." That at the moment,
+          he's—he's too busy. That maybe peace is—is only a condition in
+          retrospect, when the—the subconscious has—has gotten rid
+          of—of the—the—the gnats and the tacks and the broken glass in experience and has left
+          only the—the peaceful, pleasant things. That was peace. Maybe peace is not "is,"
+          but "was."</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.7" start="00:04:56.69" end="00:05:10.07">
+          <head>Reading Shakespeare</head>
+          <u who="WF">Yes, ma'am.</u>
+          <u who="Q">Do you enjoy reading Shakespeare? I heard you speak of Homer. I was just
+          wondering how you felt —</u>
+        <u who="WF">Yes'm. I still read Shakespeare. I have a one-volume Shakespeare that I have
+          just about worn out carrying around with me.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.8" start="00:05:15.80" end="00:06:22.78">
+          <head>Doing the Work</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Mr. Faulkner, I think you told somebody once that if you had a—you were
+          writing something, and you had something to get up to every morning and go to work on,
+          you'd never have to be afraid of anything in the world any more. And I wonder what you
+          meant by that.</u>
+        <u who="WF">I mean by that, that out of idleness, that if you have something to—to
+          get up to tomorrow morning, you're too busy to pay much attention to fear. Of course,
+          you—you have the fears, but you have—you don't have time
+          to—to take them too seriously, if you have something to get up to do tomorrow.
+          It don't matter too much what it is. And if it's something that you yourself believe is
+          valid, in the sense that the artist believes what he's doing is valid, in that it may do
+          something to uplift man's heart, not to make man any more successful, but to temporarily
+          make him feel better than he felt before, to uplift his heart for a moment.
+        </u></div2>
+        <div2 type="dialog" id="wfaudio05_2.9" start="00:06:30.68" end="00:07:56.23">
+          <head>Destroying the Wilderness</head>
+          <u who="WF">Yes, sir—oh, yes, ma'am.</u>
+        <u who="Q">In "The Bear," Mr. Faulkner, is the possession and destruction of the wilderness
+          a symbolic indication of any sort of corruption in the South? And if this is true, what
+          sort of prognostication does this have for the future of the South or of the country as
+          a whole?</u>
+        <u who="WF">Well, of course, the destruction of the wilderness is not a phenomenon of the
+          South, you know. That is a—a change that's going on everywhere, and
+          I—I think that—that man progresses mechanically and technically much faster than he
+          does spiritually, that there may be something he could substitute for the ruined
+          wilderness, but he hasn't found that. He spends more time ruining the wilderness than he
+          does finding something to replace it, just like he spends more time producing more people
+          than something good to do with the people, or to make better people out of them. That
+          that's to me is a—a sad and tragic thing for the—for the old days, the old times,
+          to go, providing you have the sort of background which a country boy like me had when that
+          was a part of my life. That I don't want it to—to change, but then that's true
+          of everyone as he grows old. He thinks that—that the old times were the best
+          times, and he don't want it to change.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.10" start="00:07:59.51" end="00:08:42.42">
+          <head>"Death Drag"</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Is your short story "Death Drag" based on an actual event or experience in your
+          life?</u>
+        <u who="WF">Not too much. They were—I did a little, what they call barnstorming in
+          the early days after the War, when aeroplanes were not too usual, and people would pay a
+          hundred dollars to be taken for a short ride in one, but I don't remember anything that
+          was specifically like this. This was, again, a human being in conflict with his
+          environment and his time. This man who hated flying, but that was what he had to do,
+          simply because he wanted to make a little money.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.11" start="00:08:42.45" end="00:09:15.40">
+          <head>Dates in Sound and Fury</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">What symbolic meaning did you give to the dates of <hi rend="italic">The Sound
+            and the Fury</hi>?</u>
+        <u who="WF">Now there's a matter of hunting around in the carpenter's shop to find a tool
+          that will make a better chicken-house. And probably—I'm sure it was quite
+          instinctive that I picked out Easter, but that I wasn't writing any symbolism of the
+          Passion Week at all. I just—that was a tool that was good for the particular
+          corner I was going to turn in my chicken-house, and so I used it.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.12" start="00:09:18.40" end="00:10:09.13">
+          <head>Dostoevsky</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">Sir, you mentioned some of the Russian authors before. What do you think of
+            Dostoevsky?  Do you consider him one of the best?</u>
+        <u who="WF">He's one that has not only influenced me a lot, but that I have got a great deal
+          of pleasure out of reading, and I still read him again every year or so. That as
+          a—a craftsman, as well as—as his insight into people, his capacity
+          for compassion. He was one of the ones that any writer wants to—to match if he
+          can. That's—he was a one that— wrote a good "Kilroy Was Here."
+        </u></div2>
+        <div2 type="dialog" id="wfaudio05_2.13" start="00:10:15.12" end="00:11:26.54">
+          <head>Tomey's Turl's Advice</head>
+          <u who="WF">Yes, sir.</u>
+        <u who="Q">There's a line in "Was" that I wonder if you would explain something about it, 
+          that Tomey's Turl says to Cass. "Anytime you wants to get something done, from hoeing out
+          a crop to getting married, just get the women-folks to working at it. That all you needs
+          to do—then all you needs to do is set down and wait." Well, that's good advice,
+          but does he use it in this story? Does Tomey's Turl get the women folks to work for
+          him?</u>
+        <u who="WF">Well, I'm sure he would if he'd had time, but people were—were running
+          him with dogs so much and harrying and harassing from pillar to post, he didn't have time,
+          but if he could have—could've got the men to stop long enough, then Miss
+          Sophonsiba would have settled that whole thing. She would have taken Uncle Buck home, and
+          then Tomey's Turl and Tennie could have gotten married, and things would have been
+          settled. It was the men that kept things stirred up. Probably Tomey's Turl knew that soon
+          as the dust settled, no matter what was the outcome of that poker game, Miss Sophonsiba
+          and Uncle Buck would get married, and that then he and Tennie would be let alone.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.14" start="00:11:29.82" end="00:12:41.28">
+          <head>Dramatizing Requiem</head>
+          <u who="WF">Yes, ma'am.</u>
+          <u who="Q">Mr. Faulkner, is <hi rend="italic">Requiem for a Nun</hi> going to be put on
+          as a play?</u>
+        <u who="WF">It has been knocking around Europe for about five years. I—I wrote
+          that not as a play but as another of the carpenter's tools which seemed to me the best way
+          to tell a story. There was a young woman. She was a—a—a friend, a sweetheart
+          of—of my youngest brother's, that I knew of vaguely around home in Oxford, and
+          she's trying to be an actress and so she asked me to let her do it as a play, so I gave
+          her the rights to it, and that's why it has never been in the States because she hasn't
+          got enough reputation for anyone to put up the money that a play in this country costs. It
+          will, I assume, reach here in time sooner or later.</u>
+        <u who="Q">But you haven't got any idea of your own about how it should be put on or whether
+          there should be a chorus used?</u>
+        <u who="WF">No'm, I'm not a playwright, and I—I never saw but three or four plays
+          in my life.</u></div2>
+        <div2 type="dialog" id="wfaudio05_2.15" start="00:12:42.95" end="00:14:21.29">
+          <head>Best Modern Writer</head>
+          <u who="WF">Yes, sir.</u>
+          <u who="Q">I wonder if you could comment on who you think in, say, two hundred years from
+          now will leave the biggest "Kilroys Were Here."  Of this century, which writers will leave the
+          biggest "Kilroy," if any?</u>
+        <u who="WF">I don't want to answer that question because I'm too unfamiliar
+          with—with contemporary writers. I haven't read any contemporaries since
+          the—the three or four of my time, and so often a remark like that in simple
+          talk, it gets out, and someone's feelings have been hurt that the man that spoke it had no
+          intention of hurting because he didn't even know he existed, and so for that reason
+          I— <event desc="audience laughter"/> I wouldn't answer that question at all.
+          I—I would say that—that I think that—that Sherwood Anderson has not
+          received the recognition that he deserves and some day will have.</u>
+        <u who="Q">What about Hemingway?</u>
+        <u who="WF">Hemingway, now he's—he's alive, and that—that's where I'd
+          better stay out of trouble by saying nothing, you see.</u>
+        <u who="Q">Would you say anything about your own writings—or would you hurt your
+          own feelings?</u>
+        <u who="WF">No, I still haven't done it, but I intend to live to be about a hundred years
+          old, so I've got forty more years yet. By that time I'll answer your question, if you're
+          still around. <event desc="audience laughter"/></u></div2>
+        <div2 type="dialog" id="wfaudio05_2.16" start="00:14:21.30" end="00:14:29.41">
+          <head>Close</head>
+          <u who="EM">Thank you very much, Mr. Faulkner. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+        </div1>
+    </body>
+  </text>
+</TEI.2>

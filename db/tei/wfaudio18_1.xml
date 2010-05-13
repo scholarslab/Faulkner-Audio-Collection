@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio18_1">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio18_1</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio18_1</idno>
+				<idno type="analog tape">T-135</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<p id="G">Frederick Gwynn</p>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-05-30">30 May 1957</date>
+					<locale>Local Public and University Community</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				<head>DATE: 30 May 1957</head>
+				<head>OCCASION: Local Public and University Community</head>
+				<head>TAPE: T-135</head><head>LENGTH: 31:48</head>
+				<head>READING: From The Town</head>
+				<div2 type="dialog" id="wfaudio18_1.1" start="00:00:03.25" end="00:01:50.62">
+					<head>Introduction</head>
+					<u who="G">Mr. Faulkner will read a
+					wonderful passage from his new novel, <hi rend="italic">The Town</hi>, this
+					afternoon and thereafter answer any questions from the floor. You may be
+					interested to know that your opinion of the temperature of this room, as time
+					goes on, is shared by the writer-in-residence, who calls it "The Black Hole."
+					But you might feel reassured if I remind you that this is not merely the only
+					room in the University that fits exactly the acoustics of Mr. Faulkner's voice,
+					but it's partly our contribution to acclimatizing him for his return to a
+					Mississippi summer. <event desc="audience laughter"/> For he must return, he
+					says, after one of the most exciting terms for us. And in valedictory, one is
+					tempted to point with local pride now to Mr. Faulkner along with Messrs.
+					Jefferson and Poe. He has spent almost as much time at the University as Poe
+					did. His—his <event desc="audience laughter"/> work, like that of Poe, which
+					seemed Gothic at one time to many readers, turns out to be not of Germany but of
+					the soul, as Poe said himself. And he has proven himself a gentleman of not only
+					of Mississippi or Virginia but, like Thomas Jefferson, of the world. And
+					possibly this afternoon our response may help to induce him to return next year.
+					This return would be that of the most distinguished writer of fiction in the
+					world today, Mr. William Faulkner. <event desc="applause"/></u></div2>
+				<div2 type="dialog" id="wfaudio18_1.2" start="00:01:50.63" end="00:02:01.34">
+					<head>Faulkner's Introduction</head>
+					<u who="WF">I reckon the only way I can live
+						up to that encomium is by going back to Mississippi right away.  <event desc="audience laughter"/>
+					</u></div2>
+				<div2 type="reading" id="wfaudio18_1.3" start="00:02:03.64" end="00:02:56.46">
+					<head>Story, Excerpt 1</head>
+					<u who="WF">
+					<writing type="fiction"> There is a ridge; you drive on beyond Seminary Hill and
+						in time you come upon it: a mild unhurried farm road presently mounting to
+						cross the ridge and on to join the main highway leading from Jefferson to
+						the world. And now, looking back and down, you see all Yoknapatawpha in the
+						dying last of day beneath you. There are stars now, just pricking out as you
+						watch them among the others already coldly and softly burning; the end of
+						day is one vast green soundless murmur up the northwest toward the zenith.
+						Yet it is as though light were not being subtracted from earth, drained from
+						earth backward and upward into that cooling green, but rather had gathered,
+						pooling for an unmoving moment yet, among the low places of the ground so
+						that ground, earth itself is luminous and only the dense clumps of trees are
+						dark, standing darkly and immobile—immobile out of it.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio18_1.4" start="00:02:56.47" end="00:04:09.00">
+					<head>Story, Excerpt 2</head>
+					<u who="WF">
+					<writing type="fiction">Then, as though at signal, the fireflies—lightning-bugs
+						of the Mississippi child's vernacular—myriad and frenetic, random and
+						frantic, pulsing; not questing, not quiring, but choiring as if they were
+						tiny incessant appeaseless voices, cries, words. And you stand suzerain and
+						solitary above the whole sum of your life beneath that incessant ephemeral
+						spangling. First is Jefferson, the center, radiating weakly its puny glow
+						into space; beyond it, enclosing it, spreads the County, tied by the
+						diverging roads to that center as is the rim to the hub by its spokes,
+						yourself detached as God Himself for this moment above the cradle of your
+						nativity and of the men and women who made you, the record and chronicle of
+						your native land proffered for your perusal in ring by concentric ring like
+						the ripples on living water above the dreamless slumber of your past; you to
+						preside unanguished and immune above this miniature of man's passions and
+						hopes and disasters—ambition and fear and lust and courage and abnegation
+						and pity and honor and sin and pride all bound, precarious and ramshackle,
+						held together by the web, the iron-thin warp and woof of his rapacity but
+						withal yet dedicated to his dreams.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio18_1.5" start="00:04:10.72" end="00:05:48.98">
+					<head>Story, Excerpt 3</head>
+					<u who="WF">
+					<writing type="fiction">They are all here, supine beneath you, stratified and
+						superposed, osseous and durable with the frail dust and the phantoms—the
+						rich alluvial river-bottom land of old Issetibbeha, the wild Chickasaw king,
+						with his Negro slaves and his sister's son called Doom who murdered his way
+						to the throne and, legend said (record itself said since there were old men
+						in the county in my own childhood who had actually seen it), stole an entire
+						steamboat and had it dragged intact eleven miles overland to convert into a
+						palace proper to aggrandise his state; the same fat black rich plantation
+						earth still synonymous of the proud fading white plantation names whether
+						we—I mean of course they—ever actually owned a plantation or not: Sutpen and
+						Sartoris and Compson and Edmonds and McCaslin and Beauchamp and Grenier and
+						Habersham and Holston and Stevens and De Spain, generals and governors and
+						judges, soldiers (even if only Cuban lieutenants) and statesmen failed or
+						not, and simple politicians and over-reachers and just simple failures, who
+						snatched and grabbed and passed and vanished, name and face and all. Then
+						the roadless, almost pathless perpendicular hill-country of McCallum and
+						Gowrie and Frazier and Muir translated intact with their pot stills and still
+						speaking only the old Gaelic and not much of that, from Culloden to
+						Carolina, then from Carolina to Yokpatawpha still intact and still not speaking
+						much of anything except that now they called the pots "kettles" though the drink
+						(even I can remember this) was still usquebaugh; then and last on to where
+						Frenchman's Bend lay beyond the southeastern horizon, cradle of Varners and
+						ant-heap of the northeast crawl of Snopes.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio18_1.6" start="00:05:49.87" end="00:06:39.20">
+					<head>Story, Excerpt 4</head>
+					<u who="WF">
+					<writing type="fiction">And you stand there—you, the old man, already
+						white-headed (because it doesn't matter if they call your gray hairs
+						premature because life itself is always premature which is why it aches and
+						anguishes) and pushing forty, only a few years from forty—while there rises
+						up to you, proffered up to you, the spring darkness, the unsleeping darkness
+						which, although is—it is of the dark itself, declines the dark since dark is of
+						the little death called sleeping. Because look how, even though the last of
+						west is no longer green and all of firmament is now one unlidded studded
+						slow-wheeling arc and the last of earth-pooled visibility has drained away,
+						there still remains one faint diffusion, since everywhere you look about the
+						dark panorama you still see them, faint as whispers: the faint and shapeless
+						lambence of blooming dogwood returning loaned light to light as the phantoms
+						of candles would.
+					</writing>
+					</u></div2>
+				<div2 type="reading" id="wfaudio18_1.7" start="00:06:39.63" end="00:07:28.38">
+					<head>Story, Excerpt 5</head>
+					<u who="WF">
+					<writing type="fiction">And you, the old man, standing there while there rises
+						to you, about you, suffocating you, the spring dark peopled and myriad, two
+						and two seeking never at all solitude but simply privacy, the privacy
+						decreed and created for them by the spring darkness, the spring weather, the
+						spring which an American poet, a fine one, a woman and so she knows, called
+						girls' weather and boys' luck. Which was not the first day at all, not Eden
+						morning at all because girls' weather and boys' luck is the sum of all the
+						days: the cup, the bowl proffered once to the lips in youth and then no
+						more; proffered to quench or sip or drain that lone one time and even then—that
+						sometimes premature, too soon. Because the tragedy of life is, it must be
+						premature, inconclusive and inconcludable, in order to be life; it must be
+						before itself, in advance of itself, to have been at all. </writing>
+					
+					</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.8" start="00:07:58.48" end="00:08:19.54">
+					<head>Audience Prompt</head>
+					<u who="WF">There's no questions?</u>
+				<u who="G">This is the point in the program at which Mr. Faulkner usually
+					consents to answer questions on many subjects. I'm sure he will entertain them
+					now.</u>
+				<u who="WF">Not consent, but anxious to do.  Anybody likes
+					to stand up in front of a lot of nice people and talk and nobody can say, "Shut
+					up and sit down." <event desc="audience laughter"/></u></div2>
+				<div2 type="dialog" id="wfaudio18_1.9" start="00:08:24.51" end="00:09:47.39">
+					<head>Long Sentences</head>
+					<u who="Q">Mr. Faulkner, may I ask why in some of
+						your writing that you use long—such long sentences, and almost eliminate 
+						punctuation?  I have in mind a case in point: the first story in
+						<hi rend="italic">Go Down, Moses</hi>, I think you call it 
+					"Was."</u>
+				<u who="WF">Yes, ma'am. The reason for that is, I think, that every man, every writer has a
+					foreknowledge of death, as everyone does. He realizes that he has only a limited
+					time in which to do the work he wants to do. He has found being alive so amazing
+					and so marvelous, that he has got to—to transcribe it onto paper, to shape it.
+					And he, I think, is—is trying to—to tell the whole passion of man's condition,
+					his hopes, his fears, his aspirations in the short time he has to live before he
+					dies, and so by instinct, if he don't watch himself, he tries to put everything
+					into one long sentence, like the— <event desc="audience laughter"/> like the—the man
+					that used to inscribe all of the "Lord's Prayer" on the head of a pin. That he must
+					do it while he has breath to do it in.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.10" start="00:10:05.19" end="00:11:12.75">
+					<head>Sequel to The Town</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="G">Mr. Faulkner, your publishers have announced a sequel to <hi rend="italic">The 
+					Town</hi>. <inaudible/> I think this is the first time this has
+					happened to you as a writer, being under that kind of pressure or—or no <inaudible/>?</u>
+				<u who="WF">The pressure is not actually from the publisher. When I first thought
+					of—of these people and the idea of—of a tribe of people which would come into an
+					otherwise peaceful little southern town like—like ants or—or like mold on
+					cheese, then—I discovered then that to tell the story properly would be too many
+					words to compress into one volume. It had to be two or three. So the pressure
+					has been on me before I ever told the publisher about it—that I would have to
+					keep on writing about these people until I got it all told, and I assume that
+					one more book will do it, though I don't have any great hopes that it will.
+						<event desc="audience laughter"/></u></div2>
+				<div2 type="dialog" id="wfaudio18_1.11" start="00:11:25.00" end="00:12:50.74">
+					<head>Writing Habits</head>
+					<u who="Q">Mr. Faulkner?</u>
+				<u who="WF">Yes, sir.</u>
+				<u who="Q">Do you write in regular hours or do you write in irregular hours?</u>
+				<u who="WF">No, sir. By nature I am completely disorderly. I never have learned
+					to—to hang up anything or put anything back where I got it, and so I work
+					when—well, as the—the athlete says, when I'm hot. <event desc="audience laughter"/> 
+					And I don't like to work. I'm by nature lazy. I
+					will put it off as long as I can. Then when I get started it's—it's fun. I think
+					the reason anyone writes is because it's fun, and you like it. That's just your
+					cup of tea. And so I will write until I have to make myself stop because I've
+					found that—that the only rule for writing I have is to—to leave it while I'm
+					still hot—while I'm still looking good, as <hi rend="italic">Gentlemen Prefer
+						Blondes</hi> puts it—so that I can take up again tomorrow. But I've have never had
+					any order. Some people are orderly. They—they lay out a plot or synopsis first.
+					They make notes, which is valid and satisfactory for them but not for me. I would
+					be completely lost. Probably if I'd begun to make a few notes, I could say, "Oh
+					well, that's all, you don't need to work anymore," and I'd quit. <event desc="audience laughter"/> 
+					So I think I put off working as long as possible
+					and do as much of the research and the note-filing up here, and then begin to
+					write.</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.12" start="00:12:53.47" end="00:14:06.15">
+					<head>Writing Method</head>
+					<u who="Q">Mr. Faulkner, in your actual
+					composition, do you write everything out in longhand or do you type or have
+						somebody <inaudible/>  ?</u>
+				<u who="WF">Yes, sir. I write it out in longhand because I never have learned to
+					think good onto the typewriter. <event desc="audience laughter"/> That I've got
+					to—got to feel the pencil and see the words at the end of the pencil. Then if
+					it's the wrong word, it's simple enough to scratch it out and try it again. I—I
+					reckon I was—started writing too soon to have taken the typewriter as an
+					extension of the hands, as—as the young man nowadays can do. I have to put—put
+					it down on paper first. After that I do the rewriting on the typewriter, but
+					something has got to be on paper first for me to look at and get the feel.</u>
+				<u who="Q">How fast do you dash it off, sir? <event desc="audience laughter"/></u>
+				<u who="WF">So fast that somebody said my handwriting looks like a caterpillar that
+					crawled through an ink well and out on to a piece of paper. If I leave it until
+					tomorrow, I can't read it myself, <event desc="audience laughter"/> so it's got
+					to be put down quick and then typed quick.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.13" start="00:14:10.75" end="00:16:09.22">
+					<head>Pessimism v Hope</head>
+					<u who="WF">Yes, ma'am.</u>
+				<u who="Q">Mr. Faulkner, <inaudible/> how do you <inaudible/> advantage to being 
+					pessimistic?</u>
+				<u who="WF">Well, I think the—the writer's aim is not deliberately to be
+					pessimistic. His aim is to—to show people, human beings in the human condition,
+					faced with the tragedies and the aspirations, the hopes, which all people are
+					faced with, in the most moving way he can. If his outlook is—is pessimistic, it's
+					simply because—that is not—not his—his intention to be pessimistic. It's—it's
+					because having watched people in their confusion and their aspirations that
+					are—what—what he gets is an immediate feeling of pessimism, though the very fact
+					that he keeps on trying to write about people implies that that he has some hope
+					for man, that he sees man as trying to do better than he does, to be more honest
+					than he is, to be braver. That the pessimism is a—a matter of the moment. Maybe the
+					writer does want to do his—his bit toward making man better, and maybe he
+					thinks if he shows man in his moments of baseness, it may be—be a lesson to
+					someone, either don't do this or—or a reminder even when people do do this, at
+					other times they do good things, fine things. That they will do things that
+					other people shan't suffer.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.14" start="00:16:15.15" end="00:16:54.98">
+					<head>Plotting a Story</head>
+					<u who="WF">Yes, sir.</u>
+				<u who="Q">Do you always know how the book's going to come out 
+					before you starting writing it?</u>
+				<u who="WF">No, sir, I don't. The—the trick is to—to get the characters and—and work
+					at them until they stand on their own feet and take three dimensions and cast a
+					shadow and begin to move. After that, all the writer has to do is to run along
+					behind them with a notebook <event desc="audience laughter"/> and put down what
+					they say and do, but he himself, or I anyway, don't know where they're going.
+					All I—I know is that they're alive, and they're in motion, and if I can keep up
+					and write fast enough, I won't miss anything.</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.15" start="00:16:55.00" end="00:17:34.01">
+					<head>Living Characters</head>
+					<u who="Q"><unclear>Do you expect them to prove</unclear> 
+					<inaudible/>?</u>
+				<u who="WF">Only to the point that they are alive, and that the reader will believe
+					that they are alive. They may do things that shock him and outrage him, and that
+					he doesn't like, but—but my hope is he'll say, "Well, they are alive anyway.
+					They're scoundrels and rascals, but they are alive." That is—is the hope, I
+					think, that any writer has—that people he creates are credible, that the—the comedy, the
+					tragedy they run into, the—the silly things they do are things that are—are
+					within the scope of—of a human being to do.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.16" start="00:17:36.50" end="00:19:00.14">
+					<head>Writing Sound and Fury</head>
+					<u who="WF">Yes, sir—yes, ma'am.</u>
+				<u who="Q">Mr. Faulkner, when you wrote <hi rend="italic">The Sound and the
+						Fury,</hi> why did you suddenly switch from the first person <inaudible/>?</u>
+				<u who="WF">That book began as—as so many books do with—with an anecdote, a picture.
+					The picture was of both children who had been sent from the house. They didn't
+					know why. Something was taking place in the house, in the parlor, and like
+					children, they were curious to know what it was, and the only one that was brave
+					enough to climb the tree was the little girl, and the book grew from that. It
+					started off to be a simple short story. I wrote the—the first section, which was
+					the idiot brother's. I realized that that wasn't enough. I hadn't told that
+					story. So I let another brother try to tell it. That's the second section. I
+					realized that still wasn't enough. I hadn't told that story, so I let the second
+					brother try, which was the third section. That still wasn't enough, so then I had
+					Faulkner try it. <event desc="audience laughter"/> And—and still it was not
+					enough. I still <unclear>haven't</unclear> told the story to suit me. That's the
+					reason that to me is the one I—I love the dearest, that I'm the most fond of,
+					because that was the most splendid failure, and I still haven't told that story.
+					I believe that if I had it to do over, I could do it better. Of course I
+					wouldn't. But that's the one book I wish I hadn't written, so I could write it
+						now.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.17" start="00:19:01.00" end="00:20:22.05">
+					<head>Failure and Rewards</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Mr. Faulkner, you've spoken frequently <unclear>I believe—about</unclear> 
+						various ways that you've failed, giving us the impression that you—you 
+						never feel as if you've quite expressed yourself.  Is it <unclear>really so 
+						hard</unclear>?</u>
+				<u who="WF">That's right. I think that's true of any writer. That's why he writes
+					another book. If he wrote the book that pleased him absolutely, that was perfect
+					by his own standards, then nothing remains <unclear>but to cut his throat</unclear>, but that
+					book fails so he writes another one. He believes that the next one won't fail.
+					Of course it will. Which is good for him because that keeps him working, and I
+					think that no life is as happy as—as a—a life in which you've tried to make
+					something which wasn't here before—a picture or a symphony or a book or a piece
+					of sculpture, and that is to me the best life of all. Not a happy life, because
+					it's filled with—with anger, frustration, because it's not perfect—of rage and
+					exhaustion, but it's—it's really a matchless life. I
+					wouldn't put any other occupation above it. I think that—that
+					a man that can ded—a young man, young woman, who can dedicate himself or herself
+					to that simple idea, to make something which didn't exist before.  It is the best
+					life <inaudible/>.</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.18" start="00:20:29.90" end="00:21:23.49">
+					<head>Person v Writer</head>
+					<u who="Q">Mr. Faulkner?</u>
+				<u who="WF">Yes, sir.</u>
+				<u who="Q">May I ask how much your daily variations of mood affect the actions of
+					your characters? Suppose one day you get up feeling fine, do your characters seem
+					to take on a cheerful aspect? <event desc="audience laughter"/></u>
+				<u who="WF">I—I don't believe so. I think that—that anyone, the painter, the
+					musician, the writer works in a—a kind of an—an insane fury. He's demon-driven. He
+					can get up feeling rotten, with a hangover, or with—with actual pain, and—and if 
+					he gets to work, the first thing he knows, he don't remember that pain, that
+					hangover—he's too busy. That his—his feeling—I doubt if that reflects too much
+					in his work. That he can wake up and go to work feeling good, and the first
+					thing he knows, he doesn't remember whether he feels good or not—he's too busy.
+					That he is in the—in the clutch of a demon then.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.19" start="00:21:24.83" end="00:22:33.73">
+					<head>Atmospheric Influences</head>
+					<u who="WF"> Yes, ma'am.</u>
+				<u who="Q">Mr. Faulkner, does that mean that he also <inaudible/> 
+					impervious to atmosphere <inaudible/>?</u>
+				<u who="WF">No, no. I think the writer, any artist, is—is completely amoral.
+					He's—robs and steals everywhere he can find anything he might need. The
+					atmosphere, he has—he's gathered up from observation, from experience, just from
+					living and breathing. He stole that away and then when he needs it, to put into
+					what he writes, he hunts around in his trash bin or his lumber room and picks
+					out the atmosphere or the symbolism or the style, whatever he needs, but he
+					has—has acquired that long before he sits down to write. At the time he's
+					writing, he's like the carpenter building a fence or a chicken coop, that he's
+					busy sawing planks and driving nails—that he has already got his—his supply of
+					nails and his boards at hand, where he can reach back into his workshop and get
+					what plank or what size nails he needs.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.20" start="00:22:38.71" end="00:23:41.30">
+					<head>Local Reputation</head>
+					<u who="WF"> Yes, ma'am.</u>
+				<u who="Q">
+					Do you feel that the people you associated with <unclear>in Mississippi</unclear>—old 
+					cronies and so forth—<unclear>do you feel like</unclear> <inaudible/>?
+					<event desc="audience laughter"/>
+				</u>
+				<u who="WF">As far as I know, they do, because the friends I have are—are not
+					literary friends. They are people engaged in other pursuits, and unless I'm as
+					good in their pursuits as they are, they have, of course, a low opinion of me.
+					If I'm as good in—in their pursuits, that is, farming or hunting or with horses
+					as they are, then they have a high opinion of me, which has nothing to do with my
+					books because they don't read my books. <event desc="audience laughter"/>
+					Some artist said that nobody in Mississippi reads; they're all
+					writing. <event desc="audience laughter"/></u></div2>
+				<div2 type="dialog" id="wfaudio18_1.21" start="00:23:41.31" end="00:25:31.73">
+					<head>Eula and Linda</head>
+					<u who="WF"> Yes, sir.</u>
+					<u who="Q">I want to ask you a question about
+						<hi rend="italic">The Town</hi>. The—the heroine of this story, Eula Varner
+					Snopes, at the end commits suicide. What do you think was her reason for it?</u>
+				<u who="WF">It was for the sake of that child. She, at that—that time had realized
+					that—that every child, a—a young girl, especially, needed the—the semblance of
+					an intact home—that is, to have a mother and a father, to have the same things
+					that the other children had. And she had reached an impasse where—where her—her
+					lover would have demanded that—that she leave her—her husband, and then that
+					child would have found out that—that it had grown up in a broken home. Up to
+					this time, whether the child loved Flem or not, at least he was the symbol of
+					the father which all the other children had, and with—the mother felt it would
+					be better for this girl to have a—a mother who committed suicide than a mother
+					who ran off with a lover, which was—that may have been the wrong decision she
+					made, but that was the decision she did make—that at least this girl
+					would've—would've had the—the similitude of an intact, though a—
+					tragedy—tragedy-ridden home, just as other children did.</u>
+				<u who="Q">Do you by chance have in mind writing the story of this daughter now?</u>
+				<u who="WF">Yes sir. That will be in the—in the next book. She's one of the most
+					interesting people I've written about yet, I think. Her story will be in the
+					next book.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.22" start="00:25:34.41" end="00:27:40.35">
+					<head>Use of Symbols</head>
+					<u who="WF">Yes, ma'am.</u>
+				<u who="Q">Mr. Faulkner, how do you feel about the use of symbols. That seems to be quite
+						the rage now. Do you consciously use symbols in your writing?</u>
+					<u who="WF">Not deliberately. The—the symbolism is a part of anyone's past. By—I mean
+					by that his environment, his background, his experience, his observation. And a
+					part of that background is—is the Christian religion. The writer is engaged
+					primarily in—in writing about people. He's doing this in the most moving and 
+					most effective way he knows, and the symbolism, like the style, they are the—the
+					nails and the boards in—in the carpenter's workshop, and these symbols appear
+					almost by coincidence in what he does. He's simply writing out of his own
+					background of observation and experience—that he hasn't got time to say, "Now,
+					I'm going to use a symbol." He's too busy writing about simple men and women
+					engaged in—in the tragedy of man's condition, engaged in the conflict with the
+					human heart or with its fellows or with its environment, its background, and I
+					think that the reader must read any book from the same background which the
+					writer writes it from, that is from the background of observation, experience
+					and imagination, and so the reader reads into the book, finds in the book
+					symbolism which the writer didn't know was there and is not really interested in
+					finding there. He was too busy, but he doesn't doubt that—that that
+					symbol—symbolism is there or, even <unclear>if it were not, what</unclear>
+					symbolism is there could be translated into someone else's understanding and
+					comprehension. That is, a Chinese could probably find Chinese symbolism in an
+					American book, just as the American can find American symbolism in a Chinese or a
+					Japanese book.</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.23" start="00:27:44.94" end="00:29:45.88">
+					<head>Advice to Negroes</head>
+					<u who="Q">Mr. Faulkner—</u>
+				<u who="WF">Yes'm.</u>
+				<u who="Q"><unclear>I heard of your</unclear> article 
+					in <hi rend="italic">Ebony</hi>.magazine giving advice to the colored
+						people as to the way they should act toward integration. What was your
+						advice and do you think that they are heeding it in any way?</u>
+				<u who="WF">I would like to think that some do. The advice was simply that—that no
+					law or edict passed by no matter whom is going to change the social condition
+					until the people involved in that condition wish it changed. That is, if the
+					Negro were given equality by a police force, he would keep that equality only as
+					long as the police stood there. When the police were gone, then someone smarter
+					or more <unclear>ruthless</unclear> would take it away from them again—that he
+					has got to earn that equality. He has got to—to learn, as everybody must,
+					that—that liberty and freedom—is not a condition like rainfall or sunshine or
+					being too cold or being too hot. That's a condition that one must—must work to
+					gain and then work to hold, that—that to keep equality and freedom, you must
+					learn the responsibility of equality and freedom, that nobody can have the
+					freedom given him by the police until he's willing to—to deserve it and then
+					work to keep it, which is to be responsible for it. And I do hope that—that some
+					people in the Negro race read it and believed in it and—and will take heed to it,
+					since it's a problem which has got to be solved, as we—we can't—can't deport the
+					whole Negro race. He's a part of our country now, and—and we must all, the white man
+					and the Negro, too, must work together to—to make his condition bearable.
+					Otherwise, it's—it's like having seventeen million mules running loose in the
+						country.
+				</u></div2>
+				<div2 type="dialog" id="wfaudio18_1.24" start="00:29:55.66" end="00:31:33.48">
+					<head>Inferiority v Equality</head>
+					<u who="WF">Yes, ma'am.</u>
+				<u who="Q"> <unclear>It seems you have placed the Negro in an inferior position</unclear> 
+					<inaudible/>
+				</u>
+				<u who="WF">I have not placed him in an inferior position. It's the—the—the
+					whole white race and white economy has placed him in an inferior position
+					economically and educationally, because in—in that position, the—the white man's
+					revenues from his economy will be a little higher. It's not
+					that the Negro—we don't know whether the Negro is inferior to the white man or not. 
+				He's had no chance <unclear>to be anything else</unclear>.  But I—as I see it, he must have—have the chance
+					to prove whether he is inferior or not, that he is not going
+					to be content any longer to be inferior. I mean, artificially
+					inferior. He's got to have the chance to prove that he is equal<unclear>or
+						incapable of it</unclear>.  And it's better to—for the white man to give him that
+					chance than to have that chance foisted on the white man <unclear>by
+						law</unclear>.</u>
+					<u who="Q"><unclear>Mr. Faulkner, the state
+						of the Negro was forced upon him by law, was it not?</unclear>.</u>
+					<u who="WF">Well, sir, I would say by custom, and then, of course, all our law is—is or
+						usually is—it speaks after the fact. The law simply makes legal what has been a
+					custom. The law don't change <inaudible/> <event desc="end of recording"/></u></div2>
+				</div1>
+		</body>
+	</text>
+</TEI.2>

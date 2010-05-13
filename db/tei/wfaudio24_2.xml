@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio24_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio24_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio24_2</idno>
+                <idno type="analog tape">T-142d</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="IC">Irby Cauthen</persName>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <persName id="G">Frederick Gwynn</persName>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-04-28">28 April 1958</date>
+                    <locale>First-Year English Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 28 April 1958</head>
+                <head>OCCASION: First-Year English Class</head>
+                <head>TAPE: T-142d</head><head>LENGTH: 17:09</head>
+                <div2 type="dialog" id="wfaudio24_2.1" start="00:00:03.92" end="00:00:34.06">
+                    <head>Ratliff [part 2]</head>
+                    <u who="WF"><inaudible/> he was, in his own lights, quite successful. That is, he wanted
+                    no more than he knew within his capacity he would have, that he was going to
+                    enjoy what he saw and heard and was going to live a long time in peace because
+                    he had accepted, coped with environment, without trying to manipulate 
+                    environment for his own aggrandizement as Snopes did.
+                    </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.2" start="00:00:39.42" end="00:02:32.14">
+                    <head>Old Bayard's Wen</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">What was the purpose of the episode about the—the wart or the mole on Old
+                    Bayard's face? <unclear>He went to see</unclear> Lucius Peabody and Dr. Alford
+                    and somebody else. He went to see three doctors <inaudible/>.</u>
+                <u who="WF">Well, that wasn't too important. It really proved nothing.
+                    It—it simply stipulated a—a true fact that the—the
+                    old people that have traditions of going out in the garden to get a few weeds
+                    and stewing in tobacco juice can perform miracles of cure, when all the doctors
+                    with their fine pharmacopoeia and all the rest of the gadgets sometimes fail,
+                    and that's always a—a little amusing to me when I see somebody that
+                    will—will go to the—what the trained doctor would call a
+                    witch doctor, and get a little piece of salve that will cure something that the
+                    doctor or the surgeon himself failed to do anything with. That, by optimism, I
+                    mean that man himself is somehow indestructible, that he don't need education
+                    and training at all, that—even he can cope with illiteracy. He
+                    can cope with science, that all the atom bombs and things like that are not
+                    going to destroy man, that he will find some little thing in his kitchen garden
+                    to stew down that will efface the atom bomb from threat. I
+                    mean, figuratively speaking.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.3" start="00:02:33.79" end="00:02:57.32">
+                    <head>Old Bayard's Life</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, did you have any reason for having Old Bayard live so much longer
+                    than all the other Sartorises?</u>
+                <u who="WF">No.  Probably the only reason was a—a dramatic
+                    and technical one. I simply needed him. As soon as I didn't need him anymore, I
+                    got rid of him. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.4" start="00:02:57.33" end="00:04:26.51">
+                    <head>The McCaslins</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">In <hi rend="italic">The Unvanquished</hi>, the theory of the McCaslins,
+                    that people belong to the land, is that to represent the belief of a general
+                    class of people at that time, or was that just an individual case of <inaudible/>?</u>
+                <u who="WF">It was—well, not quite individual because there were more
+                    McCaslins in that county than that one family. They didn't—well, they
+                    might've represented a—a type, the type that didn't have
+                    the—the education of the Sartorises and the Compsons, but had some of
+                    the same traditions. They were close enough to the land, probably, to have a
+                    little more toughness, that none of the McCaslins, MacCallums would
+                    have—have produced the—the—the Caddys and Quentins of <hi rend="italic">The 
+                        Sound and the Fury</hi>.  That they would've—have
+                    solved their problems, would have faced their problems better 
+                    than—than Compsons and maybe Sartorises did, that no MacCallum would
+                    have—would have wrecked a car in which his grandfather died and then
+                    simply walked out of the scene.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.5" start="00:04:31.46" end="00:05:42.68">
+                    <head>Col's Falkner and Sartoris</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">This question is related. Were Colonel Sartoris and your
+                    great-grandfather, the Colonel Falkner—I mean—or how much
+                    did you—how much did you draw on Colonel Falkner to get the picture of Colonel Sartoris?</u>
+                <u who="WF">That's difficult to say. That comes back to what we spoke
+                    of—the three sources the writer draws from, and—and I myself
+                    would have to stop and—and go page by page to see just how much I drew
+                    from family annals that I had listened to from these old, undefeated spinster
+                    aunts that—that children of my time grew up with. Probably, well,
+                    the—the similarity of raising of that infantry regiment, that
+                    was—that was the same. The—his death was about—was
+                    pretty close, pretty close parallel.  But the rest of it I would have to go
+                    through to—page by page and remember, did I hear this or did I imagine
+                    this?</u></div2>
+                <div2 type="dialog" id="wfaudio24_2.6" start="00:05:53.42" end="00:07:46.13">
+                    <head>Benbow Sartoris</head>
+                    <u who="Q">Sir, I wonder what—if you intended to—to make us think was the
+                    future of the—the young—young baby, John Sartoris, would
+                    be. I know—or whether it's just I read between the lines,
+                        <unclear>but</unclear> I remember that Aunt Jenny said that when old Simon
+                    died, that he was the last of the real Sartorises, and then again, Narcissa said
+                    that—when she wanted to change the name, Aunt Jenny said, "Well, you'd
+                    better not. He'll turn out to be one anyway." So, is there any prediction that
+                    you would make that he would turn out to be just like—as—as
+                    violent as all the rest or whether he would turn out to be a new generation?</u>
+                <u who="WF">Probably, he wouldn't be as violent as the others. I think that what the
+                    old aunt meant was that—that these people were—were her kin,
+                    and—and she would have to be on their side and have to see that all
+                    this was fine and gallant, but that—that they were obsolete, that the men, the
+                    southern men, were the ones that—that couldn't bear 
+                    being—having lost the war. The women were the ones that could bear it because they
+                    never had surrendered. The men had given up and, in a sense, were—were
+                    dead and—and even generations later were seeking death. And, in her
+                    opinion, the sooner this quality in the Sartoris men died out, the better for
+                    Sartoris, for the Sartoris clan, race.  And she—probably she believed
+                    that—that this boy would have all the best of the Sartorises and none
+                    of the vices.</u></div2>
+                <div2 type="dialog" id="wfaudio24_2.7" start="00:07:59.96" end="00:09:47.72">
+                    <head>Aunt Jenny</head>
+                    <u who="G">Mr. Faulkner, toward the end of "An Odor of Verbena," she says to Bayard,
+                    "Damn you Sartorises," even though she seems to approve of his not going out and
+                    getting revenge. Is it some quality of heartlessness that she feels even in an
+                    act that she approves of?</u>
+                <u who="WF">No, no, she loves these people, and they have constantly—all
+                    of her life, they have given her anguish and trouble.  That she can't help but
+                    love them, and she believes in them, not in what they do, and they do these
+                    reckless, completely self-centered things that have caused nothing but anguish
+                    and grief to all their womenfolk. That's all that meant. That she's proud of
+                    this boy, but he too has done something unexpected, that when she expects them
+                    to act like human beings they act like Sartorises, then when she expects the
+                    next one to behave like a Sartoris he behaves like a simple human 
+                    being, <event desc="audience laughter"/> and she
+                    has no—will never have any peace from them. That's all that
+                        meant. <lb/>
+                    Yes, sir.</u>
+                <u who="B">When the boy's aunt says, "Go upstairs until this blows over. It'll be
+                    all right," is she saying that because she just doesn't want him to get
+                    hurt?</u>
+                <u who="WF">Yes, that's it. That's—that's the woman—this is the
+                    last one. And—and she knows that—that she expects him to go
+                    out and get himself shot, because he's a child compared to this man, and he
+                    wouldn't come out of a—of a duel with—with this man, and
+                    she's willing for him to be a coward just so he stays alive. She knows that he's
+                    not going to do that.  But that's—that's—that's the woman. She's been his
+                    mother. She's telling him to do something that she herself probably wouldn't
+                    really want him to do.</u></div2>
+                <div2 type="dialog" id="wfaudio24_2.8" start="00:09:50.20" end="00:11:53.03">
+                    <head>Bayard's Choice</head>
+                    <u who="Q">In that—that final section of <hi rend="italic">The
+                        Unvanquished</hi>, are you developing a notion of a changing and developing
+                    tradition, and that Bayard doesn't reject the whole tradition. He keeps the
+                        honor and the courage, but he rejects the—part of the old tradition, and
+                    that—that is the vendetta. And I wondered if you—that if the
+                    sprig of verbena represented the old mechanical, unchanging tradition that he
+                    was building from and rejecting partly but not altogether. I noticed that you
+                    present that sprig of verbena as having the petals stamped out as
+                    if—as if by a machine. I wondered if—if you—in
+                    your mind, that meant that this was the—the mechanical, unchanging
+                    tradition, that he was rejecting partly, <unclear>what</unclear> he was growing away from, but still
+                    keeping the—the honor and the courage.</u>
+                <u who="WF">No, the verbena—the fact that sprig of verbena was alive,
+                    was—was an accolade, that the—the verbena, even though it
+                    looked like it had been stamped out by a machine and was traditional, was still
+                    alive, and there would be another one next year. And that was an accolade
+                    of—of optimism, too.  That she could have left a—a note
+                    scrawled on a—a piece of paper, but that would have been dead paper and dead ink.
+                    This was—was alive, a promise of—of renewal for next
+                    year. 
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.9" start="00:11:57.78" end="00:14:14.90">
+                    <head>Colonel Sartoris</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in the earlier chapters of <hi rend="italic">The Unvanquished</hi>,
+                    Colonel Sartoris is shown to be a very brave man and a very—could do
+                    all sorts of wonderful things, and then in the last chapter, he seems to be
+                    shown in a slightly different light, that he's not—not quite all these
+                    things that he appeared to be earlier. Just what is your estimation of Colonel
+                    Sartoris as a man?</u>
+                    <u who="WF">As a—a simple human man. In the—the first stories in that book,
+                    that was—was how this little boy saw him. Later, that little boy got
+                        older and—and had some perspective. He could see that this man who had seemed
+                    incapable of—of weakness or evil was human, too. It wasn't that
+                    the—that Sartoris changed so much, but the boy had changed, could see
+                    more than he had seen at first. The picture he had of him at first was someone
+                    that would be gone away fighting in a war, and then he'd come back for a day or
+                    two, and then be gone again, the picture that his grandmother and his aunt and
+                    the servants that remained on the place had given him of what his father was.
+                    Later, when he got older and had some perspective and could—could see
+                        that—that war is—is not all that fine and—and gallant and that the people
+                    that engage in war probably are—are harmed a little by it, too.  That
+                    he got a—he knew more about people, about man, about his
+                    grand—his father as he got older. That was the reason, not that
+                    Sartoris changed, anymore than—than anyone changes by getting old, and
+                    his arteries beginning to harden, and his blood running slower. His ideas
+                    becoming a little more rigid.</u></div2>
+                <div2 type="dialog" id="wfaudio24_2.10" start="00:14:24.35" end="00:15:06.33">
+                    <head>Drusilla</head>
+                    <u who="G">Mr. Faulkner, were there many girls in the war who went off like
+                    Drusilla, rode astride and went with the troops?</u>
+                <u who="WF">Probably not. Probably she was the only one. <event desc="audience laughter"/>
+                    I mean, her prototype, whoever it was that I got
+                    the idea for her from, I imagine I read that somewhere, too, and just don't
+                    remember it.  Just like whoever wrote about the <unclear>Iversons</unclear>
+                    don't remember where he read that.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio24_2.11" start="00:15:11.83" end="00:16:47.20">
+                    <head>Drusilla and Bayard</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="B">There is no romantic attraction between Drusilla and the boy?</u>
+                <u who="WF">I don't think so. They were nearer akin in age, but I don't think so. I
+                    think certainly Drusilla would have made no effort to—to bring that
+                    out in that boy because her husband, older than she though he was,
+                    was—was—was her—her knight. He represented the
+                    best of—of the masculine to her, to be ruthless and—and—and
+                    brave and to demand—to brook no insult, to demand blood for blood,
+                    that was exactly what she would have been if she'd been a boy. And she probably
+                    never saw this boy other than someone who was close to her in age. And he had
+                    never thought of her romantically, I am quite sure, because his father
+                    had—had stamped the whole tone of that household with his, the
+                    father's, importance, that nobody would have dared tamper with his wife, for
+                    instance. And this boy, that would have—might have been the one thing
+                    he would have shot a man for, for an insult to his father's wife, not his mother
+                    necessarily, but his father's wife, because he would be preserving his father's
+                    honor.</u></div2>
+                <div2 type="dialog" id="wfaudio24_2.12" start="00:16:47.21" end="00:17:00.62">
+                    <head>Close</head>
+                    <u who="IC">Mr. Faulkner, let me thank you on behalf of the class <unclear>and the visitors</unclear>.</u>
+                <u who="WF">Well, thank you. <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

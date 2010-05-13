@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio24_1_2clip">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of clip from audio recordings wfaudio24_1 and wfaudio24_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio24_1_2clip</idno>
+                <idno type="analog tape">None</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-04-28">28 April 1958</date>
+                    <locale>First-Year English Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 28 April 1958</head><head>OCCASION: First-Year English Class</head>
+                <head>This clip was created by splicing the end of T-142c and the beginning of T-142d together.</head>
+                
+                <div2 type="dialog" id="wfaudio24_1_2.1" start="00:00:00.00" end="00:01:34.71">
+                    <head>Spliced clip</head>
+                    <u who="Q">When you speak of a man in motion, do you think that that person who
+                        moves along with it is apt to be the most successful or—?</u>
+                    <u who="WF">Well, he—he might have more peace. He may not be more
+                        successful. By a man in motion, I meant simply that motion is life,
+                        that—that man, if he's alive, he is in motion, and whether you like
+                        where he's going or not, your only alternative is stasis or death, and the
+                        choice which Ratliff had no trouble making is, "Either—either I will take this or
+                        nothing, and I would prefer this to nothing, that I'd prefer breathing to not
+                        breathing." But success—it would depend on what anyone means by
+                        success. Maybe Ratliff never used that term to himself at all, but probably he
+                        was, in own lights, quite successful. That is, he wanted 
+                        no more than he knew within his capacity he would have, that he was going to
+                        enjoy what he saw and heard and was going to live a long time in peace because
+                        he had accepted, coped with environment, without trying to manipulate 
+                        environment for his own aggrandizement as Snopes did.
+                    </u></div2>      
+            </div1>
+        </body>
+    </text>
+</TEI.2>

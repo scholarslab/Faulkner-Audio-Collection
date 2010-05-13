@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio30_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio30_1</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio30_1</idno>
+                <idno type="analog tape">T-145a</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <persName id="B">Joseph Blotner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-05-12">12 May 1958</date>
+                    <locale>Representatives from Other Colleges</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 12 May 1958</head>
+                <head>OCCASION: Representatives from Other Colleges</head>
+                <head>TAPE: T-145a</head><head>LENGTH: 33:02</head>
+                
+                <div2 type="dialog" id="wfaudio30_1.1" start="00:00:02.78" end="00:01:05.40">
+                    <head>Introduction</head>
+                    <u who="B"><inaudible/> to share with them our good fortune in having as
+                    Writer-In-Residence at the University of Virginia the world's greatest living
+                    novelist. He began our program last year by reading from his works, but the
+                    question and answer period that followed was so lively and so prolonged that we
+                    thought that this year we would skip the appetizer and begin with the steak. Mr.
+                        William Faulkner.   <event desc="applause"/></u>
+                <u who="WF">Any question? Somebody must have at least one. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.2" start="00:01:10.77" end="00:02:43.02">
+                    <head>Grammatical Rules</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, during our formal education we are—are taught to
+                    adhere to certain grammatical rules, punctuation rules, sentence structure and
+                    so forth. Do you think that if a writer attempts to adhere to such rules that
+                    his style is restricted or cramped in any sense?</u>
+                <u who="WF">No, sir. I don't think so. It may be that his opportunities for
+                    experimentation are cramped. I think that—that any language must
+                    continue to be alive. That is, it must continue to change or be susceptible to
+                    change, and—and grammar, punctuation are—are part of that
+                    fluidity. If by experimentation you—you find out if the old ways were
+                    the best or maybe the old ways might be subject to change. I wouldn't say that
+                    it restricts your style because style could be a part of the—the
+                    fluidity of—of the change. Style, if it's a—like anything
+                    else to be alive it must be in motion too. If it becomes fixed, then it's dead.
+                    It's just rhetoric. The style must change according to what the writer is trying
+                    to tell. What he is trying to tell, in fact, compels the style.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.3" start="00:02:50.97" end="00:04:34.25">
+                    <head>Tradition v Industrialization</head>
+                    <u who="WF"> If I'm not speaking
+                    loud enough, would you let me know?<lb/>
+                        Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, do you feel that the traditional values of the South have
+                    been endangered by increased industrialization <inaudible/>?</u>
+                <u who="WF">They couldn't be. The—the values of any thing, to be of any
+                    importance, must be alive, too. It may be that you won't like to see
+                    industrialization. You won't like to see the old customs change. But the only
+                    alternative to change is—is to cease, to die. And I think
+                    that—that any culture that's worth its salt is going to cope with any
+                    change. That industrialization is not going to destroy anything of value in the
+                    South. The things of value which are—are obsolete will be remembered,
+                    and they will be the material for—for writing, for
+                    art, even though they no longer exist as a—a motivating quality in the
+                    present culture. They will exist as a—well,
+                    the—the jeweled casket to hold the
+                        fine traditions. In the sense that—that there's
+                    no such thing as "was" really, that every man is—is the sum of his
+                    past, of his ancestry, and so there's nothing ever ends in that sense. As long
+                    as somebody remembers it, it still exists. The good of it will still exist,
+                    still be available.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.4" start="00:04:43.10" end="00:06:21.11">
+                    <head>Redeeming the Snopeses</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, this is a little bit more specific, but
+                    is there any redemption <unclear>within the Snopes family of itself?</unclear>
+                    Will that come or is that going too far <unclear>into your next novel</unclear>?</u>
+                <u who="WF">Possibly. I think that—that in time evil will—will
+                    exhaust its own tools. That is, the—the Snopeses will vanish. There will
+                    be some Snopeses named something else. <event desc="audience laughter"/> And
+                    it's not really necessary to redeem Snopeses. Snopeses are an infinitesimal part
+                    of the human race of man, and man is—is, I think, pretty good. That
+                    he's—he's doing all right. That he can—can take on a tribe of
+                    Snopeses and can get rid of them, and they will not have done any great harm to
+                    the—to the record of man's endeavor. That they are not really
+                    a—a problem. They are a problem of the moment. And there's always
+                    someone that will—will cope with Snopeses or will—will
+                    outlast Snopeses. The—the good, the people that are against what
+                    Snopeses represent will last longer than the family of Snopeses will.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.5" start="00:06:47.55" end="00:08:15.03">
+                    <head>Influences on Humor</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">What influenced your humor the most? Your—did you read
+                    a—a lot of Mark Twain or something like that? <event desc="audience laughter"/></u>
+                <u who="WF">That's a good question. That is, it's a question I'm—I'm happy
+                    to try to answer. I think that—that humor is not influenced by what
+                    anyone reads. It—it's a—an attitude of optimism toward man's
+                    predicament. That if—if you take man's predicament, the dilemma, too
+                    seriously, that's not too good for anybody. But if you are capable of seeing
+                    that man with all his folly, all the—the harm <unclear>and the
+                       shoddiness</unclear> he does, that even in his—at his worst, he
+                    is capable of doing things in a comical way that he himself didn't intend to do.
+                    I don't think you need to—to ape Mark Twain or—or Leacock or
+                    any other humorist to write humor. It's a point of view toward man in his
+                    dilemma, which is to me a very healthy point of view. If you can—can
+                    laugh at what man does, then you agree that what he does is not going to endure
+                    long enough to do a great deal of harm.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.6" start="00:08:25.57" end="00:09:28.39">
+                    <head>Racial Changes</head>
+                    <u who="Q">Yes, sir.</u>
+                <u who="Q">Do you think that the southern attitude towards the Negro is the same
+                    today as when you pictured it in your book <hi rend="italic">Intruder in the
+                        Dust</hi>?</u>
+                <u who="WF">No, sir, I think it has changed. I think it has got to change
+                    because that was a part of a living culture, and as I just said, the only
+                    alternative to motion is death. So the culture, the Negro's position in the
+                    southern culture, will alter for the better. I—I believe that there
+                    are enough people in the South that realize that whether the Negro is now
+                    capable of equality with the white man, he will have to have the chance to try
+                    to find out, simply because the Negro is also a human being. And there's no
+                    position for a second class human being in a culture opposed to another
+                    antipathetical culture as the world is today.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.7" start="00:09:30.18" end="00:10:56.66">
+                    <head>Selling to Hollywood</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, you've had a number of novels made into movies, and
+                    I—I know you've written some screenplays, and I wonder if you think a
+                    novelist, any novelist, if one jeopardizes his position as a
+                    novelist by allowing Hollywood sometimes to do a bad job <inaudible/>?</u>
+                <u who="WF">No, sir, not at all. I think the writer has done the best he could, the
+                    best he possibly could with that book, that nothing done to that book later can
+                    change it—change what he did and the—the movies can take
+                    that book and if they want to, if he wants to let them take that book
+                    for—for any reason other than the belief that they're going to improve
+                    on it, then they won't hurt it. If he's going to—when the book is
+                    finished, and it is done the way he wants it done, then some movie picture
+                    company says, "If you'll rewrite this to please us, then we'll give you money
+                    for it," and he says, "All right, I will—I will rewrite this book before
+                    anybody—I will destroy this book and write it to suit you," then he
+                    has betrayed his own talent and his own trust, whatever it is that the artist
+                    functions under. Integrity, call it what you like. But if he has finished the
+                    work, done the best he can with it, then nothing can hurt it, in my
+                        opinion.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.8" start="00:11:00.04" end="00:12:00.08">
+                    <head>Northern Outsiders</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I'm interested in <hi rend="italic">Intruder in the Dust</hi>, too, in
+                    the last part there, that Gavin—you have the lawyer uncle in that say
+                    that "It would be better if the North, the outsiders, left the South alone to
+                    settle its own problems and sins." Do you still hold that theory, or am I right in
+                    thinking that you meant that <inaudible/>?</u>
+                <u who="WF">I still hold that opinion, I think that—that no one can be
+                    saved by an outsider. He must be saved from inside himself. That is, the South
+                    must correct that evil, as it applies to the South, ourselves, that it can't be
+                    done by—by laws or philosophical or political theories compelled on us
+                    from the outside.</u></div2>
+                <div2 type="dialog" id="wfaudio30_1.9" start="00:12:00.09" end="00:14:37.04">
+                    <head>South v Larger Nation</head>
+                    <u who="Q">Well, I was interested in what then should be the outsiders' point of
+                    view, from outside the South. In worrying about the South, what if the South did
+                    not pull itself up by its own bootstraps? They would be worried about the effect
+                    upon the rest of the states.</u>
+                <u who="WF">Well, in my opinion, the South will have to pull itself by its own
+                    bootstraps for the reason I just stated, that the only alternative to motion,
+                    progress, is death. It's a condition which we have realized much further back
+                    than 1954 was—was an impossible situation. Our forefathers that fought
+                    the—the Civil War knew that. Mr. Jefferson knew that a hundred and
+                    fifty years ago. There were people even before Mr. Jefferson that realized that
+                    slavery was an—an impossible condition in this country that would have
+                    to be remedied. I think that—that the—the outsider who is
+                    doing it because he's a do-gooder serves some purpose in keeping a certain
+                    pressure on.  But nobody knows when to let well enough alone, and if he could
+                    just keep the constant, faint pressure and let be at that, he would serve his
+                    purpose, but he gets too enthusiastic with changing overnight a—a
+                    condition which is emotional according to a pattern of morality which he can't
+                    do.</u>
+                <u who="Q">Well, he might not be a do-gooder exactly. He—he might be a
+                    person worried about the effect upon the country at large, foreign policies or
+                    problems that come up out of traditional southern attitudes, and then I wonder
+                    whether a Senator from Oregon, for instance, would
+                    suppose—would do <unclear>what position could he take that would be
+                        acceptable, that would consist of</unclear> certain rules and regulations to
+                    impose for the whole country.</u>
+                <u who="WF">Well, of course, he would do what he thought the people that elected him
+                    would expect him to do to get elected <event desc="audience laughter"/> next
+                    time, but he would still be working on a—a—to—to
+                    compel a system of economic morality on an emotional condition.
+                    He—I'm not saying that he's wrong. I'm saying he's
+                        impractical.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.10" start="00:14:50.26" end="00:16:39.41">
+                    <head>Gavin Stevens</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Speaking of the character of Gavin Stevens in the book, did you have a
+                    real life figure that you based him on?</u>
+                <u who="WF">I think a writer writes from three sources. One is his own personal
+                    experience, which would include, of course, the books he reads, has read, his
+                    observation, and his imagination. I doubt if he himself can say just how much of
+                    each source he has drawn from for this particular page or story or book. I
+                    believe, though, that he is convinced that he can create much better people than
+                    God can. <event desc="audience laughter"/> That he will never be satisfied to
+                    take anyone he has seen from real life, put into a book, because he would
+                    improve on it. I think that maybe a writer is incapable of actually sticking to
+                    the truth, that he is a congenital liar, and he is going to change, alter,
+                    anything that he—he touches to put down on paper. So he himself can't
+                    say just how much of the character he actually saw, how much he heard about, how
+                    much he imagined. To him that's not too important. His—what he wants
+                    to do is to create characters of his own, yet are so close to life, so
+                    life-like, that the people that read the books will say, "Why yes,
+                    that's—that man could be so. In fact, I know somebody a good deal like
+                    him." Though, actually, the character that he put down is—is not what
+                    he ever saw. He's added something to it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.11" start="00:16:41.99" end="00:17:44.02">
+                    <head>Writing from Experience</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">What do you think of the Thomas Wolfe sort of writing
+                    <inaudible/> autobiographical and yet other <unclear>things are just set in the
+                        background, in personal observations</unclear>? What do you think
+                    <inaudible/>?</u>
+                <u who="WF">I think that any writer is—is autobiographical in the sense
+                    that he is writing from those three reservoirs which I just spoke of.  That he is
+                    writing a man in terms of himself. That is, he—he is writing a man as
+                    he saw it. And I—I wouldn't know, probably Mr. Wolfe don't know how
+                    much he was writing of what he himself saw. He is writing mainly of what he
+                    himself believed he saw and heard and imagined, that what he believed is truth
+                    as he knows it. But he will be, even if he were writing his own life, he
+                    probably couldn't stick to the truth. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.12" start="00:17:46.01" end="00:19:26.71">
+                    <head>Success for the Writer</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">To what factors do you believe the success of your work has been what you hoped it would be??</u>
+                <u who="WF">I'd have to ask you what you mean by success. <event desc="audience laughter"/></u>
+                <u who="Q">Popularity or the sale of the book, perhaps. </u>
+                <u who="WF">Well, I would—I'd say that—that came from the fact
+                    that I have always kept myself an amateur. I've never thought of myself as a
+                    professional. I've done this for fun, and it didn't really matter to me whether
+                    anybody read it or not. Success is—is feminine, and quite often
+                    if—if you—if you beg and plead, she scorns you. If you show
+                    the back your hand to her, she clings to your knees. <event desc="audience laughter"/> But I think it's because I have tried
+                    to—to be an amateur, and I've done it just for fun, not to get rich,
+                    not to make money, nor to be famous, but because it was fun. It was something I
+                    found to do that was the most fun of anything I'd tried yet. I never could quite
+                    do it, and so I'd never be bored with it. That each time I finished a book it
+                    wasn't as good as I wanted it to be, but I still had some more paper, so I'd
+                    write another one tomorrow, and maybe that one would be. <event desc="audience laughter"/> If any of you think of being writers that's the
+                    first advice I would give you, is to keep it amateur, do it for fun. It's hard
+                    work, I grant you, but do it for fun because you like to do it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.13" start="00:19:33.37" end="00:21:01.44">
+                    <head>Pylon and New Orleans</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"><inaudible/> <unclear>for example, in <hi rend="italic">Pylon</hi>, you touch on the city of New Orleans,
+                        where—was that in a way true to life</unclear> <inaudible/> <unclear>you had your
+                        observations</unclear> <inaudible/>?</u>
+                <u who="WF">That was a mixture of all three. That New Orleans wasn't quite the New
+                    Orleans I lived in at one time. That airport wasn't quite the airport that I
+                    have operated aircraft out of at various times. But just how much of it was
+                    true, how much of it was lies, I would have to go back over the book with a
+                    pencil and—and postulate as I went along. But the writer
+                    is—he is—he is too busy. He is not interested in facts, you
+                    see. He is interested in truth, the fundamental truth, of mans' struggle within
+                    his—his predicament, his dilemma. That he will—will be as—as
+                    strict as he can to the standards of integrity regarding the truth
+                    of—of man's passions and hopes and fears and aspirations. But he will
+                    pay very little attention to physical facts. He won't care whether it is
+                    Tuesday, 1958 or Tuesday, 1956. Or whether New Orleans is in Louisiana or in
+                    Oregon. It don't matter to him.</u></div2>
+                <div2 type="dialog" id="wfaudio30_1.14" start="00:21:04.62" end="00:21:41.99">
+                    <head>Laverne as Pylon</head>
+                    <u who="B">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="B">In the novel—that novel <hi rend="italic">Pylon</hi>, could the
+                    title, could the title refer to the girl Laverne, the marker or beacon around
+                    which all the other, all the men gravitate?</u>
+                <u who="WF">Now, there's some more of this erudite, professorial symbolism
+                        <unclear>gets into everything</unclear>. <event desc="audience laughter"/>
+                    I'm sure that you're quite right, I just hadn't thought of that.
+                    I'm—I'm glad to know it. I'll remember that. I'll use that sometime
+                    probably. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.15" start="00:21:46.17" end="00:23:54.90">
+                    <head>Symbolism</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">What about this matter of symbolism, Mr. Faulkner? Are you ever conscious
+                    of some of the symbols you've been accused of using?</u>
+                <u who="WF">The writer's like a carpenter. He has a—a—a grab
+                    bag, a barrel full of odds and ends, of boards and nails, and—and
+                    the—the sort of things that he might possibly some day need, and when he's
+                    busy in the heat of writing his story, he needs something, so he reaches back
+                    and <unclear>scrabble</unclear> around in his barrel until he finds something
+                    that fits. Of course, the—I think that—that one reads from
+                    the same background that the writer writes from. That is, the culture. The
+                    culture contains this symbolism which has been established and described by
+                    the—the experts, the psychiatrists and psychologists, and since
+                    the—one man writes from it, another reads from it, it's natural that
+                    the symbolism should appear. And since the—well, in our case now, we
+                    both read and write from a culture we call the culture of the Christian culture,
+                    and naturally symbols will be identifiable because they are part of the very air
+                    that both the writer and the reader have breathed through education, and the
+                    experiences of being a child, of being taught to be a Christian child, or the
+                    child of cultured parents. But I don't think the writer has got time to say "Now
+                    I'm going to write—get a few symbols into this one." <event desc="audience laughter"/> 
+                    He's too busy. He's writing about people, you
+                    see, writing about human beings and the individual people in their struggles
+                    inside the human condition. He's trying to tell that story in the most dramatic
+                    way he can, and when he realizes by instinct that a symbol will help him, he
+                    reaches back in his carpenter's catch-all and gets out a symbol. But he's not
+                    deliberately writing symbols.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.16" start="00:23:57.98" end="00:25:06.97">
+                    <head>Symbols in "The Bear"</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">You said you didn't deliberately write symbols, but you are <unclear>doing
+                    that</unclear>, I think, and I would like to ask you <event desc="audience laughter"/> 
+                    if you saw the symbol in the bear, in the short
+                    story "The Bear"?</u>
+                <u who="WF">Since I've been up here and discussed it I see lots of symbolism that I was
+                    too busy at the time, at the time—</u>
+                <u who="Q">
+                    <unclear>I wish you'd tell me one, so I can tell my class.</unclear>
+                    <event desc="audience laughter"/>
+                </u>
+                <u who="WF">The—well, the one symbol was the bear represented
+                    the—the—the vanishing wilderness. The little dog that wasn't
+                    scared of the bear represented the indomitable spirit of man. I'll have
+                    to—have to dig back and get up some more of those symbols but I
+                    have—have learned around an even dozen that I've put into that story
+                    without knowing it. <event desc="audience laughter"/> But they are two pretty
+                    good ones that you can hold to.</u>
+                <u who="Q">
+                    <unclear>Thank you.</unclear>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.17" start="00:25:06.98" end="00:25:39.37">
+                    <head>James Joyce</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">May I ask what you think of James Joyce?</u>
+                <u who="WF">James Joyce was one of the—the great men of my time. He was
+                    electrocuted by the divine fire. He and Thomas Mann were the—the great
+                    writers of my time. He was probably—might have been the greatest, but
+                    he was electrocuted. He had more talent than he could control.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.18" start="00:25:44.54" end="00:27:21.36">
+                    <head>Pace of Modern Life</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, a great deal of attention in recent years has been
+                    devoted to the idea that perhaps man's life as he lives it from day to day is
+                    speeded up rather tremendously, and that this has had effects on his thinking.
+                    I'm wondering first of all if you believe this is true, and if you do believe
+                    it's true, if this has had an effect on what he wants to read or what he wants
+                    to be told?</u>
+                <u who="WF">I don't believe it has had any effect on what he wants to read and what
+                    he wants to be told, as it's inside him. The effect has been on—on
+                    what he has been told he wants to read. That's the pressure to—to
+                    conform, to belong to groups, to read the book of the month, or to own the same
+                    Cadillac, or to have the same two children, or to have a house
+                    that—that has everything in it that all the other houses on the street
+                    have. But basically he—he—he—he is puzzling over
+                    the same fundamental problems that he has always been puzzling over ever since
+                    he found that he had a soul and stood up out of the mud. I think the other's
+                    ephemeral and on the surface and—and will pass away. That it's nothing
+                    to be concerned about. There's a great deal of pressure on him to—to
+                    let somebody else decide for him what he shall read, what he shall think, what
+                    he shall do. But I don't think that will last. I don't think that he pays any
+                    attention to it, actually.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.19" start="00:27:23.75" end="00:29:03.55">
+                    <head>Human Dilemma</head>
+                    <u who="WF"> Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, <unclear>just what do you consider man's
+                    dilemma</unclear>?</u>
+                <u who="WF">I mean by that his—his situation. He wants to live in
+                    a—a world that's peaceful, where he can have the—the simple
+                    things he wants, and yet he's—he's always involved with overproduction
+                    in one place and underproduction in another, and the threat of wars and atom
+                    bombs, and he still—instead of giving up, he still tries to do
+                    something about that, he still struggles within that dilemma to make it the one
+                    he wants, in which all people can be happy, in which little children won't have
+                    to suffer, in which the weak would be protected. His dilemma is simply to make
+                    it work. There's a—stories from the Chinese, I think, at one time, you
+                    may know this, cats were the first form of life on earth. They had tried to make
+                    civilization work, to get rid of wars and poverty and pestilence, and it didn't
+                    work, so they summoned all the wise cats to a congress, and they said that we
+                    will choose some other form of life that is optimistic enough to believe that
+                    man can live in peace and plenty, but foolish enough not to believe that he will
+                    fail again. So that's why the cat lives with you, and he won't work, and he
+                    don't love you. Maybe that's why the cat looks <unclear>at us</unclear> the way he does. <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.20" start="00:29:06.53" end="00:30:01.09">
+                    <head>Southern Progress</head>
+                    <u who="WF"> Yes, ma'am.</u>
+                <u who="Q">Sir, what do you think will aid the South in pulling our
+                    boot—bootstraps up?</u>
+                <u who="WF">Education. Better education than we've got.</u>
+                <u who="Q">And do you think that—that education will <inaudible/> <unclear>up
+                    </unclear> the people <unclear>in time before</unclear> <inaudible/>?</u>
+                <u who="WF">It—</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">Well that's a good question. The—the trouble is
+                    the—the South has got to be educated better in order to educate the
+                    inferior southerners, regardless of what color they are. The problem now is of
+                    whether the—the inferior, the uneducated southerner will wait that
+                    long anymore. But I don't know of anything better to do than to alter our system
+                    of education so that the best can get the best of education. I don't know of
+                    anything else that will help us or save us.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.21" start="00:30:09.16" end="00:32:41.05">
+                    <head>Contemporary Writers</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, do you believe that—do you feel optimistic about
+                    the enduring values in current American fiction by the younger writers, say
+                    under forty-five?  Do you see any potential change in trends that will be <unclear>of
+                        lasting literary value.</unclear></u>
+                <u who="WF">I can't give a good answer because like my most writers as I get older I
+                    read less and less. It's been a long time since I have read my coevals. But I'm
+                    convinced that that is the strongest motivation in man, is to—to create,
+                    to produce literature, music, art. That's most enduring thing he has created and
+                    I think that nothing, not even the atom bomb, is going to stop him. I would say
+                    that now the—the young writer is subject to that same pressure to
+                    conform, to belong to something, which I spoke of. But I think
+                    that—that by the time he is thirty, if he has a
+                    first rate talent, he will have outgrown that. And I'm convinced that the good
+                    work will still be produced. It's comforting for a lazy man
+                    to say, "Well, I would have been a good artist, if I'd been born—if I
+                    hadn't been so unlucky as to be born in this time." I think that's nonsense.
+                    That the good man is going to produce no matter when he's born, what age he's in.
+                    That he will use that age as his material just as—as a part of the
+                    reservoirs of observation and experience. And that he will produce the work,
+                    too, if he has the talent and works, that nothing will stop him. And
+                    I—I used to think that talent was important. I think maybe all he
+                    needs is ruthlessness, industry and insight. That is to—to throw away
+                    anything that seems to him untruthful or shoddy, to work hard, to be always
+                    curious as to know why man does what he does. I think that if the young writer
+                    has those three qualities he can write.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio30_1.22" start="00:32:41.06" end="00:32:59.54">
+                    <head>Using Violence [part 1]</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">I'm curious as to when—why <inaudible/> I wonder how the modern
+                    writer justifies using violence in his work. <unclear>I've been struck by it and
+                        sometimes upset by it.</unclear></u>
+                <u who="WF">I think that is— <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

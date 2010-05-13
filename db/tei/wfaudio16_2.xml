@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio16_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio16_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio16_2</idno>
+                <idno type="analog tape">T-133</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-20">20 May 1957</date>
+                    <locale>English II Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 20 May 1957</head><head>OCCASION: Freshman English Class</head>
+                <head>TAPE: T-133</head><head>LENGTH: 29:25</head>
+                <div2 type="dialog" id="wfaudio16_2.1" start="00:00:07.08" end="00:00:13.50">
+                    <head>Fragment</head>
+                    <u who="WF"> <inaudible/>and the
+                    solitude, but she—but she wasn't enough—he had to go and get
+                    into trouble over somebody else's wife.</u>
+                </div2>
+                <div2 type="dialog" id="wfaudio16_2.2" start="00:00:16.11" end="00:01:11.00">
+                    <head>Wave in "Old Man"</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">What did the tremendous wave signify and what caused it?</u>
+                <u who="WF">That simply is a physical fact in that country when a levee breaks. The
+                    water rushed through the crevasse, and it—it came to the lowest place,
+                    which was a stream, which up to that time had been flowing toward the river.
+                    This wave of water from the—at that time the river, the Mississippi,
+                    was—was forty feet higher than the country, and when that levee gave
+                    way, that—that mass of water that came through had to go somewhere,
+                    and it broke on the east side of the river, so that wave of water simply
+                    continued to go east until it spent itself, and in this—this stream,
+                    which up till that time had been flowing placidly west, it turned around and ran
+                    backward. That's just a physical fact of—of hydraulics and
+                        levee.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.3" start="00:01:11.02" end="00:01:55.08">
+                    <head>Visualizing Scenes</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">It seems that you draw a picture for yourself before you <inaudible/> 
+                        draw a picture.
+                    Do you do that in your writing itself when you are writing a book, draw another
+                            picture for yourself before <inaudible/> ?</u>
+                <u who="WF">Oh, well, any writer puts down what he sees and what he hears, and that
+                    image and—and that sound come from the proper blending of observation,
+                    experience, and imagination. Yes, you've got to see what you—the scene
+                    you describe. You've got to hear the voice speaking the speech that you put
+                    down. You've—you have to hear the vernacular he speaks in, rather than
+                    to—to think of the speech and then translate into the
+                        vernacular.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.4" start="00:01:56.14" end="00:03:01.13">
+                    <head>Dialect in "Old Man:</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, you want <inaudible/> to establish the intellectual level of these people
+                    you're talking about, but I noticed we're missing this Mississippi accent which
+                    is so prevalent in those people. You made no attempt to
+                    simulate that in the dialect. Is there any reason for that?</u>
+                <u who="WF">If the writer puts too much attention to transcribing literally
+                    the—the dialogue he hears, it's confusing to people who have never
+                    heard that speech. That is, some—some of the words are difficult to
+                    spell. They would be—to a Mississippian, he would see the words
+                    spelled the way a Mississippian would spell it, he would know how it sounded,
+                    but to an outlander, he wouldn't know. He would mispronounce that word wrong.
+                    You can—can go only so far with—with dialect, and then
+                    there's a point where for—for the simple reason not to make too much
+                    demand on the writer, to distract his attention from the story you're telling,
+                    you've got to draw the line.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.5" start="00:03:03.07" end="00:03:53.00">
+                    <head>Thomas Wolfe</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, you said imagination is <unclear>enough for</unclear> writing.
+                        It makes a good writer. Do you believe that Thomas Wolfe
+                    uses a lot of imagination in his writing, or do you think that he just wrote 
+                    primarily from experience?</u>
+                <u who="WF">I think that no writer writes primarily from experience or observation
+                    or imagination. It's as though he has three tanks with three lines and maybe a
+                    mixing valve, and he draws from that tap, from all three of them, and he himself
+                    can never say how much of this was imagination, how much was observation, how
+                    much was experience. He—he couldn't and then he—he wouldn't
+                    bother to because that's not too important. If what he tells seems real and
+                    seems true, then how much of what came from where and when makes no difference
+                    to him.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.6" start="00:03:54.77" end="00:04:35.99">
+                    <head>Dream in "Old Man"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">It's a rather small passage, but in one place he's on the Indian mound
+                    with the woman, and he's lost his oar, and he's trying to make a new one, and he
+                    has this dream that he's trying—that he's back at the bunk house, and
+                    he's attempting to sleep, but there is a mule, John Henry, keeps trying to crawl
+                    into bed with him, and he licks him with his cold tongue. Is that supposed to
+                    have any special symbolism such as work or anything or is this—?</u>
+                <u who="WF">No, no, that's what it felt like to him when whatever the animal was
+                    that was crawling over him while he was asleep made him think of.
+                    He—he reduced that to—to his own imagination, observation,
+                    and experience.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.7" start="00:04:42.05" end="00:05:48.09">
+                    <head>Experience with Delta</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">When did you come into the close contact with a flood on the Mississippi
+                    that the text would indicate and when did you observe all these things, the way
+                    the flood happened and so forth? <inaudible/>.</u>
+                <u who="WF">Hmmm, why, I can't say. I've known it all my life. That is, this country
+                    is—is not very far from where I was born and have lived all my life,
+                    and I have known these people. I have known that country. Every fall as long as
+                    I can remember, we would go there to hunt bear and deer, which was close to the
+                    levee, and so we would know these people. They would cross the levee and come
+                    into our camp. They would—they were lawless people. They would be
+                    beggars, and on occasion they would be thieves, but if we were ever
+                    benighted—lost at night—we could go to their shanty boats
+                    and shacks, and they would give us what they had to eat and let us sleep that 
+                    night.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.8" start="00:05:51.45" end="00:06:39.44">
+                    <head>Nose Bleed in "Old Man"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">On several occasions the tall convict is plagued by this nose bleed that
+                    he can't control. This usually follows some period where he's had a great
+                    struggle and shown his bravery and his strength, such as with the alligator. Is
+                    this helplessness in the face of this nose bleed supposed to be a humorous
+                    contrast with his strength and his usual self-sufficiency? Or did you want to
+                    <inaudible/>?</u>
+                <u who="WF">Well, to me that was just something else comical and—and
+                    bizarre that should have—he should be afflicted with that also. With
+                    all his other troubles, he had—had that—what's the name of it, the ailment
+                    when your blood won't clot?</u>
+                <u who="Q">Hemophilia.</u>
+                <u who="WF">Yes, that on top of everything else, he had to have that, too.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.9" start="00:06:42.80" end="00:07:32.38">
+                    <head>Vizier in "Old Man"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">This is just one sentence which I wonder about. In the beginning of this
+                    final chapter, and you told—you sort of described the Governor's
+                    emissary, and you say that he just sat down on the desk, you say "almost between
+                    the warden and the caller, the emissary" and you say—this is the
+                    sentence or these are the sentences: "Or the vizier, V-I-Z-I-E-R, with the
+                    command, the knotted cord, has began to appear immediately." Exactly what does
+                    that mean? I—</u>
+                <u who="WF">Oh, that's Eastern, from the—the Middle East. When the sultan
+                    decided he was tired of a—of a courtier he would send his Prime Minister
+                    with a knotted cord to suggest that he choke himself to death. That's all.
+                        <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.10" start="00:07:33.62" end="00:09:23.94">
+                    <head>Planning the Story</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, when you write any of your novels, do you usually have a definite
+                    idea of how it's going to happen and outline it or do you just
+                    let the novel carry itself as you go along?</u>
+                <u who="WF">Sometimes there is a—a general idea of what the end might be.
+                    That is, an anecdote or a scene, or it could be a scene at the—at the
+                    first—first of the book, or I don't know until I start where the scene
+                    might come. It could begin with a character, or it could begin with
+                    a—with an idea—an idea out of man's condition. That is, in <hi rend="italic">Absalom, 
+                        Absalom!</hi>—that began with the idea of a man that
+                    wanted—a ruthless man that wanted a son and got so many that they
+                    destroyed one another and destroyed him, but the idea almost at once produced
+                    the protagonist, which was the man himself. Some writers, I think, have to have a
+                    plot. They—they do research. They have notebooks and graphs and charts
+                    and things, but I never have worked that way. Mine begin with—with a—a 
+                    scene or an anecdote to write toward, or with a character, and after the
+                    characters, the people come alive, then all the writer has to do is to trot
+                    along beside them with a notebook and a pencil, and put down what they say and
+                    do. Of course, at the end, you've got to—to use some discipline, to do
+                    editing, to pick and choose and make the—give the whole thing
+                    coherence and emphasis at the right place and unity, but with me, the characters
+                    take charge of the story, and all I have to do is just put down what they do and
+                        say.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.11" start="00:09:23.93" end="00:10:36.34">
+                    <head>For Whom the Bell Tolls</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, this is slightly <unclear>pointing out</unclear> toward another
+                    tangent. We were having a discussion in our class as to whether Ernest
+                    Hemingway's novel <hi rend="italic">For Whom the Bell Tolls</hi> was didactic or
+                    not.  <inaudible/> Would you give your opinion to that?</u>
+                <u who="WF">I would say simply that Hemingway was writing—well, in a
+                    sense, the same story—every writer in a way is writing one
+                    story. That he—there's one thing in man's condition that seems to him
+                    the most moving, the most tragic, and this time Hemingway was writing the story
+                    which still seemed to him moving and tragic, which like all writers he never had
+                    told well enough to please him. This one was brought into urgency by
+                    the—the condition <event desc="gap in tape"/>, that he was not really
+                    writing primarily about the Spanish Civil War, but he was writing about
+                    the—the human condition, which to him was moving and tragic in the
+                    terms of that war.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.12" start="00:10:37.76" end="00:11:35.96">
+                    <head>Demon-Driven</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Does the writer write usually from urge or from a sense of <inaudible/>?</u>
+                <u who="WF">A little of both. I think that—that most writers are
+                    demon-driven. Whether to say that it's—he has to or—or
+                    whether it's an urge, it's difficult to say, but he is driven by a demon, that
+                    he has found this world amazing and—and disturbing or tragic or comic
+                    or anyway passionate enough, so that he has got to use the time he's on earth
+                    to express maybe his appreciation of the fact that he lived for a little while.
+                    Maybe he's in a way saying, "Much obliged God that I was here for a while."
+                    It—it's a demon, that he's driven by that.</u></div2>
+                <div2 type="dialog" id="wfaudio16_2.13" start="00:11:36.01" end="00:11:52.65">
+                    <head>Writing Multiple Books</head>
+                    <u who="Q">Does the writer ever get involved in more than one book <inaudible/> at a time?</u>
+                <u who="WF">Oh, yes. Yes, I've written—one time I was working on three at
+                    one time. I have written awhile on one and put it aside and then write another,
+                    then come back to the first one again. 
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.14" start="00:11:54.95" end="00:13:25.96">
+                    <head>Strength in "Old Man"</head>
+                    <u who="WF">Let's see. We'll
+                    have to start at the left. Yes, sir.</u>
+                <u who="Q">Does the—does the convict in "The Old Man" gain his strength from
+                    the fact that he does have the mind of a sixteen- or seventeen-year-old and
+                        his perceptions are limited?</u>
+                <u who="WF">No, I wouldn't say he gained his strength from that. I would say that he
+                    gained his strength because he had a—a—a very simple moral
+                    standard. That he made one aberration from it because he was tempted by Delilah,
+                    but he would—he would never make that aberration again, and 
+                    he—the—he—the reason for the security he wanted was that he would never
+                    be tempted, he would believe that—that he wouldn't, that his own
+                    strength would keep him from being taken over the hurdles by another woman
+                    like that, but he wasn't too sure. He knew as long as he was in
+                    that—that penitentiary, and he was expiating the crime—he
+                    did something wrong, he knew that, and he was expiating his crime. He was
+                    doing the best he could to lead a decent life while he was there, to expiate his
+                    crime against society. He had a—a standard of morals, and that was, I
+                    think, his strength. He had been sent out to—to rescue two people in a
+                    flood, and he did the best he could to rescue both of them and bring them back.
+                    That took a certain sort of morality to do that. He could have escaped at any
+                    time, but he didn't.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.15" start="00:13:28.26" end="00:15:03.87">
+                    <head>Judging Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you condone his attempt to—to escape from his insecurity? I
+                    mean, do you think it's commendable to do what one wants even though it's
+                    escape, or do you think that one should try and better himself.  And should he
+                    have become a trustee and—and attempted to face life more
+                    squarely?</u>
+                <u who="WF">I think people should never judge one another.  Least of all should the
+                    writer judge his characters. I think that—that man is—is
+                    trying to do better than he thinks he can maybe, that he wants to be braver,
+                    more honorable. He wants to—to have compassion. He's—he's
+                    afraid that maybe he won't, that maybe he won't be as brave as he wants to be,
+                    and then suddenly something happens, and he finds to his astonishment that he
+                    was as brave as he wanted to be, that he is as honorable as he wanted to be,
+                    that he does have compassion, so I would—I would never judge him. I
+                    would—I would say about him that—that within
+                    his—his lights to have accepted a condition and to do the best he can
+                    in it, whether that—that best is very intelligent or not is not too
+                    important. The fact is that by his lights he's doing the best he can in a
+                    condition. He's not whining to anybody. He didn't ask for—for that
+                    condition, but there it is, and he's going to do the best in it. He's not going
+                    to whine, and I think that's admirable.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.16" start="00:15:03.88" end="00:16:04.07">
+                    <head>Losing Humanity</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, you have painted his fellow convicts as being almost
+                    animals—they turn their backs to the rain, and they crowd around the
+                    empty stove in the train, and they—they seem to have absolutely no
+                    personality. They're—they're just animals. Would the tall convict have
+                    been exactly the same?</u>
+                <u who="WF">He would, yes. That is the—the result of having been in
+                    prison. Being in prison makes a man an animal. What it divides—deprives him of is the
+                    thing that differentiates him from beast, which is the capacity for free will,
+                    for liberty, freedom, and so, of course, they were animals to turn their backs
+                    to a rain and—and—and hover over the symbol of—of
+                    heat and warmth. That's the bad thing about prison, about deprivation of simple
+                    liberty and free will—worst thing can happen to you.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.17" start="00:16:04.08" end="00:17:04.10">
+                    <head>"Old Man"/"Wild Palms"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Did you show that the convict had high moral standards in one
+                        <unclear>sense</unclear> <inaudible/> <unclear>by emphasizing</unclear> the moral standards of Charlotte and
+                    Harry and <inaudible/>?</u>
+                <u who="WF">No, no. I wasn't interested in the convict's moral standards any more
+                    than I was interested in Harry's and Charlotte's. I was simply writing about
+                    people. I was writing the story of—of a man and a woman
+                    who—who threw away everything for love, and the story
+                    wasn't—wasn't emphasized, it wasn't moving enough, so I—I
+                    wrote the second story of—of a man and a woman who got the very thing
+                    that Harry and Charlotte had thrown away everything to have and wasn't happy
+                    until the man, the convict, got rid of it. I wasn't writing about their moral
+                    standards. They themselves exposed their moral standards to me simply by doing
+                    and saying things which I transcribe, put down.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.18" start="00:17:04.11" end="00:18:48.91">
+                    <head>Defining His Audience</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, when you write a book, do you write just to or at a certain group of
+                    people, because when a person starts reading your book, his first <unclear>shock,
+                        as you said,</unclear> was the length of your sentences, first of all, and
+                    by the insight which is required to get to the meat out of the story, to get the
+                    meaning that you want to convey. Do you write to <unclear>an</unclear> above
+                    average class of people, <unclear>or I should say</unclear>, way above average <unclear>class of
+                        people</unclear>?</u>
+                <u who="WF">No, I don't think any writer does that. I know that in my own case I
+                    wrote books for years before it ever occurred to me that strangers might read
+                    them. The writer is demon-driven. He is writing something which seemed to him
+                    so—so moving, so tragic, so passionate, that he had to—to
+                    put it down in his short span on this earth if for no other reason than to say I
+                    was here.  That he is not writing at—at the time when
+                    the—when the fire is hot, and the demon has—is really got
+                    him at a—a dead run for anybody. He's simply trying to
+                    put—put this—this passionate dream that he has seen or
+                    imagined down. Later on, he begins to realize that people do read it, but at the
+                    time he—he's not interested in that. He hasn't thought about that. The
+                    first one wasn't good enough, so he's busy writing another one. He hasn't had
+                    time yet to realize that people will read it.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.19" start="00:18:50.15" end="00:20:20.63">
+                    <head>Writing for Money</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Judging from that, sir, you might say your idea—your idea of
+                    a true author isn't one who sculpts his material toward the commercial side?</u>
+                    <u who="WF">That's right. Yes, if—if what he wants is money, then there
+                    are probably easier ways to make money than being an author. I think
+                    that—that the young man or young woman that wants to write will have
+                    to make that choice. He has got to decide, "Do I want to do this because
+                    I have a demon that won't let me alone or do I want to make some money at this?"
+                    I think, in the case of—of the men and women who have been the good
+                    writers, that choice never occurred to them, that they had never had to stop to
+                    decide, "I—I have a choice to make, now, which shall I choose," because
+                    he has made that choice. The alternative has never occurred to him, any more
+                    than he would choose, "Now shall I be a writer or shall I be a banker?" That if he
+                    wants to be a banker, he will be a banker, but he will be a writer, too. If he
+                    wants to be a doctor, he will be a doctor, but if he has a demon to write he
+                    will still be a writer, too. He will find plenty of time to be a writer, be a
+                    painter, be anything else.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.20" start="00:20:23.11" end="00:21:01.35">
+                    <head>Writing for Movies and TV</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Have you been approached, and I'm sure you have, to express yourself in a
+                    medium other than a book or a play? For instance, have you ever been asked to
+                    write a television play or a movie <unclear>that implies</unclear> <inaudible/>.</u>
+                <u who="WF">Well, when I have needed money, I have worked for moving pictures and
+                    television, but that was simply a—a pleasant way to get a check every
+                    Saturday night, and it had nothing to do with writing. It was just a job. 
+                    </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.21" start="00:21:01.36" end="00:22:37.24">
+                    <head>Drama as a Literary Form</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Would you comment on drama as a literary form, <unclear>putting on
+                        the</unclear> plays that perhaps were never meant for production. Do you
+                    like this type <unclear>of art</unclear>?</u>
+                    <u who="WF">Well, I think that—that the—the play is—or—or
+                    the—the novel, the short story, that is—is a medium which
+                    fits the writer's temperament best. It may be that someone who thinks in term
+                    of—of the drama sees more of what he wants to write than he hears.
+                    Maybe the—the man who—or woman who instinctively takes
+                    the novel form hears voices rather than sees. That is a—a matter
+                        of—of probably individual temperament and character, which method is
+                    the one that you can—can do, what is to yourself the most satisfactory
+                    work, which is the primary reason why the writer writes, is—is for
+                    himself. I think that—that—that all writers wanted to be
+                    poets, maybe, which is the highest form. Then they would accept having failed to
+                    be poets, to write the poetry which was as good as—as they wanted it
+                    to be, as they dreamed it to be. Then he would take whatever medium is closest
+                    to his own nature and character, which could be the stage or could be short
+                    stories or could be novels.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.22" start="00:22:39.09" end="00:24:38.07">
+                    <head>"A Rose for Emily"</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">I was just wondering, one of your short stories, "A Rose For Emily," what ever
+                    inspired you to write this story <inaudible/>?</u>
+                <u who="WF">That, to me, was—was another sad and tragic manifestation of
+                    man's condition in which he—he dreams and hopes, in which he is in
+                    conflict with himself or with his environment or with others. In this case,
+                    there was the young girl, with a young girl's normal aspirations, to find love
+                    and then a husband and a family, who was browbeaten
+                    and—and kept down by her father, a selfish man
+                    who—who didn't want her to leave home because he wanted a housekeeper,
+                    and it was a natural instinct repressed, which—which you can't repress
+                    it. You can mash it down, but it comes up somewhere else in a—very
+                    likely a tragic form, and that was simply another manifestation
+                    of man's injustice to man, of—of the poor tragic human being
+                    struggling with its own heart, with others, with its environment, for the simple
+                    things which all human beings want. In that case it was a young girl that—that just
+                    wanted to be loved and to love and to have a husband and a family.</u>
+                <u who="Q">And that purely came from your imagination?</u>
+                <u who="WF">Well, the story did, but the—the condition is—is
+                    there. It exists. I didn't invent that condition. I—I didn't invent
+                    the fact that young girls dream of—of someone to love and children and
+                    a home, but the story of what her own particular tragedy was was invented,
+                        yes.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio16_2.23" start="00:24:38.08" end="00:25:35.06">
+                    <head>A Fable</head>
+                    <u who="WF"> Yes, sir.</u>
+                <u who="Q">Concerning <hi rend="italic">A Fable</hi>, which I—in my humble
+                    opinion is your greatest book although the critics didn't seem to think so.
+                    What, sir, prompted you to write along those lines, the history of a battlefield
+                    in France during the First World War and the mutinies in the French Army
+                    and—</u>
+                <u who="WF">That was the only book I ever wrote that came from an intellectual idea
+                    purely and simply. It was the—the thought occurred to me, who might
+                    that be under the splendid marble cenotaph with the eternal fire burning over it
+                    forever and forever. That if—suppose that had been Christ. If Christ
+                    had—had returned again, of course he would have been crucified again,
+                    which would be twice, and maybe, just maybe, man would not be offered but one
+                    more chance.</u></div2>
+                <div2 type="dialog" id="wfaudio16_2.24" start="00:25:36.68" end="00:26:03.77">
+                    <head>Close</head>
+                    <u who="M">Mr. Faulkner, I'm sure that we all thank you <inaudible/> <unclear>to go on</unclear> but I wanted
+                    to <unclear>give you an opportunity to</unclear> no longer be subjected to
+                    questions. I'm sure that we all appreciate Mr. Faulkner's coming and that we've
+                    learned a great deal from his remarks.</u>
+                    <u who="WF">Thank you, ladies and gentlemen. <event desc="applause"/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio22_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio22_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio22_2</idno>
+                <idno type="analog tape">T-141b</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="M">Moderator</p>
+                </person>
+                <person>
+                    <p id="JC">John Coleman</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1958-02-26">26 February 1958</date>
+                    <locale>Undergraduate Writing Class</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 26 February 1958</head><head>OCCASION: Undergraduate Writing Class</head>
+                <head>TAPE: T-141b</head><head>LENGTH: 18:48</head>
+                <div2 type="dialog" id="wfaudio22_2.1" start="00:00:06.45" end="00:01:05.07">
+                    <head>Old Southern Families A</head>
+                    <u who="WF"><inaudible/> if you mean by that—that's true of any family, whether
+                    they are southern or not. They cling to an obsolence, whatever that obsolence
+                    might be, yes. And people have a tendency to—to remember what was
+                    pleasant, and the unpleasant part of that vanishes as memory attenuates, so that
+                    all you remember is the happy part of it, and the instinct is to go back to that
+                    happy part. You don't always remember <unclear>that</unclear> if you went back
+                    to the happy part, you'd have to go through with the—with the unhappy
+                    part again, too. That's partly clinging to the happy past. It's partly a lack
+                    of—of something present to occupy. Everybody, in a sense, needs a tub
+                    of washing, and the people like the Sartorises and Compsons, they don't have a
+                    tub of washing anymore.
+                    </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.2" start="00:01:08.12" end="00:02:15.66">
+                    <head>Education v Book Learning</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">In the—the story <unclear>and</unclear> your discussion, are you equating having
+                    education to book learning?</u>
+                <u who="WF">Book learning is—is a part of education that—I would
+                    say if I had to define education, I'd say it's a capacity to increase always,
+                    to—to know more tomorrow than you knew today no matter where you get
+                    it from. You might get it from—from playing poker or from farming or
+                    from going to school or from fighting. Book learning, of course, is a part of
+                    education, but book learning, to my notion, does not constitute education.
+                    It's—nothing is of any value if you can't use it. If you can't use it,
+                    not so much to make other people better tomorrow, but to make yourself a little
+                    better tomorrow than you are, to know more, to be a little wiser, to be more
+                    sure of—of your own capacity to—to be honorable and
+                    brave.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.3" start="00:02:16.00" end="00:03:11.59">
+                    <head>Education as Discipline</head>
+                    <u who="Q"><inaudible/> <unclear>you concede that some</unclear> education <unclear>happens in the
+                        school</unclear>?</u>
+                <u who="WF">Oh, yes. Oh, yes.</u>
+                <u who="Q">So do you think then by going to school—if he wanted to just
+                    hunt and—and farm, do you think he might have gone into something else
+                    now that he has gone to school and learned <inaudible/>?</u>
+                <u who="WF">I doubt it. He would have—have found out that—what
+                    Mr. Ernest tried to tell him, that to have the—the—the
+                    right, the privilege to do what you want for a fortnight in the year, you've got
+                    to do something for the other 351 days that maybe you won't like,
+                    that—that you have got to teach yourself or be taught discipline, or
+                    nothing that you ever acquire will be any good to you if you don't have
+                    discipline. And to go to school at his age was mainly the discipline of
+                    something that must be done.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.4" start="00:03:11.60" end="00:03:33.24">
+                    <head>Reading as Education</head>
+                    <u who="Q">Do you mean the process of him going to school is—actually in
+                    the subjects that he would be taught he probably wouldn't learn anything that
+                    would be practical as far as <unclear>him making</unclear> a living
+                    or—</u>
+                <u who="WF">That's right. Not until he found out, for instance, that he liked to
+                    read. Once you discover you like to read, then nobody really needs to worry
+                    about your book education anymore. You tend to that yourself, unless you want to
+                    specialize <unclear>in something</unclear>.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.5" start="00:03:34.22" end="00:04:35.10">
+                    <head>Story's Title</head>
+                    <u who="JC">Mr. Faulkner, when you put that title down, "Race at Morning," did you
+                    think of the appropriateness of that title on really various levels. That is,
+                    the fact that the "morning" is the boy. The "race" means human race as well
+                    as the literal race in the hunt? You can interpret that title in various ways. I
+                    was just thinking about it as you were talking.</u>
+                <u who="WF">No.</u>
+                <u who="JC">About the value of the title.</u>
+                <u who="WF">No, the title is in the little boy's terms, the morning of his life, and
+                    it happened in the morning, and I—I used the word "race"
+                    as—to the—the exuberation— the exuberance
+                    of—of speed. That, to him, was—that life at that age never
+                    does go slow. When it begins to slow up you get bored. It's always at top speed.
+                    No, I hadn't thought of it in reference to humanity. It just—it was
+                    his—his title, his terms.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.6" start="00:04:37.25" end="00:06:06.43">
+                    <head>Writing Habits</head>
+                    <u who="Q">Sir, do you find it best that—once you get an idea, to sit right down 
+                        and write it, or is it best to think it over and sort of let it
+                    <unclear>gel</unclear>?</u>
+                <u who="WF">After you have been properly snake-bit with writing, you don't have any
+                    spare time to sit down and think something over. You get one idea while you're
+                    in the middle of—of getting another one down, and the
+                    new—new idea has simply got to—got to take its chance,
+                    unless it's, as they say, so hot at the moment that you will put down what
+                    you're doing to take it up. But probably some sort of a—you might call
+                    it protective coloration, that that idea don't come into the mind as new until
+                    subconsciously it has been hovered over for a while.  That it has begun to take
+                    its final shape before it ever comes into the conscious mind as an idea to
+                    write. That you don't know where you got it, you don't know how long you've had
+                    it.  That it—it was an—was an egg, or—or a hen
+                    that's been sitting over that single egg for the—whatever length of
+                    time it takes to hatch the thing out, before it comes into the conscious
+                        mind.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.7" start="00:06:07.56" end="00:07:27.00">
+                    <head>Stories v Messages</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">When you think of stories <gap reason="gape in tape"/> like this did in a
+                    way, before it's really worth being developed.</u>
+                <u who="WF">That's all right if it has, but I think that the primary purpose of a
+                    story is, first, to be fun to the bloke writing it and, the second, to be fun to
+                    the bloke reading it. That if—if it has a message, that's all right.
+                    The message don't do any harm.  But you're doing something that you like to do.
+                    It's fun to do, and if it's done well—if it was true, it's done the best you
+                    can in a—a—a moving, dramatic form, it will please who reads
+                    it. The message is incidental. I—that is, what I'm trying to say is, I
+                    don't think that—that any good story ever came because someone was
+                    trying to tell somebody a message with it. If he's got a message that worries
+                    him, the best thing is to tell that message in the simplest sort of way instead
+                    of trying to invent a story to fit it, because if the characters are true to
+                    themselves sometimes they might not believe in that message. They may take
+                    charge of the story, so the message is—is, you might say,
+                    a—a byproduct of something that had—had no concern with the message.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.8" start="00:07:27.01" end="00:08:51.11">
+                    <head>Place of Theme</head>
+                    <u who="Q">I was just wondering, if you have this—have a story, then your
+                    purpose is more producing something that's enjoyable to be read, but if it has a
+                    theme in it, in order to focus on the theme, in order to make the theme
+                    as—as fully developed, I should think you'd have to keep that in mind,
+                    keep what the—</u>
+                <u who="WF">If I understand you right, in that case the message would be one of the
+                    craftsman's tools.</u>
+                <u who="Q">Yes, sir.</u>
+                <u who="WF">That—well, that's—that's perfectly valid. A message
+                    is one of his tools, just like the rhetoric, just like the punctuation. That's
+                    quite valid, but you don't write a story just to show your versatility with your
+                    tools. You write a story to tell about people, man in his constant struggle with
+                    his own heart, with the hearts of others, or with his environment.
+                    It's—it's man in—in the ageless, eternal struggles which we
+                    inherit and we go through as though they've never happened before, shown for a
+                    moment in a dramatic instant of—of the furious motion of being alive.
+                    That's all any story is. You can catch this fluidity which is—is human
+                    life, and you focus a light on it, and you stop it long enough for people to be
+                    able to see it.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.9" start="00:08:58.22" end="00:09:26.79">
+                    <head>Role of Choice</head>
+                    <u who="JC">Someone once remarked—I don't know where I read it—he
+                    said none of your characters ever made any conscious choice between 
+                       good and evil. Does that seem to you a true statement
+                        <unclear>or not</unclear>?</u>
+                <u who="WF">I don't—don't remember my characters that well. <event desc="audience laughter"/> I would have to read Faulkner again.
+                    I—so I can't dispute that nor—nor agree with it. I don't believe I would
+                    agree with it offhand, though, but I—I can't cite you an
+                        instance.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.10" start="00:09:26.74" end="00:11:06.09">
+                    <head>Writing Full-time</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, in order to be a good writer or a polished writer, do you consider
+                    that writing must be a full-time job, or do you feel like you can have some of
+                    other business interest on the <unclear>outside</unclear> and also devote your
+                    spare time to writing, say?</u>
+                <u who="WF">Probably you're better off if you have other interests and maybe other
+                    compulsions. I—I think that—that the writer, even though
+                    he—he don't—can't spend all his time writing, he is never
+                    free of that demon which he invited or which took possession of him, to live with
+                    him for the rest of his life, that he's always writing. He may not
+                    carry—carry a notebook with him, but he's listening to terms of
+                    speech. He's struck by what people do, to wonder why he did that, why he didn't
+                    do the other. In that sense, he never stops being a writer, but he can't spend
+                    all his time at it because he might—well, probably would, if he spent
+                    too much time at it he'd begin to write nonsense, balderdash. It's always good
+                    never to write yourself out at any time. It's fine to need to stop, and always
+                    stop, as the book says, while you're looking good. Never write yourself to the
+                    end of a chapter or the end—end of <unclear>a</unclear> thought.
+                    Always stop just before you get there, to have something to start on next time. And
+                    if you have something else to do, going to school, a whole new job, or raising a
+                    family or babysitting, then you are anxious and eager enough to get back to the
+                    writing to where you will come at with a new head of steam.</u></div2>
+                <div2 type="dialog" id="wfaudio22_2.11" start="00:11:09.49" end="00:12:19.31">
+                    <head>Author v Characters</head>
+                    <u who="Q">Sir, when you find that if you were going to, say, put a message or a
+                    theme in a certain story, that you would probably sit down and alter, say,
+                    perhaps the realistic events of what you've seen in order to make
+                    it tell this message or the theme of which would alter the story, say the hunter 
+                        story there, merely to put across
+                    a certain point.</u>
+                <u who="WF">You can't do that. Once the characters are realized, they—they
+                    take charge, and they're going to do only what they're going to do. You can't do
+                    anything about it.</u>
+                <u who="Q">In other words, first comes the story and then <inaudible/>.</u>
+                <u who="WF">That's right. That's right. That is, most of—of a man's private
+                    beliefs will appear sooner or later in his behavior, his actions. The message, I
+                    think, comes from the story, not from the author's private beliefs, but from
+                    the—the characters in his story, that the author is not telling you a
+                    message, but the characters in the story have told you something that they believe is
+                    necessary that you know. Because no author can be responsible for the ideas of
+                    his characters.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.12" start="00:12:19.32" end="00:13:36.89">
+                    <head>Functions of Writing</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Do you think that one of the functions of writing is to, not teach, but
+                    to make the writer himself enjoy the life that he leads aside from his writing
+                    more fully?</u>
+                <u who="WF">May I have that again please, sir?</u>
+                <u who="Q">Do you think that writing makes—helps the writer or
+                    not—doesn't help him but that the <event desc="gap in tape"/> they can
+                    learn more themselves and know more and enjoy life more fully?</u>
+                <u who="WF">They do learn more as they write, but I doubt if they write just to
+                    teach themselves. They write because it's fun, because some—well, fun
+                    is a bad term too, but something has—has struck them as being so true
+                    and so important and so moving that they've got to do something with it, and, of
+                    course, he does learn. He learns all the time he's writing just as the carpenter
+                    learns all the time he's building houses or stables, but the writer writes
+                    because he is—he is on fire with something, an idea or a character
+                    that seems to him so true, so moving, that it won't let him rest. He's got to
+                    put it down. That's what I mean by fun. It's—fun is the wrong word.
+                    It's—passion is a better word.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.13" start="00:13:39.10" end="00:15:34.75">
+                    <head>Impressions of UVA</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, I was wondering if your impression of the University has
+                    changed since the impressions you had before you came here? Sir, I don't know
+                    how many of your characters but one at least in <hi rend="italic">Requiem for a
+                        Nun</hi> went here, and so you must have had some impression of the University
+                    itself, and I wonder if it's changed since you've actually been here?</u>
+                    <u who="WF">Not really. A school with a—with a—a tradition of
+                    behavior, certain standards which—which the undergraduates follow,
+                    whether from choice or whether they are compelled to by the general atmosphere
+                    of the school, changes only as—as life itself changes. If
+                    you—if you mean by change, if there're more automobiles parked around
+                    the Lawn and the Grounds than there were thirty years ago, yes, the place has
+                    changed. But they are ephemeral changes. They're not too
+                    significant and don't have too much to do with—with
+                    the—what's basic in this school as a school, and I doubt that there
+                    ever will be great changes. The great changing would have to come from some
+                    loosening of the—of the strictures which control it, the tenets,
+                    not—not so much the—the bylaws, but the unspoken—the moral
+                    tenets that this university functions within, accepts not because it's
+                    compelled, but because they like it or it may have—they may have found
+                    that that's the most practical.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.14" start="00:15:36.00" end="00:17:40.81">
+                    <head>Choosing Techniques</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Sir, you said, I believe, last year that <hi rend="italic">The Sound and
+                        the Fury</hi> was your best effort as a story. I was wondering if you have tried to use
+                    that narrative method again <unclear>in other works</unclear>?</u>
+                <u who="WF">I would if the story I'm working at requires it. I think the story
+                    compels its own style to a great extent, that the writer don't need to bother
+                    too much about style. If he's bothering about style, then he's—he's
+                    going to write precious emptiness, not necessarily nonsense, but
+                    there'll—it'll be quite beautiful and quite pleasing to the ear, but
+                    there won't be much content in it.  That the—the story, the characters,
+                    they—they have their own laws which the—the writer simply must follow. 
+                    That they will elect what they're going to do and what they won't do. The story
+                    itself elects its own style. The writer's job is merely to—to pick and
+                    choose between two more or less identical anecdotes. You won't need but one of
+                    them, and he will chose the one that seems to him the most tragic or the
+                    funniest, but the—the characters themselves are saying "This is what I
+                    will do or what I won't do." If the writer is going to force and compel them he's
+                    destroyed them, that what he will wind up with is—is something
+                    that—that he—he himself will—will never be
+                    satisfied with, will get no pleasure from, and as I've said before,
+                    the—the end in writing is not for success and not really for glory.
+                    It's because it's fun. Of course, any man likes to think of—of glory, but he would
+                    write if he knew that he would never be able to put his name on it. </u></div2>
+                <div2 type="dialog" id="wfaudio22_2.15" start="00:17:42.29" end="00:17:55.31">
+                    <head>Close</head>
+                    <u who="WF">Who was first? Yes, sir, I believe you are.</u>
+                    <u who="JC">I think that the hour is up. I don't think the bells are working
+                    this morning. Thank you very much indeed, Mr. Faulkner. I appreciate your being
+                        here ever so much. <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

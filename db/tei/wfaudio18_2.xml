@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio18_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transcript of audio recording wfaudio18_2</title>
+                <respStmt>
+                    <resp>Creation of electronic transcription</resp>
+                    <name/>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+                    <name>AEL Data</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Virginia Library</publisher>
+                <pubPlace>Charlottesville, Virginia</pubPlace>
+                <idno type="digital audio filename">wfaudio18_2</idno>
+                <idno type="analog tape">T-136</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <recordingStmt>
+                    <recording type="audio"> </recording>
+                </recordingStmt>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person>
+                    <persName id="WF">William Faulkner</persName>
+                </person>
+                <person>
+                    <p id="Q">Unidentified participant</p>
+                </person>
+                <person>
+                    <p id="G">Frederick Gwynn</p>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <setting>
+                    <date value="1957-05-30">30 May 1957</date>
+                    <locale>Local Public and University Community</locale>
+                    <name type="place">University of Virginia</name>
+                    <name type="city">Charlottesville, Virginia</name>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="event1">
+                <head>DATE: 30 May 1957</head>
+                <head>OCCASION: Local Public and University Community</head>
+                <head>TAPE: T-136</head><head>LENGTH: 31:52</head>
+                <div2 type="dialog" id="wfaudio18_2.1" start="00:00:03.83" end="00:02:06.68">
+                    <head>Brown v Board of Education</head>
+                    <u who="WF"><inaudible/> change the Negro's condition, that the Negro's condition was
+                    gradually being changed by the—by the white man. He was being given
+                    more and more of liberty, more and more of equality. That Supreme Court decision,
+                        in Mississippi anyway, has—has set things back, for the reason you say, that you
+                    cannot legislate against—against the mores and against a social
+                    condition. You can only state that the social condition is bad and must be
+                        changed, but you can't change it overnight by passing laws.</u>
+                    <u who="Q"> Well, I'd say that in Mississippi the May 17,1954, decision was
+                        not implemented, but it did move Mississippi to try and implement Plessy
+                        vs. Fergusson.  <inaudible/> <unclear>the schools</unclear> separate but equal.</u>
+                <u who="WF">Well, they had been moving in that direction for some time. They had not
+                    moved fast enough. And if there had been no Supreme Court decision, the white
+                    people in Mississippi would've been content with the infinitesimal progress they
+                    were making. The Supreme Court decision only warned them that—that
+                    they must move faster or something must be done, but it still has not changed
+                    the—the situation in Mississippi. It has speeded up a gradual
+                    evolution, but it hasn't changed overnight any situation there.</u>
+                <u who="Q">Well, my point is if it did accelerate even in Mississippi, then
+                        it is laws that make effects.</u>
+                <u who="WF">Well, yes. It was a—a statement which had effect. That was a
+                    decision. That wasn't a law. It was simply a decision on—on the law
+                    which the Supreme Court made. It hadn't changed the law in Mississippi.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.2" start="00:02:10.21" end="00:03:51.29">
+                    <head>Writing for Readers</head>
+                    <u who="Q">Mr. Faulkner.</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Going back to your symbolism, you said that the symbol when you're
+                    writing would mean one thing to one reader and perhaps another to another
+                    reader. When you write, are you ever conscious of writing for a certain group of
+                    readers? Do you ever write and then decide, "Well, this won't be
+                        <unclear>as</unclear> good, and I'll change it"?</u>
+                <u who="WF">No, no. I think the writer writes for himself. In fact, I wrote for
+                    years before it occurred to me that strangers might read what I was writing,
+                    that the writer writes for himself. He's trying to make something
+                    perfect which wasn't here before. When he begins to—to temper what he
+                    writes to—to who will read it, then I think the writing itself
+                    suffers, but he has got to observe certain rules of—of coherence, but
+                    he is writing primarily to depict the world—man struggling in his
+                    condition as he himself saw it, that he has seen man in his condition struggle
+                    against it in his aspirations, his—his follies, his hopes, his
+                    tragedy, which to that writer was so moving that he himself has got to put that
+                    down on paper, to—to capture what to him was magic. It may be, though
+                    he is not writing for glory, it may be that he knows all the time
+                    that—that some day, after his allotted span, he will pass through the
+                    last wall of oblivion, and maybe what he's actually doing is simply writing on
+                    that wall, "Kilroy was here." <event desc="audience laughter"/></u></div2>
+                <div2 type="dialog" id="wfaudio18_2.3" start="00:03:52.45" end="00:05:04.96">
+                    <head>Exaggeration</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, ma'am.</u>
+                    <u who="Q"><unclear>What do you think of</unclear> exaggeration as a literary device?</u>
+                <u who="WF">I think it's—it's valid, just like fantasy, just like
+                    comedy, just like tragedy, just like inversion. They are—are valid in the sense
+                    that—that the carpenter's tools are valid. Whatever the carpenter
+                    wants to use, which in his opinion will build the best chicken coop, is valid.
+                    He may decide to use his hammer backward or to saw with—with a
+                    kitchen knife, but anything that to him is the best tool he can use to make the
+                    chickenhouse as near perfect as he can make it is valid. I think that no one
+                    should—should write just to be funny or just to be fantastic.
+                    I—I'll take that back. He—he is perfectly at liberty to
+                    write just to be funny or just to be fantastic, but I think the one—the 
+                    man that's doing that is like the man that writes primarily to be a stylist,
+                    that he hasn't got a whole lot to say, that what he has to say is not valid and
+                    urgent in the sense of depicting man in his struggle with himself, with his
+                    fellows, with his environment.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.4" start="00:05:09.55" end="00:07:48.46">
+                    <head>Struggles v Progress</head>
+                    <u who="Q">Mr. Faulkner.</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">I think they're restatements. Actually, there're only three subjects to
+                    write about: love, money and death. People—writers write about men and
+                    women in the—the tragedy of the human condition, and the—the
+                    verities which man struggles with are—are eternal. They
+                    haven't changed much, and his problems are new only in that they are new and
+                    novel to that individual, just like to the young man and young woman, there
+                    never was love before like ours, like the one I feel now at 17 and 18 and 19. There
+                    never was grief or tragedy like that which I feel now. In—in that
+                    sense only is the material new. Actually, it's—it's very old, but
+                    it's—the very fact that it can be that old is—is an
+                    indication of man's immortality, I think, that he does endure. He
+                    has—has lasted so long that there's nothing new in his—his
+                    aspiration and hope, save to himself, that there's nothing new in his tragedy,
+                    save to himself, that he still can want to be better than he is. He can still
+                    believe that injustice shall not endure; it must be changed; it must be
+                    corrected. His progress is very slow, almost infinitesimal, but there is
+                    progress. Little children, for instance, don't have to work in sweatshops. Your
+                    grocer can't sell you poisoned food. Some progress. People are concerned enough
+                    to—to try to do away with war, to do away with poverty. That's some
+                    advancement. Man should've advanced much faster, I grant you. That's some
+                    advancement, and—and if it were not for that capacity to advance, that
+                    desire to advance, very likely he would've been effaced from the earth long before
+                    this, along with the dinosaur and the other big lizards.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.5" start="00:07:54.29" end="00:08:49.34">
+                    <head>The Unexpected</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">
+                    <inaudible/> something that you wouldn't expect. <inaudible/>
+                </u>
+                <u who="WF">Sometimes the characters in my books surprise me, yes. They don't surprise
+                    me in doing something that I never heard of or never imagined human beings doing
+                    before, but I hadn't expected them to do it at that moment. <event desc="audience laughter"/> That's—that's because, as I said, my
+                    chore as a writer is to run along behind these people and put down what they say
+                    and do, but if they do things which to me seem completely outside the realm of
+                    human behavior, then I know that's wrong and that's false and—and must
+                    be thrown away.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.6" start="00:08:50.49" end="00:09:15.61">
+                    <head>New Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q"> <unclear>Sir, do you constantly add to these characters</unclear>
+                    <inaudible/>
+                </u>
+                <u who="WF">Well, I don't add. The—the stories I'm working on do,
+                    suddenly it turns up with—with some bloke I've never heard of before.
+                        <event desc="audience laughter"/> It doesn't mean—
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.7" start="00:09:18.30" end="00:11:56.91">
+                    <head>Writing v Reporting</head>
+                    <u who="WF">Yes, sir.</u>
+                    <u who="Q">Sir, <unclear>could you</unclear> make the distinction between the description of a
+                        character, having run behind them <inaudible/> <unclear>and a news clip in the daily newspaper</unclear>?</u>
+                <u who="WF">Well, there's—it seems to me this difference,
+                    the—the piece in the daily newspaper is a—a correlation, a
+                    gathering of facts after the fact. That is, no reporter can follow along behind
+                    the people who are approaching a crisis or a climax or a crime, say. The writer
+                    can do that. He can start when they get up that morning and follow the
+                    characters up to the moment when they pull the trigger or rob the bank
+                    or—or jump in the water and save the baby, but the reporter has got to
+                    go around and—and ask people what happened, what did you see. There's
+                    that difference. It's—you might say the same thing but—but
+                    one is approached from behind it, the other from in front of it.</u>
+                    <u who="Q"><unclear>Is that enough to warrant an approach to the subject—I
+                        mean do we find in this</unclear>
+                        <inaudible/> <unclear>position of the observer—is that sufficient to give a title 
+                           to a newspaper or to a novel</unclear>?</u>
+                <u who="WF">Well, it's sufficient. Only the—the man that is writing the
+                    same circumstances for the novel is compelled to do a little more research, that
+                    is, the reporter can—can ask, inquire, seek out and get the simple
+                    facts, and since it's—it's printed in the—in the newspaper,
+                    the reader will accept that. In the book, the—the writer is not too
+                    sure that his readers will accept that, so he's got to take the fact, if that's
+                    where he starts, then he's got to go backward to—to follow these
+                    people up to the point, to explain why they—they perform that action.
+                    They are quite alike, the two crafts, but they must be approached, as I said,
+                    one from—from behind the fact, one from in front of the fact. We might
+                    say that if it's in the newspaper, you believe it; if it's in the book, you've
+                    got to prove it. <event desc="audience laughter"/> Since one is, on its face,
+                    fiction, and the other is supposed to be fact.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.8" start="00:12:02.47" end="00:12:53.01">
+                    <head>Writer v His Characters</head>
+                    <u who="Q">Sir, in your writings, do you have a particular character or
+                        situation or do you find that you like to have a specific character do a 
+                        certain thing so that certain characteristics <inaudible/> ring true?  Or do you have that situation
+                        come up a lot? I mean, in that you liked the sound of the bell, you like to
+                        hear it, you like to put it down on paper regardless of the characters?</u>
+                <u who="WF">No, I don't.</u>
+                <u who="Q">
+                    <inaudible/> <unclear>Some authors</unclear> keep on doing that.
+                </u>
+                <u who="WF">No, no, it's that character that rings that bell, not me. <event desc="audience laughter"/> 
+                    By that time, the character has taken charge
+                    of—of his own tale, and no matter what I want him to do, he may do it,
+                    and he may not do it, but he's going to decide what he does next. He's going to
+                    decide if he wants to ring that bell. I just report the fact that he rang that
+                        bell.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.9" start="00:12:54.25" end="00:15:33.63">
+                    <head>Start as a Writer</head>
+                    <u who="WF">Yes, ma'am.  I believe you had a question.</u>
+                <u who="Q">I would like to know how you started writing?</u>
+                <u who="WF">How did I start writing?</u>
+                <u who="Q">Yes, <inaudible/></u>
+                <u who="WF">Well, I'd always liked to scribble, probably, just like the—the
+                    would-be lawyer likes to argue maybe and the—the would-be doctor or biologist likes
+                    to cut up flies, <event desc="audience laughter"/> but I think I became a
+                    professional writer—I was living in New Orleans, and I met Sherwood
+                    Anderson, and I liked him at once. We would meet in the afternoon and walk
+                    around New Orleans, and he would talk, and I would listen. We would meet again
+                    in the evening, and we would go to a pleasant courtyard and sit over a bottle of
+                    whiskey, and he would talk, and I would listen until 12 and 1 and 2
+                    o'clock. The next morning he'd be in seclusion working. We'd meet again in the
+                    afternoon, again in the evening, and the next morning he's in seclusion working,
+                    and I thought to myself, if that's all it took to be a writer, then <event desc="audience laughter"/>
+                    <inaudible/>. And so I—I started a book, and right away I found that writing
+                    was fun. And I hadn't seen Mr. Anderson in—in weeks. I met Ms.
+                    Anderson on the street one day. She said, "What the matter? Are you mad at us?"
+                    I said, "No, ma'am. I'm writing a book." She said, "Good God." <event desc="audience laughter"/> I 
+                    saw her again, and she asked me how the book was
+                    getting on. I told her, "Just fine." She said, "Do you want Sherwood to read
+                    it?" I hadn't thought of anybody reading it. I said, "Well'm, if he wants to, 
+                    it's all right with me." She said, "Well, he says he'll make a trade with you. If
+                    he don't have to read that book, he'll tell his publisher to take it." So I
+                    said, "Done," <event desc="audience laughter"/>  And I finished the book, and he
+                    told his publisher, Mr. Liveright, to take it, and that's how I got printed.
+                        <event desc="audience laughter"/> But up to that time, I'd never thought of
+                    being a professional writer because it was still fun. That's 
+                    the first time I'd ever really connected money with—with writing a book. But
+                    the—I think the—the pleasure in scribbling must have been
+                    there all the time. I imagine that as soon as I learned to spell, I must have been trying to write
+                    something, <inaudible/>. I don't remember what it could've been, but that's—that's a
+                    curse that we're probably born with <inaudible/>.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.10" start="00:15:33.64" end="00:16:44.02">
+                    <head>Characters as Mouthpieces</head>
+                    <u who="WF">Yes,
+                    sir.</u>
+                <u who="Q">When you are writing a book, Mr. Faulkner, are you ever conscious of
+                    trying to put up a philosophy of your own through <unclear>a reading of</unclear> your
+                    characters?</u>
+                <u who="WF">No, sir, I'm not. I think that's—that's one thing that should
+                    be on the front page of every book: the author is not responsible for
+                    the opinion of these people inside. <event desc="audience laughter"/>
+                    That's—that's their notion. Of course, when they agree with me, I'm
+                    happy to—to put down what they say. When they don't agree with me, I
+                    still put it down, but their opinions are theirs. I think that if the writer is
+                    going to write simply to express his own opinions, then he is not primarily a
+                    fiction writer, he's a—a propagandist or a polemicist, that the writer
+                    is engaged primarily in writing about people engaged in the amazing, eternally
+                    interesting follies and tragedies and heroism which people are engaged. That the
+                    symbolism, the style, the philosophy, the ideas are only coincidental and
+                    probably to the writer not too important.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.11" start="00:16:47.47" end="00:17:57.86">
+                    <head>The Writer's Demon</head>
+                    <u who="Q">Mr. Faulkner?</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">In some of the statements published about you in the news stories that you
+                    have made the distinction between yourself and the demon who makes you write.
+                    Who or what is that demon?</u>
+                <u who="WF">Well, sir, I—I don't know myself. Probably he harasses me too
+                    much for me to have a good chance to turn and look at him. It could be, as I
+                    say, a desire to leave some mark on—on the world so
+                    that—that people after you will know that for a little while that
+                    Smith was here.  He made this scratch. It—well, I don't think
+                    it's—it's—it's for glory. It's certainly not for profit,
+                    because there are many more—more profitable things than being a
+                    writer. It—it's—it's certainly not to—to change
+                    man's condition. If anything, I would say that's what it is, it's simply to
+                    leave a scratch on—on the earth that showed that you were here for a
+                    little while.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.12" start="00:17:57.87" end="00:18:56.00">
+                    <head>Choosing Titles</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">When or how do you decide on the titles?</u>
+                <u who="WF">Titles, I think the—well, in my case, the good titles are like
+                    gentle lightning strokes. I don't know where they come from. Suddenly there is
+                    just exactly the right title. The only time I ever hunt for—ever had
+                    to hunt for a title it was a bad one. It never did please me. The others I don't
+                    know where they came from. Suddenly the situation, the character, the book or
+                    something about it brings the title out of—out of the mysterious
+                    unknown or out of the background or experience. I don't know where it comes
+                    from.</u>
+                <u who="Q">Not always at the beginning <inaudible/>?</u>
+                <u who="WF">Sometimes the title is the first thing, the title invents the story.
+                    Sometimes the title appears in the middle of the story. I've never had one that
+                    finished without a title, that I had to hunt around and invent one.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.13" start="00:18:55.44" end="00:20:07.72">
+                    <head>The Nun in Requiem</head>
+                    <u who="G">Yes, sir.</u>
+                <u who="Q">In the title of <hi rend="italic">Requiem for a Nun</hi>, does the <hi rend="italic">Nun</hi> have to refer to Temple Drake Stevens or to
+                    Nancy?</u>
+                <u who="WF">The nun was Nancy.</u>
+                <u who="G"><unclear>That</unclear> she was very separated from the world as a nun
+                    is?</u>
+                <u who="WF">Well, it was in the—the—that tragic life of a
+                    prostitute which she had had to follow simply because she was compelled by her
+                    environment, her circumstance, to be it. Not for profit nor any pleasure. She
+                    was just doomed and damned by circumstances to that life. And despite that, she
+                    was capable within her—her poor dim lights and reasons of an act, which
+                    whether it was right or wrong, was a—was a complete, almost religious
+                    abnegation of the world for—for the sake of—of an—of
+                    an innocent child. That was—it was paradoxical, the use of the word
+                    "nun" for her, but I—but to me that—that added something to
+                    her tragedy.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.14" start="00:20:10.39" end="00:20:34.98">
+                    <head>Sound and Fury's Title</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Mr. Faulkner, did your title <hi rend="italic">The Sound and the
+                        Fury</hi> come from Shakespeare's <hi rend="italic">Macbeth</hi>?</u>
+                <u who="WF">Yes.  Yes, there must have been a dozen books titled from that speech. I
+                    think that I had the best one. <event desc="audience laughter"/> But I can
+                    think of six or seven books all from that same speech.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.15" start="00:20:35.90" end="00:21:41.10">
+                    <head>Being Understood</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Do you feel any compulsion to be understood? Does it make any difference
+                    to you that a great many of <unclear>us are</unclear> confused by what you are driving
+                        at?</u>
+                <u who="WF">Well, it's not a compulsion. It's a regret that I'm not, but there's the
+                        demon.  It's—the writer has got to write so
+                    fast because he knows that, anyway, he'll never live long enough to write all he
+                    wants to, and he wishes that he could be more coherent and could write simpler
+                    and plainer, but there's that—that need to get the whole history of
+                    man's heart onto the head of that pin during his threescore and ten years, and
+                    he hasn't got time to go back and rewrite it, which he—he wishes he
+                    did have time.  If he could call time out and rewrite the book and make it
+                    clear and simple, but he don't have time because that one was wrong, and he's
+                    got to write another one, to still try to put the history of man's hope and
+                    aspiration and passion and tragedy and folly and comedy on the head of a pin
+                    before he has to go through the last ultimate bottomless wall.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.16" start="00:21:41.87" end="00:22:48.46">
+                    <head>Universal v Regional</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">Do you feel that your characters are universal <inaudible/>? <unclear>I know
+                        that you are a regional writer</unclear> and I just wondered, or do you
+                    care? <inaudible/></u>
+                <u who="WF">I feel that the verities which these people suffer are universal
+                    verities. That is, that man, whether he's black or white or red or yellow, still
+                    suffers the same anguishes, he has the same aspirations, his follies are the
+                    same follies, his—his triumphs are the same triumphs. That is,
+                    his—his struggle is against his own heart, against—with the
+                    hearts of his fellows, and with his background. And, in that sense, there's no
+                    such thing as a regional writer. The writer simply uses the terms he is familiar
+                    with best because that saves him having to do research. That he
+                    write—might write the—the book about Chinese, but if he does that, he's got
+                    to do some research or somebody'll say, "Ah! You're wrong there. That ain't the
+                    way Chinese behave." But if he uses his own region, which he's familiar with, it
+                    saves him that trouble.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.17" start="00:22:50.92" end="00:23:32.99">
+                    <head>Writer as Creator</head>
+                    <u who="Q">To what degree <inaudible/> the characters <inaudible/>? </u>
+                <u who="WF">None. There was never a writer that—that wasn't convinced that
+                    he could create much better people than God can. <event desc="audience laughter"/> That's 
+                    why no writer can ever write his own biography. He can't tell the
+                    truth that long. <event desc="audience laughter"/> Because a fiction writer
+                    is—is a congenital liar to begin with, you see.  That's what makes him
+                    a fiction writer. That's what the word fiction means.  And so he not only
+                    couldn't tell the truth, he's—he's convinced that he could create 
+                    much better truth than circumstance can.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.18" start="00:23:35.03" end="00:24:26.64">
+                    <head>Cutting Out</head>
+                    <u who="Q">Mr. Faulkner, do you ever have a character <unclear>that you are so
+                        enthused with</unclear> and had to <unclear>in a word</unclear> cut him out?</u>
+                <u who="WF">Yes, in the sense that—yes, that you get too fond of a
+                    character, too amused at him or too interested, and—and he—he will say and
+                    do things which—for which there's—there's no place in the
+                    story you're telling, that you have to throw away, yes. That's just a matter of
+                    using the—having enough ruthlessness to use the blue 
+                        pencil. That what he—he does is still true enough, still
+                    human enough, but there's simply no place for that in the—the pattern
+                    of the story which you're trying to tell, so you've got to cut it out.
+                        Yes, that happened once or twice.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.19" start="00:24:25.95" end="00:24:51.74">
+                    <head>Compsons v Snopeses</head>
+                    <u who="WF">Yes,  ma'am.</u>
+                <u who="Q">Mr. Faulkner, why are you so fond of the Compsons and the Snopses? <event desc="audience laughter"/></u>
+                    <u who="WF">Well, I feel sorry for the Compsons. That was—was blood which was good and
+                    brave once, but has—has thinned and faded all the way out. Of the
+                        Snopes, I'm terrified.   <event desc="audience laughter"/>
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.20" start="00:24:59.99" end="00:26:27.47">
+                    <head>As I Lay Dying</head>
+                    <u who="WF">Yes, ma'am.</u>
+                <u who="Q">
+                    <inaudible/>
+                </u>
+                <u who="WF">That was—was <hi rend="italic">tour de force</hi>, of course. I
+                    took these people of—of the kind which I know, and  
+                    simply subjected them to—to the two fiercest natural cataclysms, which
+                    are flood and fire. That was a certain amount of deliberate
+                    symbolism.  But to me, the very fact that these people endured for a reason that
+                    on the face of it was foolish, that is, to carry their mother that far just to
+                    bury her, but it was noble in that they had promised her to do that, and so they
+                    were—they had dropped their own baseness, their own pettiness, to
+                    follow out this simple wish of the mother, which
+                    was—was noble, even though it was foolish, and that to me is another
+                    indication that man is immortal, that he will endure because even in his folly,
+                    he's capable of doing something not for his profit at all but
+                    simply because his conscience or something, call it God if you like, says do
+                    this, and so even in his folly, without believing that he is that brave and that
+                    compassionate, he does brave and noble things.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.21" start="00:26:30.71" end="00:27:08.72">
+                    <head>Dante</head>
+                    <u who="Q">Mr. Faulkner—</u>
+                <u who="WF">Yes, sir.</u>
+                <u who="Q">Have you been influenced by <hi rend="italic">The Divine Comedy</hi> <unclear>in any way</unclear>?</u>
+                <u who="WF">I have, like every writer, been influenced by every word I ever read
+                    from the telephone book up and down. <event desc="audience laughter"/> I think
+                    that—that that's true of anyone that writes, that he is completely
+                    amoral. He steals right and left without even knowing he's doing that. He stows 
+                    that away and then if he ever needs it, he reaches in his mind, and he digs it
+                    up and uses it. Yes, sir, I've been influenced by that, by everything I've read.
+                    Not deliberately. You just can't help it. That's a part of the—of the
+                    experience which makes man—the man or the child want to be a
+                    writer.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.22" start="00:27:17.51" end="00:27:53.37">
+                    <head>Learning Grammar</head>
+                    <u who="Q">You said you only liked to scribble, did you like <unclear>to parse
+                        sentences</unclear> <event desc="audience laughter"/></u>
+                <u who="WF">No, sir, I didn't. I had to—to learn something about that in
+                    order to—to follow my craft, but I never did like to go to school, and
+                    I stopped going to school as soon as I got big enough to—to play hooky
+                    and not be caught at it. That was about the sixth grade, but I had to learn
+                    the—to use the tools of my craft just as—as the
+                    woodchopper's got to learn to use an ax in order not to chop his own feet
+                        off.
+                </u></div2>
+                <div2 type="dialog" id="wfaudio18_2.23" start="00:28:00.08" end="00:28:43.04">
+                    <head>Living Characters</head>
+                    <u who="WF">Yes, sir.</u>
+                <u who="Q">Mr. Faulkner, these characters that you follow along, do they come to a
+                    natural conclusion, or do you have to cut them off, or do they tell the
+                    story and that's the end of it, or what?</u>
+                <u who="WF">No, no, they exist. They are—they are still in motion in my
+                    mind. I can laugh at things they're doing that I haven't got around to writing
+                    yet. No, that's where the—the rules of the craft come in, that
+                    someone, some editor, has got to give the whole thing unity, coherence, and
+                    emphasis, to start at a decent starting place and then stop it somewhere at a
+                    logical, reasonable place. But the characters themselves, they walk on out of
+                    that book still in motion, still talking, and still acting.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.24" start="00:28:46.88" end="00:29:46.53">
+                    <head>Formal Education</head>
+                    <u who="Q"><unclear>Mr. Faulkner, because of your interrupted education, it makes me wonder
+                        if formal education <inaudible/></unclear>
+                </u>
+                <u who="WF">I think that nobody can know too much, can learn too much. I think that
+                    one can be a writer without the formal education. I think the formal education
+                    will not do the writer any more harm than anybody else, <event desc="audience laughter"/> but I'm convinced that
+                    nobody can be taught anything, that you must learn it. And the value of formal
+                    education is that all the—the knowledge, the wisdom, the opinions on
+                    the wisdom, on the knowledge which makes wisdom, is there convenient for you to
+                    get. Otherwise, you've got to run from pillar to post to find what is right
+                    there offered to you. But nobody can teach anybody anything, I'm convinced of
+                    that. You've got to want to know it. You've got to want to learn it.</u></div2>
+                <div2 type="dialog" id="wfaudio18_2.25" start="00:29:56.50" end="00:31:43.14">
+                    <head>Sutpen's Aspiration</head>
+                    <u who="G">Sir, you mentioned love and money and death as the three subjects of
+                    fiction. Isn't there something else, above that, such as represented in your
+                    novel about Thomas Sutpen. He was motivated by something other than those three
+                    things, involved in something higher than they?</u>
+                <u who="WF">I meant that love and money and death are
+                    the—the—the skeletons on which the story is laid. They have
+                    nothing to do with the—with the aspirations and the conflicts of the
+                    human heart involved. But—but the story has—has got to have
+                    some skeleton, and the skeletons are—are love or money or death. In
+                    Sutpen's case, there was—he—he needed the money in order to
+                    satisfy his—his aspiration. And it was his foreknowledge of death
+                    which compelled—impelled in him the—the haste to be
+                    completely ruthless, to do it while he still could. The—love was a—a
+                    part of—of his—his conflict, too. He wanted—wanted
+                    that son for—for vanity, of course. But you've—vanity is not
+                    really enough. You've got—got to love the thing that—that
+                    you can be vain because of, or proud because of. It had to be his son, not
+                    just—he could've adopted a child, you see, and—and carved
+                    out a plantation <inaudible/> <event desc="end of recording"/></u></div2>
+                </div1>
+        </body>
+    </text>
+</TEI.2>

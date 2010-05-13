@@ -1,0 +1,1028 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://text.lib.virginia.edu/dtd/tei/tei-p4/tei2.dtd" [
+<!ENTITY % TEI.extensions.ent SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.ent">
+<!ENTITY % TEI.extensions.dtd SYSTEM "http://text.lib.virginia.edu/dtd/tei/uva-tei-spoken/uva-tei-spoken.dtd">
+]>
+<TEI.2 id="wfaudio10">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of audio recording wfaudio10</title>
+				<respStmt>
+					<resp>Creation of electronic transcription</resp>
+					<name/>
+				</respStmt>
+				<respStmt>
+					<resp>TEI P4 XML markup in conformance with the uva-tei-spoken DTD</resp>
+					<name>AEL Data</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>University of Virginia Library</publisher>
+				<pubPlace>Charlottesville, Virginia</pubPlace>
+				<idno type="digital audio filename">wfaudio10</idno>
+				<idno type="analog tape">T-118andT-119</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio"> </recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<particDesc>
+				<person>
+					<p id="M1">Moderator 1</p>
+				</person>
+				<person>
+					<p id="M2">Moderator 2</p>
+				</person>
+				<person>
+					<persName id="WF">William Faulkner</persName>
+				</person>
+				<person>
+					<persName id="B">Joseph Blotner</persName>
+				</person>
+				<person>
+					<p id="Q">Unidentified participant</p>
+				</person>
+				<person>
+					<p id="G">Frederick Gwynn</p>
+				</person>
+			</particDesc>
+			<settingDesc>
+				<setting>
+					<date value="1957-04-30">30 April 1957</date>
+					<locale>The Jefferson Society</locale>
+					<name type="place">University of Virginia</name>
+					<name type="city">Charlottesville, Virginia</name>
+				</setting>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="event1">
+				
+				<head>DATE: 30 April 1957</head>
+				<head>OCCASION: The Jefferson Society</head>
+				<head>TAPE: T-118andT-119</head><head>LENGTH: 54:52</head>
+				<head>READING: "The Waifs" (from The Town)</head>
+				<div2 type="dialog" id="wfaudio10.1" start="00:00:08.91" end="00:01:07.69">
+					<head>Introduction 1</head>
+					<u who="M1">Good evening ladies and gentlemen. Tonight we bring you <event
+						desc="gap in tape"/></u>
+					<u who="M2">If ever there was no need for introduction I
+						suppose it's tonight, so I won't. One thing before we begin: is anyone
+						expecting to hear Mr. Faulkner discuss <inaudible/><event desc="audience laughter"/>
+						<inaudible/> To begin I thought we'd ask Mr. Faulkner to read a part from
+						his new novel that will be published in today's issue of <hi rend="italic">The Saturday Evening Post</hi>
+						<inaudible/> "The Waifs" <inaudible/> and he will read from that selection.
+						Mr. Faulkner. <event desc="applause"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.2" start="00:01:08.35" end="00:01:55.24">
+					<head>Faulkner's Introduction</head>
+					<u who="WF">Mr. <unclear>Noblet</unclear> was kind enough to say that the
+						amplifier might disconcert me a little, but I think that, as I told him
+						that—that nobody's here that don't want to be here, so there's no reason for
+						me to be disconcerted, and if I don't speak clearly enough be sure and tell me
+						and I'll try to do better. I'm not in the—not too accustomed to this sort of
+						thing. So anytime I get slack about speaking, please tell me.<lb/>
+						Do we take the
+						whole thing or have you <unclear>blue-pencilled in here</unclear>?</u>
+					<u who="G">No, sir. <inaudible/> just where it begins where the children come.</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.3" start="00:01:56.07" end="00:03:02.28">
+					<head>Story, Excerpt 1</head>
+					<u who="WF">
+						<writing type="fiction"> And one more thing. One morning—it was summer again
+							now, July—the northbound train from New Orleans stopped and the first
+							man off was usually the Negro porter—not the Pullman porters, they were
+							always back down the track at the end; we hardly ever saw them, but the
+							one from the day coaches at the front end—to get down and strut a little
+							while—while he talked to the section hands and the other Negroes that were
+							always around to meet the passenger trains. But this time it was the
+							conductor himself, almost jumping down before the train stopped, with
+							the white flagman at his heels, almost stepping on them; the porter
+							himself didn't get off at all: he—just his head sticking out a window
+							about half way down the car.<lb/> Then four things got off. I mean, they
+							were children. The tallest was a girl though we never did know whether
+							she was the oldest or just the tallest, then two boys, all three in
+							overalls, and then a little one in a single garment down to its heels
+							like a man's shirt and made out of a flour- or meal-sack or maybe a
+							scrap of an old tent. Wired to the front of each one of them was a
+							shipping tag written in pencil:<lb/>
+							FROM: BYRON SNOPES, EL PASO, TEXAS<lb/> TO: MR> FLEM
+								SNOPES, JEFFERSON, MISSISSIPPI
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.4" start="00:03:03.27" end="00:03:49.10">
+					<head>Story, Excerpt 2</head>
+					<u who="WF">
+						<writing type="fiction">Though Mr Snopes wasn't there. He was busy being a
+							banker now and a deacon in the Baptist church, living in solitary
+							widowerhood in the old De Spain house which he had remodeled into an
+							ante-bellum Southern mansion; he wasn't there to meet them. It was Dink
+							Quistenberry. He had married one of Mr Snopes's sisters or nieces or
+							something out at Frenchman's Bend and when Mr Snopes sent I.O. Snopes
+							back to the country the Quistenberrys came in to buy or rent or anyway
+							to run the Snopes Hotel, which wasn't the Snopes Hotel any more now but
+							the Jefferson Hotel though the people that stayed there were still the
+							stock traders and juries locked up by the Circuit Court. I mean, Dink
+							was old enough to be Mr Snopes's brother-in-law or whatever it was but
+							he was the kind of man it just didn't occur to you to say Mister to.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.5" start="00:03:49.83" end="00:04:32.95">
+					<head>Story, Excerpt 3</head>
+					<u who="WF">
+						<writing type="fiction">He was there; I reckon Mr Snopes sent him. And when
+							he saw them I reckon he felt just like we did when we saw them, and like
+							the conductor and the flagman and the porter all looked like they had
+							been feeling ever since the train left New Orleans, which was evidently
+							where they got on it. Because they didn't look like people. They looked
+							like snakes. Or maybe that's too strong too. Anyway, they didn't look
+							like children; if there was one thing in the world they didn't look like
+							it was children, with kind of dark pasty faces and black hair that
+							looked like somebody had put a bowl on top of their heads and then cut
+							their hair up to the rim of the bowl with a dull knife, and perfectly
+							black perfectly still eyes that nobody in Jefferson (Yoknapatawpha
+							County either) ever afterward claimed they saw blink. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.6" start="00:04:32.95" end="00:05:27.74">
+					<head>Story, Excerpt 4</head>
+					<u who="WF">
+						<writing type="fiction">I dont know how Dink talked to them because the
+							conductor had already told everybody listening (there was a good crowd
+							by that time) that they didn't talk any language or anything else that
+							he had ever heard of—heard of and that to watch them because one of them
+							had a switch knife with a six-inch blade, he didn't know which one and
+							he himself wasn't going to try to find out. But anyway Dink got them
+							into his car and the train went on.<lb/> Maybe it was the same thing
+							they used in drugstores or at least with Skeets McGowan in Christian's
+							because it wasn't a week before they could go into Christian's, all four
+							of them (it was always all four of them, as if when the medicine man or
+							whoever it was separated each succeeding one from the mother, he just
+							attached the severed cord to the next senior child. Because by that time
+							we knew who they were: Byron Snopes's children out of a—a Jicarilla
+							Apache squaw in Old Mexico), and come out two minutes later all eating
+							ice-cream cones. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.7" start="00:05:27.75" end="00:06:44.67">
+					<head>Story, Excerpt 5</head>
+					<u who="WF">
+						<writing type="fiction">They were always together and anywhere in town or
+							near it at any time of day, until we found out it was any time of night
+							too; one night at two oclock in the morning when Otis Harker caught them
+							coming in single file from behind the Coca-Cola bottling plant; Otis
+							said he didn't know how in the world they got into it because no door
+							was open nor window broken, but he could smell warm Coca-Cola syrup
+							spilled down the front of the little one's nightshirt or dressing-sacque
+							or whatever it was from five or six feet away. Because that was as close
+							as he got; he said he hollered at them to go on home to the Snopeses, I
+							mean the Jefferson Hotel but they just stood there looking at him and he
+							said he never intended anything: just to get them moving since maybe
+							they didn't understand what he meant yet. So he sort of flung his arms
+							out and was kind of jumping at them, hollering again, when he
+							stopped himself just in time, the knife already in one of their hands
+							with the blade open at least six inches long; so fast that he never even
+							saw where it came from and in the next minute gone so fast he still
+							didn't even know which one of the three in over-alls—the girl or the two
+							boys—had it; that was when Mr Connors went to Dink Quistenberry the next
+							morning and told him he would have to keep them off the streets at
+							night.<lb/> "Sure," Dink said. "You try it. You keep them off the
+							streets or off anywhere else. You got my full permission. You're welcome
+							to it!" </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.8" start="00:06:44.65" end="00:07:47.33">
+					<head>Story, Excerpt 6</head>
+					<u who="WF">
+						<writing type="fiction">So when the dog business happened, even Mr Hub
+							Hampton himself didn't get any closer to them than that. This was the
+							dog business. We were getting paved streets in Jefferson now and so more
+							new families, engineers and contractors and such like the little Riddell
+							boys' papa—the little Riddell boys that gave us that holiday two years
+							ago, had moved to Jefferson. One of them didn't—them didn't have any
+							children but they had a Cadillac and his wife had a dog that they said
+							cost five hundred dollars, the only dog higher than fifty dollars except
+							a field-trial pointer or setter (and a part Airedale bear dog named Lion
+							that Major de Spain, Mr de Spain's father, owned once that hunting
+							people in north Mississippi still talked about) that Jefferson ever
+							heard of, let alone saw—a Pekinese with a gold name-plate on its collar
+							that probably didn't even know it was a dog, that rode in the Cadillac
+							and sneered through the windows not just at other dogs but at people
+							too, and even ate special meat that Mr Wall Snopes's butcher ordered
+							special from Kansas City because it cost too much for just people to buy
+							and eat. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.9" start="00:07:47.35" end="00:08:49.02">
+					<head>Story, Excerpt 7</head>
+					<u who="WF">
+						<writing type="fiction">One day it disappeared. Nobody knew how, since the
+							only time it wasn't sneering out through the Cadillac window, it was
+							sneering out through a window in the house where it—they—lived. But it
+							was gone and I dont think anywhere else ever saw a woman take on over
+							anything like Mrs Widrington did, with rewards in all the Memphis and
+							north Mississippi and west Tennessee and east Arkansas papers and Mr
+							Hampton and Mr Connors neither able to sleep at night for Mrs Widrington
+							ringing their telephone, and the man from the insurance company (its
+							life was insured too so maybe there were more people insured in
+							Jefferson than there were dogs but then there was more of them not
+							insured in Jefferson than there was dogs too) <event
+								desc="audience laughter"/> and Mrs Widrington herself likely at
+							almost any time of day or night to be in your back yard calling what
+							Aleck Sander and I thought was Yow! Yow! Yow! until Uncle Gavin told us
+							it was named Lao T'se for a Chinese poet. Until one day the four Snopes
+							Indians came out of the Christian's drugstore and somebody passing on
+							the street pointed his finger and hollered "Look!" </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.10" start="00:08:49.03" end="00:10:02.00">
+					<head>Story, Excerpt 8</head>
+					<u who="WF">
+						<writing type="fiction">It was the collar with the gold name-plate. The
+							little one was wearing it around its neck above the nightshirt. Mr
+							Connors—Connors came quick and sent about as quick for Mr Hampton. And
+							that was when Mr Hampton didn't come any closer either and I reckon we
+							was all thinking about what he was: what a mess that big gut of his
+							would make on the sidewalk if he got too close to that knife before he
+							knew it. <event desc="audience laughter"/> And the four Snopes Indians
+							or Indian Snopeses, whichever is right, standing in a row watching him,
+							not looking dangerous, not looking anything; not innocent
+							especially at nobody—especially and nobody would have called it affectionate, but
+							not dangerous in the same sense that four shut pocket knives dont look
+							threatening. They look just like four shut pocket knives but they dont look
+							lethal. Until Mr Hampton said:<lb/> "What do they do when they aint
+							eating ice cream up here or breaking in or out of that bottling plant at
+							two oclock in the morning?"<lb/> "They got a kind of camp or reservation
+							or whatever you might call it in a cave they dug in the big di—big ditch
+							behind the school house," Mr Connors said.<lb/> "Did you look there?" Mr
+							Hampton said.<lb/> "Sure," Mr Connors said. "Nothing there but just some
+							trash and bones and stuff they play with."<lb/> "Bones?" Mr Hampton
+							said. "What bones?"<lb/> "Just bones," Mr Connors said. "Chicken bones,
+							spare rib, stuff like that they been eating I reckon." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.11" start="00:10:02.01" end="00:10:42.63">
+					<head>Story, Excerpt 9</head>
+					<u who="WF">
+						<writing type="fiction">So Mr Hampton went and got in his car and Mr Connors
+							went to his that had the red light and the sireen on it and a few others
+							got in while there was still room, and the two cars went to the school
+							house, the rest of us walking because we wanted to see if Mr Hampton
+							with his belly really would try to climb down into that ditch and if he
+							did know how he was going to get out again. But he did it, with Mr
+							Connors showing him where the cave was but letting him go first since he
+							was the sheriff, on to where the little pile of bones was behind the
+							fireplace and turned them over with his toe and then raked a few of them
+							to one side. Because he was a hunter, a woods man, a good one before his
+							belly got too big to go through a thicket. "There's your dog," he said.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.12" start="00:10:42.62" end="00:12:02.03">
+					<head>Story, Excerpt 10</head>
+					<u who="WF">
+						<writing type="fiction">And I remember that time, five years ago now, when
+							we were all at the table and Matt Levitt's cut-out passing in the street
+							and Father says <unclear>now</unclear> Uncle Gavin: "What's that sound I
+							smell?" Except that Mr Snopes's brass business at the power-plant was
+							before I was even born: Uncle Gavin's office that morning and Mrs
+							Widrington and the insurance man because the dog's life had been insured
+							only against disease or accident or acts of God, and the insurance man's
+							contention (I reckon he had been in Jefferson long enough to have talked
+							with Ratliff; any stranger in town for just half a day, let alone a
+							week, would find himself doing that) was that four half-Snopeses and
+							half-Jicarilla Apache Indians were none of them and so Jefferson
+							him—itself was liable and vulnerable to suit. So I had only heard about
+							Mr Snopes and the missing brass from Uncle Gavin, but I thought about
+							what Father said that day because I had been there then: "What's that
+							sound I smell?" when Mr Snopes came in, removing his hat and saying
+							"Morning" to everybody without saying it to anybody; then to the
+							insurance man: "How much on that dog?"<lb/> "Full pedigree value, Mr
+							Snopes. Five hundred dollars," the insurance man said and Mr Snopes (the
+							insurance man himself got up and turned his chair around to the desk for
+							him) sat down and took out a blank check from his pocket and filled in
+							the amount and pushed it across the desk in front of Uncle Gavin and got
+							up and said "Morning" without saying it to anybody and put on his hat
+							and went out. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.13" start="00:12:02.04" end="00:12:36.42">
+					<head>Story, Excerpt 11</head>
+					<u who="WF">
+						<writing type="fiction">Except that he didn't stop there. Because the next
+							day Byron Snopes's Indians were gone. Ratliff came in and told us.<lb/>
+							"Sho," he said. "Flem sent them out to the Bend. Neither—neither of
+							their grandmaws, I mean I.O.'s wives, would have them but finally
+							Dee-wit Binford"—Dewitt Binford had married another of the Snopes girls.
+							They lived near Varner's store—"taken them in. On a contract, the
+							Snopeses all clubbing together pro rata and paying Dee-wit a dollar a
+							head a week on them, providing of course he can last a week. Though
+							naturally the first four dollars was in advance, what you might call a
+							retainer you might say." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.14" start="00:12:36.39" end="00:13:13.21">
+					<head>Story, Excerpt 12</head>
+					<u who="WF">
+						<writing type="fiction">It was. I mean, just about a week. Ratliff came in
+							again; it was in the morning. "We jest finished using up Frenchman's
+							Bend at noon yesterday, and that jest about cleans up the county. We 
+							down at the dee-po now, all tagged and the waybill paid, waiting for
+							Number Twenty-three southbound or any other train that will connect more
+							or less or thereabouts for El Paso, Texas"—telling about that too: "A
+							combination you might say of scientific interest and what's that word?"
+							until Uncle Gavin told him anthropological "anthropological coincidence;
+							them four vanishing Americans coming durn nigh taking one white man with
+							them if Clarence Snopes's maw and a few neighbors hadn't got there in
+							time." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.15" start="00:13:13.22" end="00:13:45.25">
+					<head>Story, Excerpt 13</head>
+					<u who="WF">
+						<writing type="fiction">He told it: how when Dewitt Binford got them home he
+							discovered they wouldn't stay in bed at all, dragging a quilt off onto
+							the floor and lying in a row on it and the next morning he and his wife
+							found the bedstead itself dismantled and leaned against the wall in a
+							corner out of the way; and they hadn't heard a sound during the process.
+							He—Dewitt—said that's what got on his mind even before he begun to worry
+							about the little one: you couldn't hear them; you didn't even know they
+							were in the house or not, when they had entered it or left it; for all
+							you knew, they might be right there in your bedroom in the dark, looking
+							at you. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.16" start="00:13:45.29" end="00:14:20.09">
+					<head>Story, Excerpt 14</head>
+					<u who="WF">
+						<writing type="fiction"> "So he tried it," Ratliff said. "He went over to
+							Tull's and borrowed Vernon's flashlight and waited until about midnight
+							and he said he never moved quieter in his life, across the hall to the
+							door of the room, trying to not even breathe if he could help it; he had
+							done already cut out <unclear>three</unclear> sighting notches in the
+							door-frame so that when he laid the flashlight into them by feel it
+							would be aimed straight at where—where the middle two heads would be on
+							the pallet; and held his breath again, listening until he was sho there
+							wasn't a sound, and snapped on the light. And them four faces and them
+							eight black eyes already laying there wide open looking straight at him.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.17" start="00:14:20.05" end="00:15:27.65">
+					<head>Story, Excerpt 15</head>
+					<u who="WF">
+						<writing type="fiction">"And Dee-wit said he would like to have give up
+							then. But by that time that least un wouldn't give him no rest a-tall.
+							Only he didn't know what to do because he had done been warned about
+							that knife even if he hadn't never seen it. Then he remembered them
+							pills, that bottle of knock-out opium pills that Doc Peabody had give
+							Miz Dee-wit that time the brooder lamp blowed up and burnt most of her
+							front hair off, so he taken eight of them and bought four bottles of
+							sody pop at the store and put two capsules into each bottle and druv the
+							caps back on and hid the bottles jest exactly where he figgered they
+							would have to hunt jest exactly hard enough to find them. And by dark
+							the four bottles was gone and he waited again to be sho it had had
+							plenty of time to work and taken Vernon's flashlight and went across the
+							hall and got on his hands and knees and crawled across to the pallet—he
+							knowed by practice now exactly where on the pallet that least un slept
+							or anyway lay—and reached out easy and found the hem of that nightshirt
+							with one hand and the flashlight ready to snap on in the other.<lb/>
+							"And when he told about it, he was downright crying not jest skeer so
+							much as pure and simple unbelief. 'I wasn't doing nothing' he says. 'I
+							wasn't going to hurt it. All in the world I wanted was jest to see which
+							it was—'" </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.18" start="00:15:27.65" end="00:16:29.16">
+					<head>Story, Excerpt 16</head>
+					<u who="WF">
+						<writing type="fiction">"Which is it?" Uncle Gavin said.<lb/> "That's what
+							I'm telling you," Ratliff said. "He never even got to snap on the
+							flashlight. He jest felt them two quick thin streaks of fire, one down
+							either cheek of his face; he said that all that time he was already
+							running backward on his hands and knees toward the door he knowed there
+							wouldn't even be time to turn around, let alone get on his feet and run,
+							not to mention shutting the door behind him; and when he run back into
+							his and Miz Deewit's room there wasn't—there wouldn't be no time to shut
+							that one neither except he had to, banging it shut and hollering for Miz
+							Dee-wit now, dragging the bureau against it while Miz Dee-wit lit the
+							lamp and then come and holp him until he hollered at her to shut the
+							windows first; almost crying with them two slashes running from each
+							ear, jest missing his eye on one side, right down to the corners of his
+							mouth like a great big grin that would bust scab and all if he ever let
+							his face go, telling how they would decide that the best thing would be
+							to put out the lamp too and set in the dark until he remembered how they
+							had managed somehow to get inside that locked-up Coca-Cola plant without
+							even touching the patented burglar alarm. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.19" start="00:16:29.12" end="00:17:18.39">
+					<head>Story, Excerpt 17</head>
+					<u who="WF">
+						<writing type="fiction">"So they jest shut and locked the windows and left
+							the lamp burning, sitting there in that air-tight room on that hot
+							summer night, until it come daylight enough for Miz Dee-wit to at least
+							jump and dodge on the way back to the kitchen to start the fire in the
+							stove and cook breakfast. Though the house was empty then. Not safe of
+							course: jest empty except for themselves while they tried to decide
+							whether to try to get word in to Flem or Hub Hampton to come out and get
+							them, or jest pack up themselves without even waiting to wash the
+							breakfast dishes, and move over to Tull's. Anyhow Dee-wit said him and
+							Miz Dee-wit was through and they knowed it, four dollars a week or no
+							four dollars a week; so, it was about nine oclock, he was on his way
+							to the store to use the telephone to call Jefferson, when Miz I.O.
+							Snopes, I mean the number-two one that got superseded back before she
+							ever had a chance to move to town, saved him the trouble." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.20" start="00:17:18.40" end="00:18:03.35">
+					<head>Story, Excerpt 18</head>
+					<u who="WF">
+						<writing type="fiction">We knew Clarence Snopes ourselves. He would be in
+							town every Saturday or every other time he could ge a ride in according
+							to Ratliff—a big hulking man now eighteen or nineteen who was all a gray
+							color: a graying tinge already to his tow-colored hair, a grayish pasty
+							look to his flesh, which looked as if it would not flow blood from a
+							wound but instead a pallid fluid like thin oatmeal; he was the only
+							Snopes or resident of Frenchman's Bend or Yoknapatawpha County either,
+							for that matter, who made his Texas cousins welcome. "You might say he
+							adopted them," Ratliff said. "Right from that first day. He even claimed
+							he could talk to them and that he was going to train them to hunt in a
+							pack; they would be better than any jest pack of dogs because sooner or
+							later dogs always quit and went home, while it didn't matter to them
+							where they was. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.21" start="00:18:03.31" end="00:19:17.49">
+					<head>Story, Excerpt 19</head>
+					<u who="WF">
+						<writing type="fiction">"So he trained them. The first way he done it was to
+							set a bottle of sody pop on a stump in front of the store with a string
+							running from it to where he would be setting on the gallery, until they
+							would maneuver around and finally bushwack up to where one of them could
+							reach for it, then he would snatch it off the stump with the string and
+							drag it out of their reach. Only that never worked but once so then he
+							would have to drink the bottles empty and fill them again with muddy
+							water or some such, or another good training method was to gather up a few
+							throwed-away candy-bar papers and wrap them up again with mud inside or
+							maybe jest not nothing a-tall because it taken them a good while to give
+							up then, especially if now and then he had a sho enough candy bar or a
+							sho enough bottle of strawberry or orange shuffled into the other
+							ones.<lb/> "Anyhow he was always with them, hollering at them and waving
+							his arms to go this way or that way when folks was watching, like dogs;
+							they even had some kind of a play house or cave or something in another
+							ditch about half a mile up the road. That's right. What you think you
+							are laughing at is the notion of a big almost growed man like Clarence,
+							playing, all of a sudden—that's right. What you think you are laughing
+							at is the notion of a big almost growed man like Clarence, playing until
+							all of a sudden you find out that what you're laughing at is calling
+							anything playing that them four things would be interested in.
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.22" start="00:19:17.45" end="00:20:14.85">
+					<head>Story, Excerpt 20</head>
+					<u who="WF">
+						<writing type="fiction">"So Dee-wit had jest reached the store when here
+							come Clarence's maw, down the road hollering 'Them Indians! Them
+							Indians!' jest like that: a pure and simple case of mother love and
+							mother instinct. Because likely she didn't know anything yet and even if
+							she had, in that state she couldn't a told nobody: jest standing there
+							in the road in front of the store wringing her hands and hollering Them
+							Indians until the men squatting along the gallery begun to get up and
+							then to run because about that time Dee-wit come up. Because he knowed
+							what Miz Snopes was trying to say. Maybe he never had no mother love and
+							mother instinct but then neither did Miz Snopes have a last-night's
+							knife-slash down both cheeks.<lb/> "'Them Indians?' he says. 'Fore God,
+							men, run. It may already be too late.'<lb/> "But it wasn't. They was in
+							time. Pretty soon they could hear Clarence bellowing and screaming and
+							then they could line him out and the fastest ones run on ahead and down
+							into the ditch to where Clarence was tied to a blackjack sapling with
+							something less than a cord of wood stacked around him jest beginning to
+							burn good. <event desc="audience laughter"/>
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.23" start="00:20:14.78" end="00:21:02.17">
+					<head>Story, Excerpt 21</head>
+					<u who="WF">
+						<writing type="fiction">"So they was in time. Jody telephoned Flem right
+							away and in fact all this would a formally took place yesterday evening
+							except that Clarence's hunting pack never reappeared in sight until this
+							morning when Dee-wit lifted the shade enough to see them waiting on the
+							front gallery for breakfast. But then his house was barred in time
+							because he hadn't never unbarred it from last night. And Jody's car was
+							already standing by on emergency alert as they say and it wasn't much
+							trouble to toll them into it since like Clarence said one place was jest
+							like another to them. "So they're down at the dee-po now. Would either
+							of you gentlemen like to go down with me and watch what—what they call
+							the end of a erea, if that's what they call what I'm trying to say? The
+							last and final end of Snopes' out-and-out unvarnished behavior in
+							Jefferson, if that's what I'm trying to say." </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.24" start="00:21:02.15" end="00:21:47.22">
+					<head>Story, Excerpt 22</head>
+					<u who="WF">
+						<writing type="fiction">So Ratliff and I went to the station while he told
+							me the rest of it. It was Miss Emily Habersham; she had done the
+							telephoning herself: to the Travellers' Aid in New Orleans to meet the
+							Jefferson train and put them on the one for El Paso, and to the El Paso
+							Aid to get them across the border and turn them over to the Mexican
+							police to send them back home, to Byron Snopes or the reservation or
+							wherever it was. Then I noticed the package and said, "What's that?" but
+							he didn't answer. He just parked the pickup and took the cardboard
+							carton and we went around onto the platform where they were: the three
+							in the overalls and what Ratliff called the least un in the nightshirt,
+							each with a new shipping tag wired to the front of its garment, but
+							printed in big block capitals this time, like shouting this time:<lb/>
+							FROM: FLEM SNOPES, JEFFERSON, MISS.<lb/> TO: BYRON
+								SNOPES, EL PASO, TEXAS
+						</writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.25" start="00:21:47.20" end="00:22:45.15">
+					<head>Story, Excerpt 23</head>
+					<u who="WF">
+						<writing type="fiction">There was a considerable crowd around them, at a
+							safe distance, when we come up and Ratliff opened the carton; it
+							contained four of everything: four oranges and apples and candy bars and
+							bags of peanuts and packages of chewing gum. "Watch out, now," Ratliff
+							said. "Maybe we better set it on the ground and shove it up with a stick
+							or something." But he didn't mean that. Anyway, he didn't do it. He just
+							said to me, "Come on; you aint quite growed so may—they may not snap at
+							you," and moved near and held out one of the oranges, the eight eyes not
+							once looking at it nor at us nor at anything that we could see; until
+							the girl, the tallest one, said something, something quick and brittle
+							that sounded quite strange in the treble of a child; whereupon the first
+							hand came out and took the orange, then the next and the next, orderly,
+							not furtive: just quick, while Ratliff and I dealt out the fruit and
+							bars and paper bags, the empty hand already extended again, the objects
+							vanishing somewhere faster than we could follow, except the little one
+							in the nightshirt which apparently had no pockets: until the girl
+							herself leaned and relieved the overflow. </writing>
+					</u>
+				</div2>
+				<div2 type="reading" id="wfaudio10.26" start="00:22:45.16" end="00:23:35.34">
+					<head>Story, Excerpt 24</head>
+					<u who="WF">
+						<writing type="fiction">Then the train came in and stopped; the day coach
+							vestibule clanged and clashed open, the narrow steps hanging downward
+							from the orifice like a narrow dropped jaw. Evidently, obviously, Miss
+							Habersham had telephoned a trainmaster or a superintendent (maybe a vice
+							president) somewhere too because the conductor and the porter both got
+							down and the conductor looked rapidly at the four tags and motioned, and
+							we—all of us; we represented Jefferson—watched them mount and vanish one
+							by one into that iron impatient maw: the girl and the two boys in
+							overalls and Ratliff's least un in ankle-length single garment like a
+							man's discarded shirt made out of flour- or meal-sacking or perhaps the
+							remnant of an old tent. We never did know which it was. </writing>
+						<event desc="applause"/>
+					</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.27" start="00:23:36.99" end="00:25:52.55">
+					<head>Becoming a Writer</head>
+					<u who="Q">Mr. Faulkner, the first question that interests us—interested us was
+						this statement you made that one time in your career you felt that to write
+						is a good thing. Could you tell us about that experience?</u>
+					<u who="WF">Well that was more or less with humorous intent. I was—was running
+						a—a launch for New Orleans bootlegger then, <event desc="audience laughter"
+						/> down—across Pontchartrain down the Industrial Canal into the Gulf, to an
+						island and where we would pick up the—the raw sugar cane alcohol that came
+						up from the Caribbean and bring that back to his kitchen and he would turn
+						it into scotch and gin and bourbon, whatever you wanted. I met Sherwood
+						Anderson who lived in New Orleans at that time, and I liked him very much,
+						just as you meet a man and you know that you get along with him. We would
+						meet in the afternoons and sit in parks, and he would talk, and I would
+						listen. We would meet again in the evening, and we'd go to a—a well known,
+						very elegant brothel then, and the—the madam had literary aspirations, and
+						the three of us would sit in <event desc="audience laughter"/> —would sit in
+						the courtyard and she would supply the—the whiskey, and we would drink, and
+						Anderson would talk, and she would talk, and I would listen. Then the next
+						morning, I wouldn't see him. He was in seclusion working. That would go on
+						day after day, the afternoons we would meet, in the evenings we'd sit over
+						the whiskey, and he would talk, and I would listen, and I thought that if
+						that was the life it took to be a writer, that was the life for me. <event
+							desc="audience laughter"/> And so I wrote my first book, and when I
+						finished it Mr. Anderson said, "I'll make a trade with you. If I don't have
+						to read it, I'll tell my publisher to take it." So he—I said, "Done" and
+						he told his publisher to take it. That's how I got printed the first
+						time.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.28" start="00:25:53.05" end="00:28:33.70">
+					<head>Writing Sanctuary</head>
+					<u who="Q">Mr. Faulkner, the publication of <hi rend="italic"
+						>Sanctuary</hi> <inaudible/>—some of that story, that it began and then you took it up
+						again, along that same line is the idea of producing something good came <unclear>in there</unclear> 
+						<inaudible/> —</u>
+					<u who="WF">Yes, I wrote the other books, I was still a bachelor and—and
+						footloose and a tramp and there were things I could do. I could be a
+						bootlegger and I—I flew airplanes, barnstorming airplanes, stunting and
+						hauling passengers out of cow pastures. I was a housepainter and I had
+						apprentice seaman's papers. I could go as a forecastle hand in freighters,
+						things like that. Then I got married, and my father died, and I had to
+						settle down and become respectable. <event desc="audience laughter"/> And so
+						I thought I would write a book that would make money, see if I could make a
+						little money writing, and so I wrote <hi rend="italic">Sanctuary</hi>,
+						thought of the most horrific notion I could invent and wrote it, sent it to
+						the publisher. The publisher said, "Good Lord, if we print this we'll both
+						be in jail." This was in '27, '28 when you couldn't—couldn't print what you
+						can nowadays. So I forgot it. I wrote two more books, and they were printed,
+						and then one day I got the galleys for <hi rend="italic">Sanctuary</hi>. And
+						I read it, and I didn't need money so badly then, and anyway I had enough
+						perspective to see that it was a—a base notion, basely conceived and
+						executed. And I wrote the publisher that we'd throw it away, it was no good.
+						And he said, "We can't do that, I have had plates made. I've got money tied
+						up in it." I said, "Well, I'll—I'll rewrite it then." He said, "All right,
+						I'll pay half the new plates, and you pay half the new plates." So I said
+						all right, and I got a job and earned enough money to pay my half of the new
+						plates and rewrote the book, and I made the best book I could out of it so
+						that—that its inception was basely conceived, but now I'd done the best I
+						could with it, and I'm not ashamed of it. I don't like it, but I'm not
+						ashamed of it anymore. It was the first book that sold any, and I had a
+						statement that I was going to get more—more money than I'd ever seen before,
+						and before the money came the publisher went bankrupt, which served me
+						exactly right. I felt that that was exactly what I deserved, that whole
+						thing. Taught me a lesson. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.29" start="00:28:40.14" end="00:29:19.79">
+					<head>"The Waifs"</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, I <unclear>have a comparatively easy question:</unclear> the
+						story you just read "The Waifs" was <inaudible/> tall story—tall stories.
+						Does it have any other meaning other than just being a tall story?</u>
+					<u who="WF">No, to me it was just funny. Funny and a little terrible too, those
+						waif children with—with absolutely no future. I—it was funny, yes.
+						As it —yes, that's right, a tall story. But with the tragic implications,
+						assuming that—that any—any infant human is of some value, should be of some
+						value in any culture.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.30" start="00:29:24.39" end="00:32:23.37">
+					<head>Person-to-Person Program</head>
+					<u who="Q">Mr. Faulkner?</u>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">I understand that in the last year or so you've—you've done some work
+						cooperating with the State Department.</u>
+					<u who="WF">Yes.</u>
+					<u who="Q"><inaudible/> Person-to-Person diplomacy I believe it's been referred to, trying to have—produce better
+						relations between individuals in this country and different fields in the
+						arts and sciences. Could you tell us a little bit about that and do you
+						think—how successful it can be, and how <unclear>it has been run</unclear>?</u>
+					<u who="WF">It's interesting work and very necessary work. Our culture in this
+						country is so different from European culture in that there's really no
+						place in it for the artist, for a man of—of simple ideas or even, probably,
+						of principles. Ours is a culture of success, of—of—of power and strength,
+						and the representatives of that culture are not understood by the people in
+						the rest of the world. We—we seem gauche and—and crude and ill-mannered,
+						which I don't think we are. It's simply because we are alien to the culture
+						of the rest of the world. And the purpose of this was to—to let the people
+						in the rest of the world see that there were other sorts of American beside
+						successful chairmen of General Motors and—and congressmen and senators. It is
+						the reason for sending people like Louis Armstrong that—that blow horns 
+						and—just for the sheer pleasure of blowing horns and writers and people that are
+						interested in something else besides success, interested in things of the
+						human spirit rather than in things on—in—the black ink on the ledger. It was
+						interesting work. I myself of course can't see just how much good it does.
+						The report from it is that it does a lot of good, but I—I don't—am not aware
+						of it myself. I do know that—that the—the foreign people I have—have visited have—have
+						seemed quite anxious to—to learn things about our country, which I would have
+						thought they could have known easily. Then I realized that the usual
+						travelled American is not interested in these things and had no reason to
+						tell them, and they were too timid to ask. But to someone who approaches
+						them in their own cultural terms of believing that things of the spirit are
+						important, they have less shyness about asking these questions. And so in
+						that sense, it probably does a lot of good to give the foreigner a truer
+						picture of what this country actually is. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.31" start="00:32:23.38" end="00:35:16.25">
+					<head>Foreign Questions about U.S.</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">I wonder if you'd care to elaborate on that, sir, and indicate a few
+						of the questions that they sometimes ask.</u>
+					<u who="WF">They are questions about the—the experiences the young writer might
+						have, as though they expect to find that his problems in America would be
+						different from the problems of a young writer or young painter anywhere. And
+						they are not really. I explain to them that—that to be a good artist of any
+						sort you've got primarily be an individualist and an individualist who is
+						demon driven to where he wants to be a good writer or a good philosopher or
+						a good anything else is going to resist the mass pressure to belong to a
+						mass. And so he does that, and that is no problem to him. They expect
+						that—that his greatest problem will be to—to resist the pressure of General
+						Motors. Which it's not really. His problem is the same as the problem of the
+						artist anywhere, which is to understand why people as individuals, not as
+						members of groups, do what they as individuals do. The same— <gap
+							reason="gap in tape"/></u>
+					<u who="WF">Well, I think the first would be to believe in—in me, in "I," rather
+						than "we," to be oneself, to resist the pressure to relinquish
+						individuality. That's the first thing, and maybe that's all anyone has to do
+						to combat communism. That is, I think that it can be combated, must be
+						combated and conquered, if it is to be conquered, not by people forming mass
+						movements and groups but by individuals. That if the—the—we who would try to
+						proselytize our fellows into resisting communism, I think that's all we have
+						to teach them, the importance of "me," of "I," of "myself." That—that the
+						individual is more important than any mass or group he belongs to. That the
+						individual is always more important than any state that—that he belongs to.
+						That the state must never be the master of the individual, it's a servant of
+						the individual. That the individual—and to retain that superiority over the
+						state, the individual must be independent of the state, he mustn't accept
+						gratuity from the state, he mustn't let the state buy him by pensions or
+						relief or dole or grant of any sort. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.32" start="00:35:19.22" end="00:37:24.04">
+					<head>Readers in Deep South</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Mr. Faulkner, I'd—I'd just like to find out what the people in the
+						deep South—how they react to your books, whether <unclear>they read them
+							as much, say, as</unclear> much as people in the North or people in Europe.
+						I know that people in Europe think that you are the greatest writer in the
+						United States. I was wondering how the people in the deep South think about
+						you.</u>
+					<u who="WF">Someone has said that—that people in the South don't read books,
+						they write them. <event desc="audience laughter"/> In my own little town
+						there are a few people that—that read the books. They read them for different
+						reasons, some because they—they like me as a friend, some because they are
+						convinced that sooner or later they will find the people in the town in the
+						books, because they don't believe anybody can invent enough people to write
+						for thirty or forty years, that you might invent one, but the rest of the
+						time you'll be copying somebody you knew. And they still think that sooner
+						or later they'll catch me having put somebody that they know into a book.
+						Others read the books in a sort of outraged bafflement. Our country is poor
+						country. Nobody is rich there and few people ever have as much as thirty
+						thousand dollars. They know they'll never have as much as thirty thousand
+						dollars, and if they ever did they would have got it out in the sun, doing
+						hard work. And a foreign government suddenly gives me thirty thousand
+						dollars just for sitting on my backside, writing books, and they simply
+						cannot get over that <event desc="audience laughter"/> and they will really
+						never forgive me or Sweden for that. That somehow that was an outrage to all
+						the proprieties. And they read the book to see why in the world anybody
+						should have given anybody thirty thousand dollars for writing the books like
+						that.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.33" start="00:37:24.05" end="00:38:40.07">
+					<head>Southern Artist's Position</head>
+					<u who="Q">Sir, along these lines how do you think the position of the artist in
+						the South, in the deep South, compares with that of the artist in, say, the
+						North, or in Europe?</u>
+					<u who="WF">Well I would say that in our culture there's really no place for the
+						artist. In Europe, the old cultures, there's a definite place, the artist
+						quite often—because he is a good artist, he suddenly find himself a power in
+						politics. Which never happens in this country because he is a good artist, a
+						good writer, or a good painter, or a good philosopher. He—he becomes a power in
+						politics in our culture, so far, because he's been successful. It doesn't
+						matter what he's successful in. That's because we still haven't quite
+						exhausted the natural resources where we have got to use the best in people.
+						When we reach the point where we have exhausted natural resources and all we
+						have left will be people, then the artist, I think, will find a—a place for
+						himself in the—the fabric of the culture. So far he hasn't. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.34" start="00:38:40.07" end="00:40:02.22">
+					<head>Developing Individualism</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, in light of the same thing, when this point is reached when our
+						natural resources are exhausted, and people begin to develop, do you think
+						individuality will begin to develop also?</u>
+					<u who="WF">Well individuality must have developed or we'll never reach that
+						point.  We will—will have been—be sunk by then, we will be conquered.</u>
+					<u who="Q">I'm sorry, I didn't state that very clearly. Do you think that what
+						<inaudible/> faculty has developed in some people, artists who have been
+						successful, will have developed on a larger scale, a broader scale?</u>
+					<u who="WF">I believe I know what you mean. I would say that—that we will—we
+						will reach a point where we will say that America was the greatest country
+						in the world, but we couldn't keep on affording it, that we will have to
+						change and then the natural resource which we will have to fall back on,
+						which may be our salvation, will be the—the will of the few that have
+						insisted on being individuals against all the pressure. They will come to
+						the top then. That—that will to be individual was there. It—it won't need to
+						develop. It'll—suddenly it will come to the top where we will need that. As a—as a
+						nation we will need that. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.35" start="00:40:03.05" end="00:41:35.18">
+					<head>Artists in Russia</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, you state that in order to be an artist one has to be
+						individualistic, and then you said that in order to combat communism one
+						must foster or foster the spirit of individualist—individualism. Now I was
+						wondering if there was a contradiction between this. In the case of the
+						Soviet artists, if we can call them artists, do they have individualism or
+						if they have—are they communists?</u>
+					<u who="WF">The ones that we know about, whose work we see are not
+						individualists. They have—have been compressed, repressed into the mass. I'm
+						convinced that the—the heirs to Dostoyevsky, Gogol, Tolstoy are still writing
+						the—the good books. They are hidden in out-houses, under floors in Russia,
+						because they don't dare let the government find them, that some day they
+						will appear, and those people are the ones who insist on being
+						individualists, even in a totalitarian condition like Russia. I think that
+						no condition, no government can destroy the will among a few to be
+						individuals. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.36" start="00:41:36.34" end="00:43:20.52">
+					<head>Individualism Today</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, your theory to combat such a political and social theory as
+						Communism by being an individual sounds very good, but is it possible to
+						achieve today in our society, for an individual to do that, without
+						isolating himself from our society? If—if it is possible, what means would you
+						<inaudible/> for becoming an individual <inaudible/>?</u>
+					<u who="WF">Well I will use an analogy. There are some people, writers, who
+						believe they have talent, they believe in the—the dream of perfection. They get
+						offers to go to Hollywood where they can make a lot of money. They begin to
+						acquire junk, swimming pools and imported cars, and they can't quit their
+						jobs because they've got to continue to own that swimming pool and the
+						imported car. There are others with the same dream of perfection, the same
+						belief that maybe they can match it, that go there, and—and they—they resist the
+						money. They don't own the swimming pool, the imported cars. They will do
+						enough work to—to get what they need of the money without becoming a slave to
+						it.  And that, in that sense, it's—as you say, it is going to be difficult to
+						go completely against the—the grain of the current of a culture. But you can—can 
+						compromise—you—you—without selling your individuality completely to it.
+						You've got to compromise because it makes things easier.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.37" start="00:43:21.51" end="00:44:19.47">
+					<head>Individualism v Government</head>
+					<u who="Q"> <inaudible/> In social legislation how can you combat something like that, such as
+						pensions or social security? What can an individual do about that?</u>
+					<u who="WF">Well you—</u>
+					<u who="Q">
+						<inaudible/>
+					</u>
+					<u who="WF">Your—you probably can't, but you can insist on—on yourself keeping
+						free of it.</u>
+					<u who="Q">I would still have to be paying taxes <inaudible/>—</u>
+					<u who="WF">Sure you'd have to pay taxes but—but then we haven't quite reached
+						the stage where one has got to accept social benefits. You can—you can do
+						work, you can join a union. Of course, you have got to acquiesce to an
+						extent to—to a mass if you join a union. But you don't have to accept a social
+						benefit, you can still be an individualist and belong to a union and work.
+						And there probably is somewhere in the country still ways that a man can—can 
+						earn a living without having to belong to a union. <event
+							desc="audience laughter"/>
+					</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.38" start="00:44:19.48" end="00:47:12.18">
+					<head>The Writer's Sources</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Sir, a few minutes ago you mentioned that people
+						in your hometown were looking into your books for familiar characters.
+						Realizing that you've got a rich legacy as it were, of experiences, it seems
+						to me that nowadays the modern novelist is writing merely thinly disguised
+						autobiography. Which do you think is really more valuable <unclear>in</unclear> the sense of
+						the artist, the disguised autobiography, or making it up from whole cloth,
+						as it were?</u>
+					<u who="WF">I would say that the writer has three sources: imagination,
+						observation, and experience. He himself doesn't know how much of which he
+						uses at any given moment because each of the sources themselves are not too
+						important to him, that he is writing about people, and he uses his material
+						from the three sources, as—as—as the carpenter reaches into his—his lumber room
+						and finds a board that fits the particular corner he's building. Of course,
+						any writer, to begin with, is writing his—his own biography, because he has—has
+						discovered the world and suddenly discovered that it—the world is—is
+						important enough or moving enough or tragic enough to put down on paper or
+						in music or on canvas. And at that time all he knows is what has happened to
+						him because he has not developed his capacity to—to perceive, to draw
+						conclusions, to have an insight into people. His only insight in it is into
+						himself. And it's biographical because that's the only gauge he has to
+						measure, is what he has experienced himself. As he gets older and works
+						more, the imagination is like any muscle, it improves with use. Imagination
+						develops. His observation gets shrewder as he gets older, as he writes, and
+						so that when he reaches his peak, his best years, when his work is best, he
+						himself doesn't know and doesn't have time to bother and doesn't really care
+						how much of what comes from each of these sources. That then he is writing
+						about people, writing about the aspirations, the—the troubles, the
+						anguishes, the—the—the courage and the cowardice, the baseness and the splendor
+						of—of man, of the human heart. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.39" start="00:47:12.19" end="00:48:27.54">
+					<head>Writer's Best Age</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Mr. Faulkner, do you think a writer writes better when he's young or
+						writes better when he's older <inaudible/>?</u>
+					<u who="WF">Well, that's something you can't say. Some write best when they're
+						young, write themselves out; some never reach their—their top speed until—till
+						late in life. That's—you just can't say. That no man knows when he will
+						reach his— will do his best, and very few have the courage to say,
+						"I've done my best, and now is the time to break the pencil and quit." Very
+						few can do that. It's a lack of courage, but probably more a lack of
+						judgment. That the artist is trying to match a dream of perfection, and he
+						still believes as long as he can breathe that he will do it, even though his
+						judgment might tell him that he's failed, that his work is—is going downhill.
+						That's difficult to face. When you've given—dedicated your life to something
+						like that and then before life is over to find out that you've picked the
+						wrong racket, you might say, when it's too late.</u>
+					<u who="Q">Well, do you think you've reached your peak <inaudible/>?</u>
+					<u who="WF">No. <event desc="audience laughter"/> No, I intend to live to be at
+						least a hundred, and I'll probably still be writing. <event
+							desc="audience laughter"/> That's my—my thought now. It may change
+						tomorrow, but right now that's my thought.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.40" start="00:48:28.29" end="00:50:25.95">
+					<head>The Writer v The Work</head>
+					<u who="Q">Sir, concerning individuality you were discussing a moment ago, you've often 
+						said—been quoted that you're a literary man—I beg your pardon, you are not a literary man.  
+					By implication one might think that you'd prefer the author who is so to speak spontaneous 
+					and not always steady against one who's read all the literature in his culture and <unclear>gives</unclear> 
+					a steady effort to produce, and works on his style.  Is that correct <inaudible/>?</u>
+					<u who="WF">How do you mean prefer the author, to spend an evening with him or
+						the work he does?</u>
+					<u who="Q">
+						The work he does <inaudible/>
+					</u>
+					<u who="WF">Now you—</u>
+					<u who="Q"><inaudible/> clear up: do you mean by implication that you prefer the man who writes
+						 so to speak spontaneously or the man who studies his style, reads and 
+						learns techniques and works out something <unclear>totally</unclear> <inaudible/>?</u>
+					<u who="WF">I would say first that—the the author is not—is of no importance at
+						all, it's what he writes. It don't matter who wrote it. If—and—to—if you
+						mean prefer him as an individual, then I will take the former because the
+						intellectual man and I wouldn't have anything to talk about. But the man has—has 
+						very little to do with his work in my opinion. The work is the thing. It
+						don't matter who wrote it.</u>
+					<u who="Q">Well then let's say it's work, <unclear>which type of work do you prefer</unclear>?</u>
+					<u who="WF">Well, I think that some people must be intellectual, must be
+						interested, immersed in—in his craft, in literature, to write, to do the
+						work. Other people must be immersed in something completely different. They
+						must in a sense lead a Jekyll and Hyde existence to do the work. It's the
+						work that matters. It's not how he did it. </u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.41" start="00:50:27.67" end="00:51:11.29">
+					<head>Reading</head>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Mr. Faulkner, do you spend as much time in reading as you do in
+						writing?</u>
+					<u who="WF">Not anymore. When I was young I read everything. After the—the first
+						war when I came home, I didn't feel too good. I couldn't get around much,
+						and I spent—couldn't sleep at night, and I spent about a year reading
+						probably twenty hours a day. I just read everything I could get my hands on.
+						Now, like most writers as they get older, they read less and less. Now I
+						read the books again which I knew and liked when I was twenty one years old.
+						It's very seldom I read a new book.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.42" start="00:51:12.25" end="00:51:49.45">
+					<head>European v American Artists</head>
+					<u who="Q">Mr. Faulkner.</u>
+					<u who="WF">Yes, sir.</u>
+					<u who="Q">Earlier in the evening I believe you said that you—you differentiate
+						between the European artist and the American artist, in that the European
+						artist was accepted as a part of society. It's easier for him to express
+						himself  over there, whereas here in America because of our
+						current trends the artist is not so easy to recognize <unclear>as accepted</unclear> in
+						society. Is that true, is that what you said?</u>
+					<u who="WF">Well, I—I didn't—didn't mean that the European artist has less trouble
+						expressing himself. I meant that—that he had more of a definite place of
+						importance in the culture of the old countries.</u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.43" start="00:51:49.41" end="00:54:28.07">
+					<head>The Artist in America</head>
+					<u who="Q">But, well <inaudible/>—in one of your recent lectures I asked you
+						whether you thought the artist in the United States is part of the society
+						in which he lives or whether he was an outsider looking in on
+						society—looking out at society. Now, is the American artist part of his
+						society today? Do you still feel that? If he—if it is hard to be an
+						individualist in the United States, then how can the artist, who is
+						obviously individualistic, be part of a society that is strictly
+							anti-<unclear>individualistic</unclear>?</u>
+					<u who="WF">Because with few exceptions the artist in—in America is—is something else
+						too. Like me he's a farmer. or he's a lawyer like Edgar Masters, or a doctor
+						like William Carlos Williams. The exceptions are the people who are
+						literary and nothing else and they have no place in the culture until they
+						are successful and make money at it at—at their own trade. In—in that sense the
+						man can be an individualist and be a—an artist. Also a lawyer can be a
+						lawyer, can be member of the—of the profession of law or medicine and still
+						be an individualist in his own philosophy of living. I meant only that—that
+						in the old countries a man that—that attains a renown as an artist, before he
+						knows it he becomes a part of the philosophy of his culture—of his—he has a place
+						in his government quite often. In this country that don't happen. If he ever
+						turns up with a place in the American government, it's because he was also a
+						successful famer or a successful doctor or builder of motor cars. Not
+						because he was a successful philosopher or successful artist.</u>
+					<u who="Q">In other words, it's a joint occupation? He has to have a joint
+						occupation, in other words?</u>
+					<u who="WF">That's right, to be perfectly at home anywhere in the American
+						culture, yes he—</u>
+					<u who="Q">And if he doesn't have a joint occupation, then he's no longer a part
+						of  <unclear>the fabric of that culture, is that correct</unclear>?</u>
+					<u who="WF">That's right, he's recognized only by his fellows, by his fellow
+						craftsmen.</u>
+					<u who="Q">And not by society <inaudible/>?</u>
+					<u who="WF">That's right. Yes, I doubt if Mr. Charles E. Wilson, for instance,
+						knows who Edmund Wilson is, ever heard of him. <event
+							desc="audience laughter"/></u>
+				</div2>
+				<div2 type="dialog" id="wfaudio10.44" start="00:54:28.08" end="00:54:37.15">
+					<head>Close</head>
+					<u who="M2">At this point, I suggest that we announce the public meeting.  <unclear>I'm 
+					invited and we're all getting a beer</unclear>.</u>
+					<u who="WF">Good. <event desc="audience laughter"/> <event desc="end of recording"/></u>
+				</div2>
+				
+			</div1>
+		</body>
+	</text>
+</TEI.2>
