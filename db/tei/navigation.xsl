@@ -19,7 +19,7 @@
 		
        	<dl>
 			<dt>
-				<a href="{filename}"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></a>
+				<a href="/transcripts/show?file={filename}.xml"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></a>
 			</dt>
 			<dd><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/locale" /></dd>
 		</dl>
