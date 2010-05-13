@@ -34,7 +34,7 @@
     </xsl:template>
 
 	<xsl:template match="div2">
-		<a name="{@id}"></a>
+		<a name="{@id}">&#160;</a>
 	    <xsl:apply-templates select="u" />
 	</xsl:template>
 	
