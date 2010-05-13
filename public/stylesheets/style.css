@@ -1,0 +1,112 @@
+/* GLOBAL */
+
+body {
+	font-size: 85%;
+}
+
+/* HEADER */
+
+#main-hd {
+	background: url("http://static.lib.virginia.edu/images/globalHd/blue_gradient_bg_hd1.png") repeat-x scroll center top transparent;
+	color:#A7BDDF;
+	height: 90px;
+}
+
+header .container {
+	position: relative;
+}
+
+#site-title {
+	background: url("http://static.lib.virginia.edu/images/globalHd/library_logo_horiz.png") no-repeat scroll left 33px transparent;
+	padding-bottom:30px;
+	padding-top:30px;
+	float: left;
+}
+
+#logo {
+	display:block;
+	height:30px;
+	overflow:hidden;
+	text-indent:-1000px;
+}
+
+#bookmark {
+	background:url("http://static.lib.virginia.edu/images/globalHd/bookmark_motif.png") no-repeat scroll 0 0 transparent;
+	bottom:0;
+	height:420px;
+	position:absolute;
+	right:40px;
+	width:66px;
+	z-index:2;
+}
+
+/* MAIN CONTENT */
+
+#content {
+	padding-top: 2em;
+}
+
+/* FOOTER */
+
+#main-ft {
+	background:url("http://static.lib.virginia.edu/images/globalFt/blue_gradient_bg.png") repeat-x scroll center top #4672AF;
+	color:#A7BDDF;
+	height:125px;
+	padding-top:18px;
+}
+
+#main-ft a, #main-ft a:visited {
+color:#fff;
+text-decoration: none;
+}
+
+#main-ft p {
+margin:0;
+}
+
+#author-container {
+display:block;
+float:left;
+padding-right:10px;
+width:300px;
+text-align: left;
+}
+
+#author-container a {
+text-decoration:underline !important;
+}
+
+#util-container {
+display:block;
+float:right;
+padding-right:10px;
+text-align:right;
+width:300px;
+}
+
+#ft-wrap {
+margin:auto !important;
+padding-top:20px;
+width:928px;
+}
+
+.scholars-lab-logo {
+border-left:1px dotted #bbb;
+display:block;
+float:right;
+height:76px;
+padding-left:10px;
+}
+
+.scholars-lab-logo img {
+border:medium none;
+height:30px;
+padding-top:23px;
+}
+
+#ft .addr {
+display:block;
+height:18px;
+padding-bottom:2px;
+width:100%;
+}
