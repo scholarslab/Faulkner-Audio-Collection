@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xd" version="1.0">
     
-    <xsl:output method="html" encoding="UTF-8" indent="no" media-type="text/html" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"/>
+   <!--     <xsl:output method="html" encoding="UTF-8" indent="no" media-type="text/html" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"/> -->
     
     <xd:doc scope="stylesheet">
         <xd:desc>

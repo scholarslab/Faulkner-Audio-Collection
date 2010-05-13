@@ -3,7 +3,7 @@ class TranscriptsController < ApplicationController
   XSLT_PATH = File.join(RAILS_ROOT, 'db', 'tei', 'faulkner.xsl')
   
   def index  
-    @files = Dir.glob(RAILS_ROOT + '/db/tei/*.xml')
+    @files = Dir[RAILS_ROOT + '/db/tei/*.xml']
   end
   
   def show
