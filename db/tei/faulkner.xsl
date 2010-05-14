@@ -81,7 +81,8 @@
 	    <xsl:variable name="speakers" select="/TEI.2/teiHeader/profileDesc/particDesc" />
 	    <xsl:variable name="who" select="@who" />
 	    
-	    <p><strong><xsl:value-of select="//*[@id = $who]" />: </strong> 
+			<div class="speaker"><xsl:value-of select="//*[@id = $who]" /></div> 
+	    <p>
 	        <xsl:apply-templates />
 	    </p>
 	</xsl:template>
