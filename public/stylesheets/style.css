@@ -114,6 +114,30 @@ header .container {
 	display: inline-block;
 }
 
+#search-box {
+	background: #975;
+	padding: 0.5em;
+}
+
+#search-box .search-text {
+	padding: 3px;
+	margin: 0;
+	border: 1px solid #531;
+}
+
+#search-box .search-form-submit {
+	background: #eed;
+	border: 1px solid #531;
+	padding: 2px;
+	margin: 0 0 0 4px;
+	cursor: pointer;
+	vertical-align: top;
+}
+
+#search-box .search-form-submit:hover {
+	background: #ffe;
+}
+
 #sidebar .subnav {
 	background: #531;
 	padding: 0.75em 1em 1em;
