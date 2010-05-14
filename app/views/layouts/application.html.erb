@@ -2,9 +2,10 @@
 		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>University of Virginia Library - Faulkner Audio Tapes</title>
+		<title>University of Virginia Library - William Faulkner Audio Collection</title>
 		<%= stylesheet_link_tag 'print', :media => 'print' %>
 		<%= stylesheet_link_tag 'screen', :media => 'screen' %>
+		<%= stylesheet_link_tag 'typography', :media => 'screen' %>
 		<%= stylesheet_link_tag 'style', :media => 'screen' %>
 		<!--[if IE]>
 		<%= stylesheet_link_tag 'ie', :media => 'screen' %>
@@ -15,7 +16,7 @@
 	<body>
 		<header id="main-hd">
 			<div class="container">
-				<div class="span-8 push-1" id="site-title"><a id="logo" href="http://omeka.scholarslab.org">Scholars' Lab Test Install</a>
+				<div class="span-8 push-1" id="site-title"><a id="logo" href="http://lib.virginia.edu">University of Virginia Library</a>
 				</div>
 				<div id="bookmark"><!-- bookmark motif --></div>
 			</div>
@@ -25,7 +26,11 @@
 			<article id="bd" class="span-16 container">
 				<%= yield %>
 			</article>
-			<%= render :partial => "sidebar" %>
+			<%= if params[:action] == 'show'
+						render :partial => "textnav"
+					else
+						render :partial => "sidebar"
+					end %>
 		</div>
 		
 		<footer id="main-ft">
