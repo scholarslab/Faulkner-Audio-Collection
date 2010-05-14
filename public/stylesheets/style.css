@@ -9,8 +9,12 @@ a {
 	color: #310;
 }
 
-header {
+header * {
 	letter-spacing: 0.025em;
+}
+
+hr {
+	height: 0;
 }
 
 /* HEADER */
@@ -41,7 +45,7 @@ header .container {
 
 #bookmark {
 	background:url("http://static.lib.virginia.edu/images/globalHd/bookmark_motif.png") no-repeat scroll 0 0 transparent;
-	bottom:0;
+	bottom:-25px;
 	height:420px;
 	position:absolute;
 	right:40px;
@@ -61,6 +65,13 @@ header .container {
 
 .collection-title h1, .collection-title h3 {
 	text-shadow: 1px 1px 2px #AAAAAA;
+}
+
+.collection-title h4 {
+	font-size: 1.1em;
+	margin: 0;
+	font-variant: small-caps;
+	text-transform: lowercase;
 }
 
 .collection-title a, .collection-title a:hover, .collection-title a:link {
@@ -91,43 +102,67 @@ header .container {
 	width: 360px;
 }
 
-#body strong {
+#bd .speaker {
 	display: inline-block;
 	font-variant: small-caps;
 	letter-spacing: 0.025em;
 	text-transform: lowercase;
-	font-size:1.2em;
-	/*line-height:1%;*/
+	font-size:1.1em;
 	font-weight:normal;
-	padding:0 2px;
+	padding:0 0.25em;
 	height: 1.5em;
 	background: #eed;
 	color: #310;
 	margin-right: 1em;
 }
 
+#bd .utterance a {
+	text-decoration: none;
+}
+
+#bd .audio {
+	background: #f5f5f5;
+	border-top: 3px double #531;
+	border-bottom: 1px dotted #531;
+	font-variant: small-caps;
+	letter-spacing: 0.025em;
+	text-transform: lowercase;
+	font-size:1.0em;
+	font-weight:normal;	
+	padding: 10px;
+}
+
+#bd .audio.play-all {
+	background: #eed;
+	border-top: 1px dotted #531;
+	color: #531;
+	font-size: 1.2em;
+	margin-top: 1em;
+}
+
 /* SIDEBAR */
 
 #sidebar {
 	background: #eed;
-	border-top: 0.25em solid #531;
+	border-top: 0.25em solid #975;
 	display: inline-block;
 }
 
 #search-box {
-	background: #975;
+	background: #642;
 	padding: 0.5em;
+	border-bottom: 2px solid #975;
 }
 
 #search-box .search-text {
 	padding: 3px;
 	margin: 0;
-	border: 1px solid #531;
+	border: 1px solid #975;
 }
 
 #search-box .search-form-submit {
 	background: #eed;
-	border: 1px solid #531;
+	border: 1px solid #975;
 	padding: 2px;
 	margin: 0 0 0 4px;
 	cursor: pointer;
@@ -139,7 +174,7 @@ header .container {
 }
 
 #sidebar .subnav {
-	background: #531;
+	background: #975;
 	padding: 0.75em 1em 1em;
 	text-align: right;
 }
@@ -159,8 +194,9 @@ header .container {
 
 #sidebar ul {
 	padding: 0;
-	list-style-position: inside;
+	list-style-position: outside;
 	list-style-type: circle;
+	margin-left: 40px;
 }
 
 /* FOOTER */
@@ -185,8 +221,9 @@ margin:0;
 display:block;
 float:left;
 padding-right:10px;
-width:300px;
+width:400px;
 text-align: left;
+padding-top: 1em;
 }
 
 #author-container a {
@@ -199,6 +236,7 @@ float:right;
 padding-right:10px;
 text-align:right;
 width:300px;
+padding-top: 1em;
 }
 
 #main-ft {

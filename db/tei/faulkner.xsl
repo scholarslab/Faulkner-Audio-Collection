@@ -26,53 +26,66 @@
     <xsl:template match="div1">
         
         <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
+                
+        <section id="main-content" class="span-16">
+        	<header class="collection-title">
+        		<hgroup>
+        			<h1><a href="/">William Faulkner Audio Collection</a></h1>
+        			<h3>Transcript</h3>
+            		<xsl:for-each select="head">
+                		<h4><xsl:value-of select="."/></h4>
+            		</xsl:for-each>
+        			<div class="audio play-all">
+        				Play entire recording
+            			<script language="JavaScript" type="text/javascript">
+							try {
+								QT_WriteOBJECT(
+								'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
+								'autoplay', 'false',
+								'scale', 'tofit');
+						      }
+						      catch (e) {
+							     //document.write(e);
+							  }
+            			</script>
+        			</div>
+          		</hgroup>
+        	</header>
         
-        <xsl:call-template name="toc" />
-        
-        <div id="header">
-            <xsl:for-each select="head">
-                <h3><xsl:value-of select="."/></h3>
-            </xsl:for-each>
-            
-            <script language="JavaScript" type="text/javascript">
-			try {
-				QT_WriteOBJECT(
-				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '300', ' 16', '',
-				'autoplay', 'false',
-				'scale', 'tofit');
-		      }
-		      catch (e) {
-			     //document.write(e);
-			  }</script>
-            <hr/>
-            
-        </div>
-        
-		<div id="body">
-        	<xsl:apply-templates select="div2"/>
-        </div>
+			<div id="transcript-body">
+        		<xsl:apply-templates select="div2"/>
+			</div>
+        </section>
+    	
+    	<xsl:call-template name="toc" />
+    	
     </xsl:template>
 
 	<xsl:template match="div2">
+		<div class="utterance">
 	    <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 	    
 		<a name="{@id}">&#160;</a>
-	    <script language="JavaScript" type="text/javascript">
-			try {
-				QT_WriteOBJECT(
-				'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '300', ' 16', '',
-				'autoplay', 'false',
-				'scale', 'tofit',
-				'starttime','<xsl:value-of select="@start"/>:00',
-				'endtime','<xsl:value-of select="@end"/>:00');
-		}
-		catch (e) {
-			//document.write(e);
-		}</script>
+		<div class="audio play-clip">
+			Play section
+	    	<script language="JavaScript" type="text/javascript">
+				try {
+					QT_WriteOBJECT(
+					'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
+					'autoplay', 'false',
+					'scale', 'tofit',
+					'starttime','<xsl:value-of select="@start"/>:00',
+					'endtime','<xsl:value-of select="@end"/>:00');
+				}
+				catch (e) {
+					//document.write(e);
+				}
+	    	</script>
 	    
-	    <!-- AddThis Button BEGIN -->
-	    
+	    	<!-- AddThis Button BEGIN -->
+	    </div>
 	    <xsl:apply-templates select="u" />
+			</div>
 	    <hr/>
 	</xsl:template>
 	
@@ -81,20 +94,33 @@
 	    <xsl:variable name="speakers" select="/TEI.2/teiHeader/profileDesc/particDesc" />
 	    <xsl:variable name="who" select="@who" />
 	    
-			<div class="speaker"><xsl:value-of select="//*[@id = $who]" /></div> 
 	    <p>
+	    	<div class="speaker"><xsl:value-of select="//*[@id = $who]" /></div>
 	        <xsl:apply-templates />
 	    </p>
 	</xsl:template>
 
     <xsl:template name="toc">
-		<div id="side_nav">
-            <ul>
-                <xsl:for-each select="//div2">
-                    <li><a href="#{@id}" class="hidden"><xsl:value-of select="head" /></a></li>
-                </xsl:for-each>
-            </ul>
-        </div>
+	
+			<aside class="span-6 last" id="sidebar">
+				
+				<div id="search-box">	
+					<form method="post" action="/transcripts/search">
+						<input type="text" size="30" name="q[text]" id="q_text" class="search-text span-4"/>
+						<input type="submit" value="search" name="submit" id="submit" class="search-form-submit"/>
+					</form>
+				</div>
+				
+				<div class="subnav"><a href="/">&#8606; Return to the Collection</a></div>
+
+				<h3>Table of Contents</h3>
+				<ul>
+            <xsl:for-each select="//div2">
+                <li><a href="#{@id}" class="hidden"><xsl:value-of select="head" /></a></li>
+            </xsl:for-each>
+        </ul>
+			</aside>
+			
     </xsl:template>
     
     <xsl:template match="unclear">

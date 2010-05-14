@@ -5,7 +5,6 @@
 		<title>University of Virginia Library - William Faulkner Audio Collection</title>
 		<%= stylesheet_link_tag 'print', :media => 'print' %>
 		<%= stylesheet_link_tag 'screen', :media => 'screen' %>
-		<%= stylesheet_link_tag 'typography', :media => 'screen' %>
 		<%= stylesheet_link_tag 'style', :media => 'screen' %>
 		<!--[if IE]>
 		<%= stylesheet_link_tag 'ie', :media => 'screen' %>
@@ -16,19 +15,19 @@
 	<body>
 		<header id="main-hd">
 			<div class="container">
-				<div class="span-8 push-1" id="site-title"><a id="logo" href="http://lib.virginia.edu">University of Virginia Library</a>
+				<div class="span-8" id="site-title"><a id="logo" href="http://lib.virginia.edu">University of Virginia Library</a>
 				</div>
 				<div id="bookmark"><!-- bookmark motif --></div>
 			</div>
 		</header>
 		
 		<div id="content" class="container prepend-top append-bottom">
-			<article id="bd" class="span-16 container">				
+			<article id="bd" class="span-24">				
 				<%= yield %>
+				<%= unless params[:action] == 'show'
+							render :partial => "sidebar"
+						end %>
 			</article>
-			<%= unless params[:action] == 'show'
-						render :partial => "sidebar"
-					end %>
 		</div>
 		
 		<footer id="main-ft">
