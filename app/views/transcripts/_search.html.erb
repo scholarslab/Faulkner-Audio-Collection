@@ -1,6 +1,7 @@
 <div id="search-box">	
-	<% form_tag("/transcripts/search") do %>
-		<%= text_field :q, "text", {:class => "search-text span-4"} %>
+	<% form_tag("/transcripts/search", :method => :get) do %>
+		<input type="text" name="q" class="search-text span-4" />
+		<%#= text_field :q, "text", {:class => "search-text span-4"} %>
 		<%= submit_tag "search", :id => "submit", :name => "submit", :class => "search-form-submit" %>
 	<% end -%>
 </div>
