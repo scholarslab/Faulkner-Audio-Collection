@@ -1,11 +1,5 @@
 <aside id="sidebar" class="span-6 last">
-	<div id="search-box">		
-		<% form_tag("/transcripts/search") do %>
-			<%= text_field :q, "text", {:class => "search-text span-4"} %>
-			<%= submit_tag "search", :id => "submit", :name => "submit", :class => "search-form-submit" %>
-		<% end -%>
-	</div>
-	<div class="subnav"><%= link_to "&#8606; Return to the Collection", :action => "index" unless :action == "index" %></div>
+	<%= render :partial => "search" %>
 	<h3>About the Faulkner Audio Collection</h3>
 	<p>This is a work in progress by the Scholars' Lab at the <a href="http://lib.virginia.edu">University of Virginia Library</a>.  Professor Stephen Railton introduces and contextualizes Faulkner's time in residence at UVa at his related project, <em><a href="http://faulkner.lib.virginia.edu">Faulkner at Virginia</a></em>.</p>
 </aside>

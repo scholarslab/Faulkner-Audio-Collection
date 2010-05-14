@@ -23,12 +23,10 @@
 		</header>
 		
 		<div id="content" class="container prepend-top append-bottom">
-			<article id="bd" class="span-16 container">
+			<article id="bd" class="span-16 container">				
 				<%= yield %>
 			</article>
-			<%= if params[:action] == 'show'
-						render :partial => "textnav"
-					else
+			<%= unless params[:action] == 'show'
 						render :partial => "sidebar"
 					end %>
 		</div>
@@ -40,12 +38,11 @@
 					</div>
 					<div id="util-container">
 						<div class="addr">University of Virginia Library</div>
-						<div class="addr">PO Box 400113</div>
-						<div class="addr">Charlottesville, VA 22904-4113</div>
+						<div class="addr">PO Box 400113, Charlottesville, VA 22904-4113</div>
 						<div class="addr">ph: (434) 423-8800 | fax: (434) 924-1431</div>
 					</div>
 					<div id="author-container">
-						<p>Copyright and use statements here.</p>
+						<p><a id="copyrightLink" href="http://www.virginia.edu/copyright.html">©</a> Rector and Visitors of the <a href="http://www.virginia.edu">University of Virginia</a></p><p>See UVa Library Special Collections <a href="http://www2.lib.virginia.edu/small/using/use_of_materials_policy.html">use and reproduction policies</a>.</p>
 					</div>
 			</div>
 		</footer>
