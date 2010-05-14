@@ -15,16 +15,9 @@ class TranscriptsController < ApplicationController
   
   # perform a search
   def search
-    #TODO: do this correctly
-    solr = RSolr.connect :url => "http://staging.faulkner.lib.virginia.edu:8080/solr/faulkner"
     
-    solr_params = {
-      :page => params[:page],
-      :per_page => self.per_page,
-      :q => params[:q]
-    }
+    @transcripts = Transcript.search(params)
     
-    @transcripts = solr.find(solr_params)
   end
   
   protected
@@ -37,7 +30,6 @@ class TranscriptsController < ApplicationController
   # queries solr with a preset set of solr params
   # the :q, :f and :page params are used
   def query_solr(extra_params = {})
-    #solr = RSolr.connect :url => "http://"
     
     solr.find({
       :qt => :search,

@@ -1,10 +1,13 @@
 <h1>Results</h1>
 
 <div class="pagination">
-	<%= will_paginate @transcripts.docs %>
+	<%#= will_paginate @transcripts.docs %>
 </div>
 
+<p><%= @per_page %></p>
+
 <div class="search_results">
+	
 	<% @transcripts.docs.each do |transcript| %>
 	<div class="result">
 		

@@ -3,6 +3,7 @@ class Transcript < ActiveRecord::Base
   # Set up will_paginate plugin
   cattr_reader :per_page
   @@per_page = 15
+  SOLR_URL = "http://staging.faulkner.lib.virginia.edu:8080/solr/faulkner"
   
   # We're treating the file system as the "datastore" 
   # Find overrides and returns a reference to the generated partial
@@ -16,18 +17,20 @@ class Transcript < ActiveRecord::Base
     
   end
   
-  # Full text searching from Solr
+  # full text searching from Solr
   def self.search(input)
-    # make a shallow copy of the input
+    # make a shallow copy of the input params
     params = input.dup
     
-    find_params = {}
-    find_params[:page] = params[:page]
+    solr = RSolr.connect :url => SOLR_URL
     
-    #http://staging.faulkner.lib.virginia.edu:8080/solr/faulkner/select?&q=fury+type%3Atranscription
+    solr_params = {
+      :page => params[:page],
+      :per_page => self.per_page,
+      :q => params[:q]
+    }
     
-    self.paginate(find_params)
-    
+    return solr.find(params)
   end
   
 end
