@@ -30,7 +30,8 @@ class Transcript < ActiveRecord::Base
         :page=>params[:page],
         :per_page=>@@per_page,
         :queries=>params[:q] + " type:transcription",
-        :facets=>{:fields=>['type']},
+        :hl => true,
+        "hl.fl" => "fulltext",
         :echoParams => 'EXPLICIT'
       }
     
