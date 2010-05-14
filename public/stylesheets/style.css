@@ -151,6 +151,11 @@ header .container {
 
 .search_results h4 {
 	margin-bottom: 0.25em;
+	font-size: 1.1em;
+}
+
+.search_results h4 a {
+	color: #111;
 }
 
 .search_results p {
