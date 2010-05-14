@@ -2,7 +2,7 @@
 
 body {
 	font-size: 100.01%;
-	font-family: "Hoefler Text", "Goudy Old Style", "Book Antiqua", Georgia, serif;
+	font-family: "Hoefler Text", "Book Antiqua", "Goudy Old Style", Georgia, serif;
 }
 
 a {
@@ -140,8 +140,30 @@ header .container {
 	margin-top: 1em;
 }
 
+.pagingation {
+	color: #531; 
+	margin: 1em 0;
+}
+
 .search_results em {
 	background: #ffb;
+}
+
+.search_results h4 {
+	margin-bottom: 0.25em;
+}
+
+.search_results p {
+	margin-bottom: 1em;
+}
+
+.search_results .result {
+	margin: 1em 0;
+	border-bottom: 1px dotted #531;
+}
+
+.search_results .result a {
+	color: #642;
 }
 
 /* SIDEBAR */
