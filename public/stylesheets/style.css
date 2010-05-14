@@ -5,6 +5,10 @@ body {
 	font-family: "Hoefler Text", "Goudy Old Style", "Book Antiqua", Georgia, serif;
 }
 
+a {
+	color: #310;
+}
+
 header {
 	letter-spacing: 0.025em;
 }
@@ -61,10 +65,6 @@ header .container {
 
 .collection-title a, .collection-title a:hover, .collection-title a:link {
 	text-decoration: none !important;
-}
-
-#bd a {
-	color: #310;
 }
 
 #bd a:hover {
@@ -178,7 +178,8 @@ width:300px;
 }
 
 #main-ft {
-	font-family: "Times New Roman", times, serif;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 13px;
 }
 
 #ft-wrap {
