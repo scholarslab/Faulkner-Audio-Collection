@@ -96,8 +96,32 @@ header .container {
 
 #sidebar {
 	background: #f5f5f5;
-	padding: 1em;
 	display: inline-block;
+}
+
+#sidebar .subnav {
+	background: #531;
+	padding: 1em;
+	text-align: right;
+}
+
+#sidebar .subnav a, #sidebar .subnav a:link {
+	color: #eed;
+	text-decoration: none;
+}
+
+#sidebar .subnav a:hover {
+	color: #fff;
+}
+
+#sidebar h3, #sidebar p, #sidebar ul {
+	margin: 20px;
+}
+
+#sidebar ul {
+	padding: 0;
+	list-style-position: inside;
+	list-style-type: circle;
 }
 
 /* FOOTER */
