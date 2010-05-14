@@ -1,10 +1,8 @@
 <h1>Results</h1>
 
 <div class="pagination">
-	<%#= will_paginate @transcripts.docs %>
+	<%= will_paginate @transcripts.docs %>
 </div>
-
-<p><%= @per_page %></p>
 
 <div class="search_results">
 	
@@ -12,7 +10,11 @@
 	<div class="result">
 		
 		<h3><%= link_to (transcript[:head], :controller => "transcripts", :action=>"show", :file => transcript[:doc_id] + ".xml") %></h3>
-		<p><%= transcript[:fulltext]%></p>
+		<p><%= transcript[:fulltext] %></p>
 	</div>
 	<% end %>
+</div>
+
+<div class="pagination">
+	<%= will_paginate @transcripts.docs %>
 </div>
