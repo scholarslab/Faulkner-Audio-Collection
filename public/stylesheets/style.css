@@ -140,6 +140,10 @@ header .container {
 	margin-top: 1em;
 }
 
+.search_results em {
+	background: #ffb;
+}
+
 /* SIDEBAR */
 
 #sidebar {
