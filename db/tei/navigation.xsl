@@ -11,7 +11,7 @@
         </xd:desc>
     </xd:doc>
 
-	<xsl:output method="text" />
+	<xsl:output method="html" />
 
 	<xsl:template match="/">
 		
@@ -19,11 +19,11 @@
 		
        	<dl>
 			<dt>
-				<a href="/transcripts/show?file={filename}.xml"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></a>
+				<a href="/transcripts/show?file={TEI.2/@id}.xml"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></a>
 			</dt>
 			<dd><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/locale" /></dd>
 		</dl>
 
     </xsl:template>
 
-</xsl>
+</xsl:stylesheet>
