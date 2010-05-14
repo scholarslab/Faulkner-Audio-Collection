@@ -17,7 +17,11 @@
 		<%# file = transcript[:doc_id] + '.xml#' + transcript[:id] %>	
 		<h3><%= link_to (transcript[:head], :controller => "transcripts", :action=>"show", :file => file, :escape => false) %></h3>
 		<!-- <p><%#= transcript[:fulltext] %></p> -->
-		<p><%= @transcripts[:highlighting]["#{transcript[:id]}"][:fulltext] %></p>
+		<p>
+			<%= @transcripts[:highlighting]["#{transcript[:id]}"][:fulltext] %>
+	
+			<%= link_to ("read more &#8608;", :controller => "transcripts", :action=>"show", :file => file, :escape => false) %>
+		</p>
 	</div>
 	<% end %>
 </div>
