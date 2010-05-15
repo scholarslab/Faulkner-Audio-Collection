@@ -2,5 +2,6 @@
 log/*.log
 db/development.sqlite3
 db/*.sqlite3
+doc
 coverage
 tmp
