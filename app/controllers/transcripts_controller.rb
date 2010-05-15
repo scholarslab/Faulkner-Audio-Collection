@@ -9,7 +9,7 @@ class TranscriptsController < ApplicationController
   def show
     
     # check if the file exists
-    @transformed = Transcript.find(params[:file])
+    @transformed = Transcript.find(params[:id])
     
   end
   

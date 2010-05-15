@@ -3,7 +3,7 @@ class Transcript < ActiveRecord::Base
   # Set up will_paginate plugin
   cattr_reader :per_page
   @@per_page = 15
-  #TODO: This shoudl be set in an initializer or environment.rb
+  #TODO: This should be set in an initializer or environment.rb
   SOLR_URL = "http://staging.faulkner.lib.virginia.edu:8080/solr/faulkner"
   
   # We're treating the file system as the "datastore" 
@@ -13,8 +13,8 @@ class Transcript < ActiveRecord::Base
     # get the file
     fname = File.basename(args.to_s)
     
-    #return the file partial to be rendered in the view
-    return output_name = RAILS_ROOT + "/public/tei/_" + fname.gsub('.xml', '.html.erb')
+    # return the file partial to be rendered in the view
+    return output_name = RAILS_ROOT + "/public/tei/_" + fname + '.html.erb'
     
   end
   
@@ -23,6 +23,7 @@ class Transcript < ActiveRecord::Base
     # make a shallow copy of the input params
     params = input.dup
     
+    # connect to the solr server
     solr = RSolr.connect :url => SOLR_URL
     
     # TODO: fix this to make it a facet query on type:transcription

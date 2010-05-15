@@ -5,8 +5,6 @@
 			<h3>Search Results</h3>
 		</hgroup>
 	</header>
-	
-	<%#= @transcripts[:responseHeader][:params][:q].inspect %>
 
 	<p class="search-notice">Your search for <em><%= params[:q] %></em> returned <strong><%= @transcripts[:response][:numFound] %></strong> results.</p>
 
@@ -20,12 +18,11 @@
 		<div class="result">
 			<% file = transcript[:doc_id] + '.xml' %>
 			<%# file = transcript[:doc_id] + '.xml#' + transcript[:id] %>	
-			<h4><%= link_to (transcript[:head], :controller => "transcripts", :action=>"show", :file => file, :escape => false) %></h4>
-			<!-- <p><%#= transcript[:fulltext] %></p> -->
+			<h4><%= link_to (transcript[:head], :controller => "transcripts", :action=>"show", :id => transcript[:doc_id], :anchor => transcript[:id]) %></h4>
 			<p>
 				<%= @transcripts[:highlighting]["#{transcript[:id]}"][:fulltext] %>
 	
-				<%= link_to ("read more &#8608;", :controller => "transcripts", :action=>"show", :file => file, :escape => false) %>
+				<%= link_to ("read more &#8608;", :controller => "transcripts", :action=>"show", :id => transcript[:doc_id], :anchor => transcript[:id]) %>
 			</p>
 		</div>
 		<% end %>
