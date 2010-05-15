@@ -7,7 +7,5 @@ describe Transcript do
     }
   end
 
-  it "should create a new instance given valid attributes" do
-    Transcript.create!(@valid_attributes)
-  end
+  
 end
