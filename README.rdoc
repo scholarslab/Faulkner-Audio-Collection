@@ -1,0 +1,5 @@
+== Faulkner Audio Collection Experiment
+
+This application is an experiment in developing a lightweight web application to deliver library-managed TEI encoded documents. The collection is based upon the tape recordings of talks William Faulkner gave at the University of Virginia during his tenure as "writer-in-residence" from 1957 - 1958. 
+
+
