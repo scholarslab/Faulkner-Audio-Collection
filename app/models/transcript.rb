@@ -3,12 +3,12 @@ class Transcript < ActiveRecord::Base
   # Set up will_paginate plugin
   cattr_reader :per_page
   @@per_page = 15
-  #TODO: This should be set in an initializer or environment.rb
-  SOLR_URL = "http://staging.faulkner.lib.virginia.edu:8080/solr/faulkner"
   
   # We're treating the file system as the "datastore" 
   # Find overrides and returns a reference to the generated partial
   def self.find(*args) 
+    
+    #TODO: needs a rescue handler to return a 404 instead of an app error
 
     # get the file
     fname = File.basename(args.to_s)
@@ -24,6 +24,7 @@ class Transcript < ActiveRecord::Base
     params = input.dup
     
     # connect to the solr server
+    # the SOLR_URL constant is set it config/initializers/solr.rb
     solr = RSolr.connect :url => SOLR_URL
     
     # TODO: fix this to make it a facet query on type:transcription
