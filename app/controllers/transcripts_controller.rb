@@ -2,10 +2,13 @@ class TranscriptsController < ApplicationController
   
   # main display page
   def index  
+    # Navigation partial is generated with 'rake render:gen_navigation'
+    
     #@files = Dir[RAILS_ROOT + '/db/tei/*.xml']
   end
   
   # display a single transcript
+  # The xml response returns the original TEI document
   def show
     
     # check if the file exists
@@ -18,7 +21,7 @@ class TranscriptsController < ApplicationController
     
   end
   
-  # perform a search
+  # perform a search using Solr by overriding the ActiveRecord search
   def search
     
     @transcripts = Transcript.search(params)
