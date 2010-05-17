@@ -14,7 +14,7 @@ jQuery.fn.qtp = function(filename, starttime, endtime, options){
 	
 	settings = jQuery.extend({
 		base_url: 'http://qss.itc.virginia.edu/medialab/faulkner_audio/',
-		width: 300,
+		width: 610,
 		height: 16,
 		active_x: '',
 		autoplay: false,
