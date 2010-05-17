@@ -15,12 +15,23 @@
 
 	<xsl:template match="/">
 		
-		<xsl:variable name="filename"><xsl:value-of select="TEI.2[@id]" /></xsl:variable>
+		<xsl:variable name="filename"><xsl:value-of select="TEI.2/@id" /></xsl:variable>
+		<xsl:variable name="date"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></xsl:variable>
 		
        	<dl>
-			<dt>
-				<a href="/transcripts/show/{TEI.2/@id}"><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/date" /></a>
-			</dt>
+       		<xsl:choose>
+       			<xsl:when test="contains($filename, 'read')">
+       				<dt class="reading">
+       					<a href="/transcripts/show/{$filename}"><xsl:value-of select="$date" /></a>
+       				</dt>
+       			</xsl:when>
+       			<xsl:when test="contains($filename, 'clip')">
+       				<dt class="clip">
+       					<a href="/transcripts/show/{$filename}"><xsl:value-of select="$date" /></a>
+       				</dt>
+       			</xsl:when>
+       			<xsl:otherwise><dt><a href="/transcripts/show/{$filename}"><xsl:value-of select="$date" /></a></dt></xsl:otherwise>
+       		</xsl:choose>
 			<dd><xsl:value-of select="TEI.2/teiHeader/profileDesc/settingDesc/setting/locale" /></dd>
 		</dl>
 
