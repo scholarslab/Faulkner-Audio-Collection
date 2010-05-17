@@ -3,23 +3,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>University of Virginia Library - William Faulkner Audio Collection</title>
-		<%= stylesheet_link_tag 'print', :media => 'print' %>
-		<%= stylesheet_link_tag 'screen', :media => 'screen' %>
-		<%= stylesheet_link_tag 'style', :media => 'screen' %>
-		<!--[if IE]>
-		<%= stylesheet_link_tag 'ie', :media => 'screen' %>
-		<![endif]-->
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-		<%=	javascript_include_tag :all, :cache => true %>
+		<%= render :partial => "layouts/stylesheets" %>
+		<%= render :partial => "layouts/javascripts" %>
 	</head>
 	<body>
-		<header id="main-hd">
-			<div class="container">
-				<div class="span-8" id="site-title"><a id="logo" href="http://lib.virginia.edu">University of Virginia Library</a>
-				</div>
-				<div id="bookmark"><!-- bookmark motif --></div>
-			</div>
-		</header>
+		
+		<%= render :partial => "layouts/header" %>
 		
 		<div id="content" class="container prepend-top append-bottom">
 			<article id="bd" class="span-24">				
@@ -30,20 +19,6 @@
 			</article>
 		</div>
 		
-		<footer id="main-ft">
-			<div id="ft-wrap">
-					<div class="scholars-lab-logo">
-						<a href="http://lib.virginia.edu/scholarslab/"><img src="/images/slab.png" alt="Scholars' Lab"/></a>
-					</div>
-					<div id="util-container">
-						<div class="addr">University of Virginia Library</div>
-						<div class="addr">PO Box 400113, Charlottesville, VA 22904-4113</div>
-						<div class="addr">ph: (434) 423-8800 | fax: (434) 924-1431</div>
-					</div>
-					<div id="author-container">
-						<p><a id="copyrightLink" href="http://www.virginia.edu/copyright.html">©</a> Rector and Visitors of the <a href="http://www.virginia.edu">University of Virginia</a></p><p>See UVa Library Special Collections <a href="http://www2.lib.virginia.edu/small/using/use_of_materials_policy.html">use and reproduction policies</a>.</p>
-					</div>
-			</div>
-		</footer>
+		<%= render :partial => "layouts/footer" %>
 	</body>
 </html>
