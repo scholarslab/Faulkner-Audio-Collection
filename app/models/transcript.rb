@@ -7,8 +7,6 @@ class Transcript < ActiveRecord::Base
   # We're treating the file system as the "datastore" 
   # Find overrides and returns a reference to the generated partial
   def self.find(*args) 
-    
-    #TODO: needs a rescue handler to return a 404 instead of an app error
 
     # get the file
     fname = File.basename(args.to_s)
