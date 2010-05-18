@@ -17,6 +17,7 @@ class TranscriptsController < ApplicationController
     respond_to do |format|
       format.html
       format.xml {render :file => "#{RAILS_ROOT}/db/tei/#{params[:id]}.xml"}
+      format.tei {render :file => "#{RAILS_ROOT}/db/tei/#{params[:id]}.xml"}
     end
     
   end
