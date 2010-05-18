@@ -3,7 +3,7 @@
 	xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xd tei" version="1.0">
     
-    <xsl:output method="html" />
+    <xsl:output method="html" indent="yes" />
     
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -26,6 +26,16 @@
     <xsl:template match="div1">
         
         <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
+
+    	<script language="JavaScript" type="text/javascript">
+			$(document).ready(function(){
+				$("#<xsl:value-of select="@type" />").qtp("<xsl:value-of select="$filename" />.mp4");
+			<!-- <xsl:for-each select="div2">
+							$("#<xsl:value-of select="@id"/>-player").qtp("<xsl:value-of select="$filename"/>.mp4", "<xsl:value-of select="@start"/>:00", "<xsl:value-of select="@end"/>:00");
+						</xsl:for-each> -->
+			});
+		</script>
+
                 
         <section id="main-content" class="span-16">
         	<header class="collection-title">
@@ -35,19 +45,8 @@
             		<xsl:for-each select="head">
                 		<h4><xsl:value-of select="."/></h4>
             		</xsl:for-each>
-        			<div class="audio play-all">
+        			<div class="audio play-all" id="{@type}">
         				Play entire recording
-            			<script language="JavaScript" type="text/javascript">
-							try {
-								QT_WriteOBJECT(
-								'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
-								'autoplay', 'false',
-								'scale', 'tofit');
-						      }
-						      catch (e) {
-							     //document.write(e);
-							  }
-            			</script>
         			</div>
           		</hgroup>
         	</header>
@@ -66,9 +65,10 @@
 	    <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 	    
 		<a name="{@id}">&#160;</a>
-		<div class="audio play-clip">
+			<div class="audio play-clip" id="{@id}">
 			Play section
-	    	<script language="JavaScript" type="text/javascript">
+		
+	    <script language="JavaScript" type="text/javascript">
 				try {
 					QT_WriteOBJECT(
 					'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
@@ -80,7 +80,7 @@
 				catch (e) {
 					//document.write(e);
 				}
-	    	</script>
+	    	</script> 
 	    
 	    	<!-- AddThis Button BEGIN -->
 	    </div>
@@ -101,25 +101,25 @@
 	</xsl:template>
 
     <xsl:template name="toc">
-	
-			<aside class="span-6 last" id="sidebar">
+		<aside class="span-6 last" id="sidebar">
 				
-				<div id="search-box">	
-					<form method="post" action="/transcripts/search">
-						<input type="text" size="30" name="q[text]" id="q_text" class="search-text span-4"/>
-						<input type="submit" value="search" name="submit" id="submit" class="search-form-submit"/>
-					</form>
-				</div>
+			<div id="search-box">	
+				<form method="get" action="/transcripts/search">
+					<input type="text" size="30" name="q" id="q_text" class="search-text span-4"/>
+					<input type="submit" value="search" name="submit" id="submit" class="search-form-submit"/>
+				</form>
+			</div>
 				
-				<div class="subnav"><a href="/">&#8606; Return to the Collection</a></div>
+			<div class="subnav"><a href="/">&#8606; Return to the Collection</a></div>
 
-				<h3>Table of Contents</h3>
-				<ul>
+			<h3>Table of Contents</h3>
+		
+			<ul>
             <xsl:for-each select="//div2">
                 <li><a href="#{@id}" class="hidden"><xsl:value-of select="head" /></a></li>
             </xsl:for-each>
-        </ul>
-			</aside>
+        	</ul>
+		</aside>
 			
     </xsl:template>
     
@@ -141,4 +141,23 @@
         </xsl:if>
         
     </xsl:template>
+
+	<xsl:template name="string-replace">
+		<xsl:param name="text" />
+		<xsl:param name="replace" />
+		<xsl:param name="by" />
+		<xsl:choose>
+			<xsl:when test="contains($text, $replace)">
+				<xsl:value-of select="substring-before($text, $replace)" />
+				<xsl:value-of select="$by" />
+				<xsl:call-template name="string-replace">
+					<xsl:with-param name="text" select="substring-after($text, $replace)" />
+					<xsl:with-param name="by" select="$by" />
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="$text" />
+			</xsl:otherwise>
+		</xsl>
+	</xsl>
 </xsl:stylesheet>
