@@ -3,10 +3,15 @@
 This application is an experiment in developing a lightweight web application to deliver library-managed TEI encoded documents. The collection is based upon the tape recordings of talks William Faulkner gave at the University of Virginia during his tenure as "writer-in-residence" from 1957 - 1958. 
 
 == Approach
+The idea behind this experiment was to try to find a method of delivering {TEI}[http://www.tei-c.org/] encoded documents in a modern, extensible framework. The basic approach in the application is to take a set of TEI documents that have audio clips associated with them, and try out some of the new features in the HTML5 specification. 
 
-== Requirements
+The TEI documents are located in the db/tei directory along with the XSLT to generate the HTML fragments of the page. The navigation partial for the transcripts is generated with the help of a rake task. We chose to also go ahead and pre-render the HTML fragments for each of the transcripts. These views could be rendered on the fly with Nokogiri, but since the TEI documents change infrequently, we decided it was better to go ahead and pre-render the files for the added performance boost.   
 
-== Installation
+== Test it out 
+  git clone git@github.com:scholarslab/Faulkner-Audio-Collection.git
+  cd Faulkner-Audio-Collection
+  rake gems:install
+  ruby script/server
 
 == Related Resources & Projects
 * {Nokogiri}[http://nokogiri.org/] -- The Nokogiri website
