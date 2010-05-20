@@ -2,7 +2,7 @@
 
 body {
 	font-size: 100.01%;
-	font-family: "Hoefler Text", "Book Antiqua", "Goudy Old Style", Georgia, serif;
+	font-family: "Hoefler Text", "Book Antiqua", "OFL Sorts Mill Goudy TT", "Goudy Old Style", Georgia, serif;
 }
 
 a {
@@ -10,6 +10,7 @@ a {
 }
 
 header * {
+	/*font-family: "OFL Sorts Mill Goudy TT", "Goudy Old Style", Georgia, serif; */
 	letter-spacing: 0.025em;
 }
 
