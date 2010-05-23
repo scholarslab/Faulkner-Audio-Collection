@@ -45,10 +45,10 @@
             		<xsl:for-each select="head">
                 		<h4><xsl:value-of select="."/></h4>
             		</xsl:for-each>
+          		</hgroup>
         			<div class="audio play-all" id="{@type}">
         				Play entire recording
         			</div>
-          		</hgroup>
         	</header>
         
 			<div id="transcript-body">
@@ -95,7 +95,7 @@
 	    <xsl:variable name="who" select="@who" />
 	    
 	    <p>
-	    	<div class="speaker"><xsl:value-of select="//*[@id = $who]" /></div>
+	    	<span class="speaker"><xsl:value-of select="//*[@id = $who]" /></span>
 	        <xsl:apply-templates />
 	    </p>
 	</xsl:template>
