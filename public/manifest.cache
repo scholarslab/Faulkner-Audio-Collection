@@ -1,0 +1,11 @@
+# set static elements to be cached
+CACHE MANIFEST
+stylesheets/all.css
+stylesheets/print.css
+# ignore the IE style sheet because it's IE
+javascripts/all.js
+
+NETWORK:
+/transcripts/search
+
+FALLBACK:
