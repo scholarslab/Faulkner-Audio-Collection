@@ -64,11 +64,10 @@
 		<div class="utterance">
 	    <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 	    
-		<a name="{@id}">&#160;</a>
 			<div class="audio play-clip" id="{@id}">
 			Play section
 		
-	    <script language="JavaScript" type="text/javascript">
+	    <script type="text/javascript">
 				try {
 					QT_WriteOBJECT(
 					'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
