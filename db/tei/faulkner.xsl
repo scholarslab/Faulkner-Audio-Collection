@@ -45,10 +45,10 @@
             		<xsl:for-each select="head">
                 		<h4><xsl:value-of select="."/></h4>
             		</xsl:for-each>
+          		</hgroup>
         			<div class="audio play-all" id="{@type}">
         				Play entire recording
         			</div>
-          		</hgroup>
         	</header>
         
 			<div id="transcript-body">
@@ -64,11 +64,10 @@
 		<div class="utterance">
 	    <xsl:variable name="filename" select="//idno[@type='digital audio filename']"/>
 	    
-		<a name="{@id}">&#160;</a>
 			<div class="audio play-clip" id="{@id}">
 			Play section
 		
-	    <script language="JavaScript" type="text/javascript">
+	    <script type="text/javascript">
 				try {
 					QT_WriteOBJECT(
 					'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="$filename"/>.mp4', '610', ' 16', '',
@@ -95,7 +94,7 @@
 	    <xsl:variable name="who" select="@who" />
 	    
 	    <p>
-	    	<div class="speaker"><xsl:value-of select="//*[@id = $who]" /></div>
+	    	<span class="speaker"><xsl:value-of select="//*[@id = $who]" /></span>
 	        <xsl:apply-templates />
 	    </p>
 	</xsl:template>
