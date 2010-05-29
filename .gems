@@ -1,4 +1,5 @@
 nokogiri
 rsolr
+rails --version '2.3.8'
 rsolr-ext
 will_paginate
