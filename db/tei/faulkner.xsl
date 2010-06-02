@@ -78,7 +78,7 @@
 	    
 			<div class="audio play-clip" id="{@id}">
 			Play section
-	    	<script type="text/javascript" defer="defer">
+	    	<script type="text/javascript">
 				try {
 					QT_WriteOBJECT(
 					'http://qss.itc.virginia.edu/medialab/faulkner_audio/<xsl:value-of select="str:replace($filename, 'read', '')"/>.mp4', '610', ' 16', '',
