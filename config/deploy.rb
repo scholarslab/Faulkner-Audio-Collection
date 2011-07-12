@@ -5,8 +5,7 @@ set :deploy_to, "/usr/local/projects/#{application}"
 set :user, 'wsg4w'
 set :runner, user
 set :run_method, :run
-
-set :repository,  "git@github.com:scholarslab/Faulkner-Audio-Collection.git"
+set :repository,  "git://github.com/scholarslab/Faulkner-Audio-Collection.git"
 
 set :scm, :git
 set :branch, "master"
