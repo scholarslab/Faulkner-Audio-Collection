@@ -35,6 +35,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (~> 1.0.9)
   nokogiri
   rails (~> 2.3.12)
   rsolr

@@ -6,6 +6,10 @@ RAILS_GEM_VERSION = '2.3.12' unless defined? RAILS_GEM_VERSION
 require File.join(File.dirname(__FILE__), 'boot')
 
 Rails::Initializer.run do |config|
+
+  Encoding.default_external = Encoding::UTF_8
+  Encoding.default_internal = Encoding::UTF_8
+  
   # Settings in config/environments/* take precedence over those specified here.
   # Application configuration should go into files in config/initializers
   # -- all .rb files in that directory are automatically loaded.
@@ -15,10 +19,10 @@ Rails::Initializer.run do |config|
   # config.gem "hpricot", :version => '0.6', :source => "http://code.whytheluckystiff.net"
   # config.gem "sqlite3-ruby", :lib => "sqlite3"
   # config.gem "aws-s3", :lib => "aws/s3"
-  config.gem "nokogiri"
-  config.gem "rsolr", :version => '0.12.1'
-  config.gem "rsolr-ext", :version => '0.12.1'
-  config.gem "will_paginate"
+  # config.gem "nokogiri"
+  # config.gem "rsolr", :version => '0.12.1'
+  # config.gem "rsolr-ext", :version => '0.12.1'
+  # config.gem "will_paginate"
 
   # Skip frameworks you're not going to use. To use Rails without a database,
   # you must remove the Active Record framework.
