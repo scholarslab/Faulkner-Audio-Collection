@@ -13,7 +13,7 @@ class TranscriptsController < ApplicationController
     
     # check if the file exists
     @transformed = Transcript.find(params[:id])
-    
+
     respond_to do |format|
       format.html
       format.xml {render :file => "#{RAILS_ROOT}/db/tei/#{params[:id]}.xml"}

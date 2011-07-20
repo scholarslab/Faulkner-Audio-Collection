@@ -9,7 +9,7 @@ class Transcript < ActiveRecord::Base
   def self.find(*args) 
 
     # get the file
-    fname = File.basename(args.to_s)
+    fname = File.basename(args[0].to_s)
     
     # return the file partial to be rendered in the view
     return output_name = RAILS_ROOT + "/public/tei/_" + fname + '.html.erb'
