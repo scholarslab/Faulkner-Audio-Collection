@@ -27,3 +27,23 @@ blockquote {margin:1.5em;padding:1em;font-style:italic;font-size:.9em;}
 .hide {display:none;}
 a:link, a:visited {background:transparent;font-weight:700;text-decoration:underline;}
 a:link:after, a:visited:after {content:" (" attr(href) ")";font-size:90%;}
+
+.audio {display: none;}
+#sidebar { display: none; }
+footer {display: none; }
+hgroup h1 a { display: none; }
+#site-title a { display: none; }
+
+p {
+  font-family: "Times New Roman", Garamond, serif;
+  font-size: 12pt;
+}
+
+span.speaker {
+  font-weight: bold;
+
+}
+
+span.speaker:after {
+  content: ": ";
+}
