@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 gem 'sqlite3', '~> 0.0.8'
 gem "rails", "~> 2.3.12"
 gem "nokogiri"
